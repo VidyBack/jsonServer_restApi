@@ -1,3 +1,5 @@
+const express = require("express");
+const app = express();
 const { food, auto, estate, travel, autoQuote, autoEvent, autoTips, autoBlogs, sports, jobs, politics, estateTips, estateQuote } = require("./dummydata");
 
 app.use("/dummy/server/:platform", async function (req, res) {
@@ -35,4 +37,13 @@ app.use("/dummy/server/:platform", async function (req, res) {
   } catch (error) {
     console.log(error);
   }
+
+}
+);
+const port = process.env.PORT || 4000;
+app.listen(port, () => {
+  console.log(
+    `Vidyback App is listening at http://localhost:${port} With bitbuckket`
+  );
 });
+
