@@ -20,7 +20,7 @@ server.use((req, res, next) => {
 })
 const { food, auto, estate, travel, autoQuote, autoEvent, autoTips, autoBlogs, sports, jobs, politics, estateTips, estateQuote } = require("./dummydata");
 
-app.use("/dummy/server/:platform", async function (req, res) {
+server.use("/dummy/server/:platform", async function (req, res) {
   try {
     console.log(req.params.platform);
     let collection;
