@@ -1,19 +1,78 @@
-{
-  "posts": [
+ {
+  "auto": [
     {
-      "id": 1,
-      "title": "json-serverrr",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "id": "2",
+      "title": "2019 Mercedes-Benz CLA",
+      "images": ["https://cdn.hootout.com/VidyBack-videos/benz2.jpeg","https://cdn.hootout.com/VidyBack-videos/benz1.jpeg","https://cdn.hootout.com/VidyBack-videos/benz3.jpeg","https://cdn.hootout.com/VidyBack-videos/benz4.jpeg","https://cdn.hootout.com/VidyBack-videos/benz5.jpeg","https://cdn.hootout.com/VidyBack-videos/benz6.jpeg","https://cdn.hootout.com/VidyBack-videos/benz7.jpeg","https://cdn.hootout.com/VidyBack-videos/benz8.jpeg"],
+      "customerReview": "We got a top notch car with a top notch experience. Our benz is our family's perfect new travel partner",
+      "customerName": "Kapil Malhotra",
+      "location": "Santacruz",
+      "price": "Rs.30,90,000",
+      "contactName": "Spinny.com",
+      "contactNumber": "971-089-7108",
+      "originalPrice": "Rs.30,90,000",
+      "discountedPrice": "Rs.30,00,000",
+      "discountPercentage": "1%",
+      "desc": "Mercedes-Benz CLA is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
+      "feature1": "Cruise control",
+      "feature2": "Sunroof",
+      "feature3": "Airbags"
+    },
     {
-      "id": 1,
-      "body": "some commenttt",
-      "postId": 1
+      "id": "3",
+      "title": "2021 Jeep Compass",
+      "images": ["https://cdn.hootout.com/VidyBack-videos/Jeep1.jpeg","https://cdn.hootout.com/VidyBack-videos/Jeep2.jpeg","https://cdn.hootout.com/VidyBack-videos/Jeep3.jpeg","https://cdn.hootout.com/VidyBack-videos/Jeep4.jpeg","https://cdn.hootout.com/VidyBack-videos/Jeep5.jpeg"],
+      "customerReview": "Jeep Compass offer a comfortable and convenient way to travel and enjoy the great outdoors.",
+      "customerName": "Anish Jhaveri",
+      "location": "Santacruz",
+      "price": "Rs.24,50,000",
+      "contactName": "Spinny.com",
+      "contactNumber": "971-089-7108",
+      "originalPrice": "Rs.24,50,000",
+      "discountedPrice": "Rs.24,00,000",
+      "discountPercentage": "1%",
+      "desc": "Jeep Compass is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
+      "feature1": "Anti-glare mirrors",
+      "feature2": "Wireless Phone Charging",
+      "feature3": "Airbags"
+    },
+    {
+      "id": "4",
+      "title": "2017 Mercedes-Benz C-Class",
+      "images": ["https://cdn.hootout.com/VidyBack-videos/benzW1.jpeg","https://cdn.hootout.com/VidyBack-videos/benzW2.jpeg","https://cdn.hootout.com/VidyBack-videos/benzW3.jpeg","https://cdn.hootout.com/VidyBack-videos/benzW4.jpeg","https://cdn.hootout.com/VidyBack-videos/benzW5.jpeg","https://cdn.hootout.com/VidyBack-videos/benzW6.jpeg","https://cdn.hootout.com/VidyBack-videos/benzW7.jpeg"],
+      "customerReview": "We got a great car, approved by all generations of our family.",
+      "customerName": "Tom",
+      "location": "Las Vegas",
+      "price": "$202,000",
+      "contactName": "Spinny.com",
+      "contactNumber": "971-089-7108",
+      "originalPrice": "$202,000",
+      "discountedPrice": "$199,000",
+      "discountPercentage": "1%",
+      "desc": "Mercedes-Benz C-Classs is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
+      "feature1": "Seat lumbar support",
+      "feature2": "Integrated (in-dash) music system",
+      "feature3": "GPS navigation system"
+    },
+    {
+      "id": "5",
+      "title": "2018 BMW 3 Series",
+      "images": ["https://cdn.hootout.com/VidyBack-videos/bmw1.jpeg","https://cdn.hootout.com/VidyBack-videos/bmw2.jpeg","https://cdn.hootout.com/VidyBack-videos/bmw3.jpeg","https://cdn.hootout.com/VidyBack-videos/bmw4.jpeg","https://cdn.hootout.com/VidyBack-videos/bmw5.jpeg","https://cdn.hootout.com/VidyBack-videos/bmw6.jpeg","https://cdn.hootout.com/VidyBack-videos/bmw7.jpeg"],
+      "customerReview": "We got a great car, approved by all generations of our family.",
+      "customerName": "Simran Gujral",
+      "location": "Santacruz",
+      "price": "Rs.34,50,000",
+      "contactName": "Spinny.com",
+      "contactNumber": "971-089-7108",
+      "originalPrice": "Rs.34,50,000",
+      "discountedPrice": "Rs.34,00,000",
+      "discountPercentage": "1%",
+      "desc": "BMW 3 Series is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
+      "feature1": "Keyless start",
+      "feature2": "Touch screen infotainment system",
+      "feature3": "Rain sensing wipers"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+    
+  ]}
+
+
