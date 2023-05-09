@@ -73,6 +73,308 @@
       "feature3": "Rain sensing wipers"
     }
     
-  ]}
+  ],
+  "food": [
+    {
+      "id": "1",
+      "title": "new dish",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/food.png",
+        "https://cdn.hootout.com/VidyBack-videos/food2.png",
+        "https://cdn.hootout.com/VidyBack-videos/food3.png",
+        "https://cdn.hootout.com/VidyBack-videos/food4.png",
+        "https://cdn.hootout.com/VidyBack-videos/food5.png",
+        "https://cdn.hootout.com/VidyBack-videos/food6.png"
+      ],
+      "originalPrice": 10,
+      "discountedPrice": 5,
+      "discountPercentage": "10%",
+      "customerReview": "love the food",
+      "customerName": "Sonu"
+    },
+    {
+      "id": "2",
+      "title": "Platter",
+      "images": ["https://cdn.hootout.com/VidyBack-videos/food2.png"],
+      "originalPrice": 10,
+      "discountedPrice": 5,
+      "discountPercentage": "10%",
+      "customerReview": "Awesome Taste",
+      "customerName": "rohan"
+    }
+  ],
+  "estate": [
+    {
+      "id": "1",
+      "title": "Ocean View Villa",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/estate1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/estate2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/estate3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/estate4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/estate5.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/estate6.jpg"
+      ],
+      "customerReview": "Good location and everything worked well and was as described. Would definitely stay again.",
+      "customerName": "John",
+      "location": "Miami",
+      "price": "$1000",
+      "contactName": "Agent",
+      "contactNumber": "987654xxxx",
+      "originalPrice": "$1000",
+      "discountedPrice": "$900",
+      "discountPercentage": "10%",
+      "feature1": "Brand new modern and stylish furniture with king size bed",
+      "feature2": "Room essentials such as towels, bed linens, pillows, body wash, shampoo, conditioner and toilet",
+      "feature3": "Complimentary high-speed Wi-Fi"
+    },
+    {
+      "id": "3",
+      "title": "Interior",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/int.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/int1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/int2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/int3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/int4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/int5.jpg"
+      ],
+      "customerReview": "Such a nice Bunglow",
+      "customerName": "User",
+      "location": "Kurla West",
+      "price": "100",
+      "contactName": "Agent",
+      "contactNumber": "9876543210",
+      "originalPrice": 10,
+      "discountedPrice": 5,
+      "discountPercentage": "50%"
+    },
+    {
+      "id": "4",
+      "title": "Bunglow",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/Bung.png",
+        "https://cdn.hootout.com/VidyBack-videos/Bung2.png",
+        "https://cdn.hootout.com/VidyBack-videos/Bung3.png",
+        "https://cdn.hootout.com/VidyBack-videos/Bung4.png"
+      ],
+      "customerReview": "Such a nice Bunglow",
+      "customerName": "User",
+      "location": "Kurla West",
+      "price": "100",
+      "contactName": "Agent",
+      "contactNumber": "9876543210",
+      "originalPrice": 10,
+      "discountedPrice": 5,
+      "discountPercentage": "50%"
+    },
+    {
+      "id": "5",
+      "title": "Flat",
+      "images": ["https://cdn.hootout.com/VidyBack-videos/flat.png"],
+      "customerReview": "Such a nice Flat",
+      "customerName": "User",
+      "location": "Kurla West",
+      "price": "100",
+      "contactName": "Agent2",
+      "contactNumber": "9876543210",
+      "originalPrice": 10,
+      "discountedPrice": 5,
+      "discountPercentage": "50%"
+    },
+    {
+      "id": "6",
+      "title": "Flat Square",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/re1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/re2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/re3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/re4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/re5.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/re6.jpg"
+      ],
+      "customerReview": "Such a nice Flat",
+      "customerName": "User",
+      "location": "Kurla West",
+      "price": "100",
+      "contactName": "Agent2",
+      "contactNumber": "9876543210",
+      "originalPrice": 10,
+      "discountedPrice": 5,
+      "discountPercentage": "50%"
+    }
+  ],
+  "travel": [
+    {
+      "id": "1",
+      "title": "Trip to Mahabaleshwar",
+      "images": ["https://cdn.hootout.com/VidyBack-videos/Travel1.png"],
+      "customerReview": "Such a nice place",
+      "customerName": "User",
+      "location": "Mahabaleshwar",
+      "price": "100",
+      "contactName": "Agent",
+      "contactNumber": "9876543210",
+      "originalPrice": 10,
+      "discountedPrice": 5,
+      "discountPercentage": "50%"
+    },
+    {
+      "id": "2",
+      "title": "Mumbai",
+      "images": ["https://cdn.hootout.com/VidyBack-videos/Travel2.png"],
+      "customerReview": "Best City",
+      "customerName": "User",
+      "location": "Kurla West",
+      "price": "100",
+      "contactName": "Agent2",
+      "contactNumber": "9876543210",
+      "originalPrice": 10,
+      "discountedPrice": 5,
+      "discountPercentage": "50%"
+    },
+    {
+      "id": "3",
+      "title": "Mumbai square",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/ttsq1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/ttsq2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/ttsq3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/ttsq4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/ttsq5.jpg"
+      ],
+      "customerReview": "Best City",
+      "customerName": "User",
+      "location": "Kurla West",
+      "price": "100",
+      "contactName": "Agent2",
+      "contactNumber": "9876543210",
+      "originalPrice": 10,
+      "discountedPrice": 5,
+      "discountPercentage": "50%"
+    },
+    {
+      "id": "4",
+      "title": "Mumbai Post size",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/ttpc1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/ttpc2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/ttpc3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/ttpc4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/ttpc5.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/ttpc6.jpg"
+      ],
+      "customerReview": "Best City",
+      "customerName": "User",
+      "location": "Kurla West",
+      "price": "100",
+      "contactName": "Agent2",
+      "contactNumber": "9876543210",
+      "originalPrice": 10,
+      "discountedPrice": 5,
+      "discountPercentage": "50%"
+    }
+  ],
+  "autoQuote": [
+    {
+      "id": "1",
+      "Quote": "Driving a car is like a meditation. It's a journey itself.",
+      "Author": "Lynette Winter"
+    },
+    {
+      "id": "2",
+      "Quote": "The automobile has not merely taken over the street, it has dissolved it.",
+      "Author": "J.B. Jackson"
+    },
+    {
+      "id": "3",
+      "Quote": "A dream without ambition is like a car without gas... you're not going anywhere.",
+      "Author": "Sean Hampton"
+    }
+  ],
+  "estateQuote": [
+    {
+      "id": "1",
+      "Quote": "Home is where love resides, memories are created, and laughter never ends.",
+      "Author": "Unknown"
+    },
+    {
+      "id": "2",
+      "Quote": "The light is what guides you home, the warmth is what keeps you there.",
+      "Author": "Ellie Rodriguez"
+    }
+  ],
+  "autoEvent": [
+    {
+      "id": "1",
+      "EventName": "Music Event",
+      "EventDate": "30 Apr 2023",
+      "userImage": "https://cdn.hootout.com/vidyback/logo/uuser.jpg",
+      "UserBio": "Alexandra's some dummy bio",
+      "url": "custommusic.com",
+      "Brandname": "DJ David Guetta",
+      "EventStartTime": "12:00:00 AM",
+      "EventEndTime": "10:00:00 PM",
+      "EventLocation": "Tomorrowland"
+    }
+  ],
+  "autoTips": [
+    {
+      "id": "1",
+      "tip1":"Regular maintenance and timely repairs can extend the lifespan of your vehicle and save you from costly breakdowns."
+    },
+    {
+      "id": "2",
+      "tip1":"Regular maintenance is crucial for your car's longevity and optimal performance."
+    },
+    {
+      "id": "3",
+      "tip1":"Regular cleaning of your car, both inside and outside, helps to prevent damage to the paint and other components"
+    }
+  ],
+  "estateTips": [
+    {
+      "id": "1",
+      "tip1":"When buying real estate, don't just focus on the property itself. Consider the location, the neighborhood, the schools."
+    },
+    {
+      "id": "2",
+      "tip1":"It's crucial to investigate the builder's reputation before investing in a future project."
+    }
+  ],
+  "autoBlogs": [
+    {
+      "id": "1",
+      "title":"First business blogs",
+      "Images": ["https://cdn.hootout.com/vidyback/logo/uuser.jpg"]
+    }
+  ],
+  "sports": [
+    {
+      "id": "1",
+      "title":"Royals Sports Organization",
+      "description": "Register players for your team with a free Sports Registration ",
+      "date": "14-04-2023",
+      "location": "3306 Stout Street, York, Pennsylvania, United States"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "title":"Product Manager",
+      "description": "Deeply understand Customer Support business and strategies, clarify business priorities for the cross-functional team, and set qualitative and quantitative objectives.",
+      "email": "john@greatesite.com",
+      "author": "Kuchnaya Technolabs"
+    }
+  ],
+  "politics": [
+    {
+      "id": "1",
+      "title":"NBM Political Party",
+      "candidate": "Jason Smith",
+      "message": "We believe in empowering the youth of today to care. We need to right to vote for change."
+    }
+  ]
+}
 
 
