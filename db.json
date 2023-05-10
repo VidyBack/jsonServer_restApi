@@ -430,6 +430,24 @@
   "Day":"Monday",
   "Date":"2023/2/4"
 }
+],
+"technology":[
+  {
+  "id":" 1",
+  "title":"San Antonio",
+  "images":["https://cdn.hootout.com/VidyBack-videos/technology1.jpg",
+            "https://cdn.hootout.com/VidyBack-videos/technology2.jpg",
+            "https://cdn.hootout.com/VidyBack-videos/technology3.jpg",
+            "https://cdn.hootout.com/VidyBack-videos/technology4.jpg",
+            "https://cdn.hootout.com/VidyBack-videos/technology5.jpg",
+            "https://cdn.hootout.com/VidyBack-videos/technology6.jpg"],
+  "originalPrice":"$239",
+  "discountedPrice":"$220",
+  "discountPercentage":"8%",
+  "created_at":" 2023/01/09",
+  "updated_at":"2023/02/10",
+  "NumberOfDays":"15"
+  }
 ]
 }
 
