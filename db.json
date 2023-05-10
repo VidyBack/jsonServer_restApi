@@ -374,6 +374,46 @@
       "candidate": "Jason Smith",
       "message": "We believe in empowering the youth of today to care. We need to right to vote for change."
     }
+  ],
+  "Pharmaceuticals":[
+    {
+    "id":"1",
+    "title":"ColdnFlu tablets, pack of 10",
+    "images":["https://cdn.hootout.com/VidyBack-videos/med1.jpg",
+              "https://cdn.hootout.com/VidyBack-videos/med2.jpg",
+              "https://cdn.hootout.com/VidyBack-videos/med3.jpg",
+              "https://cdn.hootout.com/VidyBack-videos/med4.jpg",
+              "https://cdn.hootout.com/VidyBack-videos/med5.jpg",
+              "https://cdn.hootout.com/VidyBack-videos/med6.jpg",
+              "https://cdn.hootout.com/VidyBack-videos/med7.jpg"
+            ],
+    "originalPrice":"$6",
+    "discountedPrice":"$5.4",
+    "discountPercentage":"12%",
+    "created_at":"2023/02/27",
+    "updated_at":"2023/02/27",
+    "storeName":"Wellness Forever",
+    "NumberOfDays":"15"
+    }
+  ],
+  "FMCG":[
+    {
+    "id":" 1",
+    "title":"Nutritious biscuits for dogs",
+    "images":["https://cdn.hootout.com/VidyBack-videos/fmcg1.jpg",
+              "https://cdn.hootout.com/VidyBack-videos/fmcg2.jpg",
+              "https://cdn.hootout.com/VidyBack-videos/fmcg3.jpg",
+              "https://cdn.hootout.com/VidyBack-videos/fmcg4.jpg",
+              "https://cdn.hootout.com/VidyBack-videos/fmcg5.jpg",
+              "https://cdn.hootout.com/VidyBack-videos/fmcg6.jpg"],
+    "originalPrice":"$239",
+    "discountedPrice":"$220",
+    "discountPercentage":"8%",
+    "created_at":" 2023/01/09",
+    "updated_at":"2023/02/10",
+    "storeName":"Pawstation ltd.",
+    "NumberOfDays":"15"
+    }
   ]
 }
 
