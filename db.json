@@ -414,7 +414,16 @@
     "storeName":"Pawstation ltd.",
     "NumberOfDays":"15"
     }
-  ]
+  ],
+  "Entertainment":[
+    {
+    "Movie Name":"Guardians of Galaxy vol. 3",
+    "Promo heading":"Upcoming Movie",
+    "Release date":"2023/03/04",
+    "images":["https://cdn.hootout.com/VidyBack-videos/movies1.jpg",
+              "https://cdn.hootout.com/VidyBack-videos/movies1.jpg"]
+  }
+]
 }
 
 
