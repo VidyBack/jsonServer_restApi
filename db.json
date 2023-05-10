@@ -446,7 +446,8 @@
   "discountPercentage":"8%",
   "created_at":" 2023/01/09",
   "updated_at":"2023/02/10",
-  "NumberOfDays":"15"
+  "NumberOfDays":"15",
+  "storeName":"Pawstation ltd."
   }
 ]
 }
