@@ -375,7 +375,7 @@
       "message": "We believe in empowering the youth of today to care. We need to right to vote for change."
     }
   ],
-  "Pharmaceuticals":[
+  "pharmaceuticals":[
     {
     "id":"1",
     "title":"ColdnFlu tablets, pack of 10",
@@ -396,7 +396,7 @@
     "NumberOfDays":"15"
     }
   ],
-  "FMCG":[
+  "fmcg":[
     {
     "id":" 1",
     "title":"Nutritious biscuits for dogs",
@@ -415,13 +415,21 @@
     "NumberOfDays":"15"
     }
   ],
-  "Entertainment":[
+  "entertainment":[
     {
     "Movie Name":"Guardians of Galaxy vol. 3",
     "Promo heading":"Upcoming Movie",
     "Release date":"2023/03/04",
     "images":"https://cdn.hootout.com/VidyBack-videos/movies1.jpg"
   }
+],
+"audioPodcasts":[
+  {
+  "Podcast name":"Podcast on Mobile Development",
+  "Author/speaker name":"Jenifer Lowrence",
+  "Day":"Monday",
+  "Date":"2023/2/4"
+}
 ]
 }
 
