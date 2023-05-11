@@ -278,44 +278,44 @@
   "autoQuote": [
     {
       "id": "1",
-      "Quote": "Driving a car is like a meditation. It's a journey itself.",
-      "Author": "Lynette Winter"
+      "quote": "Driving a car is like a meditation. It's a journey itself.",
+      "author": "Lynette Winter"
     },
     {
       "id": "2",
-      "Quote": "The automobile has not merely taken over the street, it has dissolved it.",
-      "Author": "J.B. Jackson"
+      "quote": "The automobile has not merely taken over the street, it has dissolved it.",
+      "author": "J.B. Jackson"
     },
     {
       "id": "3",
-      "Quote": "A dream without ambition is like a car without gas... you're not going anywhere.",
-      "Author": "Sean Hampton"
+      "quote": "A dream without ambition is like a car without gas... you're not going anywhere.",
+      "author": "Sean Hampton"
     }
   ],
   "estateQuote": [
     {
       "id": "1",
-      "Quote": "Home is where love resides, memories are created, and laughter never ends.",
-      "Author": "Unknown"
+      "quote": "Home is where love resides, memories are created, and laughter never ends.",
+      "author": "Unknown"
     },
     {
       "id": "2",
-      "Quote": "The light is what guides you home, the warmth is what keeps you there.",
-      "Author": "Ellie Rodriguez"
+      "quote": "The light is what guides you home, the warmth is what keeps you there.",
+      "author": "Ellie Rodriguez"
     }
   ],
   "autoEvent": [
     {
       "id": "1",
-      "EventName": "Music Event",
-      "EventDate": "30 Apr 2023",
+      "eventName": "Music Event",
+      "eventDate": "30 Apr 2023",
       "userImage": "https://cdn.hootout.com/vidyback/logo/uuser.jpg",
-      "UserBio": "Alexandra's some dummy bio",
+      "userBio": "Alexandra's some dummy bio",
       "url": "custommusic.com",
-      "Brandname": "DJ David Guetta",
-      "EventStartTime": "12:00:00 AM",
-      "EventEndTime": "10:00:00 PM",
-      "EventLocation": "Tomorrowland"
+      "brandname": "DJ David Guetta",
+      "eventStartTime": "12:00:00 AM",
+      "eventEndTime": "10:00:00 PM",
+      "eventLocation": "Tomorrowland"
     }
   ],
   "autoTips": [
@@ -346,7 +346,7 @@
     {
       "id": "1",
       "title":"First business blogs",
-      "Images": ["https://cdn.hootout.com/vidyback/logo/uuser.jpg"]
+      "images": ["https://cdn.hootout.com/vidyback/logo/uuser.jpg"]
     }
   ],
   "sports": [
@@ -371,7 +371,7 @@
     {
       "id": "1",
       "title":"NBM Political Party",
-      "candidate": "Jason Smith",
+      "authorName": "Jason Smith",
       "message": "We believe in empowering the youth of today to care. We need to right to vote for change."
     }
   ],
@@ -393,7 +393,7 @@
     "created_at":"2023/02/27",
     "updated_at":"2023/02/27",
     "storeName":"Wellness Forever",
-    "NumberOfDays":"15"
+    "numberOfDays":"15"
     }
   ],
   "fmcg":[
@@ -417,16 +417,16 @@
   ],
   "entertainment":[
     {
-    "Movie Name":"Guardians of Galaxy vol. 3",
-    "Promo heading":"Upcoming Movie",
+    "productName":"Guardians of Galaxy vol. 3",
+    "promoHeading":"Upcoming Movie",
     "Release date":"2023/03/04",
     "images":"https://cdn.hootout.com/VidyBack-videos/movies1.jpg"
   }
 ],
 "audioPodcasts":[
   {
-  "Podcast name":"Podcast on Mobile Development",
-  "Author/speaker name":"Jenifer Lowrence",
+  "productName":"Podcast on Mobile Development",
+  "authorName":"Jenifer Lowrence",
   "Day":"Monday",
   "Date":"2023/2/4"
 }
@@ -467,9 +467,9 @@
   "updated_at":"2023/02/10",
   "NumberOfDays":"15",
   "storeName":"Pawstation ltd.",
-  "service1":"overall dental care for you",
-  "service2":"Teeth cleaning with polishing",
-  "service3":"Open from 10am to 10pm"
+  "feature1":"overall dental care for you",
+  "feature2":"Teeth cleaning with polishing",
+  "feature3":"Open from 10am to 10pm"
   }
 ],
 "legalLaw":[
