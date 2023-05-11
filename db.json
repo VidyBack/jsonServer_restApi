@@ -449,6 +449,25 @@
   "NumberOfDays":"15",
   "storeName":"Pawstation ltd."
   }
+],
+"healthcare":[
+  {
+  "id":" 1",
+  "title":"Wellness Dental Clinic",
+  "images":["https://cdn.hootout.com/VidyBack-videos/healthcare1.jpg",
+            "https://cdn.hootout.com/VidyBack-videos/healthcare2.jpg",
+            "https://cdn.hootout.com/VidyBack-videos/healthcare3.jpg",
+            "https://cdn.hootout.com/VidyBack-videos/healthcare4.jpg",
+            "https://cdn.hootout.com/VidyBack-videos/healthcare5.jpg",
+            "https://cdn.hootout.com/VidyBack-videos/healthcare6.jpg"],
+  "originalPrice":"$239",
+  "discountedPrice":"$220",
+  "discountPercentage":"8%",
+  "created_at":" 2023/01/09",
+  "updated_at":"2023/02/10",
+  "NumberOfDays":"15",
+  "storeName":"Pawstation ltd."
+  }
 ]
 }
 
