@@ -471,6 +471,15 @@
   "service2":"Teeth cleaning with polishing",
   "service3":"Open from 10am to 10pm"
   }
+],
+"law":[
+  {
+  "firmName":"Aido law firm",
+  "images":"https://cdn.hootout.com/VidyBack-videos/law.jpg",
+  "service1":"Real Estate Lawyer",
+  "Service 2":"Divorce cases handlers",
+  "Service 3":" Legal disputes "
+  }
 ]
 }
 
