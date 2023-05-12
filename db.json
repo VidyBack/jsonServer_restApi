@@ -338,15 +338,15 @@
   "foodTips":[
     {
     "id":"1",
-    "tip1":""
+    "tip1":"Regularly consuming foods and drinks high in sugar increases your risk of obesity and tooth decay."
     },
     {
     "id":"2",
-    "tip2":""
+    "tip2":" Eat more fish, including a portion of oily fish."
     },
     {
       "id":"3",
-      "tip3":""
+      "tip3":"Eat less salt: no more than 6g a day for adults"
     }
   ],
   "autoTips": [
