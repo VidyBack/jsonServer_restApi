@@ -179,11 +179,11 @@
     },
     {
     "id":"2",
-    "tip2":" Eat more fish, including a portion of oily fish."
+    "tip1":" Eat more fish, including a portion of oily fish."
     },
     {
       "id":"3",
-      "tip3":"Eat less salt: no more than 6g a day for adults"
+      "tip1":"Eat less salt: no more than 6g a day for adults"
     }
   ],
   "estate": [
@@ -422,11 +422,11 @@
     },
     {
     "id":"2",
-    "tip2":"Develop examples and stories that showcase your skills"
+    "tip1":"Develop examples and stories that showcase your skills"
     },
     {
       "id":"3",
-      "tip3":"Build, cultivate, and utilize your network of contacts"
+      "tip1":"Build, cultivate, and utilize your network of contacts"
     }
   ],
   "politics": [
