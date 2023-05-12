@@ -400,7 +400,7 @@
   ],
   "jobQuote":[
     {
-      "id": "1",
+      "id":"1",
       "quote": "Pleasure in the job puts perfection in the work.",
       "author": "Aristotle"
     },
@@ -542,6 +542,30 @@
   "feature2":"Divorce cases handlers",
   "feature3":"Legal disputes "
   }
+  ],
+  "financeQuotes":[
+  {
+     "id": "1",
+     "quote": "Every financial decision should be driven by what you value.",
+     "author": "David Bach"
+  },
+  {
+    "id": "2",
+    "quote": "Wealth consists not in having great possessions, but in having few wants.",
+    "author": "Epictetus"
+ }
+
+],
+  "financeTips":[
+    {
+    "id":"1",
+    "tip1":"Learn to Budget."
+    },
+    {
+      "id":"2",
+      "tip1":"Start an emergency fund and pay yourself every month."
+      }
+
   ]
 }
 
