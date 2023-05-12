@@ -103,6 +103,23 @@
       "customerName": "rohan"
     }
   ],
+  "foodQuote":[
+    {
+      "id": "1",
+      "quote": "Food is symbolic of love when words are inadequate.",
+      "author": "Alan D. Wolfelt"
+    },
+    {
+      "id": "2",
+      "quote": "Good food is the foundation of genuine happiness.",
+      "author": "Auguste Escoffier"
+     },
+     {
+      "id": "3",
+      "quote": "You don't need a silver fork to eat good food.",
+      "author": "Paul Prudhomme"
+     }
+  ],
   "estate": [
     {
       "id": "1",
@@ -316,6 +333,20 @@
       "eventStartTime": "12:00:00 AM",
       "eventEndTime": "10:00:00 PM",
       "eventLocation": "Tomorrowland"
+    }
+  ],
+  "foodTips":[
+    {
+    "id":"1",
+    "tip1":""
+    },
+    {
+    "id":"2",
+    "tip2":""
+    },
+    {
+      "id":"3",
+      "tip3":""
     }
   ],
   "autoTips": [
