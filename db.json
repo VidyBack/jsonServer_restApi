@@ -398,6 +398,37 @@
       "author": "Kuchnaya Technolabs"
     }
   ],
+  "jobQuote":[
+    {
+      "id": "1",
+      "quote": "Pleasure in the job puts perfection in the work.",
+      "author": "Aristotle"
+    },
+    {
+      "id": "2",
+      "quote": "Work to become, not to acquire.",
+      "author": "Elbert Hubbard"
+     },
+     {
+      "id": "3",
+      "quote": "The best preparation for tomorrow is doing your best today.",
+      "author": "H.Jackson Brown"
+     }
+  ],
+  "jobTips":[
+    {
+    "id":"1",
+    "tip1":""
+    },
+    {
+    "id":"2",
+    "tip2":""
+    },
+    {
+      "id":"3",
+      "tip3":""
+    }
+  ],
   "politics": [
     {
       "id": "1",
