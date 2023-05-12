@@ -1,5 +1,5 @@
  {
-  "auto": [
+  "car": [
     {
       "id": "2",
       "title": "2019 Mercedes-Benz CLA",
@@ -384,7 +384,7 @@
     {
       "id": "1",
       "title":"Royals Sports Organization",
-      "description": "Register players for your team with a free Sports Registration ",
+      "description": "Register players for your team with a free Sports Registration",
       "date": "14-04-2023",
       "location": "3306 Stout Street, York, Pennsylvania, United States"
     }
