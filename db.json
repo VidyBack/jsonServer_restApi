@@ -74,6 +74,58 @@
     }
     
   ],
+  "autoQuote": [
+    {
+      "id": "1",
+      "quote": "Driving a car is like a meditation. It's a journey itself.",
+      "author": "Lynette Winter"
+    },
+    {
+      "id": "2",
+      "quote": "The automobile has not merely taken over the street, it has dissolved it.",
+      "author": "J.B. Jackson"
+    },
+    {
+      "id": "3",
+      "quote": "A dream without ambition is like a car without gas... you're not going anywhere.",
+      "author": "Sean Hampton"
+    }
+  ],
+  "autoTips": [
+    {
+      "id": "1",
+      "tip1":"Regular maintenance and timely repairs can extend the lifespan of your vehicle and save you from costly breakdowns."
+    },
+    {
+      "id": "2",
+      "tip1":"Regular maintenance is crucial for your car's longevity and optimal performance."
+    },
+    {
+      "id": "3",
+      "tip1":"Regular cleaning of your car, both inside and outside, helps to prevent damage to the paint and other components"
+    }
+  ],
+  "autoEvent": [
+    {
+      "id": "1",
+      "eventName": "Music Event",
+      "eventDate": "30 Apr 2023",
+      "userImage": "https://cdn.hootout.com/vidyback/logo/uuser.jpg",
+      "userBio": "Alexandra's some dummy bio",
+      "url": "custommusic.com",
+      "brandname": "DJ David Guetta",
+      "eventStartTime": "12:00:00 AM",
+      "eventEndTime": "10:00:00 PM",
+      "eventLocation": "Tomorrowland"
+    }
+  ],
+  "autoBlogs": [
+    {
+      "id": "1",
+      "title":"First business blogs",
+      "images": ["https://cdn.hootout.com/vidyback/logo/uuser.jpg"]
+    }
+  ],
   "food": [
     {
       "id": "1",
@@ -119,6 +171,20 @@
       "quote": "You don't need a silver fork to eat good food.",
       "author": "Paul Prudhomme"
      }
+  ],
+  "foodTips":[
+    {
+    "id":"1",
+    "tip1":"Regularly consuming foods and drinks high in sugar increases your risk of obesity and tooth decay."
+    },
+    {
+    "id":"2",
+    "tip2":" Eat more fish, including a portion of oily fish."
+    },
+    {
+      "id":"3",
+      "tip3":"Eat less salt: no more than 6g a day for adults"
+    }
   ],
   "estate": [
     {
@@ -221,6 +287,28 @@
       "discountPercentage": "50%"
     }
   ],
+  "estateQuote": [
+    {
+      "id": "1",
+      "quote": "Home is where love resides, memories are created, and laughter never ends.",
+      "author": "Unknown"
+    },
+    {
+      "id": "2",
+      "quote": "The light is what guides you home, the warmth is what keeps you there.",
+      "author": "Ellie Rodriguez"
+    }
+  ],
+  "estateTips": [
+    {
+      "id": "1",
+      "tip1":"When buying real estate, don't just focus on the property itself. Consider the location, the neighborhood, the schools."
+    },
+    {
+      "id": "2",
+      "tip1":"It's crucial to investigate the builder's reputation before investing in a future project."
+    }
+  ],
   "travel": [
     {
       "id": "1",
@@ -292,95 +380,7 @@
       "discountPercentage": "50%"
     }
   ],
-  "autoQuote": [
-    {
-      "id": "1",
-      "quote": "Driving a car is like a meditation. It's a journey itself.",
-      "author": "Lynette Winter"
-    },
-    {
-      "id": "2",
-      "quote": "The automobile has not merely taken over the street, it has dissolved it.",
-      "author": "J.B. Jackson"
-    },
-    {
-      "id": "3",
-      "quote": "A dream without ambition is like a car without gas... you're not going anywhere.",
-      "author": "Sean Hampton"
-    }
-  ],
-  "estateQuote": [
-    {
-      "id": "1",
-      "quote": "Home is where love resides, memories are created, and laughter never ends.",
-      "author": "Unknown"
-    },
-    {
-      "id": "2",
-      "quote": "The light is what guides you home, the warmth is what keeps you there.",
-      "author": "Ellie Rodriguez"
-    }
-  ],
-  "autoEvent": [
-    {
-      "id": "1",
-      "eventName": "Music Event",
-      "eventDate": "30 Apr 2023",
-      "userImage": "https://cdn.hootout.com/vidyback/logo/uuser.jpg",
-      "userBio": "Alexandra's some dummy bio",
-      "url": "custommusic.com",
-      "brandname": "DJ David Guetta",
-      "eventStartTime": "12:00:00 AM",
-      "eventEndTime": "10:00:00 PM",
-      "eventLocation": "Tomorrowland"
-    }
-  ],
-  "foodTips":[
-    {
-    "id":"1",
-    "tip1":"Regularly consuming foods and drinks high in sugar increases your risk of obesity and tooth decay."
-    },
-    {
-    "id":"2",
-    "tip2":" Eat more fish, including a portion of oily fish."
-    },
-    {
-      "id":"3",
-      "tip3":"Eat less salt: no more than 6g a day for adults"
-    }
-  ],
-  "autoTips": [
-    {
-      "id": "1",
-      "tip1":"Regular maintenance and timely repairs can extend the lifespan of your vehicle and save you from costly breakdowns."
-    },
-    {
-      "id": "2",
-      "tip1":"Regular maintenance is crucial for your car's longevity and optimal performance."
-    },
-    {
-      "id": "3",
-      "tip1":"Regular cleaning of your car, both inside and outside, helps to prevent damage to the paint and other components"
-    }
-  ],
-  "estateTips": [
-    {
-      "id": "1",
-      "tip1":"When buying real estate, don't just focus on the property itself. Consider the location, the neighborhood, the schools."
-    },
-    {
-      "id": "2",
-      "tip1":"It's crucial to investigate the builder's reputation before investing in a future project."
-    }
-  ],
-  "autoBlogs": [
-    {
-      "id": "1",
-      "title":"First business blogs",
-      "images": ["https://cdn.hootout.com/vidyback/logo/uuser.jpg"]
-    }
-  ],
-  "sports": [
+ "sports": [
     {
       "id": "1",
       "title":"Royals Sports Organization",
@@ -452,17 +452,17 @@
     "promoHeading":"Upcoming Movie",
     "Release date":"2023/03/04",
     "images":"https://cdn.hootout.com/VidyBack-videos/movies1.jpg"
-  }
-],
-"audioPodcasts":[
+    }
+  ],
+  "audioPodcasts":[
   {
   "productName":"Podcast on Mobile Development",
   "authorName":"Jenifer Lowrence",
   "Day":"Monday",
   "Date":"2023/2/4"
-}
-],
-"technology":[
+  }
+  ],
+  "technology":[
   {
   "id":" 1",
   "title":"San Antonio",
@@ -480,8 +480,8 @@
   "NumberOfDays":"15",
   "storeName":"Pawstation ltd."
   }
-],
-"healthcare":[
+  ],
+  "healthcare":[
   {
   "id":" 1",
   "title":"Wellness Dental Clinic",
@@ -502,8 +502,8 @@
   "feature2":"Teeth cleaning with polishing",
   "feature3":"Open from 10am to 10pm"
   }
-],
-"legalLaw":[
+  ],
+  "legalLaw":[
   {
   "author":"Aido law firm",
   "images":"https://cdn.hootout.com/VidyBack-videos/law1.jpg",
@@ -511,7 +511,7 @@
   "feature2":"Divorce cases handlers",
   "feature3":"Legal disputes "
   }
-]
+  ]
 }
 
 
