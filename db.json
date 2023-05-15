@@ -548,6 +548,16 @@
     "images":"https://cdn.hootout.com/VidyBack-videos/movies1.jpg"
     }
   ],
+  "educationTips": [
+    {
+      "id": "1",
+      "tip1":"Set yourself deadlines"
+    },
+    {
+      "id": "2",
+      "tip1":"Improve Recall with Association"
+    }
+  ],
 
   "audioPodcasts":[
   {
