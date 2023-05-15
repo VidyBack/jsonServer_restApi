@@ -558,6 +558,18 @@
       "tip1":"Improve Recall with Association"
     }
   ],
+  "educationQuote": [
+    {
+      "id": "1",
+      "quote": "An investment in knowledge pays the best interest.",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "id":"2",
+      "quote":"The roots of education are bitter, but the fruit is sweet",
+      "author":"Aristotle"
+    }
+  ],
 
   "audioPodcasts":[
   {
