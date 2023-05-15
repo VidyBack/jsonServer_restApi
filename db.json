@@ -380,6 +380,23 @@
       "discountPercentage": "50%"
     }
   ],
+  "travelQuote":[
+    {
+      "id":"1",
+      "quote": "TAKE ONLY MEMORIES, LEAVE ONLY FOOTPRINTS",
+      "author": "CHIEF SEATTLE"
+    },
+    {
+      "id": "2",
+      "quote": "THE JOURNEY, NOT THE ARRIVAL, MATTERS.",
+      "author": "T.S. ELIOT"
+     },
+     {
+      "id": "3",
+      "quote": " A JOURNEY OF A THOUSAND MILES BEGINS WITH A SINGLE STEP.",
+      "author": "LAO TZU"
+     }
+  ],
  "sports": [
     {
       "id": "1",
