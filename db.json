@@ -543,6 +543,16 @@
   "feature3":"Legal disputes "
   }
   ],
+    "legalLawTips": [
+    {
+      "id": "1",
+      "tip1":". Counsel should be involved in the selection of expert witnesses."
+    },
+    {
+      "id": "2",
+      "tip1":". Improve your chances of success at trial by fully preparing your experts."
+    }
+  ],
   "financeQuotes":[
   {
      "id": "1",
