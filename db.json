@@ -526,6 +526,18 @@
       "tip1":"Pick Entertainment to set the Tone"
     }
   ],
+  "entertainmentQuote": [
+    {
+      "id": "1",
+      "quote": "The world is a stage, the stage is a world of entertainment.",
+      "author": "Howard Dietz"
+    },
+    {
+      "id":"2",
+      "quote":"Entertainment is in art like color in pictures.",
+      "author":"Martin Kippenberger"
+    }
+  ],
 
   "audioPodcasts":[
   {
