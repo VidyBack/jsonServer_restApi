@@ -516,6 +516,17 @@
     "images":"https://cdn.hootout.com/VidyBack-videos/movies1.jpg"
     }
   ],
+  "entertainmentTips": [
+    {
+      "id": "1",
+      "tip1":"Don’t Hide Your Entertainment Away"
+    },
+    {
+      "id": "2",
+      "tip1":"Pick Entertainment to set the Tone"
+    }
+  ],
+
   "audioPodcasts":[
   {
   "productName":"Podcast on Mobile Development",
