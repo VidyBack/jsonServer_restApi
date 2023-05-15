@@ -397,6 +397,16 @@
       "author": "LAO TZU"
      }
   ],
+  "travelTips": [
+    {
+      "id": "1",
+      "tip1":"Obey the laws and cultural differences of the country you’re visiting."
+    },
+    {
+      "id": "2",
+      "tip1":"Check if you’re regarded as a national of the destination you plan to visit."
+    }
+  ],
  "sports": [
     {
       "id": "1",
