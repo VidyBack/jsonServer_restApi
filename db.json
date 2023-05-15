@@ -536,6 +536,18 @@
       "tip1":" Search using Site: to find content like a ninja."
     }
   ],
+   "technologyQuote": [
+    {
+      "id": "1",
+      "quote": "There are not enough jails, not enough police, not enough courts, to enforce a law not supported by the people.",
+      "author": "Hubert H Humphrey"
+    },
+    {
+      "id":"2",
+      "quote":"A good laugh and a long sleep are the best cures in the doctor’s book.",
+      "author":"Irish proverb"
+    }
+  ],
   "healthcare":[
   {
   "id":" 1",
