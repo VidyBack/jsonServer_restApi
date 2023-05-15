@@ -526,6 +526,16 @@
   "storeName":"Pawstation ltd."
   }
   ],
+  "technologyTips": [
+    {
+      "id": "1",
+      "tip1":"Report junk texts and stick it to the scammers."
+    },
+    {
+      "id": "2",
+      "tip1":" Search using Site: to find content like a ninja."
+    }
+  ],
   "healthcare":[
   {
   "id":" 1",
@@ -548,7 +558,7 @@
   "feature3":"Open from 10am to 10pm"
   }
   ],
-     "healthcareTips": [
+  "healthcareTips": [
     {
       "id": "1",
       "tip1":"Drink Water and Stay Hydrated, and Limit Sugared Beverages."
@@ -579,7 +589,7 @@
   "feature3":"Legal disputes "
   }
   ],
-    "legalLawTips": [
+  "legalLawTips": [
     {
       "id": "1",
       "tip1":"Counsel should be involved in the selection of expert witnesses."
@@ -589,7 +599,7 @@
       "tip1":"Improve your chances of success at trial by fully preparing your experts."
     }
   ],
-   "legalLawQuote": [
+  "legalLawQuote": [
     {
       "id": "1",
       "quote": "There are not enough jails, not enough police, not enough courts, to enforce a law not supported by the people.",
