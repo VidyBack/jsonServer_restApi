@@ -534,6 +534,16 @@
   "feature3":"Open from 10am to 10pm"
   }
   ],
+     "healthcareTips": [
+    {
+      "id": "1",
+      "tip1":"Drink Water and Stay Hydrated, and Limit Sugared Beverages."
+    },
+    {
+      "id": "2",
+      "tip1":"Exercise Regularly and Be Physically Active."
+    }
+  ],
   "legalLaw":[
   {
   "author":"Aido law firm",
@@ -546,11 +556,11 @@
     "legalLawTips": [
     {
       "id": "1",
-      "tip1":". Counsel should be involved in the selection of expert witnesses."
+      "tip1":"Counsel should be involved in the selection of expert witnesses."
     },
     {
       "id": "2",
-      "tip1":". Improve your chances of success at trial by fully preparing your experts."
+      "tip1":"Improve your chances of success at trial by fully preparing your experts."
     }
   ],
    "legalLawQuote": [
