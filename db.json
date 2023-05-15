@@ -403,6 +403,23 @@
       "tip1":" Always go for adequate warm-up, and stretching before the activity or exercise followed by warm-down and stretching after the activity or exercise."
     }
   ],
+  "sportsQuote":[
+    {
+      "id":"1",
+      "quote": "The only one who can tell you ‘you can’t win’ is you and you don’t have to listen.",
+      "author": "Jessica Ennis-Hill "
+    },
+    {
+      "id": "2",
+      "quote": "The only way to prove that you’re a good sport is to lose.",
+      "author": "Ernie Banks"
+     },
+     {
+      "id": "3",
+      "quote": "I just knew if it could be done, it had to be done, and I did it.",
+      "author": "Gertrude Ederle"
+     }
+  ],
   "jobs": [
     {
       "id": "1",
