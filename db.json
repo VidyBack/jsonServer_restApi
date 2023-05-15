@@ -429,6 +429,20 @@
       "author": "Kuchnaya Technolabs"
     }
   ],
+  "jobTips":[
+    {
+    "id":"1",
+    "tip1":"Get clear on what you want"
+    },
+    {
+    "id":"2",
+    "tip1":"Develop examples and stories that showcase your skills"
+    },
+    {
+      "id":"3",
+      "tip1":"Build, cultivate, and utilize your network of contacts"
+    }
+  ],
   "jobQuote":[
     {
       "id":"1",
@@ -446,20 +460,6 @@
       "author": "H.Jackson Brown"
      }
   ],
-  "jobTips":[
-    {
-    "id":"1",
-    "tip1":"Get clear on what you want"
-    },
-    {
-    "id":"2",
-    "tip1":"Develop examples and stories that showcase your skills"
-    },
-    {
-      "id":"3",
-      "tip1":"Build, cultivate, and utilize your network of contacts"
-    }
-  ],
   "politics": [
     {
       "id": "1",
@@ -467,6 +467,23 @@
       "authorName": "Jason Smith",
       "message": "We believe in empowering the youth of today to care. We need to right to vote for change."
     }
+  ],
+  "politicsQuote":[
+    {
+      "id":"1",
+      "quote": "Loyalty to country ALWAYS. Loyalty to government, when it deserves it.",
+      "author": "Mark Twain"
+    },
+    {
+      "id": "2",
+      "quote": "In politics, stupidity is not a handicap.",
+      "author": "Napoleon Bonaparte"
+     },
+     {
+      "id": "3",
+      "quote": "Politics have no relation to morals.",
+      "author": "Niccolo Machiavelli"
+     }
   ],
   "pharmaceuticals":[
     {
