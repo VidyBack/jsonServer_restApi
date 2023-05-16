@@ -1017,6 +1017,26 @@
     {
       "id": "2",
       "tip1":" Search using Site: to find content like a ninja."
+    },
+    {
+      "id": "3",
+      "tip1":" Before making a tech purchase, research the product thoroughly to ensure it meets your needs and has good reviews from other consumers."
+    },
+    {
+      "id": "4",
+      "tip1":"Compare prices of similar products from different brands to find the best value for your money."
+    },
+    {
+      "id": "5",
+      "tip1":" Ensure the tech product is compatible with your existing devices or software to avoid compatibility issues."
+    },
+    {
+      "id": "6",
+      "tip1":"Look for tech products that offer good customer support, including troubleshooting, maintenance, and repair services."
+    },
+    {
+      "id": "7",
+      "tip1":"Keep up-to-date on the latest tech trends and news to make informed purchasing decisions."
     }
   ],
    "technologyQuote": [
