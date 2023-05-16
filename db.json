@@ -209,9 +209,13 @@
       "id": "2",
       "title": "MOST POPULAR",
       "productname": "Japnese sushi rolls",
-      "images": [
-        
-      ],
+      "images": ["https://cdn.hootout.com/VidyBack-videos/dish1.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/dish2.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/dish3.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/dish4.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/dish5.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/dish6.jpg"
+    ],
       "originalPrice": "$200",
       "discountedPrice":"$185",
       "discountPercentage": "10%",
