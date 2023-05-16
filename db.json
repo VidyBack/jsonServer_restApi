@@ -124,16 +124,37 @@
   "autoTips": [
     {
       "id": "1",
-      "tip1":"Regular maintenance and timely repairs can extend the lifespan of your vehicle and save you from costly breakdowns."
-    },
-    {
-      "id": "2",
       "tip1":"Regular maintenance is crucial for your car's longevity and optimal performance."
     },
     {
+      "id": "2",
+      "tip1":" Used cars can be a great way to save money on a vehicle purchase. Look for used cars with low mileage that are still in good condition."
+    },
+    {
       "id": "3",
-      "tip1":"Regular cleaning of your car, both inside and outside, helps to prevent damage to the paint and other components"
+      "tip1":"If you work for a company that has a partnership with a car manufacturer, you may be eligible for an employee discount on a new car purchase."
+    },
+    {
+      "id": "4",
+      "tip1":"Financing a car purchase can be a good option if you have good credit. Look for low-interest rates and make sure you understand the terms and conditions of the financing agreement."
+    },
+    {
+      "id": "5",
+      "tip1":"Properly inflated tires can improve fuel efficiency and extend the life of your tires."
+    },
+    {
+      "id": "6",
+      "tip1":"Regularly washing and waxing your vehicle can help protect the paint and prevent rust from forming. It can also improve your vehicle's resale value."
+    },
+    {
+      "id": "7",
+      "tip1":"Your driving habits can have a big impact on the longevity of your vehicle. Avoid aggressive driving, excessive idling, and overloading your vehicle."
+    },
+    {
+      "id": "8",
+      "tip1":" If you notice any problems with your vehicle, such as strange noises or warning lights, address them promptly to prevent them from turning into larger issues."
     }
+    
   ],
   "autoEvent": [
     {
