@@ -896,7 +896,48 @@
     "id": "2",
     "quote": "Wealth consists not in having great possessions, but in having few wants.",
     "author": "Epictetus"
- }
+ },
+ {
+  "id": "3",
+  "quote": "The stock market is a device for transferring money from the impatient to the patient.",
+  "author": "Epictetus"
+},
+{
+  "id": "4",
+  "quote": "Wealth consists not in having great possessions, but in having few wants.",
+  "author": "Warren Buffett"
+},
+{
+  "id": "5",
+  "quote": "The four most dangerous words in investing are: 'this time it's different'.",
+  "author": "Sir John Templeton"
+},
+{
+  "id": "6",
+  "quote": "The stock market is a no-called-strike game. You don't have to swing at everything - you can wait for your pitch.",
+  "author": "Warren Buffett"
+},
+{
+  "id": "7",
+  "quote": "The individual investor should act consistently as an investor and not as a speculator.",
+  "author": "Sir John Templeton"
+},
+{
+  "id": "8",
+  "quote": "The individual investor should act consistently as an investor and not as a speculator.",
+  "author": "Benjamin Graham"
+},
+{
+  "id": "9",
+  "quote": "Time is the friend of the wonderful business, the enemy of the mediocre.",
+  "author": "Warren Buffett"
+},
+{
+  "id": "10",
+  "quote": "In investing, what is comfortable is rarely profitable.",
+  "author": "Robert Arnott"
+}
+
 
 ],
   "financeTips":[
