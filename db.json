@@ -552,48 +552,33 @@
     }
   ],
   "travelQuote":[
-    {
-      "id":"1",
-      "quote": "TAKE ONLY MEMORIES, LEAVE ONLY FOOTPRINTS",
-      "author": "CHIEF SEATTLE"
-    },
-    {
-      "id": "2",
-      "quote": "THE JOURNEY, NOT THE ARRIVAL, MATTERS.",
-      "author": "T.S. ELIOT"
-     },
-     {
-      "id": "3",
-      "quote": " A JOURNEY OF A THOUSAND MILES BEGINS WITH A SINGLE STEP.",
-      "author": "LAO TZU"
-     },
-     {
-      "id": "4",
+   {
+      "id": "1",
       "quote": "The world is a book and those who do not travel read only one page.",
       "author": "Saint Augustine"
      },
      {
-      "id": "5",
+      "id": "2",
       "quote": "We travel not to escape life, but for life not to escape us.",
       "author": "Unknown"
      },
      {
-      "id": "6",
+      "id": "3",
       "quote": "Travel is fatal to prejudice, bigotry, and narrow-mindedness.",
       "author": "Mark Twain"
      },
      {
-      "id": "7",
+      "id": "4",
       "quote": "To travel is to discover that everyone is wrong about other countries.",
       "author": "LAO TZU"
      },
      {
-      "id": "8",
+      "id": "5",
       "quote": "I haven't been everywhere, but it's on my list.",
       "author": "Susan Sontag"
      },
      {
-      "id": "9",
+      "id": "6",
       "quote": "Once a year, go somewhere you have never been before.",
       "author": "Dalai Lama"
      }
