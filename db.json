@@ -458,22 +458,8 @@
    
   ],
   "travel": [
-    {
+   {
       "id": "1",
-      "title": "Trip to Mahabaleshwar",
-      "images": ["https://cdn.hootout.com/VidyBack-videos/Travel1.jpg"],
-      "customerReview": "Such a nice place",
-      "customerName": "User",
-      "location": "Mahabaleshwar",
-      "price": "100",
-      "contactName": "Agent",
-      "contactNumber": "9876543210",
-      "originalPrice": 10,
-      "discountedPrice": 5,
-      "discountPercentage": "50%"
-    },
-    {
-      "id": "2",
       "title": "Mumbai",
       "images": ["https://cdn.hootout.com/VidyBack-videos/Travel2.jpg"],
       "customerReview": "Best City",
@@ -487,7 +473,7 @@
       "discountPercentage": "50%"
     },
     {
-      "id": "3",
+      "id": "2",
       "title": "Mumbai square",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/ttsq1.jpg",
@@ -507,7 +493,7 @@
       "discountPercentage": "50%"
     },
     {
-      "id": "4",
+      "id": "3",
       "title": "Mumbai Post size",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/ttpc1.jpg",
