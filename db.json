@@ -1212,12 +1212,29 @@
   "financeTips":[
     {
     "id":"1",
-    "tip1":"Learn to Budget."
+    "tip1":"It's important to have a long-term investment strategy in place that aligns with your financial goals, risk tolerance, and time horizon."
     },
     {
       "id":"2",
-      "tip1":"Start an emergency fund and pay yourself every month."
-      }
+      "tip1":" Investing in low-cost index funds, which track the performance of the overall market, can provide broad exposure to the market and help you achieve market-like returns."
+    },
+    {
+      "id":"3",
+      "tip1":"Rather than getting caught up in short-term market fluctuations, focus on long-term trends and economic fundamentals."
+    },
+    {
+      "id":"4",
+      "tip1":"A financial advisor can help you develop a personalized investment strategy and provide guidance on how to navigate the market."
+    },
+    {
+      "id":"5",
+      "tip1":" Before investing in a particular stock, bond, or fund, do your research and make sure you understand the company or fund's financial health, management, and industry trends."
+    },
+    {
+      "id":"6",
+      "tip1":"Stick to your investment plan and avoid making impulsive decisions based on market fluctuations or emotions."
+    }
+    
 
   ]
 }
