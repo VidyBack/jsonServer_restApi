@@ -323,7 +323,7 @@
       "feature3": "Complimentary high-speed Wi-Fi"
     },
     {
-      "id": "3",
+      "id": "2",
       "title": "Interior",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/int.jpg",
@@ -338,60 +338,6 @@
       "location": "Kurla West",
       "price": "100",
       "contactName": "Agent",
-      "contactNumber": "9876543210",
-      "originalPrice": 10,
-      "discountedPrice": 5,
-      "discountPercentage": "50%"
-    },
-    {
-      "id": "4",
-      "title": "Bunglow",
-      "images": [
-        "https://cdn.hootout.com/VidyBack-videos/Bung.png",
-        "https://cdn.hootout.com/VidyBack-videos/Bung2.png",
-        "https://cdn.hootout.com/VidyBack-videos/Bung3.png",
-        "https://cdn.hootout.com/VidyBack-videos/Bung4.png"
-      ],
-      "customerReview": "Such a nice Bunglow",
-      "customerName": "User",
-      "location": "Kurla West",
-      "price": "100",
-      "contactName": "Agent",
-      "contactNumber": "9876543210",
-      "originalPrice": 10,
-      "discountedPrice": 5,
-      "discountPercentage": "50%"
-    },
-    {
-      "id": "5",
-      "title": "Flat",
-      "images": ["https://cdn.hootout.com/VidyBack-videos/flat.png"],
-      "customerReview": "Such a nice Flat",
-      "customerName": "User",
-      "location": "Kurla West",
-      "price": "100",
-      "contactName": "Agent2",
-      "contactNumber": "9876543210",
-      "originalPrice": 10,
-      "discountedPrice": 5,
-      "discountPercentage": "50%"
-    },
-    {
-      "id": "6",
-      "title": "Flat Square",
-      "images": [
-        "https://cdn.hootout.com/VidyBack-videos/re1.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/re2.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/re3.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/re4.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/re5.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/re6.jpg"
-      ],
-      "customerReview": "Such a nice Flat",
-      "customerName": "User",
-      "location": "Kurla West",
-      "price": "100",
-      "contactName": "Agent2",
       "contactNumber": "9876543210",
       "originalPrice": 10,
       "discountedPrice": 5,
