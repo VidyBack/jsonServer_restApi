@@ -414,6 +414,20 @@
       "description": "Register players for your team with a free Sports Registration",
       "date": "14-04-2023",
       "location": "3306 Stout Street, York, Pennsylvania, United States"
+    },
+    {
+      "id": "2",
+      "title":"Camelback plays Organization",
+      "description": "Register players for your team with a free Sports Registration",
+      "date": "15-04-2023",
+      "location": "392 Byers Lane,Blairsden,California, United States"
+    },
+    {
+      "id": "3",
+      "title":"Olympian Sports Organization",
+      "description": "Register players for your team with a free Sports Registration",
+      "date": "03-04-2023",
+      "location": "2990 Hampton Meadows, Cincinnati,Ohio, United States"
     }
   ],
   "sportsTips":[
@@ -595,11 +609,15 @@
   "educationTips": [
     {
       "id": "1",
-      "tip1":"Set yourself deadlines"
+      "tip1":"Use technology effectively: Leverage educational technology tools, such as online learning platforms, interactive apps, and digital resources, to supplement your learning. Take advantage of online tutorials, instructional videos, and educational websites to enhance your understanding of complex topics."
     },
     {
       "id": "2",
-      "tip1":"Improve Recall with Association"
+      "tip1":"Stay motivated: Find intrinsic motivation by connecting your studies to your personal interests and long-term goals. Celebrate small achievements along the way, and remind yourself of the benefits of education and the value it brings to your life."
+    },
+    {
+      "id": "3",
+      "tip1":"Set clear goals: Define what you want to achieve academically and set specific, realistic goals. Break them down into smaller tasks and create a plan to accomplish them."
     }
   ],
   "educationQuote": [
@@ -614,8 +632,7 @@
       "author":"Aristotle"
     }
   ],
-
-  "audioPodcasts":[
+ "audioPodcasts":[
   {
   "productName":"Podcast on Mobile Development",
   "authorName":"Jenifer Lowrence",
