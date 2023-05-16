@@ -181,7 +181,7 @@
     {
       "id": "1",
       "title": "new dish",
-      "images": [
+       "images": [
         "https://cdn.hootout.com/VidyBack-videos/food.jpg",
         "https://cdn.hootout.com/VidyBack-videos/food2.jpg",
         "https://cdn.hootout.com/VidyBack-videos/food3.jpg",
@@ -206,7 +206,7 @@
       "customerName": "rohan"
     },
     {
-      "id": "2",
+      "id": "3",
       "title": "MOST POPULAR",
       "productname": "Japnese sushi rolls",
       "images": ["https://cdn.hootout.com/VidyBack-videos/dish1.jpg",
@@ -223,7 +223,7 @@
       "customerName": "Yasmine"
     },
     {
-      "id": "1",
+      "id": "4",
       "title": "NEW DISH",
       "productname": "Soupy ramen",
       "images": [
@@ -323,27 +323,27 @@
   "estate": [
     {
       "id": "1",
-      "title": "Ocean View Villa",
+      "title": "Mi Casa Duplex Apartment ",
       "images": [
-        "https://cdn.hootout.com/VidyBack-videos/estate1.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/estate2.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/estate3.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/estate4.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/estate5.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/estate6.jpg"
+      "https://cdn.hootout.com/VidyBack-videos/estate1.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/estate2.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/estate3.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/estate4.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/estate5.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/estate6.jpg"
       ],
-      "customerReview": "Good location and everything worked well and was as described. Would definitely stay again.",
-      "customerName": "John",
+      "customerReview": "Bought a real estate property and am very happy. Smooth process with excellent service from the agent. Beautiful property with great location, spacious interior, and modern appliances. Highly recommend..",
+      "customerName": "John Doe",
       "location": "Miami",
-      "price": "$1000",
+      "price": "$1000000",
       "contactName": "Agent",
       "contactNumber": "987654xxxx",
-      "originalPrice": "$1000",
-      "discountedPrice": "$900",
+      "originalPrice": "$1000000",
+      "discountedPrice": "$90000",
       "discountPercentage": "10%",
       "feature1": "Brand new modern and stylish furniture with king size bed",
-      "feature2": "Room essentials such as towels, bed linens, pillows, body wash, shampoo, conditioner and toilet",
-      "feature3": "Complimentary high-speed Wi-Fi"
+      "feature2": "Terrace garden attached to the apartment",
+      "feature3": "Located at the center of the city"
     },
     {
       "id": "2",
@@ -365,6 +365,27 @@
       "originalPrice": 10,
       "discountedPrice": 5,
       "discountPercentage": "50%"
+    },
+    {
+      "id": "3",
+      "title": "Luxiourious Studio Apartment",
+      "images": [
+      "https://cdn.hootout.com/VidyBack-videos/int.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/int1.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/int2.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/int3.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/int4.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/int5.jpg"
+],
+"customerReview": "Beautifull surrounding",
+"customerName": "Samuel",
+"location": "Siolim,Goa",
+"price": "$450000",
+"contactName": "Agent",
+"contactNumber": "9876543210",
+"originalPrice":"$450000",
+"discountedPrice": "$440500",
+"discountPercentage": "6%"
     }
   ],
   "estateQuote": [
@@ -512,7 +533,49 @@
       "originalPrice": 10,
       "discountedPrice": 5,
       "discountPercentage": "50%"
-    }
+    },
+    {
+      "id": "4",
+      "title": "Bali Summer Package",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/bali1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/bali2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/bali3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/bali4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/bali5.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/bali6.jpg"
+      ],
+      "customerReview": "Bali is a beautiful and culturally rich destination that offers stunning beaches, delicious cuisine, and warm hospitality. Highly recommend for those seeking a relaxing and immersive travel experience.",
+      "customerName": "John Doe",
+      "location": "Bali",
+      "price": "$20555",
+      "contactName": "",
+      "contactNumber": "9876543210",
+      "originalPrice": "$250000",
+      "discountedPrice": "$242252",
+      "discountPercentage": "13%"
+      },
+      {
+        "id": "2",
+        "title": "Andaman Adventure Package",
+        "images": [
+          "https://cdn.hootout.com/VidyBack-videos/andaman1.jpg",
+          "https://cdn.hootout.com/VidyBack-videos/andaman2.jpg",
+          "https://cdn.hootout.com/VidyBack-videos/andaman3.jpg",
+          "https://cdn.hootout.com/VidyBack-videos/andaman4.jpg",
+          "https://cdn.hootout.com/VidyBack-videos/andaman5.jpg",
+          "https://cdn.hootout.com/VidyBack-videos/andaman6.jpg"
+        ],
+        "customerReview": "Andaman is a beautiful and culturally rich destination that offers stunning beaches, delicious cuisine, and warm hospitality. Highly recommend for those seeking a relaxing and immersive travel experience.",
+        "customerName": "John Doe",
+        "location": "Andaman Islands",
+        "price": "$20555",
+        "contactName": "",
+        "contactNumber": "9876543210",
+        "originalPrice": "$250000",
+        "discountedPrice": "$242252",
+        "discountPercentage": "13%"
+        }
   ],
   "travelQuote":[
    {
@@ -594,22 +657,34 @@
       "title":"Royals Sports Organization",
       "description": "Register players for your team with a free Sports Registration",
       "date": "14-04-2023",
-      "location": "3306 Stout Street, York, Pennsylvania, United States"
+      "location": "3306 Stout Street, York, Pennsylvania, United States",
+      "image":"https://cdn.hootout.com/VidyBack-videos/sports1.jpg"
     },
     {
       "id": "2",
       "title":"Camelback plays Organization",
       "description": "Register players for your team with a free Sports Registration",
       "date": "15-04-2023",
-      "location": "392 Byers Lane,Blairsden,California, United States"
+      "location": "392 Byers Lane,Blairsden,California, United States",
+      "image":"https://cdn.hootout.com/VidyBack-videos/sports2.jpg"
     },
     {
       "id": "3",
       "title":"Olympian Sports Organization",
       "description": "Register players for your team with a free Sports Registration",
       "date": "03-04-2023",
-      "location": "2990 Hampton Meadows, Cincinnati,Ohio, United States"
+      "location": "2990 Hampton Meadows, Cincinnati,Ohio, United States",
+      "image":"https://cdn.hootout.com/VidyBack-videos/sports3.jpg"
+    },
+    {
+      "id": "4",
+      "title":"Royals Sports Organization",
+      "description": "Register players for your team with a free Sports Registration",
+      "date": "14-04-2023",
+      "location": "3306 Stout Street, York, Pennsylvania, United States",
+      "image":"https://cdn.hootout.com/VidyBack-videos/sports1.jpg"
     }
+
   ],
   "sportsTips":[
     {
@@ -700,6 +775,13 @@
   "jobs": [
     {
       "id": "1",
+        "title": "Interior Designer",
+        "description": "We are seeking an experienced and creative interior designer to join our team. The successful candidate will work closely with clients to create functional and aesthetically pleasing interior spaces that meet their needs and preferences..",
+        "email": "mailto:john@greatesite.com",
+        "author": "Kuchnaya Technolabs"
+      },
+    {
+      "id": "2",
       "title":"Product Manager",
       "description": "Deeply understand Customer Support business and strategies, clarify business priorities for the cross-functional team, and set qualitative and quantitative objectives.",
       "email": "john@greatesite.com",
@@ -979,7 +1061,21 @@
   "updated_at":"2023/02/10",
   "NumberOfDays":"15",
   "storeName":"Pawstation ltd."
-  }
+  },
+  {
+    "id": " 2",
+    "title": "Security Software XZ",
+    "images": 
+    "https://cdn.hootout.com/VidyBack-videos/tech.jpg"
+    ,
+    "originalPrice": "$239",
+    "discountedPrice": "$220",
+    "discountPercentage": "8%",
+    "created_at": " 2023/01/09",
+    "updated_at": "2023/02/10",
+    "NumberOfDays": "15",
+    "storeName": "Pawstation ltd."
+    }
   ],
   "technologyTips": [
     {
@@ -1079,7 +1175,24 @@
   "feature1":"overall dental care for you",
   "feature2":"Teeth cleaning with polishing",
   "feature3":"Open from 10am to 10pm"
-  }
+  },
+  {
+    "id": " 2",
+    "title": "Puffer Pet Clinic",
+    "images": 
+    "https://cdn.hootout.com/VidyBack-videos/healthcare.jpg"
+    ,
+    "originalPrice": "$239",
+    "discountedPrice": "$220",
+    "discountPercentage": "8%",
+    "created_at": " 2023/01/09",
+    "updated_at": "2023/02/10",
+    "NumberOfDays": "15",
+    "storeName": "Pawstation ltd.",
+    "feature1": "Overall care for your pet",
+    "feature2": "Teeth cleaning with polishing",
+    "feature3": "Open from 10am to 10pm"
+    }
   ],
   "healthcareTips": [
     {
