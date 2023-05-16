@@ -204,6 +204,19 @@
       "discountPercentage": "10%",
       "customerReview": "Awesome Taste",
       "customerName": "rohan"
+    },
+    {
+      "id": "2",
+      "title": "MOST POPULAR",
+      "productname": "Japnese sushi rolls",
+      "images": [
+        
+      ],
+      "originalPrice": "$200",
+      "discountedPrice":"$185",
+      "discountPercentage": "10%",
+      "customerReview": "Had authentic Sushi at a local Japanese spot. Fish was rich, very fresh, and toppings added flavour. Presentation was impressive. Highly recommend for sushi lovers.",
+      "customerName": "Yasmine"
     }
   ],
   "foodQuote":[
@@ -821,7 +834,25 @@
       "id": "1",
       "title":"NBM Political Party",
       "authorName": "Jason Smith",
-      "message": "We believe in empowering the youth of today to care. We need to right to vote for change."
+      "message": "We believe in empowering the youth of today to care. We need to right to vote for change.",
+      "image":[
+        "https://cdn.hootout.com/VidyBack-videos/pol1.png",
+        "https://cdn.hootout.com/VidyBack-videos/pol2.png",
+        "https://cdn.hootout.com/VidyBack-videos/pol3.png",
+        "https://cdn.hootout.com/VidyBack-videos/pol4.png"
+      ]
+    },
+    {
+      "id": "2",
+      "title":"IBR Political Party",
+      "authorName": "Aristotle",
+      "message": "We believe in empowering the youth of today to care. We need to right to vote for change.",
+      "image":[
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.png",
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.png",
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.png",
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.png"
+      ]
     }
   ],
   "politicsQuote":[
@@ -1155,11 +1186,24 @@
   "legalLaw":[
   {
   "author":"Aido law firm",
-  "images":"https://cdn.hootout.com/VidyBack-videos/law1.jpg",
+  "images":[
+  "https://cdn.hootout.com/VidyBack-videos/law1.jpg",
+  "https://cdn.hootout.com/VidyBack-videos/law2.jpg",
+  "https://cdn.hootout.com/VidyBack-videos/law3.jpg"],
   "feature1":"Real Estate Lawyer",
   "feature2":"Divorce cases handlers",
   "feature3":"Legal disputes "
-  }
+ },
+{
+  "author":"Indian law firm",
+  "images":[
+  "https://cdn.hootout.com/VidyBack-videos/lawgrp1.jpg",
+  "https://cdn.hootout.com/VidyBack-videos/lawgrp2.jpg",
+  "https://cdn.hootout.com/VidyBack-videos/lawgrp3.jpg"],
+  "feature1":"Legal disputes Lawyer",
+  "feature2":"Real Estate",
+  "feature3":"Divorce cases handlers"
+ }
   ],
   "legalLawTips": [
     {
