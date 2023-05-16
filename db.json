@@ -170,8 +170,43 @@
       "id": "3",
       "quote": "You don't need a silver fork to eat good food.",
       "author": "Paul Prudhomme"
+     },
+     {
+      "id": "4",
+      "quote": "Let food be thy medicine and medicine be thy food.",
+      "author": "Hippocrates"
+     },
+     {
+      "id": "5",
+      "quote": "The food you eat can be either the safest and most powerful form of medicine or the slowest form of poison",
+      "author": "Ann Wigmore"
+     },
+     {
+      "id": "6",
+      "quote": "The food industry has known for decades that sugar, salt, and fat are addictive and have harmful effects on our health, but they continue to use them in their products because they sell.",
+      "author": "Mark Hyman"
+     },
+     {
+      "id": "7",
+      "quote": "Food, to me, is always about cooking and eating with those you love and care for.",
+      "author": "David Chang"
+     },
+     {
+      "id": "8",
+      "quote": "You are what you eat, so don't be fast, cheap, easy or fake.",
+      "author": " Unknown"
+     },
+     {
+      "id": "9",
+      "quote": "Food is not just about eating energy. It's about sharing knowledge, sharing stories, and sharing life.",
+      "author": " Unknown"
+     },
+     {
+      "id": "10",
+      "quote": "Your diet is a bank account. Good food choices are good investments.",
+      "author": "Bethenny Frankel"
      }
-  ],
+    ],
   "foodTips":[
     {
     "id":"1",
