@@ -974,6 +974,31 @@
       "id":"2",
       "quote":"A good laugh and a long sleep are the best cures in the doctor’s book.",
       "author":"Irish proverb"
+    },
+    {
+      "id":"3",
+      "quote":"Health is a state of complete physical, mental, and social well-being, not merely the absence of disease or infirmity.",
+      "author":"World Health Organization"
+    },
+    {
+      "id":"4",
+      "quote":"Medicine is a science of uncertainty and an art of probability.",
+      "author":"William Osler"
+    },
+    {
+      "id":"5",
+      "quote":"It is health that is the real wealth and not pieces of gold and silver.",
+      "author":"Mahatma Gandhi"
+    },
+    {
+      "id":"6",
+      "quote":"Healthcare is not just a privilege for a few, but a right for all.",
+      "author":"Richard Lamm"
+    },
+    {
+      "id":"7",
+      "quote":"The physician should not treat the disease, but the patient who is suffering from it.",
+      "author":"Maimonides"
     }
   ],
   "legalLaw":[
