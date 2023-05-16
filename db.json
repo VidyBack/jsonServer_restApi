@@ -715,16 +715,31 @@
       "quote": "Loyalty to country ALWAYS. Loyalty to government, when it deserves it.",
       "author": "Mark Twain"
     },
+   {
+      "id":"2",
+      "quote": "The ballot is stronger than the bullet.",
+      "author": " Abraham Lincoln"
+    },
     {
-      "id": "2",
-      "quote": "In politics, stupidity is not a handicap.",
-      "author": "Napoleon Bonaparte"
-     },
-     {
-      "id": "3",
-      "quote": "Politics have no relation to morals.",
-      "author": "Niccolo Machiavelli"
-     }
+      "id":"3",
+      "quote": "In a democracy, the power belongs to the people, and it is their responsibility to wield it.",
+      "author": "Barack Obama"
+    },
+    {
+      "id":"4",
+      "quote": "If you don't vote, you lose the right to complain.",
+      "author": "George Carlin"
+    },
+    {
+      "id":"5",
+      "quote": "Politics is too important to be left to the politicians",
+      "author": "Charles de Gaulle"
+    },
+    {
+      "id":"6",
+      "quote": "A good citizen is one who knows his or her rights and responsibilities as a member of a free society.",
+      "author": "Harry S. Truman"
+    }
   ],
   "pharmaceuticals":[
     {
@@ -945,15 +960,35 @@
     }
   ],
   "legalLawQuote": [
-    {
+     {
       "id": "1",
-      "quote": "There are not enough jails, not enough police, not enough courts, to enforce a law not supported by the people.",
-      "author": "Hubert H Humphrey"
+      "quote": "The law is reason, free from passion.",
+      "author": "Aristotle"
     },
     {
       "id": "2",
-      "quote": "The leading rule for the lawyer, as for the [person] of every calling, is diligence.",
+      "quote": "It is better to risk saving a guilty person than to condemn an innocent one.",
+      "author": "Voltaire"
+    },
+    {
+      "id": "3",
+      "quote": "The law is a profession that's designed to help people and to solve problems.",
       "author": "Abraham Lincoln"
+    },
+    {
+      "id": "4",
+      "quote": "The first duty of society is justice.",
+      "author": "Alexander Hamilton"
+    },
+    {
+      "id": "5",
+      "quote": "Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.",
+      "author": "Jonathan Swift"
+    },
+    {
+      "id": "6",
+      "quote": "Justice delayed is justice denied.",
+      "author": "William E. Gladstone"
     }
   ],
   "financeQuotes":[
