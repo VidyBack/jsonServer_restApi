@@ -1169,26 +1169,18 @@
   "legalLawTips": [
     {
       "id": "1",
-      "tip1":"Counsel should be involved in the selection of expert witnesses."
-    },
-    {
-      "id": "2",
-      "tip1":"Improve your chances of success at trial by fully preparing your experts."
-    },
-    {
-      "id": "3",
       "tip1":"Look for a lawyer who is licensed to practice law in your state and has no history of disciplinary action."
     },
     {
-      "id": "4",
+      "id": "2",
       "tip1":" Be clear and specific about your legal needs and expectations when speaking with your lawyer."
     },
     {
-      "id": "5",
+      "id": "3",
       "tip1":"Keep up-to-date on legal issues that affect you by reading news articles, attending seminars or webinars, or consulting with legal professionals."
     },
     {
-      "id": "6",
+      "id": "4",
       "tip1":"Understanding your rights and responsibilities under the law is essential."
     }
    
