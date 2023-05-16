@@ -240,16 +240,33 @@
   "foodTips":[
     {
     "id":"1",
-    "tip1":"Regularly consuming foods and drinks high in sugar increases your risk of obesity and tooth decay."
+    "tip1":"Check the restaurant's social media pages or website for any promotions or deals that may be available."
     },
     {
-    "id":"2",
-    "tip1":" Eat more fish, including a portion of oily fish."
+      "id":"2",
+      "tip1":"Sign up for loyalty programs: Joining loyalty programs can help you save money on your favorite restaurant meals."
     },
     {
       "id":"3",
-      "tip1":"Eat less salt: no more than 6g a day for adults"
+      "tip1":"Take advantage of happy hour: Many restaurants offer discounted drinks and food items during happy hour."
+    },
+    {
+      "id":"4",
+      "tip1":"Look for daily specials: Many restaurants offer daily specials on specific days of the week."
+     },
+    {
+      "id":"5",
+      "tip1":"Use coupons: Keep an eye out for coupons or promotional offers from restaurants. You may find these in local newspapers, coupon books, or online."
+    },
+    {
+      "id":"6",
+      "tip1":"Check for student discounts: If you're a student, be sure to check with the restaurant to see if they offer any deals."
+    },
+    {
+      "id":"7",
+      "tip1":"Share meals: Consider sharing a meal with a friend or family member to save money and reduce waste."
     }
+   
   ],
   "estate": [
     {
