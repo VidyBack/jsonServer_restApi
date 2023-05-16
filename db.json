@@ -892,9 +892,45 @@
     },
     {
       "id":"2",
-      "quote":"A good laugh and a long sleep are the best cures in the doctor’s book.",
+      "quote":"Technology is anything that wasn't around when you were born.",
+      "author":"Alan Kay"
+    },
+    {
+      "id":"3",
+      "quote":"The best way to predict the future is to invent it.",
       "author":"Irish proverb"
+    },
+    {
+      "id":"4",
+      "quote":"Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important.",
+      "author":"Bill Gates"
+    },
+    {
+      "id":"5",
+      "quote":"Innovation distinguishes between a leader and a follower.",
+      "author":"Steve Jobs"
+    },
+    {
+      "id":"6",
+      "quote":"Any sufficiently advanced technology is indistinguishable from magic.",
+      "author":"Arthur C. Clarke"
+    },
+    {
+      "id":"7",
+      "quote":"The only constant in the technology industry is change.",
+      "author":"Marc Benioff"
+    },
+    {
+      "id":"8",
+      "quote":"Technology is a useful servant but a dangerous master.",
+      "author":"Christian Lous Lange"
+    },
+    {
+      "id":"9",
+      "quote":"It's not about the technology, it's about the people behind it.",
+      "author":"Steven Spielberg"
     }
+    
   ],
   "healthcare":[
   {
