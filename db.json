@@ -182,12 +182,12 @@
       "id": "1",
       "title": "new dish",
       "images": [
-        "https://cdn.hootout.com/VidyBack-videos/food.png",
-        "https://cdn.hootout.com/VidyBack-videos/food2.png",
-        "https://cdn.hootout.com/VidyBack-videos/food3.png",
-        "https://cdn.hootout.com/VidyBack-videos/food4.png",
-        "https://cdn.hootout.com/VidyBack-videos/food5.png",
-        "https://cdn.hootout.com/VidyBack-videos/food6.png"
+        "https://cdn.hootout.com/VidyBack-videos/food.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/food2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/food3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/food4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/food5.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/food6.jpg"
       ],
       "originalPrice": 10,
       "discountedPrice": 5,
@@ -198,7 +198,7 @@
     {
       "id": "2",
       "title": "Platter",
-      "images": ["https://cdn.hootout.com/VidyBack-videos/food2.png"],
+      "images": ["https://cdn.hootout.com/VidyBack-videos/food2.jpg"],
       "originalPrice": 10,
       "discountedPrice": 5,
       "discountPercentage": "10%",
@@ -220,6 +220,25 @@
       "discountedPrice":"$185",
       "discountPercentage": "10%",
       "customerReview": "Had authentic Sushi at a local Japanese spot. Fish was rich, very fresh, and toppings added flavour. Presentation was impressive. Highly recommend for sushi lovers.",
+      "customerName": "Yasmine"
+    },
+    {
+      "id": "1",
+      "title": "NEW DISH",
+      "productname": "Soupy ramen",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/dish1.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/dish2.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/dish3.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/dish4.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/dish5.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/dish6.jpg"
+        
+      ],
+      "originalPrice": "$100",
+      "discountedPrice": "$85",
+      "discountPercentage": "10%",
+      "customerReview": "Had authentic Ramen at a local Japanese spot. Broth was rich, noodles perfect, and toppings added flavour. Presentation was impressive. Highly recommend for noodle soup lovers.",
       "customerName": "Yasmine"
     }
   ],
@@ -442,7 +461,7 @@
     {
       "id": "1",
       "title": "Trip to Mahabaleshwar",
-      "images": ["https://cdn.hootout.com/VidyBack-videos/Travel1.png"],
+      "images": ["https://cdn.hootout.com/VidyBack-videos/Travel1.jpg"],
       "customerReview": "Such a nice place",
       "customerName": "User",
       "location": "Mahabaleshwar",
@@ -456,7 +475,7 @@
     {
       "id": "2",
       "title": "Mumbai",
-      "images": ["https://cdn.hootout.com/VidyBack-videos/Travel2.png"],
+      "images": ["https://cdn.hootout.com/VidyBack-videos/Travel2.jpg"],
       "customerReview": "Best City",
       "customerName": "User",
       "location": "Kurla West",
@@ -786,10 +805,10 @@
       "authorName": "Jason Smith",
       "message": "We believe in empowering the youth of today to care. We need to right to vote for change.",
       "image":[
-        "https://cdn.hootout.com/VidyBack-videos/pol1.png",
-        "https://cdn.hootout.com/VidyBack-videos/pol2.png",
-        "https://cdn.hootout.com/VidyBack-videos/pol3.png",
-        "https://cdn.hootout.com/VidyBack-videos/pol4.png"
+        "https://cdn.hootout.com/VidyBack-videos/pol1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/pol2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/pol3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/pol4.jpg"
       ]
     },
     {
@@ -798,10 +817,10 @@
       "authorName": "Aristotle",
       "message": "We believe in empowering the youth of today to care. We need to right to vote for change.",
       "image":[
-        "https://cdn.hootout.com/VidyBack-videos/polgrp1.png",
-        "https://cdn.hootout.com/VidyBack-videos/polgrp1.png",
-        "https://cdn.hootout.com/VidyBack-videos/polgrp1.png",
-        "https://cdn.hootout.com/VidyBack-videos/polgrp1.png"
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg"
       ]
     }
   ],
