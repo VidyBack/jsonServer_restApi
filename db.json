@@ -717,7 +717,13 @@
       "title":"Product Manager",
       "description": "Deeply understand Customer Support business and strategies, clarify business priorities for the cross-functional team, and set qualitative and quantitative objectives.",
       "email": "john@greatesite.com",
-      "author": "Kuchnaya Technolabs"
+      "author": "Kuchnaya Technolabs",
+      "images":[
+        "https://cdn.hootout.com/VidyBack-videos/job1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/job2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/job3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/job4.jpg"
+      ]
     }
   ],
   "jobTips":[
