@@ -1102,6 +1102,22 @@
     {
       "id": "2",
       "tip1":"Exercise Regularly and Be Physically Active."
+    },
+    {
+      "id": "3",
+      "tip1":"When selecting an insurance plan, consider your healthcare needs, budget, and any pre-existing conditions."
+    },
+    {
+      "id": "4",
+      "tip1":"Not all healthcare providers charge the same rates for the same services. Shop around for healthcare services, such as medical procedures or prescription drugs, to find the best price."
+    },
+    {
+      "id": "5",
+      "tip1":"Don't be afraid to ask questions about your healthcare services, including the costs, benefits, and risks."
+    },
+    {
+      "id": "6",
+      "tip1":"Keep up-to-date on the latest healthcare news and trends, including changes to healthcare laws and regulations. "
     }
   ],
    "healthcareQuote": [
