@@ -761,15 +761,27 @@
   "jobTips":[
     {
     "id":"1",
-    "tip1":"Get clear on what you want"
+    "tip1":"Before you start your job search, it's important to have a clear idea of the type of job you're looking for and what you want to achieve in your career."
     },
     {
     "id":"2",
-    "tip1":"Develop examples and stories that showcase your skills"
+    "tip1":" Networking is a great way to connect with people in your industry and learn about job opportunities."
     },
     {
       "id":"3",
       "tip1":"Build, cultivate, and utilize your network of contacts"
+    },
+    {
+      "id":"4",
+      "tip1":"Send a thank-you email or note after a job interview to show your appreciation for the opportunity and reiterate your interest in the job."
+    },
+    {
+      "id":"5",
+      "tip1":" The job search process can be challenging, but it's important to stay positive and persistent."
+    },
+    {
+      "id":"6",
+      "tip1":"Your resume and cover letter are your first impression with potential employers, so make sure they're professional, error-free, and highlight your relevant skills and experience."
     }
   ],
   "jobQuote":[
