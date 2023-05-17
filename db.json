@@ -206,12 +206,12 @@
       "id": "3",
       "title": "Most Popular",
       "productname": "Japnese sushi rolls",
-      "images": ["https://cdn.hootout.com/VidyBack-videos/dish1.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/dish2.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/dish3.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/dish4.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/dish5.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/dish6.jpg"
+      "images": ["https://cdn.hootout.com/VidyBack-videos/rolls1.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/rolls1.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/rolls1.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/rolls1.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/rolls1.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/rolls1.jpg"
     ],
       "originalPrice": "$200",
       "discountedPrice":"$185",
@@ -224,12 +224,12 @@
       "title": "New Dish",
       "productname": "Soupy ramen",
       "images": [
-        "https://cdn.hootout.com/VidyBack-videos/dish1.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/dish2.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/dish3.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/dish4.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/dish5.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/dish6.jpg"
+        "https://cdn.hootout.com/VidyBack-videos/soupy1.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/soupy2.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/soupy3.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/soupy4.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/soupy5.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/soupy6.jpg"
         
       ],
       "originalPrice": "$100",
