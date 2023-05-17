@@ -476,7 +476,7 @@
    {
       "id": "1",
       "title": "Mumbai",
-      "images": ["https://cdn.hootout.com/VidyBack-videos/Travel2.jpg"],
+      "images": ["https://cdn.hootout.com/VidyBack-videos/Travel.jpg"],
       "customerReview": "Best City",
       "customerName": "User",
       "location": "Kurla West",
@@ -489,7 +489,7 @@
     },
     {
       "id": "2",
-      "title": "Mumbai square",
+      "title": "Delhi square",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/ttsq1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/ttsq2.jpg",
@@ -1060,7 +1060,7 @@
     "id": " 2",
     "title": "Security Software XZ",
     "images": 
-    "https://cdn.hootout.com/VidyBack-videos/tech.jpg"
+    ["https://cdn.hootout.com/VidyBack-videos/tech.jpg"]
     ,
     "originalPrice": "$239",
     "discountedPrice": "$220",
@@ -1174,7 +1174,7 @@
     "id": " 2",
     "title": "Puffer Pet Clinic",
     "images": 
-    "https://cdn.hootout.com/VidyBack-videos/healthcare.jpg"
+    ["https://cdn.hootout.com/VidyBack-videos/healthcare.jpg"]
     ,
     "originalPrice": "$239",
     "discountedPrice": "$220",
