@@ -362,14 +362,14 @@
     },
     {
       "id": "2",
-      "title": "Luxiourious Studio Apartment",
+      "title": "Moringa Villa in Mountains",
       "images": [
-      "https://cdn.hootout.com/VidyBack-videos/int.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/int1.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/int2.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/int3.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/int4.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/int5.jpg"
+      "https://cdn.hootout.com/VidyBack-videos/villa1.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/villa2.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/villa3.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/villa4.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/villa5.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/villa6.jpg"
 ],
 "customerReview": "Beautifull surrounding",
 "customerName": "Samuel",
@@ -379,7 +379,34 @@
 "contactNumber": "9876543210",
 "originalPrice":"$450000",
 "discountedPrice": "$440500",
-"discountPercentage": "6%"
+"discountPercentage": "6%",
+"feature1": "Brand new modern and stylish furniture with king size bed",
+"feature2": "Terrace garden attached to the apartment",
+"feature3": "Located at the center of the city"
+    },
+    {
+      "id": "3",
+      "title": "La Grande Maison Apartment ",
+      "images": [
+      "https://cdn.hootout.com/VidyBack-videos/estate1.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/estate2.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/estate3.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/estate4.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/estate5.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/estate6.jpg"
+      ],
+      "customerReview": "Bought a real estate property and am very happy. Smooth process with excellent service from the agent. Beautiful property with great location, spacious interior, and modern appliances. Highly recommend..",
+      "customerName": "Johny Dey",
+      "location": "Paris",
+      "price": "$3000000",
+      "contactName": "Agent",
+      "contactNumber": "998634xxxx",
+      "originalPrice": "$2000000",
+      "discountedPrice": "$80000",
+      "discountPercentage": "10%",
+      "feature1": "Brand new modern and stylish furniture with king size bed",
+      "feature2": "Terrace garden attached to the apartment",
+      "feature3": "Located at the center of the city"
     }
   ],
   "estateQuote": [
@@ -771,22 +798,44 @@
       "id": "1",
         "title": "Interior Designer",
         "description": "We are seeking an experienced and creative interior designer to join our team. The successful candidate will work closely with clients to create functional and aesthetically pleasing interior spaces that meet their needs and preferences..",
-        "email": "mailto:john@greatesite.com",
-        "author": "Kuchnaya Technolabs"
-      },
+        "email": "john@greatesite.com",
+        "author": "Kuchnaya Technolabs",
+        "images":[]
+  
+    },
     {
       "id": "2",
       "title":"Product Manager",
       "description": "Deeply understand Customer Support business and strategies, clarify business priorities for the cross-functional team, and set qualitative and quantitative objectives.",
       "email": "john@greatesite.com",
       "author": "Kuchnaya Technolabs",
-      "images":[
-        "https://cdn.hootout.com/VidyBack-videos/job1.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/job2.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/job3.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/job4.jpg"
-      ]
+      "images":[]
+    },
+    {
+      "id": "3",
+      "title":"Interior",
+      "description": "Client Communication: Maintain regular communication with clients throughout the design process. Present design proposals, incorporating feedback and revisions as necessary. Provide guidance and advice on design choices, keeping clients informed about project progress and timelines.",
+      "email": "john@greatesite.com",
+      "author": "Kuchnaya Technolabs",
+      "images":[]
+    },
+    {
+      "id": "4",
+      "title":"Tutor",
+      "description": "We are seeking a dedicated and knowledgeable Tutor to join our team. As a Tutor, you will play a vital role in providing academic support and guidance to students of various ages and skill levels.",
+      "email": "john@greatesite.com",
+      "author": "Kuchnaya Technolabs",
+      "images":[]
+    },
+    {
+      "id": "4",
+      "title":"Plumber",
+      "description": "We are seeking a skilled and experienced Plumber to join our team. As a Plumber, you will play a crucial role in installing, repairing, and maintaining plumbing systems in residential, commercial, and industrial settings.",
+      "email": "john@greatesite.com",
+      "author": "Kuchnaya Technolabs",
+      "images":[]
     }
+
   ],
   "jobTips":[
     {
