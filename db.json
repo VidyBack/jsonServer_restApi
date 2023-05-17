@@ -181,6 +181,7 @@
     {
       "id": "1",
       "title": "Most Favourite",
+      "productname":"Twinkies",
        "images": [
         "https://cdn.hootout.com/VidyBack-videos/dish5.jpg"
       ],
@@ -193,6 +194,7 @@
     {
       "id": "2",
       "title": "Platter",
+      "productname":"Cobb salad",
       "images": ["https://cdn.hootout.com/VidyBack-videos/dish2.jpg"],
       "originalPrice": 10,
       "discountedPrice": 5,
