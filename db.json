@@ -852,9 +852,7 @@
         "description": "We are seeking an experienced and creative interior designer to join our team. The successful candidate will work closely with clients to create functional and aesthetically pleasing interior spaces that meet their needs and preferences..",
         "email": "john@greatesite.com",
         "author": "Kuchnaya Technolabs"
-      
-  
-    },
+      },
     {
       "id": "2",
       "title":"Product Manager",
@@ -984,7 +982,43 @@
       "id": "2",
       "title":"IBR Political Party",
       "authorName": "Aristotle",
-      "message": "We believe in empowering the youth of today to care. We need to right to vote for change.",
+      "message": "We stand together as a political party, committed to building a better future for our nation.",
+      "image":[
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "title":"Indian Political Party",
+      "authorName": "Hubert H Humphrey",
+      "message": "we can bring positive change, empower our communities, and ensure a prosperous tomorrow. Join us in our mission to create a fair, inclusive, and prosperous society for all.",
+      "image":[
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "title":"ITR Political Party",
+      "authorName": "Arthur C. Clarke",
+      "message": "we can create a society that thrives on justice, innovation, and compassion. Join us as we embark on a transformative journey towards a better tomorrow.",
+      "image":[
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "title":"PBR Political Party",
+      "authorName": "Marc Benioff",
+      "message": "Our party stands firm in its commitment to champion the values that define us.",
       "image":[
         "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
