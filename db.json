@@ -1203,8 +1203,50 @@
     "created_at": " 2023/01/09",
     "updated_at": "2023/02/10",
     "NumberOfDays": "15",
-    "storeName": "Pawstation ltd."
-    }
+    "storeName": "EmpowerTech Ltd."
+  },
+  {
+    "id": "3",
+    "title": "PC Paradise",
+    "images": 
+    ["https://cdn.hootout.com/VidyBack-videos/tech1.jpg"]
+    ,
+    "originalPrice": "$339",
+    "discountedPrice": "$220",
+    "discountPercentage": "7%",
+    "created_at": " 2023/01/09",
+    "updated_at": "2023/02/10",
+    "NumberOfDays": "15",
+    "storeName": "Advantech Ltd."
+  },
+  {
+    "id": "4",
+    "title": "Circuit Central",
+    "images": 
+    ["https://cdn.hootout.com/VidyBack-videos/tech2.jpg"]
+    ,
+    "originalPrice": "$329",
+    "discountedPrice": "$250",
+    "discountPercentage": "9%",
+    "created_at": " 2023/04/06",
+    "updated_at": "2023/02/08",
+    "NumberOfDays": "25",
+    "storeName": "SwiftTech Ltd."
+  },
+  {
+    "id": "5",
+    "title": "ByteBazaar",
+    "images": 
+    ["https://cdn.hootout.com/VidyBack-videos/tech3.jpg"]
+    ,
+    "originalPrice": "$439",
+    "discountedPrice": "$320",
+    "discountPercentage": "8%",
+    "created_at": " 2023/01/09",
+    "updated_at": "2023/02/10",
+    "NumberOfDays": "20",
+    "storeName": "Kuchnaya Technolabs."
+  }
   ],
   "technologyTips": [
     {
