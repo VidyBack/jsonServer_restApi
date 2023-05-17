@@ -182,12 +182,7 @@
       "id": "1",
       "title": "new dish",
        "images": [
-        "https://cdn.hootout.com/VidyBack-videos/food.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/food2.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/food3.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/food4.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/food5.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/food6.jpg"
+        "https://cdn.hootout.com/VidyBack-videos/dish3.jpg"
       ],
       "originalPrice": 10,
       "discountedPrice": 5,
@@ -198,7 +193,7 @@
     {
       "id": "2",
       "title": "Platter",
-      "images": ["https://cdn.hootout.com/VidyBack-videos/food2.jpg"],
+      "images": ["https://cdn.hootout.com/VidyBack-videos/dish2.jpg"],
       "originalPrice": 10,
       "discountedPrice": 5,
       "discountPercentage": "10%",
