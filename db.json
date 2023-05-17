@@ -843,8 +843,8 @@
         "title": "Interior Designer",
         "description": "We are seeking an experienced and creative interior designer to join our team. The successful candidate will work closely with clients to create functional and aesthetically pleasing interior spaces that meet their needs and preferences..",
         "email": "john@greatesite.com",
-        "author": "Kuchnaya Technolabs",
-        "images":[]
+        "author": "Kuchnaya Technolabs"
+      
   
     },
     {
@@ -852,32 +852,32 @@
       "title":"Product Manager",
       "description": "Deeply understand Customer Support business and strategies, clarify business priorities for the cross-functional team, and set qualitative and quantitative objectives.",
       "email": "john@greatesite.com",
-      "author": "Kuchnaya Technolabs",
-      "images":[]
+      "author": "Kuchnaya Technolabs"
+      
     },
     {
       "id": "3",
       "title":"Interior",
       "description": "Client Communication: Maintain regular communication with clients throughout the design process. Present design proposals, incorporating feedback and revisions as necessary. Provide guidance and advice on design choices, keeping clients informed about project progress and timelines.",
       "email": "john@greatesite.com",
-      "author": "Kuchnaya Technolabs",
-      "images":[]
+      "author": "Kuchnaya Technolabs"
+     
     },
     {
       "id": "4",
       "title":"Tutor",
       "description": "We are seeking a dedicated and knowledgeable Tutor to join our team. As a Tutor, you will play a vital role in providing academic support and guidance to students of various ages and skill levels.",
       "email": "john@greatesite.com",
-      "author": "Kuchnaya Technolabs",
-      "images":[]
+      "author": "Kuchnaya Technolabs"
+      
     },
     {
-      "id": "4",
+      "id": "5",
       "title":"Plumber",
       "description": "We are seeking a skilled and experienced Plumber to join our team. As a Plumber, you will play a crucial role in installing, repairing, and maintaining plumbing systems in residential, commercial, and industrial settings.",
       "email": "john@greatesite.com",
-      "author": "Kuchnaya Technolabs",
-      "images":[]
+      "author": "Kuchnaya Technolabs"
+      
     }
 
   ],
