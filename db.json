@@ -180,9 +180,9 @@
   "food": [
     {
       "id": "1",
-      "title": "new dish",
+      "title": "Most Favourite",
        "images": [
-        "https://cdn.hootout.com/VidyBack-videos/dish3.jpg"
+        "https://cdn.hootout.com/VidyBack-videos/dish5.jpg"
       ],
       "originalPrice": 10,
       "discountedPrice": 5,
@@ -202,7 +202,7 @@
     },
     {
       "id": "3",
-      "title": "MOST POPULAR",
+      "title": "Most Popular",
       "productname": "Japnese sushi rolls",
       "images": ["https://cdn.hootout.com/VidyBack-videos/dish1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/dish2.jpg",
@@ -219,7 +219,7 @@
     },
     {
       "id": "4",
-      "title": "NEW DISH",
+      "title": "New Dish",
       "productname": "Soupy ramen",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/dish1.jpg",
@@ -235,7 +235,25 @@
       "discountPercentage": "10%",
       "customerReview": "Had authentic Ramen at a local Japanese spot. Broth was rich, noodles perfect, and toppings added flavour. Presentation was impressive. Highly recommend for noodle soup lovers.",
       "customerName": "Yasmine"
-    }
+    },
+    {
+      "id": "5",
+      "title": "New In Menu",
+      "productname": "Feta cheese salad",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/new1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/new2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/new3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/new4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/new5.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/new6.jpg"
+      ],
+      "originalPrice":"$200",
+      "discountedPrice":"$185",
+      "discountPercentage": "10%",
+      "customerReview": "Feta cheese salad had fresh greens, juicy tomatoes, and tangy red onions. The crumbled Feta cheese added a creamy, salty flavour. It was lightly dressed, and the portion size was perfect. Highly recommend for a refreshing and healthy meal or as a side dish.",
+      "customerName":"Yasmine"
+    }    
   ],
   "foodQuote":[
     {
