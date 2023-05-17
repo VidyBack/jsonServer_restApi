@@ -1492,6 +1492,39 @@
   "feature1":"Legal disputes Lawyer",
   "feature2":"Real Estate",
   "feature3":"Divorce cases handlers"
+ },
+ {
+  "id":"3",
+  "author":"Scott Turowrm",
+  "images":[
+  "https://cdn.hootout.com/VidyBack-videos/legal1.jpg"
+ 
+  ],
+  "feature1":"Legal disputes Lawyer",
+  "feature2":"Real Estate",
+  "feature3":"Divorce cases handlers"
+ },
+ {
+  "id":"4",
+  "author":"Truman Capote firm",
+  "images":[
+  "https://cdn.hootout.com/VidyBack-videos/legal2.jpg"
+  
+ ],
+  "feature1":"Legal disputes Lawyer",
+  "feature2":"Real Estate",
+  "feature3":"Divorce cases handlers"
+ },
+ {
+  "id":"5",
+  "author":"John Mortimer firm",
+  "images":[
+  
+  "https://cdn.hootout.com/VidyBack-videos/lawgrp2.jpg",
+  ],
+  "feature1":"Legal disputes Lawyer",
+  "feature2":"Real Estate",
+  "feature3":"Divorce cases handlers"
  }
   ],
   "legalLawTips": [
