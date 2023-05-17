@@ -1354,7 +1354,58 @@
     "feature1": "Overall care for your pet",
     "feature2": "Teeth cleaning with polishing",
     "feature3": "Open from 10am to 10pm"
-    }
+    },
+    {
+      "id": "3",
+      "title": "TeleMed Connect",
+      "images": 
+      ["https://cdn.hootout.com/VidyBack-videos/health1.jpg"]
+      ,
+      "originalPrice": "$439",
+      "discountedPrice": "$420",
+      "discountPercentage": "8%",
+      "created_at": " 2023/01/09",
+      "updated_at": "2023/02/10",
+      "NumberOfDays": "10",
+      "storeName": "TeleMed ltd.",
+      "feature1": "Offers virtual consultations with healthcare professionals via video or audio calls for medical assessments, advice, and treatment recommendations.",
+      "feature2": "Enables electronic prescriptions for medications, which can be conveniently delivered to the patient's doorstep or picked up at a local pharmacy.",
+      "feature3": "Timing: 10am to 10pm"
+      },
+      {
+        "id": "4",
+        "title": "GentleDent Family Dentistry",
+        "images": 
+        ["https://cdn.hootout.com/VidyBack-videos/health2.jpg"]
+        ,
+        "originalPrice": "$339",
+        "discountedPrice": "$320",
+        "discountPercentage": "8%",
+        "created_at": " 2023/01/09",
+        "updated_at": "2023/02/10",
+        "NumberOfDays": "15",
+        "storeName": "Dentistryltd.",
+        "feature1": "Overall care for your teeth",
+        "feature2": "Teeth cleaning with polishing",
+        "feature3": "Open from 10am to 10pm"
+        },
+        {
+          "id": "5",
+          "title": "RapidResponse Clinic",
+          "images": 
+          ["https://cdn.hootout.com/VidyBack-videos/health3.jpg"]
+          ,
+          "originalPrice": "$429",
+          "discountedPrice": "$329",
+          "discountPercentage": "9%",
+          "created_at": " 2023/01/09",
+          "updated_at": "2023/02/10",
+          "NumberOfDays": "10",
+          "storeName": "RapidResponse ltd.",
+          "feature1": "Safety Protocols: Strict adherence to infection control measures, including thorough sanitization,and social distancing, to ensure patient and staff safety.",
+          "feature2": "Collaboration with local health authorities to stay informed about guidelines, protocols, and resources.",
+          "feature3": "Open from 10am to 10pm"
+          }
   ],
   "healthcareTips": [
     {
