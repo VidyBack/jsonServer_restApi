@@ -362,27 +362,6 @@
     },
     {
       "id": "2",
-      "title": "Interior",
-      "images": [
-        "https://cdn.hootout.com/VidyBack-videos/int.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/int1.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/int2.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/int3.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/int4.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/int5.jpg"
-      ],
-      "customerReview": "Such a nice Bunglow",
-      "customerName": "User",
-      "location": "Kurla West",
-      "price": "100",
-      "contactName": "Agent",
-      "contactNumber": "9876543210",
-      "originalPrice": 10,
-      "discountedPrice": 5,
-      "discountPercentage": "50%"
-    },
-    {
-      "id": "3",
       "title": "Luxiourious Studio Apartment",
       "images": [
       "https://cdn.hootout.com/VidyBack-videos/int.jpg",
