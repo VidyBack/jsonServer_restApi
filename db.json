@@ -243,7 +243,10 @@
       "title": "Most Favourite",
       "productname":"Chicken",
        "images": [
-        "https://cdn.hootout.com/VidyBack-videos/dish5.jpg"
+        "https://cdn.hootout.com/VidyBack-videos/chicken1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/chicken2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/chicken3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/chicken4.jpg"
       ],
       "originalPrice": "$100",
       "discountedPrice": "$80",
