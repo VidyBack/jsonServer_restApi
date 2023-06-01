@@ -3,7 +3,14 @@
     {
       "id": "1",
       "title": "2019 Mercedes-Benz CLA",
-      "images": ["https://cdn.hootout.com/VidyBack-videos/benz2.jpeg","https://cdn.hootout.com/VidyBack-videos/benz1.jpeg","https://cdn.hootout.com/VidyBack-videos/benz3.jpeg","https://cdn.hootout.com/VidyBack-videos/benz4.jpeg","https://cdn.hootout.com/VidyBack-videos/benz5.jpeg","https://cdn.hootout.com/VidyBack-videos/benz6.jpeg","https://cdn.hootout.com/VidyBack-videos/benz7.jpeg","https://cdn.hootout.com/VidyBack-videos/benz8.jpeg"],
+      "images": ["https://cdn.hootout.com/VidyBack-videos/benz2.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/benz1.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/benz3.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/benz4.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/benz5.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/benz6.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/benz7.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/benz8.jpeg"],
       "customerReview": "We got a top notch car with a top notch experience. Our benz is our family's perfect new travel partner",
       "customerName": "Kapil Malhotra",
       "location": "Santacruz",
@@ -21,7 +28,11 @@
     {
       "id": "2",
       "title": "2021 Jeep Compass",
-      "images": ["https://cdn.hootout.com/VidyBack-videos/Jeep1.jpeg","https://cdn.hootout.com/VidyBack-videos/Jeep2.jpeg","https://cdn.hootout.com/VidyBack-videos/Jeep3.jpeg","https://cdn.hootout.com/VidyBack-videos/Jeep4.jpeg","https://cdn.hootout.com/VidyBack-videos/Jeep5.jpeg"],
+      "images": ["https://cdn.hootout.com/VidyBack-videos/Jeep1.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/Jeep2.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/Jeep3.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/Jeep4.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/Jeep5.jpeg"],
       "customerReview": "Jeep Compass offer a comfortable and convenient way to travel and enjoy the great outdoors.",
       "customerName": "Anish Jhaveri",
       "location": "Santacruz",
@@ -39,7 +50,13 @@
     {
       "id": "3",
       "title": "2017 Mercedes-Benz C-Class",
-      "images": ["https://cdn.hootout.com/VidyBack-videos/benzW1.jpeg","https://cdn.hootout.com/VidyBack-videos/benzW2.jpeg","https://cdn.hootout.com/VidyBack-videos/benzW3.jpeg","https://cdn.hootout.com/VidyBack-videos/benzW4.jpeg","https://cdn.hootout.com/VidyBack-videos/benzW5.jpeg","https://cdn.hootout.com/VidyBack-videos/benzW6.jpeg","https://cdn.hootout.com/VidyBack-videos/benzW7.jpeg"],
+      "images": ["https://cdn.hootout.com/VidyBack-videos/benzW1.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/benzW2.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/benzW3.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/benzW4.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/benzW5.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/benzW6.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/benzW7.jpeg"],
       "customerReview": "We got a great car, approved by all generations of our family.",
       "customerName": "Tom",
       "location": "Las Vegas",
@@ -57,7 +74,13 @@
     {
       "id": "4",
       "title": "2018 BMW 3 Series",
-      "images": ["https://cdn.hootout.com/VidyBack-videos/bmw1.jpeg","https://cdn.hootout.com/VidyBack-videos/bmw2.jpeg","https://cdn.hootout.com/VidyBack-videos/bmw3.jpeg","https://cdn.hootout.com/VidyBack-videos/bmw4.jpeg","https://cdn.hootout.com/VidyBack-videos/bmw5.jpeg","https://cdn.hootout.com/VidyBack-videos/bmw6.jpeg","https://cdn.hootout.com/VidyBack-videos/bmw7.jpeg"],
+      "images": ["https://cdn.hootout.com/VidyBack-videos/bmw1.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/bmw2.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/bmw3.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/bmw4.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/bmw5.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/bmw6.jpeg",
+      "https://cdn.hootout.com/VidyBack-videos/bmw7.jpeg"],
       "customerReview": "We got a great car, approved by all generations of our family.",
       "customerName": "Simran Gujral",
       "location": "Santacruz",
@@ -180,41 +203,6 @@
   "food": [
     {
       "id": "1",
-      "title": "Most Favourite",
-      "productname":"Twinkies",
-       "images": [
-        "https://cdn.hootout.com/VidyBack-videos/dish5.jpg"
-      ],
-      "originalPrice": "$100",
-      "discountedPrice": "$80",
-      "discountPercentage": "20%",
-      "customerReview": "love the food",
-      "customerName": "Jasly"
-    },
-    {
-      "id": "2",
-      "title": "Platter",
-      "productname":"Thukpa",
-      "images": ["https://cdn.hootout.com/VidyBack-videos/dish2.jpg"],
-      "originalPrice": "$100",
-      "discountedPrice": "$80",
-      "discountPercentage": "20%",
-      "customerReview": "Awesome Taste",
-      "customerName": "Aly"
-    },
-    {
-      "id": "3",
-      "title": "Most Popular",
-      "productname": "Japnese sushi rolls",
-      "images": ["https://cdn.hootout.com/VidyBack-videos/rolls1.jpg"],
-      "originalPrice": "$100",
-      "discountedPrice":"$80",
-      "discountPercentage": "20%",
-      "customerReview": "Had authentic Sushi at a local Japanese spot. Fish was rich, very fresh, and toppings added flavour. Presentation was impressive. Highly recommend for sushi lovers.",
-      "customerName": "Yasmine"
-    },
-    {
-      "id": "4",
       "title": "New Dish",
       "productname": "Soupy ramen",
       "images": [
@@ -233,7 +221,7 @@
       "customerName": "Yasmine"
     },
     {
-      "id": "5",
+      "id": "2",
       "title": "New In Menu",
       "productname": "Feta cheese salad",
       "images": [
@@ -249,7 +237,43 @@
       "discountPercentage": "20%",
       "customerReview": "Feta cheese salad had fresh greens, juicy tomatoes, and tangy red onions. The crumbled Feta cheese added a creamy, salty flavour. It was lightly dressed, and the portion size was perfect. Highly recommend for a refreshing and healthy meal or as a side dish.",
       "customerName":"Yasmine"
-    }    
+    } ,  
+    {
+      "id": "4",
+      "title": "Most Favourite",
+      "productname":"Twinkies",
+       "images": [
+        "https://cdn.hootout.com/VidyBack-videos/dish5.jpg"
+      ],
+      "originalPrice": "$100",
+      "discountedPrice": "$80",
+      "discountPercentage": "20%",
+      "customerReview": "love the food",
+      "customerName": "Jasly"
+    },
+    {
+      "id": "5",
+      "title": "Platter",
+      "productname":"Thukpa",
+      "images": ["https://cdn.hootout.com/VidyBack-videos/dish2.jpg"],
+      "originalPrice": "$100",
+      "discountedPrice": "$80",
+      "discountPercentage": "20%",
+      "customerReview": "Awesome Taste",
+      "customerName": "Aly"
+    },
+    {
+      "id": "6",
+      "title": "Most Popular",
+      "productname": "Japnese sushi rolls",
+      "images": ["https://cdn.hootout.com/VidyBack-videos/rolls1.jpg"],
+      "originalPrice": "$100",
+      "discountedPrice":"$80",
+      "discountPercentage": "20%",
+      "customerReview": "Had authentic Sushi at a local Japanese spot. Fish was rich, very fresh, and toppings added flavour. Presentation was impressive. Highly recommend for sushi lovers.",
+      "customerName": "Yasmine"
+    }
+   
   ],
   "foodQuote":[
     {
@@ -348,7 +372,7 @@
       "contactName": "Agent",
       "contactNumber": "987654xxxx",
       "originalPrice": "$3000",
-      "discountedPrice": "$600",
+      "discountedPrice": "$2530",
       "discountPercentage": "3%",
       "feature1": "Brand new modern and stylish furniture with king size bed",
       "feature2": "Terrace garden attached to the apartment",
@@ -372,7 +396,7 @@
 "contactName": "Agent",
 "contactNumber": "9876543210",
 "originalPrice":"$3000",
-"discountedPrice": "$600",
+"discountedPrice": "$2530",
 "discountPercentage": "3%",
 "feature1": "Brand new modern and stylish furniture with king size bed",
 "feature2": "Terrace garden attached to the apartment",
@@ -396,7 +420,7 @@
       "contactName": "Agent",
       "contactNumber": "998634xxxx",
       "originalPrice": "$3000",
-      "discountedPrice": "$600",
+      "discountedPrice": "$2530",
       "discountPercentage": "3%",
       "feature1": "Brand new modern and stylish furniture with king size bed",
       "feature2": "Terrace garden attached to the apartment",
@@ -414,11 +438,11 @@
       "customerReview": "Bought a real estate property and am very happy. Smooth process with excellent service from the agent. Beautiful property with great location, spacious interior, and modern appliances. Highly recommend..",
       "customerName": "Emanual Dey",
       "location": "Goa",
-      "price": "$2000000",
+      "price": "$3000",
       "contactName": "Agent",
       "contactNumber": "954624xxxx",
       "originalPrice": "$3000",
-      "discountedPrice": "$600",
+      "discountedPrice": "$2530",
       "discountPercentage": "3%",
       "feature1": "Brand new modern and stylish furniture with king size bed",
       "feature2": "Terrace garden attached to the apartment",
@@ -440,7 +464,7 @@
       "contactName": "Agent",
       "contactNumber": "954624xxxx",
       "originalPrice": "$3000",
-      "discountedPrice": "$600",
+      "discountedPrice": "$2530",
       "discountPercentage": "3%",
       "feature1": "Brand new modern and stylish furniture with king size bed",
       "feature2": "Terrace garden attached to the apartment",
@@ -538,22 +562,9 @@
    
   ],
   "travel": [
-   {
-      "id": "1",
-      "title": "Mumbai",
-      "images": ["https://cdn.hootout.com/VidyBack-videos/mumbai.jpg"],
-      "customerReview": "Best City",
-      "customerName": "User",
-      "location": "Kurla West",
-      "price": "$800",
-      "contactName": "Agent2",
-      "contactNumber": "9876543210",
-      "originalPrice": "$800",
-      "discountedPrice": "$640",
-      "discountPercentage": "8%"
-    },
+   
     {
-      "id": "2",
+      "id": "1",
       "title": "Delhi square",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/ttsq1.jpg",
@@ -573,7 +584,7 @@
       "discountPercentage": "8%"
     },
     {
-      "id": "3",
+      "id": "2",
       "title": "Nature Post size",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/ttpc1.jpg",
@@ -594,7 +605,7 @@
       "discountPercentage": "8%"
     },
     {
-      "id": "4",
+      "id": "3",
       "title": "Bali Summer Package",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/bali1.jpg",
@@ -615,7 +626,7 @@
       "discountPercentage": "8%"
       },
       {
-        "id": "5",
+        "id": "4",
         "title": "Andaman Adventure Package",
         "images": [
           "https://cdn.hootout.com/VidyBack-videos/andaman1.jpg",
@@ -634,6 +645,20 @@
         "originalPrice": "$800",
         "discountedPrice": "$640",
         "discountPercentage": "8%"
+        },
+        {
+          "id": "5",
+          "title": "Mumbai",
+          "images": ["https://cdn.hootout.com/VidyBack-videos/mumbai.jpg"],
+          "customerReview": "Best City",
+          "customerName": "User",
+          "location": "Kurla West",
+          "price": "$800",
+          "contactName": "Agent2",
+          "contactNumber": "9876543210",
+          "originalPrice": "$800",
+          "discountedPrice": "$640",
+          "discountPercentage": "8%"
         }
   ],
   "travelQuote":[
@@ -1056,8 +1081,8 @@
               "https://cdn.hootout.com/VidyBack-videos/med6.jpg",
               "https://cdn.hootout.com/VidyBack-videos/med7.jpg"
             ],
-    "originalPrice":"$6",
-    "discountedPrice":"$5.4",
+    "originalPrice":"$60",
+    "discountedPrice":"$58",
     "discountPercentage":"2%",
     "created_at":"2023/02/27",
     "updated_at":"2023/02/27",
@@ -1075,9 +1100,9 @@
               "https://cdn.hootout.com/VidyBack-videos/fmcg4.jpg",
               "https://cdn.hootout.com/VidyBack-videos/fmcg5.jpg",
               "https://cdn.hootout.com/VidyBack-videos/fmcg6.jpg"],
-    "originalPrice":"$239",
+    "originalPrice":"$300",
     "discountedPrice":"$220",
-    "discountPercentage":"8%",
+    "discountPercentage":"18%",
     "created_at":" 2023/01/09",
     "updated_at":"2023/02/10",
     "storeName":"Pawstation ltd.",
