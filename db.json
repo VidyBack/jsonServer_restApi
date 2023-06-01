@@ -19,7 +19,7 @@
       "contactNumber": "971-089-7108",
       "originalPrice": "$1500",
       "discountedPrice": "$900",
-      "discountPercentage": "6%",
+      "discountPercentage": "6% OFF",
       "desc": "Mercedes-Benz CLA is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
       "feature1": "Cruise control",
       "feature2": "Sunroof",
@@ -41,7 +41,7 @@
       "contactNumber": "971-089-7108",
       "originalPrice": "$1500",
       "discountedPrice": "$900",
-      "discountPercentage": "6%",
+      "discountPercentage": "6% OFF",
       "desc": "Jeep Compass is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
       "feature1": "Anti-glare mirrors",
       "feature2": "Wireless Phone Charging",
@@ -65,7 +65,7 @@
       "contactNumber": "971-089-7108",
       "originalPrice": "$1500",
       "discountedPrice": "$900",
-      "discountPercentage": "6%",
+      "discountPercentage": "6% OFF",
       "desc": "Mercedes-Benz C-Classs is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
       "feature1": "Seat lumbar support",
       "feature2": "Integrated (in-dash) music system",
@@ -89,7 +89,7 @@
       "contactNumber": "971-089-7108",
       "originalPrice": "$1500",
       "discountedPrice": "$900",
-      "discountPercentage": "6%",
+      "discountPercentage": "6% OFF",
       "desc": "BMW 3 Series is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
       "feature1": "Keyless start",
       "feature2": "Touch screen infotainment system",
@@ -216,7 +216,7 @@
       ],
       "originalPrice": "$100",
       "discountedPrice": "$80",
-      "discountPercentage": "20%",
+      "discountPercentage": "20% OFF",
       "customerReview": "Had authentic Ramen at a local Japanese spot. Broth was rich, noodles perfect, and toppings added flavour. Presentation was impressive. Highly recommend for noodle soup lovers.",
       "customerName": "Yasmine"
     },
@@ -234,20 +234,20 @@
       ],
       "originalPrice":"$100",
       "discountedPrice":"$80",
-      "discountPercentage": "20%",
+      "discountPercentage": "20% OFF",
       "customerReview": "Feta cheese salad had fresh greens, juicy tomatoes, and tangy red onions. The crumbled Feta cheese added a creamy, salty flavour. It was lightly dressed, and the portion size was perfect. Highly recommend for a refreshing and healthy meal or as a side dish.",
       "customerName":"Yasmine"
     } ,  
     {
       "id": "4",
       "title": "Most Favourite",
-      "productname":"Twinkies",
+      "productname":"Chicken",
        "images": [
         "https://cdn.hootout.com/VidyBack-videos/dish5.jpg"
       ],
       "originalPrice": "$100",
       "discountedPrice": "$80",
-      "discountPercentage": "20%",
+      "discountPercentage": "20% OFF",
       "customerReview": "love the food",
       "customerName": "Jasly"
     },
@@ -258,7 +258,7 @@
       "images": ["https://cdn.hootout.com/VidyBack-videos/dish2.jpg"],
       "originalPrice": "$100",
       "discountedPrice": "$80",
-      "discountPercentage": "20%",
+      "discountPercentage": "20% OFF",
       "customerReview": "Awesome Taste",
       "customerName": "Aly"
     },
@@ -269,7 +269,7 @@
       "images": ["https://cdn.hootout.com/VidyBack-videos/rolls1.jpg"],
       "originalPrice": "$100",
       "discountedPrice":"$80",
-      "discountPercentage": "20%",
+      "discountPercentage": "20% OFF",
       "customerReview": "Had authentic Sushi at a local Japanese spot. Fish was rich, very fresh, and toppings added flavour. Presentation was impressive. Highly recommend for sushi lovers.",
       "customerName": "Yasmine"
     }
@@ -373,7 +373,7 @@
       "contactNumber": "987654xxxx",
       "originalPrice": "$3000",
       "discountedPrice": "$2530",
-      "discountPercentage": "3%",
+      "discountPercentage": "3% OFF",
       "feature1": "Brand new modern and stylish furniture with king size bed",
       "feature2": "Terrace garden attached to the apartment",
       "feature3": "Located at the center of the city"
@@ -397,7 +397,7 @@
 "contactNumber": "9876543210",
 "originalPrice":"$3000",
 "discountedPrice": "$2530",
-"discountPercentage": "3%",
+"discountPercentage": "3% OFF",
 "feature1": "Brand new modern and stylish furniture with king size bed",
 "feature2": "Terrace garden attached to the apartment",
 "feature3": "Located at the center of the city"
@@ -421,7 +421,7 @@
       "contactNumber": "998634xxxx",
       "originalPrice": "$3000",
       "discountedPrice": "$2530",
-      "discountPercentage": "3%",
+      "discountPercentage": "3% OFF",
       "feature1": "Brand new modern and stylish furniture with king size bed",
       "feature2": "Terrace garden attached to the apartment",
       "feature3": "Located at the center of the city"
@@ -443,7 +443,7 @@
       "contactNumber": "954624xxxx",
       "originalPrice": "$3000",
       "discountedPrice": "$2530",
-      "discountPercentage": "3%",
+      "discountPercentage": "3% OFF",
       "feature1": "Brand new modern and stylish furniture with king size bed",
       "feature2": "Terrace garden attached to the apartment",
       "feature3": "Located at the center of the city"
@@ -465,7 +465,7 @@
       "contactNumber": "954624xxxx",
       "originalPrice": "$3000",
       "discountedPrice": "$2530",
-      "discountPercentage": "3%",
+      "discountPercentage": "3% OFF",
       "feature1": "Brand new modern and stylish furniture with king size bed",
       "feature2": "Terrace garden attached to the apartment",
       "feature3": "Located at the center of the city"
@@ -581,7 +581,7 @@
       "contactNumber": "9876543210",
       "originalPrice": "$800",
       "discountedPrice": "$640",
-      "discountPercentage": "8%"
+      "discountPercentage": "8% OFF"
     },
     {
       "id": "2",
@@ -602,7 +602,7 @@
       "contactNumber": "9876543210",
       "originalPrice": "$800",
       "discountedPrice": "$640",
-      "discountPercentage": "8%"
+      "discountPercentage": "8% OFF"
     },
     {
       "id": "3",
@@ -623,7 +623,7 @@
       "contactNumber": "9876543210",
       "originalPrice": "$800",
       "discountedPrice": "$640",
-      "discountPercentage": "8%"
+      "discountPercentage": "8% OFF"
       },
       {
         "id": "4",
@@ -644,7 +644,7 @@
         "contactNumber": "9876543210",
         "originalPrice": "$800",
         "discountedPrice": "$640",
-        "discountPercentage": "8%"
+        "discountPercentage": "8% OFF"
         },
         {
           "id": "5",
@@ -658,7 +658,7 @@
           "contactNumber": "9876543210",
           "originalPrice": "$800",
           "discountedPrice": "$640",
-          "discountPercentage": "8%"
+          "discountPercentage": "8% OFF"
         }
   ],
   "travelQuote":[
@@ -1083,7 +1083,7 @@
             ],
     "originalPrice":"$60",
     "discountedPrice":"$58",
-    "discountPercentage":"2%",
+    "discountPercentage":"2% OFF",
     "created_at":"2023/02/27",
     "updated_at":"2023/02/27",
     "storeName":"Wellness Forever",
@@ -1102,7 +1102,7 @@
               "https://cdn.hootout.com/VidyBack-videos/fmcg6.jpg"],
     "originalPrice":"$300",
     "discountedPrice":"$220",
-    "discountPercentage":"18%",
+    "discountPercentage":"18% OFF",
     "created_at":" 2023/01/09",
     "updated_at":"2023/02/10",
     "storeName":"Pawstation ltd.",
@@ -1195,7 +1195,7 @@
             "https://cdn.hootout.com/VidyBack-videos/technology6.jpg"],
   "originalPrice":"$250",
   "discountedPrice":"$220",
-  "discountPercentage":"3%",
+  "discountPercentage":"3% OFF",
   "created_at":" 2023/01/09",
   "updated_at":"2023/02/10",
   "NumberOfDays":"15",
@@ -1223,7 +1223,7 @@
     ,
     "originalPrice": "$259",
     "discountedPrice": "$220",
-    "discountPercentage": "3%",
+    "discountPercentage": "3% OFF",
     "created_at": " 2023/01/09",
     "updated_at": "2023/02/10",
     "NumberOfDays": "15",
@@ -1251,7 +1251,7 @@
     ,
     "originalPrice": "$259",
     "discountedPrice": "$220",
-    "discountPercentage": "3%",
+    "discountPercentage": "3% OFF",
     "created_at": " 2023/01/09",
     "updated_at": "2023/02/10",
     "NumberOfDays": "20",
@@ -1348,7 +1348,7 @@
             "https://cdn.hootout.com/VidyBack-videos/healthcare6.jpg"],
   "originalPrice":"$550",
   "discountedPrice":"$120",
-  "discountPercentage":"12%",
+  "discountPercentage":"12% OFF",
   "created_at":" 2023/01/09",
   "updated_at":"2023/02/10",
   "NumberOfDays":"15",
@@ -1365,7 +1365,7 @@
     ,
     "originalPrice": "$550",
     "discountedPrice": "$120",
-    "discountPercentage": "12%",
+    "discountPercentage": "12% OFF",
     "created_at": " 2023/01/09",
     "updated_at": "2023/02/10",
     "NumberOfDays": "15",
@@ -1382,7 +1382,7 @@
       ,
       "originalPrice": "$550",
       "discountedPrice": "$120",
-      "discountPercentage": "12%",
+      "discountPercentage": "12% OFF",
       "created_at": " 2023/01/09",
       "updated_at": "2023/02/10",
       "NumberOfDays": "10",
@@ -1399,7 +1399,7 @@
         ,
         "originalPrice": "$550",
         "discountedPrice": "$120",
-        "discountPercentage": "12%",
+        "discountPercentage": "12% OFF",
         "created_at": " 2023/01/09",
         "updated_at": "2023/02/10",
         "NumberOfDays": "15",
@@ -1416,7 +1416,7 @@
           ,
           "originalPrice": "$550",
           "discountedPrice": "$120",
-          "discountPercentage": "12%",
+          "discountPercentage": "12% OFF",
           "created_at": " 2023/01/09",
           "updated_at": "2023/02/10",
           "NumberOfDays": "10",
