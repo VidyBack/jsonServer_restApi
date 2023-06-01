@@ -396,7 +396,7 @@
       "https://cdn.hootout.com/VidyBack-videos/villa5.jpg",
       "https://cdn.hootout.com/VidyBack-videos/villa6.jpg"
 ],
-"customerReview": "Beautifull surrounding",
+"customerReview": "Bought a real estate property and am very happy. Smooth process with excellent service from the agent. Beautiful property with great location, spacious interior, and modern appliances. Highly recommend.",
 "customerName": "Samuel",
 "location": "Siolim,Goa",
 "price": "$35000",
@@ -573,14 +573,14 @@
     {
       "id": "1",
       "title": "Delhi square",
-      "images": [
+      "images":[
         "https://cdn.hootout.com/VidyBack-videos/ttsq1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/ttsq2.jpg",
         "https://cdn.hootout.com/VidyBack-videos/ttsq3.jpg",
         "https://cdn.hootout.com/VidyBack-videos/ttsq4.jpg",
         "https://cdn.hootout.com/VidyBack-videos/ttsq5.jpg"
       ],
-      "customerReview": "Best City",
+      "customerReview":"Delhi is a beautiful and culturally rich destination, delicious cuisine, and warm hospitality. Highly recommend for those seeking a relaxing and immersive travel experience.",
       "customerName": "User",
       "location": "Kurla West",
       "price": "$800",
@@ -590,29 +590,9 @@
       "discountedPrice": "$640",
       "discountPercentage": "8% OFF"
     },
+   
     {
       "id": "2",
-      "title": "Nature Post size",
-      "images": [
-        "https://cdn.hootout.com/VidyBack-videos/ttpc1.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/ttpc2.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/ttpc3.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/ttpc4.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/ttpc5.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/ttpc6.jpg"
-      ],
-      "customerReview": "Best City",
-      "customerName": "User",
-      "location": "Kurla West",
-      "price": "$800",
-      "contactName": "Agent2",
-      "contactNumber": "9876543210",
-      "originalPrice": "$800",
-      "discountedPrice": "$640",
-      "discountPercentage": "8% OFF"
-    },
-    {
-      "id": "3",
       "title": "Bali Summer Package",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/bali1.jpg",
@@ -633,7 +613,7 @@
       "discountPercentage": "8% OFF"
       },
       {
-        "id": "4",
+        "id": "3",
         "title": "Andaman Adventure Package",
         "images": [
           "https://cdn.hootout.com/VidyBack-videos/andaman1.jpg",
@@ -654,10 +634,10 @@
         "discountPercentage": "8% OFF"
         },
         {
-          "id": "5",
+          "id": "4",
           "title": "Mumbai",
           "images": ["https://cdn.hootout.com/VidyBack-videos/mumbai.jpg"],
-          "customerReview": "Best City",
+          "customerReview": "Mumbai is well served by buses from destinations inside India. National highway numbers 3, 4, 6, 8, 9, 17, and the Mumbai-Pune expressway radiate from the city providing links to all parts of the country.",
           "customerName": "User",
           "location": "Kurla West",
           "price": "$800",
