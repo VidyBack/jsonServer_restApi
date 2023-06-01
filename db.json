@@ -256,6 +256,20 @@
     },
     {
       "id": "5",
+      "title": "Most Popular",
+      "productname": "Japnese sushi rolls",
+      "images": ["https://cdn.hootout.com/VidyBack-videos/rolls1.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/sushiroll1.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/sushiroll2.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/sushiroll3.jpg"],
+      "originalPrice": "$100",
+      "discountedPrice":"$80",
+      "discountPercentage": "20% OFF",
+      "customerReview": "Had authentic Sushi at a local Japanese spot. Fish was rich, very fresh, and toppings added flavour. Presentation was impressive. Highly recommend for sushi lovers.",
+      "customerName": "Yasmine"
+    },
+    {
+      "id": "6",
       "title": "Platter",
       "productname":"Thukpa",
       "images": ["https://cdn.hootout.com/VidyBack-videos/dish2.jpg"],
@@ -264,18 +278,8 @@
       "discountPercentage": "20% OFF",
       "customerReview": "Awesome Taste",
       "customerName": "Aly"
-    },
-    {
-      "id": "6",
-      "title": "Most Popular",
-      "productname": "Japnese sushi rolls",
-      "images": ["https://cdn.hootout.com/VidyBack-videos/rolls1.jpg"],
-      "originalPrice": "$100",
-      "discountedPrice":"$80",
-      "discountPercentage": "20% OFF",
-      "customerReview": "Had authentic Sushi at a local Japanese spot. Fish was rich, very fresh, and toppings added flavour. Presentation was impressive. Highly recommend for sushi lovers.",
-      "customerName": "Yasmine"
     }
+   
    
   ],
   "foodQuote":[
