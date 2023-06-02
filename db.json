@@ -1,5 +1,5 @@
  {
-  "auto": [
+  "auto":[
     {
       "id": "1",
       "title": "2019 Mercedes-Benz CLA",
@@ -97,7 +97,7 @@
     }
     
   ],
-  "autoQuote": [
+  "autoQuote":[
     {
       "id": "1",
       "quote": "Driving a car is like a meditation. It's a journey itself.",
@@ -144,7 +144,7 @@
       "author": "Unknown"
     }
   ],
-  "autoTips": [
+  "autoTips":[
     {
       "id": "1",
       "tip1":"Regular maintenance is crucial for your car's longevity and optimal performance."
@@ -179,7 +179,7 @@
     }
     
   ],
-  "autoEvent": [
+  "autoEvent":[
     {
       "id": "1",
       "eventName": "Music Event",
@@ -193,14 +193,14 @@
       "eventLocation": "Tomorrowland"
     }
   ],
-  "autoBlogs": [
+  "autoBlogs":[
     {
       "id": "1",
       "title":"First business blogs",
       "images": ["https://cdn.hootout.com/vidyback/logo/eventblog.jpg"]
     }
   ],
-  "food": [
+  "food":[
     {
       "id": "1",
       "title": "New Dish",
@@ -328,7 +328,7 @@
       "quote": "Your diet is a bank account. Good food choices are good investments.",
       "author": "Bethenny Frankel"
      }
-    ],
+  ],
   "foodTips":[
     {
     "id":"1",
@@ -360,7 +360,7 @@
     }
    
   ],
-  "estate": [
+  "estate":[
     {
       "id": "1",
       "title": "Mi Casa Duplex Apartment ",
@@ -478,7 +478,7 @@
       "feature3": "Located at the center of the city"
     }
   ],
-  "estateQuote": [
+  "estateQuote":[
     {
       "id": "1",
       "quote": "Home is where love resides, memories are created, and laughter never ends.",
@@ -525,7 +525,7 @@
       "author": "John D. Rockefeller"
     }
   ],
-  "estateTips": [
+  "estateTips":[
     {
       "id": "1",
       "tip1":"When buying real estate, don't just focus on the property itself. Consider the location, the neighborhood, the schools."
@@ -568,11 +568,11 @@
     }
    
   ],
-  "travel": [
+  "travel":[
    
     {
       "id": "1",
-      "title": "Delhi square",
+      "title": "Delhi Tour Package",
       "images":[
         "https://cdn.hootout.com/VidyBack-videos/ttsq1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/ttsq2.jpg",
@@ -581,10 +581,10 @@
         "https://cdn.hootout.com/VidyBack-videos/ttsq5.jpg"
       ],
       "customerReview":"Delhi is a beautiful and culturally rich destination, delicious cuisine, and warm hospitality. Highly recommend for those seeking a relaxing and immersive travel experience.",
-      "customerName": "User",
-      "location": "Kurla West",
+      "customerName": "Sam Goodwill",
+      "location": "Delhi",
       "price": "$800",
-      "contactName": "Agent2",
+      "contactName": "John Doe",
       "contactNumber": "9876543210",
       "originalPrice": "$800",
       "discountedPrice": "$640",
@@ -606,7 +606,7 @@
       "customerName": "John Doe",
       "location": "Bali",
       "price": "$800",
-      "contactName": "",
+      "contactName": "Putnik Walir",
       "contactNumber": "9876543210",
       "originalPrice": "$800",
       "discountedPrice": "$640",
@@ -627,7 +627,7 @@
         "customerName": "John Doe",
         "location": "Andaman Islands",
         "price": "$800",
-        "contactName": "",
+        "contactName": "Putnik Walir",
         "contactNumber": "9876543210",
         "originalPrice": "$800",
         "discountedPrice": "$640",
@@ -635,13 +635,13 @@
         },
         {
           "id": "4",
-          "title": "Mumbai",
+          "title": "Mumbai 1 Day Tour",
           "images": ["https://cdn.hootout.com/VidyBack-videos/mumbai.jpg"],
           "customerReview": "Mumbai is well served by buses from destinations inside India. National highway numbers 3, 4, 6, 8, 9, 17, and the Mumbai-Pune expressway radiate from the city providing links to all parts of the country.",
-          "customerName": "User",
-          "location": "Kurla West",
+          "customerName": "John Doe",
+          "location": "CST-Mumbai",
           "price": "$800",
-          "contactName": "Agent2",
+          "contactName": "Putnik Walir",
           "contactNumber": "9876543210",
           "originalPrice": "$800",
           "discountedPrice": "$640",
@@ -680,7 +680,7 @@
       "author": "Dalai Lama"
      }
   ],
-  "travelTips": [
+  "travelTips":[
     {
       "id": "1",
       "tip1":"Obey the laws and cultural differences of the country you’re visiting."
@@ -722,11 +722,11 @@
       "tip1":"Consider alternative accommodations, such as vacation rentals or hostels, which can often be more affordable than traditional hotels."
     }
   ],
- "sports": [
+  "sports":[
     {
       "id": "1",
       "title":"Royals Sports Organization",
-      "description": "Register players for your team with a free Sports Registration",
+      "description": "Register players for your team with a free Sports Registration and food coupons",
       "date": "14-04-2023",
       "location": "3306 Stout Street, York, Pennsylvania, United States",
       "image":"https://cdn.hootout.com/VidyBack-videos/sports1.jpg"
@@ -757,7 +757,7 @@
     },
     {
       "id": "5",
-      "title":"Loyal Sports Organization",
+      "title":"Royal Sports Organization",
       "description": "Register players for your team with a free Sports Registration",
       "date": "12-04-2023",
       "location": "201 Bellevue Square, Space 201,Bellevue,United States",
@@ -851,44 +851,44 @@
       "author": "Muhammad Ali"
      }
   ],
-  "jobs": [
+  "jobs":[
     {
       "id": "1",
         "title": "Interior Designer",
         "description": "We are seeking an experienced and creative interior designer to join our team. The successful candidate will work closely with clients to create functional and aesthetically pleasing interior spaces that meet their needs and preferences..",
-        "email": "john@greatesite.com",
-        "author": "Kuchnaya Technolabs"
+        "email": "mailto:john@greatesite.com",
+        "author": "Undo Designs"
       },
     {
       "id": "2",
       "title":"Product Manager",
       "description": "Deeply understand Customer Support business and strategies, clarify business priorities for the cross-functional team, and set qualitative and quantitative objectives.",
-      "email": "john@greatesite.com",
-      "author": "Kuchnaya Technolabs"
+      "email": "mailto:john@greatesite.com",
+      "author": "Techkie World"
       
     },
     {
       "id": "3",
-      "title":"Interior",
+      "title":"Asst. Project manager",
       "description": "Client Communication: Maintain regular communication with clients throughout the design process. Present design proposals, incorporating feedback and revisions as necessary. Provide guidance and advice on design choices, keeping clients informed about project progress and timelines.",
-      "email": "john@greatesite.com",
-      "author": "Kuchnaya Technolabs"
+      "email": "mailto:john@greatesite.com",
+      "author": "YOLO UX Ajency"
      
     },
     {
       "id": "4",
       "title":"Tutor",
       "description": "We are seeking a dedicated and knowledgeable Tutor to join our team. As a Tutor, you will play a vital role in providing academic support and guidance to students of various ages and skill levels.",
-      "email": "john@greatesite.com",
-      "author": "Kuchnaya Technolabs"
+      "email": "mailto:john@greatesite.com",
+      "author": "BriskTaker"
       
     },
     {
       "id": "5",
       "title":"Plumber",
       "description": "We are seeking a skilled and experienced Plumber to join our team. As a Plumber, you will play a crucial role in installing, repairing, and maintaining plumbing systems in residential, commercial, and industrial settings.",
-      "email": "john@greatesite.com",
-      "author": "Kuchnaya Technolabs"
+      "email": "mailto:john@greatesite.com",
+      "author": "Washigton M Society"
       
     }
 
@@ -971,7 +971,7 @@
       "author": "Wayne Gretzky"
      }
   ],
-  "politics": [
+  "politics":[
     {
       "id": "1",
       "title":"NBM Political Party",
@@ -1075,6 +1075,82 @@
     "updated_at":"2023/02/27",
     "storeName":"Wellness Forever",
     "numberOfDays":"15"
+    },
+    {
+      "id":"2",
+      "title":"ColdnFlu tablets, pack of 10",
+      "images":["https://cdn.hootout.com/VidyBack-videos/med1.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/med2.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/med3.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/med4.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/med5.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/med6.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/med7.jpg"
+              ],
+      "originalPrice":"$60",
+      "discountedPrice":"$58",
+      "discountPercentage":"2% OFF",
+      "created_at":"2023/02/27",
+      "updated_at":"2023/02/27",
+      "storeName":"Wellness Forever",
+      "numberOfDays":"15"
+    },
+    {
+        "id":"3",
+        "title":"ColdnFlu tablets, pack of 10",
+        "images":["https://cdn.hootout.com/VidyBack-videos/med1.jpg",
+                  "https://cdn.hootout.com/VidyBack-videos/med2.jpg",
+                  "https://cdn.hootout.com/VidyBack-videos/med3.jpg",
+                  "https://cdn.hootout.com/VidyBack-videos/med4.jpg",
+                  "https://cdn.hootout.com/VidyBack-videos/med5.jpg",
+                  "https://cdn.hootout.com/VidyBack-videos/med6.jpg",
+                  "https://cdn.hootout.com/VidyBack-videos/med7.jpg"
+                ],
+        "originalPrice":"$60",
+        "discountedPrice":"$58",
+        "discountPercentage":"2% OFF",
+        "created_at":"2023/02/27",
+        "updated_at":"2023/02/27",
+        "storeName":"Wellness Forever",
+        "numberOfDays":"15"
+    },
+    {
+          "id":"4",
+          "title":"ColdnFlu tablets, pack of 10",
+          "images":["https://cdn.hootout.com/VidyBack-videos/med1.jpg",
+                    "https://cdn.hootout.com/VidyBack-videos/med2.jpg",
+                    "https://cdn.hootout.com/VidyBack-videos/med3.jpg",
+                    "https://cdn.hootout.com/VidyBack-videos/med4.jpg",
+                    "https://cdn.hootout.com/VidyBack-videos/med5.jpg",
+                    "https://cdn.hootout.com/VidyBack-videos/med6.jpg",
+                    "https://cdn.hootout.com/VidyBack-videos/med7.jpg"
+                  ],
+          "originalPrice":"$60",
+          "discountedPrice":"$58",
+          "discountPercentage":"2% OFF",
+          "created_at":"2023/02/27",
+          "updated_at":"2023/02/27",
+          "storeName":"Wellness Forever",
+          "numberOfDays":"15"
+    },
+    {
+            "id":"5",
+            "title":"ColdnFlu tablets, pack of 10",
+            "images":["https://cdn.hootout.com/VidyBack-videos/med1.jpg",
+                      "https://cdn.hootout.com/VidyBack-videos/med2.jpg",
+                      "https://cdn.hootout.com/VidyBack-videos/med3.jpg",
+                      "https://cdn.hootout.com/VidyBack-videos/med4.jpg",
+                      "https://cdn.hootout.com/VidyBack-videos/med5.jpg",
+                      "https://cdn.hootout.com/VidyBack-videos/med6.jpg",
+                      "https://cdn.hootout.com/VidyBack-videos/med7.jpg"
+                    ],
+            "originalPrice":"$60",
+            "discountedPrice":"$58",
+            "discountPercentage":"2% OFF",
+            "created_at":"2023/02/27",
+            "updated_at":"2023/02/27",
+            "storeName":"Wellness Forever",
+            "numberOfDays":"15"
     }
   ],
   "fmcg":[
@@ -1094,6 +1170,74 @@
     "updated_at":"2023/02/10",
     "storeName":"Pawstation ltd.",
     "NumberOfDays":"15"
+    },
+    {
+      "id":"2",
+      "title":"Nutritious biscuits for dogs",
+      "images":["https://cdn.hootout.com/VidyBack-videos/fmcg1.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg2.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg3.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg4.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg5.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg6.jpg"],
+      "originalPrice":"$300",
+      "discountedPrice":"$220",
+      "discountPercentage":"18% OFF",
+      "created_at":" 2023/01/09",
+      "updated_at":"2023/02/10",
+      "storeName":"Pawstation ltd.",
+      "NumberOfDays":"15"
+    },
+    {
+      "id":"3",
+      "title":"Nutritious biscuits for dogs",
+      "images":["https://cdn.hootout.com/VidyBack-videos/fmcg1.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg2.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg3.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg4.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg5.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg6.jpg"],
+      "originalPrice":"$300",
+      "discountedPrice":"$220",
+      "discountPercentage":"18% OFF",
+      "created_at":" 2023/01/09",
+      "updated_at":"2023/02/10",
+      "storeName":"Pawstation ltd.",
+      "NumberOfDays":"15"
+    },
+    {
+      "id":"4",
+      "title":"Nutritious biscuits for dogs",
+      "images":["https://cdn.hootout.com/VidyBack-videos/fmcg1.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg2.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg3.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg4.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg5.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg6.jpg"],
+      "originalPrice":"$300",
+      "discountedPrice":"$220",
+      "discountPercentage":"18% OFF",
+      "created_at":" 2023/01/09",
+      "updated_at":"2023/02/10",
+      "storeName":"Pawstation ltd.",
+      "NumberOfDays":"15"
+    },
+    {
+      "id":"5",
+      "title":"Nutritious biscuits for dogs",
+      "images":["https://cdn.hootout.com/VidyBack-videos/fmcg1.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg2.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg3.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg4.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg5.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/fmcg6.jpg"],
+      "originalPrice":"$300",
+      "discountedPrice":"$220",
+      "discountPercentage":"18% OFF",
+      "created_at":" 2023/01/09",
+      "updated_at":"2023/02/10",
+      "storeName":"Pawstation ltd.",
+      "NumberOfDays":"15"
     }
   ],
   "entertainment":[
@@ -1101,10 +1245,34 @@
     "productName":"Guardians of Galaxy vol. 3",
     "promoHeading":"Upcoming Movie",
     "ReleaseDate":"2023/03/04",
-    "images":"https://cdn.hootout.com/VidyBack-videos/movies1.jpg"
+    "images":"https://cdn.hootout.com/VidyBack-videos/entertain1.jpg"
+    },
+    {
+      "productName":"Transformers: Rise of the Beasts",
+      "promoHeading":"Upcoming Movie",
+      "ReleaseDate":"2023/03/04",
+      "images":"https://cdn.hootout.com/VidyBack-videos/entertain2.jpg"
+    },
+    {
+      "productName":"The Super Mario Bros.",
+      "promoHeading":"Upcoming Movie",
+      "ReleaseDate":"2023/03/04",
+      "images":"https://cdn.hootout.com/VidyBack-videos/entertain3.jpg"
+    },
+    {
+      "productName":"The Little Mermaid",
+      "promoHeading":"Upcoming Movie",
+      "ReleaseDate":"2023/03/04",
+      "images":"https://cdn.hootout.com/VidyBack-videos/entertain4.jpg"
+    },
+    {
+      "productName":"Dungeons & Dragons: Honor Among Thieves",
+      "promoHeading":"Upcoming Movie",
+      "ReleaseDate":"2023/03/04",
+      "images":"https://cdn.hootout.com/VidyBack-videos/entertain5.jpg"
     }
   ],
-  "entertainmentTips": [
+  "entertainmentTips":[
     {
       "id": "1",
       "tip1":"Don’t Hide Your Entertainment Away"
@@ -1114,7 +1282,7 @@
       "tip1":"Pick Entertainment to set the Tone"
     }
   ],
-  "entertainmentQuote": [
+  "entertainmentQuote":[
     {
       "id": "1",
       "quote": "The world is a stage, the stage is a world of entertainment.",
@@ -1133,7 +1301,39 @@
     "date":"2023/03/04",
     "time":"08AMGMT",
     "speakerBy":"Joy Emanuel",
-    "images":"https://cdn.hootout.com/VidyBack-videos/movies1.jpg"
+    "images":"https://cdn.hootout.com/VidyBack-videos/edu1.jpg"
+    },
+    {
+      "title":"Complete C# Unity Game Developer 2D",
+      "promoHeading":"Online Webinar",
+      "date":"2023/03/04",
+      "time":"08AMGMT",
+      "speakerBy":"Rick Davidson",
+      "images":"https://cdn.hootout.com/VidyBack-videos/edu2.jpg"
+    },
+    {
+      "title":"The Ultimate Digital Painting Course",
+      "promoHeading":"Online Webinar",
+      "date":"2023/03/04",
+      "time":"08AMGMT",
+      "speakerBy":"Jaysen Batchelor",
+      "images":"https://cdn.hootout.com/VidyBack-videos/edu3.jpg"
+    },
+    {
+      "title":"Leadership: You Can Speak Like a Leader",
+      "promoHeading":"Online Webinar",
+      "date":"2023/03/04",
+      "time":"08AMGMT",
+      "speakerBy":"TJ Walker",
+      "images":"https://cdn.hootout.com/VidyBack-videos/edu4.jpg"
+    },
+    {
+      "title":"Boost Your Career Success by Developing Your Soft Skills",
+      "promoHeading":"Online Webinar",
+      "date":"2023/03/04",
+      "time":"08AMGMT",
+      "speakerBy":"Denise Fletcher",
+      "images":"https://cdn.hootout.com/VidyBack-videos/edu5.jpg"
     }
   ],
   "educationTips": [
@@ -1168,6 +1368,30 @@
   "authorName":"Jenifer Lowrence",
   "Day":"Monday",
   "Date":"2023/2/4"
+  },
+  {
+    "productName":"Podcast on Mobile Development",
+    "authorName":"Jenifer Lowrence",
+    "Day":"Monday",
+    "Date":"2023/2/4"
+  },
+  {
+    "productName":"Podcast on Mobile Development",
+    "authorName":"Jenifer Lowrence",
+    "Day":"Monday",
+    "Date":"2023/2/4"
+  },
+  {
+    "productName":"Podcast on Mobile Development",
+    "authorName":"Jenifer Lowrence",
+    "Day":"Monday",
+    "Date":"2023/2/4"
+  },
+  {
+    "productName":"Podcast on Mobile Development",
+    "authorName":"Jenifer Lowrence",
+    "Day":"Monday",
+    "Date":"2023/2/4"
   }
   ],
   "technology":[
@@ -1245,7 +1469,7 @@
     "storeName": "Kuchnaya Technolabs."
   }
   ],
-  "technologyTips": [
+  "technologyTips":[
     {
       "id": "1",
       "tip1":"Report junk texts and stick it to the scammers."
@@ -1275,7 +1499,7 @@
       "tip1":"Keep up-to-date on the latest tech trends and news to make informed purchasing decisions."
     }
   ],
-   "technologyQuote": [
+   "technologyQuote":[
     {
       "id": "1",
       "quote": "There are not enough jails, not enough police, not enough courts, to enforce a law not supported by the people.",
@@ -1413,7 +1637,7 @@
           "feature3": "Open from 10am to 10pm"
           }
   ],
-  "healthcareTips": [
+  "healthcareTips":[
     {
       "id": "1",
       "tip1":"Drink Water and Stay Hydrated, and Limit Sugared Beverages."
@@ -1439,7 +1663,7 @@
       "tip1":"Keep up-to-date on the latest healthcare news and trends, including changes to healthcare laws and regulations. "
     }
   ],
-   "healthcareQuote": [
+   "healthcareQuote":[
     {
       "id": "1",
       "quote": "Let food be thy medicine and medicine be thy food.",
@@ -1533,7 +1757,7 @@
   "feature3":"Divorce cases handlers"
  }
   ],
-  "legalLawTips": [
+  "legalLawTips":[
     {
       "id": "1",
       "tip1":"Look for a lawyer who is licensed to practice law in your state and has no history of disciplinary action."
@@ -1552,7 +1776,7 @@
     }
    
   ],
-  "legalLawQuote": [
+  "legalLawQuote":[
      {
       "id": "1",
       "quote": "The law is reason, free from passion.",
@@ -1632,7 +1856,7 @@
 }
 
 
-],
+  ],
   "financeTips":[
     {
     "id":"1",
