@@ -184,7 +184,7 @@
       "id": "1",
       "eventName": "Music Event",
       "eventDate": "30 Apr 2023",
-      "userImage": "https://cdn.hootout.com/vidyback/logo/uuser.jpg",
+      "userImage": "https://cdn.hootout.com/vidyback/logo/eventblog.jpg",
       "userBio": "Alexandra's some dummy bio",
       "url": "custommusic.com",
       "brandname": "DJ David Guetta",
@@ -197,7 +197,7 @@
     {
       "id": "1",
       "title":"First business blogs",
-      "images": ["https://cdn.hootout.com/vidyback/logo/uuser.jpg"]
+      "images": ["https://cdn.hootout.com/vidyback/logo/eventblog.jpg"]
     }
   ],
   "food": [
