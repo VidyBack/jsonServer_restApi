@@ -1078,7 +1078,7 @@
     },
     {
       "id":"2",
-      "title":"ColdnFlu tablets, pack of 10",
+      "title":"Vitamin E tablets",
       "images":["https://cdn.hootout.com/VidyBack-videos/med1.jpg",
                 "https://cdn.hootout.com/VidyBack-videos/med2.jpg",
                 "https://cdn.hootout.com/VidyBack-videos/med3.jpg",
@@ -1360,6 +1360,46 @@
       "id":"2",
       "quote":"The roots of education are bitter, but the fruit is sweet",
       "author":"Aristotle"
+    },
+    {
+      "id":"3",
+      "quote":"Education is the most powerful weapon which you can use to change the world.",
+      "author":"Nelson Mandela"
+    },
+    {
+      "id":"4",
+      "quote":"An education isn't how much you have committed to memory, or even how much you know. It's being able to differentiate between what you know and what you don't.",
+      "author":"Anatole France"
+    },
+    {
+      "id":"5",
+      "quote":"Education is not preparation for life; education is life itself.",
+      "author":"John Dewey"
+    },
+    {
+      "id":"6",
+      "quote":"Learning is not attained by chance, it must be sought for with ardor and diligence.",
+      "author":"Abigail Adams"
+    },
+    {
+      "id":"7",
+      "quote":"It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+      "author":"Aristotle"
+    },
+    {
+      "id":"8",
+      "quote":"Develop a passion for learning. If you do, you will never cease to grow.",
+      "author":"Anthony J. D'Angelo"
+    },
+    {
+      "id":"9",
+      "quote":"Education's purpose is to replace an empty mind with an open one.",
+      "author":"Malcolm Forbes"
+    },
+    {
+      "id":"10",
+      "quote":"It is better to know some of the questions than all of the answers.",
+      "author":"James Thurber"
     }
   ],
  "audioPodcasts":[
