@@ -1079,13 +1079,10 @@
     {
       "id":"2",
       "title":"Vitamin E tablets",
-      "images":["https://cdn.hootout.com/VidyBack-videos/med1.jpg",
-                "https://cdn.hootout.com/VidyBack-videos/med2.jpg",
-                "https://cdn.hootout.com/VidyBack-videos/med3.jpg",
-                "https://cdn.hootout.com/VidyBack-videos/med4.jpg",
-                "https://cdn.hootout.com/VidyBack-videos/med5.jpg",
-                "https://cdn.hootout.com/VidyBack-videos/med6.jpg",
-                "https://cdn.hootout.com/VidyBack-videos/med7.jpg"
+      "images":["https://cdn.hootout.com/VidyBack-videos/vitaE1.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/vitaE2.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/vitaE3.jpg",
+                "https://cdn.hootout.com/VidyBack-videos/vitaE4.jpg"
               ],
       "originalPrice":"$60",
       "discountedPrice":"$58",
