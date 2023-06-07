@@ -1126,14 +1126,11 @@
     },
     {
             "id":"5",
-            "title":"ColdnFlu tablets, pack of 10",
-            "images":["https://cdn.hootout.com/VidyBack-videos/med1.jpg",
-                      "https://cdn.hootout.com/VidyBack-videos/med2.jpg",
-                      "https://cdn.hootout.com/VidyBack-videos/med3.jpg",
-                      "https://cdn.hootout.com/VidyBack-videos/med4.jpg",
-                      "https://cdn.hootout.com/VidyBack-videos/med5.jpg",
-                      "https://cdn.hootout.com/VidyBack-videos/med6.jpg",
-                      "https://cdn.hootout.com/VidyBack-videos/med7.jpg"
+            "title":"OptiDrops",
+            "images":["https://cdn.hootout.com/VidyBack-videos/eye1.jpg",
+                      "https://cdn.hootout.com/VidyBack-videos/eye2.jpg",
+                      "https://cdn.hootout.com/VidyBack-videos/eye3.jpg",
+                      "https://cdn.hootout.com/VidyBack-videos/eye4.jpg"
                     ],
             "originalPrice":"$60",
             "discountedPrice":"$58",
