@@ -857,14 +857,16 @@
         "title": "Interior Designer",
         "description": "We are seeking an experienced and creative interior designer to join our team. The successful candidate will work closely with clients to create functional and aesthetically pleasing interior spaces that meet their needs and preferences..",
         "email": "mailto:john@greatesite.com",
-        "author": "Undo Designs"
+        "author": "Undo Designs",
+        "images":["https://cdn.hootout.com/VidyBack-videos/job1.jpg"]
       },
     {
       "id": "2",
       "title":"Product Manager",
       "description": "Deeply understand Customer Support business and strategies, clarify business priorities for the cross-functional team, and set qualitative and quantitative objectives.",
       "email": "mailto:john@greatesite.com",
-      "author": "Techkie World"
+      "author": "Techkie World",
+      "images":["https://cdn.hootout.com/VidyBack-videos/job2.jpg"]
       
     },
     {
@@ -872,7 +874,8 @@
       "title":"Asst. Project manager",
       "description": "Client Communication: Maintain regular communication with clients throughout the design process. Present design proposals, incorporating feedback and revisions as necessary. Provide guidance and advice on design choices, keeping clients informed about project progress and timelines.",
       "email": "mailto:john@greatesite.com",
-      "author": "YOLO UX Ajency"
+      "author": "YOLO UX Ajency",
+      "images":["https://cdn.hootout.com/VidyBack-videos/job3.jpg"]
      
     },
     {
@@ -880,7 +883,8 @@
       "title":"Tutor",
       "description": "We are seeking a dedicated and knowledgeable Tutor to join our team. As a Tutor, you will play a vital role in providing academic support and guidance to students of various ages and skill levels.",
       "email": "mailto:john@greatesite.com",
-      "author": "BriskTaker"
+      "author": "BriskTaker",
+      "images":["https://cdn.hootout.com/VidyBack-videos/job4.jpg"]
       
     },
     {
@@ -888,7 +892,8 @@
       "title":"Plumber",
       "description": "We are seeking a skilled and experienced Plumber to join our team. As a Plumber, you will play a crucial role in installing, repairing, and maintaining plumbing systems in residential, commercial, and industrial settings.",
       "email": "mailto:john@greatesite.com",
-      "author": "Washigton M Society"
+      "author": "Washigton M Society",
+      "images":["https://cdn.hootout.com/VidyBack-videos/job5.jpg"]
       
     }
 
