@@ -1358,7 +1358,8 @@
     "date":"2023/03/04",
     "time":"08AMGMT",
     "speakerBy":"Joy Emanuel",
-    "images":"https://cdn.hootout.com/VidyBack-videos/edu1.jpg"
+    "images":"https://cdn.hootout.com/VidyBack-videos/edu1.jpg",
+    "url":"www.Yourstore.com"
     },
     {
       "title":"Complete C# Unity Game Developer 2D",
@@ -1687,8 +1688,8 @@
   "storeName":"Pawstation ltd.",
   "feature1":"overall dental care for you",
   "feature2":"Teeth cleaning with polishing",
-  "feature3":"Open from 10am to 10pm",
-  "url":"www.Yourstore.com"
+  "feature3":"Open from 10am to 10pm"
+  
   },
   {
     "id": " 2",
