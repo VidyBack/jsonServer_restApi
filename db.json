@@ -1230,31 +1230,36 @@
     "productName":"Guardians of Galaxy vol. 3",
     "promoHeading":"Upcoming Movie",
     "ReleaseDate":"2023/03/04",
-    "images":"https://cdn.hootout.com/VidyBack-videos/entertain1.jpg"
+    "images":"https://cdn.hootout.com/VidyBack-videos/entertain1.jpg",
+    "storeName":"www.Yourstore.com"
     },
     {
       "productName":"Transformers: Rise of the Beasts",
       "promoHeading":"Upcoming Movie",
       "ReleaseDate":"2023/03/04",
-      "images":"https://cdn.hootout.com/VidyBack-videos/entertain2.jpg"
+      "images":"https://cdn.hootout.com/VidyBack-videos/entertain2.jpg",
+      "storeName":"www.Yourstore.com"
     },
     {
       "productName":"The Super Mario Bros.",
       "promoHeading":"Upcoming Movie",
       "ReleaseDate":"2023/03/04",
-      "images":"https://cdn.hootout.com/VidyBack-videos/entertain3.jpg"
+      "images":"https://cdn.hootout.com/VidyBack-videos/entertain3.jpg",
+      "storeName":"www.Yourstore.com"
     },
     {
       "productName":"The Little Mermaid",
       "promoHeading":"Upcoming Movie",
       "ReleaseDate":"2023/03/04",
-      "images":"https://cdn.hootout.com/VidyBack-videos/entertain4.jpg"
+      "images":"https://cdn.hootout.com/VidyBack-videos/entertain4.jpg",
+      "storeName":"www.Yourstore.com"
     },
     {
       "productName":"Dungeons & Dragons: Honor Among Thieves",
       "promoHeading":"Upcoming Movie",
       "ReleaseDate":"2023/03/04",
-      "images":"https://cdn.hootout.com/VidyBack-videos/entertain5.jpg"
+      "images":"https://cdn.hootout.com/VidyBack-videos/entertain5.jpg",
+      "storeName":"www.Yourstore.com"
     }
   ],
   "entertainmentTips":[
@@ -1367,7 +1372,8 @@
       "date":"2023/03/04",
       "time":"08AMGMT",
       "speakerBy":"Rick Davidson",
-      "images":"https://cdn.hootout.com/VidyBack-videos/edu2.jpg"
+      "images":"https://cdn.hootout.com/VidyBack-videos/edu2.jpg",
+      "storeName":"www.Yourstore.com"
     },
     {
       "title":"The Ultimate Digital Painting Course",
@@ -1375,7 +1381,8 @@
       "date":"2023/03/04",
       "time":"08AMGMT",
       "speakerBy":"Jaysen Batchelor",
-      "images":"https://cdn.hootout.com/VidyBack-videos/edu3.jpg"
+      "images":"https://cdn.hootout.com/VidyBack-videos/edu3.jpg",
+      "storeName":"www.Yourstore.com"
     },
     {
       "title":"Leadership: You Can Speak Like a Leader",
@@ -1383,7 +1390,8 @@
       "date":"2023/03/04",
       "time":"08AMGMT",
       "speakerBy":"TJ Walker",
-      "images":"https://cdn.hootout.com/VidyBack-videos/edu4.jpg"
+      "images":"https://cdn.hootout.com/VidyBack-videos/edu4.jpg",
+      "storeName":"www.Yourstore.com"
     },
     {
       "title":"Boost Your Career Success by Developing Your Soft Skills",
@@ -1391,7 +1399,8 @@
       "date":"2023/03/04",
       "time":"08AMGMT",
       "speakerBy":"Denise Fletcher",
-      "images":"https://cdn.hootout.com/VidyBack-videos/edu5.jpg"
+      "images":"https://cdn.hootout.com/VidyBack-videos/edu5.jpg",
+      "storeName":"www.Yourstore.com"
     }
   ],
   "educationTips": [
