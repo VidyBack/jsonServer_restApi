@@ -200,6 +200,29 @@
       "images": ["https://cdn.hootout.com/vidyback/logo/eventblog.jpg"]
     }
   ],
+  "autoFact":[
+    {
+      "id":"1",
+      "fact1":"The world's first automobile was built in 1886 by Karl Benz.It was a three-wheeled vehicle called the Benz Patent-Motorwagen and had a top speed of about 10 miles per hour."
+    },
+    {
+      "id":"2",
+      "fact1":"The average car is made up of about 30,000 parts.These parts range from large components like the engine and transmission to small details like screws and bolts."
+    },
+    {
+      "id":"3",
+      "fact1":"The Bugatti Veyron Super Sport holds the title for the fastest street-legal production car in the world, with a top speed of 267.8 miles per hour (431.1 kilometers per hour)."
+    },
+    {
+      "id":"4",
+      "fact1":"The world's fastest production car is the SSC Tuatara, reaching a top speed of 331 miles per hour (532 kilometers per hour)."
+    },
+    {
+      "id":"5",
+      "fact1":"The first car with an internal combustion engine ran on fuel made from coal gas."
+    }
+
+  ],
   "food":[
     {
       "id": "1",
@@ -359,6 +382,29 @@
       "tip1":"Share meals: Consider sharing a meal with a friend or family member to save money and reduce waste."
     }
    
+  ],
+  "foodFact":[
+    {
+      "id":"1",
+      "fact1":"The world's most popular spice is black pepper,which is native to India.It is widely used in cuisines around the globe."
+    },
+    {
+      "id":"2",
+      "fact1":"Coffee is the world's second most traded commodity after oil."
+    },
+    {
+      "id":"3",
+      "fact1":"The world's most expensive coffee is made from civet poop."
+    },
+    {
+      "id":"4",
+      "fact1":"Popcorn was discovered in the Americas over 4,000 years ago."
+    },
+    {
+      "id":"5",
+      "fact1":"Peanut butter can be turned into diamonds."
+    }
+
   ],
   "estate":[
     {
