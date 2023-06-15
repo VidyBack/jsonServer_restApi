@@ -614,6 +614,29 @@
     }
    
   ],
+  "estateFact":[
+    {
+      "id":"1",
+      "fact1":"The world's most expensive house is the 'Antilia' in Mumbai, valued at over $1 billion."
+    },
+    {
+      "id":"2",
+      "fact1":"The largest residential palace in the United States is the Biltmore Estate in North Carolina."
+    },
+    {
+      "id":"3",
+      "fact1":"The White House in Washington, D.C., has 132 rooms and 35 bathrooms."
+    },
+    {
+      "id":"4",
+      "fact1":"The Forbidden City in Beijing, China, covers an area of 180 acres and has 9,999 rooms."
+    },
+    {
+      "id":"5",
+      "fact1":"The largest residential palace in the United States is the Biltmore Estate in North Carolina."
+    }
+
+  ],
   "travel":[
    
     {
@@ -767,6 +790,29 @@
       "id": "10",
       "tip1":"Consider alternative accommodations, such as vacation rentals or hostels, which can often be more affordable than traditional hotels."
     }
+  ],
+  "travelFact":[
+    {
+      "id":"1",
+      "fact1":"The Great Wall of China is visible from space, but only under certain conditions."
+    },
+    {
+      "id":"2",
+      "fact1":"The Maldives is the lowest country in the world, with an average ground level of just 1.5 meters above sea level."
+    },
+    {
+      "id":"3",
+      "fact1":"The Eiffel Tower in Paris was originally intended to be a temporary structure."
+    },
+    {
+      "id":"4",
+      "fact1":"The Taj Mahal in India was built by Emperor Shah Jahan as a mausoleum for his wife, Mumtaz Mahal."
+    },
+    {
+      "id":"5",
+      "fact1":"Venice, Italy, is built on a group of 118 small islands connected by canals and bridges."
+    }
+
   ],
   "sports":[
     {
