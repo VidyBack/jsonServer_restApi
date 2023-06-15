@@ -943,6 +943,29 @@
       "author": "Muhammad Ali"
      }
   ],
+  "sportsFact":[
+    {
+      "id":"1",
+      "fact1":"The Olympic Games were originally held in ancient Greece to honor the god Zeus."
+    },
+    {
+      "id":"2",
+      "fact1":"Basketball was invented by Dr. James Naismith as a way to keep his students active during the winter."
+    },
+    {
+      "id":"3",
+      "fact1":"Soccer (football) is the most popular sport in the world, with over 4 billion fans."
+    },
+    {
+      "id":"4",
+      "fact1":"Usain Bolt holds the world record for the fastest 100-meter and 200-meter sprints."
+    },
+    {
+      "id":"5",
+      "fact1":"The Super Bowl is the most-watched annual sporting event in the United States."
+    }
+
+  ],
   "jobs":[
     {
       "id": "1",
