@@ -2142,7 +2142,7 @@
       "id":"1",
       "productName":"Healing Hands",
       "promoHeading":"Fundraiser",
-      "productSummary":"The Healing Hands campaign Bringing Hope and Health to Those in Need",
+      "productSummary":"The Healing Hands campaign Bringing Hope and Health to Those in Need.",
       "location":"Milaap Social Ventures USA Pvt.Ltd.Dallas.",
       "image":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/ngo2.jpg",
@@ -2152,7 +2152,7 @@
       "id":"2",
       "productName":"Raising Voices",
       "promoHeading":"Donation Camp",
-      "productSummary":"The Healing Hands campaign Bringing Hope and Health to Those in Need",
+      "productSummary":"The Raising Voices campaign Bringing Hope and Health to Those in Need.",
       "location":"310 Old Freeland Road, Freeland, MD 21053",
       "image":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"]
     },
@@ -2160,23 +2160,23 @@
       "id":"3",
       "productName":"Together We Can",
       "promoHeading":"Campaign Update",
-      "productSummary":"The Healing Hands campaign Bringing Hope and Health to Those in Need",
+      "productSummary":"The Together We Can campaign Bringing Hope and Health to Those in Need.",
       "location":"888 Far Hills Drive, New Freedom, PA 17349",
       "image":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"]
     },
     {
       "id":"4",
-      "productName":"Healing Hands",
+      "productName":"Stand for Change",
       "promoHeading":"Fundraiser",
-      "productSummary":"The Healing Hands campaign Bringing Hope and Health to Those in Need",
+      "productSummary":"The Stand for Change campaign Bringing Hope and Health to Those in Need.",
       "location":"8046 83rd Street NW Maple Lake, MN 55358",
       "image":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"]
     },
     {
       "id":"5",
-      "productName":"Healing Hands",
+      "productName":"Empowering Communities",
       "promoHeading":"Fundraiser",
-      "productSummary":"The Healing Hands campaign Bringing Hope and Health to Those in Need",
+      "productSummary":"The Empowering Communities campaign Bringing Hope and Health to Those in Need.",
       "location":"10509 108th Street NW Annandale, MN 55302",
       "image":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"]
     }
