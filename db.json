@@ -2144,7 +2144,7 @@
       "promoHeading":"Fundraiser",
       "productSummary":"The Healing Hands campaign Bringing Hope and Health to Those in Need",
       "location":"Location",
-      "image":"https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"
+      "image":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"]
     },
     {
       "id":"2",
@@ -2152,7 +2152,7 @@
       "promoHeading":"Donation Camp",
       "productSummary":"The Healing Hands campaign Bringing Hope and Health to Those in Need",
       "location":"Location",
-      "image":"https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"
+      "image":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"]
     },
     {
       "id":"3",
@@ -2160,7 +2160,7 @@
       "promoHeading":"Campaign Update",
       "productSummary":"The Healing Hands campaign Bringing Hope and Health to Those in Need",
       "location":"Location",
-      "image":"https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"
+      "image":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"]
     },
     {
       "id":"4",
@@ -2168,7 +2168,7 @@
       "promoHeading":"Fundraiser",
       "productSummary":"The Healing Hands campaign Bringing Hope and Health to Those in Need",
       "location":"Location",
-      "image":"https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"
+      "image":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"]
     },
     {
       "id":"5",
@@ -2176,7 +2176,7 @@
       "promoHeading":"Fundraiser",
       "productSummary":"The Healing Hands campaign Bringing Hope and Health to Those in Need",
       "location":"Location",
-      "image":"https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"
+      "image":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"]
     }
   ]
 }
