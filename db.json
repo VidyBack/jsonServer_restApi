@@ -2143,8 +2143,10 @@
       "productName":"Healing Hands",
       "promoHeading":"Fundraiser",
       "productSummary":"The Healing Hands campaign Bringing Hope and Health to Those in Need",
-      "location":"Location",
-      "image":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"]
+      "location":"Milaap Social Ventures USA Pvt.Ltd.Dallas.",
+      "image":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/ngo2.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/ngo3.jpg"]
     },
     {
       "id":"2",
