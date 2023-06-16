@@ -2174,7 +2174,9 @@
       "promoHeading":"Fundraiser",
       "productSummary":"The Stand for Change campaign Bringing Hope and Health to Those in Need.",
       "location":"8046 83rd Street NW Maple Lake, MN 55358",
-      "image":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"]
+      "image":["https://cdn.hootout.com/VidyBack-videos/stand1.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/stand2.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/stand3.jpg"]
     },
     {
       "id":"5",
