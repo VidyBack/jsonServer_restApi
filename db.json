@@ -2184,7 +2184,9 @@
       "promoHeading":"Fundraiser",
       "productSummary":"The Empowering Communities campaign Bringing Hope and Health to Those in Need.",
       "location":"10509 108th Street NW Annandale, MN 55302",
-      "image":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"]
+      "image":["https://cdn.hootout.com/VidyBack-videos/emp1.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/emp2.jpg",
+      "https://cdn.hootout.com/VidyBack-videos/emp3.jpg"]
     }
   ]
 }
