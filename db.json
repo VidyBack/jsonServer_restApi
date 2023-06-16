@@ -1750,7 +1750,7 @@
       "tip1":"Keep up-to-date on the latest tech trends and news to make informed purchasing decisions."
     }
   ],
-   "technologyQuote":[
+  "technologyQuote":[
     {
       "id": "1",
       "quote": "There are not enough jails, not enough police, not enough courts, to enforce a law not supported by the people.",
@@ -1915,7 +1915,7 @@
       "tip1":"Keep up-to-date on the latest healthcare news and trends, including changes to healthcare laws and regulations. "
     }
   ],
-   "healthcareQuote":[
+  "healthcareQuote":[
     {
       "id": "1",
       "quote": "Let food be thy medicine and medicine be thy food.",
@@ -2136,6 +2136,48 @@
     }
     
 
+  ],
+  "ngo":[
+    {
+      "id":"1",
+      "productName":"Healing Hands",
+      "promoHeading":"Fundraiser",
+      "productSummary":"The Healing Hands campaign Bringing Hope and Health to Those in Need",
+      "location":"Location",
+      "image":"https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"
+    },
+    {
+      "id":"2",
+      "productName":"Raising Voices",
+      "promoHeading":"Donation Camp",
+      "productSummary":"The Healing Hands campaign Bringing Hope and Health to Those in Need",
+      "location":"Location",
+      "image":"https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"
+    },
+    {
+      "id":"3",
+      "productName":"Together We Can",
+      "promoHeading":"Campaign Update",
+      "productSummary":"The Healing Hands campaign Bringing Hope and Health to Those in Need",
+      "location":"Location",
+      "image":"https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"
+    },
+    {
+      "id":"4",
+      "productName":"Healing Hands",
+      "promoHeading":"Fundraiser",
+      "productSummary":"The Healing Hands campaign Bringing Hope and Health to Those in Need",
+      "location":"Location",
+      "image":"https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"
+    },
+    {
+      "id":"5",
+      "productName":"Healing Hands",
+      "promoHeading":"Fundraiser",
+      "productSummary":"The Healing Hands campaign Bringing Hope and Health to Those in Need",
+      "location":"Location",
+      "image":"https://cdn.hootout.com/VidyBack-videos/ngo1.jpg"
+    }
   ]
 }
 
