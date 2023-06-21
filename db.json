@@ -2241,6 +2241,58 @@
     "image":"https://cdn.hootout.com/VidyBack-videos/book5.jpg"
   }
 
+],
+"bookingQuote": [
+  {
+    "id": "1",
+    "quote": "The world is a book, and those who do not travel read only a page.",
+    "author": "Saint Augustine"
+  },
+  {
+    "id":"2",
+    "quote":"Traveling - it leaves you speechless, then turns you into a storyteller.",
+    "author":"Ibn Battuta"
+  },
+  {
+    "id":"3",
+    "quote":"A journey is best measured in friends, rather than miles.",
+    "author":"Tim Cahill"
+  },
+  {
+    "id":"4",
+    "quote":"The gladdest moment in human life is a departure into unknown lands.",
+    "author":"Sir Richard Burton"
+  },
+  {
+    "id":"5",
+    "quote":"Do what you do so well that they will want to see it again and bring their friends",
+    "author":"Walt Disney"
+  },
+  {
+    "id":"6",
+    "quote":"Customer service is the new marketing.",
+    "author":"Derek Sivers"
+  },
+  {
+    "id":"7",
+    "quote":"The best way to find yourself is to lose yourself in the service of others",
+    "author":"Mahatma Gandhi"
+  },
+  {
+    "id":"8",
+    "quote":"Customer service is not a department, it's an attitude.",
+    "author":"Unknown"
+  },
+  {
+    "id":"9",
+    "quote":"Travel is fatal to prejudice, bigotry, and narrow-mindedness.",
+    "author":" Mark Twain"
+  },
+  {
+    "id":"10",
+    "quote":"Travel far, travel wide, and let your bookings be your guide",
+    "author":"Unknown"
+  }
 ]
 }
 
