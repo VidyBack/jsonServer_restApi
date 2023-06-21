@@ -1276,6 +1276,49 @@
             "numberOfDays":"15"
     }
   ],
+  "pharmaceuticalsTips":[
+    {
+      "id": "1",
+      "tip1":"Keep an updated list of your medications, including names, dosages, and prescribing doctors."
+    },
+    {
+      "id": "2",
+      "tip1":"Inform healthcare providers about any allergies or sensitivities to medications or ingredients."
+    },
+    {
+      "id": "3",
+      "tip1":"Stay informed about potential recalls or safety warnings regarding medications you are taking."
+    },
+    {
+      "id": "4",
+      "tip1":"Seek medical advice before taking over-the-counter medications, especially if you're on prescription drugs."
+    },
+    {
+      "id": "5",
+      "tip1":"Follow prescribed dosage and frequency. Don't alter or stop medication without consulting a healthcare professional"
+    },
+    {
+      "id": "6",
+      "tip1":"Be aware of expiration dates, dispose of unused medications responsibly, and never self-diagnose or self-medicate."
+    },
+    {
+      "id": "7",
+      "tip1":"Consult a healthcare professional for medication advice, side effects, and possible drug interactions"
+    },
+    {
+      "id": "8",
+      "tip1":"Keep medications out of reach of children and store them properly according to label instructions."
+    },
+    {
+      "id": "9",
+      "tip1":"Report any unexpected side effects to your healthcare provider promptly."
+    },
+    {
+      "id": "10",
+      "tip1":"Report any adverse reactions or concerns about medications to healthcare professionals or relevant authorities."
+    }
+  ],
+
   "fmcg":[
     {
     "id":" 1",
