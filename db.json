@@ -2293,6 +2293,49 @@
     "quote":"Travel far, travel wide, and let your bookings be your guide",
     "author":"Unknown"
   }
+],
+"bookingTips":[
+  {
+    "id":"1",
+    "tip1":"Plan ahead, compare prices, read reviews, and be mindful of cancellation policies for a smooth booking experience"
+  },
+  {
+    "id":"2",
+    "tip1":"Save money by booking in advance, comparing prices, and taking advantage of deals and packages."
+  },
+  {
+    "id":"3",
+    "tip1":"Research, compare, and book with confidence. Stay flexible and consider off-peak travel for better rates."
+  },
+  {
+    "id":"4",
+    "tip1":"Secure the best deals by booking early, checking for promotions, and reading reviews. Happy travels! "
+  },
+  {
+    "id":"5",
+    "tip1":"Maximize savings: compare prices, book in advance, and keep an eye out for exclusive discounts"
+  },
+  {
+    "id":"6",
+    "tip1":"Deliver exceptional service, exceed expectations, and prioritize customer satisfaction."
+  },
+  {
+    "id":"7",
+    "tip1":"Listen actively,communicate effectively, and personalize experiences to create lasting impressions. "
+  },
+  {
+    "id":"8",
+    "tip1":"Pay attention to details, be responsive, and go the extra mile to create memorable service moments."
+  },
+  {
+    "id":"9",
+    "tip1":"Anticipate customer needs, offer proactive assistance, and provide solutions with a smile."
+  },
+  {
+    "id":"10",
+    "tip1":"Foster a culture of service excellence, empower your team, and continuously seek feedback for improvement."
+  }
+  
 ]
 }
 
