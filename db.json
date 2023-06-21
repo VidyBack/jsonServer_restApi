@@ -2198,7 +2198,50 @@
       "https://cdn.hootout.com/VidyBack-videos/emp2.jpg",
       "https://cdn.hootout.com/VidyBack-videos/emp3.jpg"]
     }
-  ]
+  ],
+  "bookings":[
+  {
+    "id":"1",
+    "productName":"Book with Ease",
+    "location":"Los Angeles",
+    "originalPrice":"$850",
+    "duration":"",
+    "image":"https://cdn.hootout.com/VidyBack-videos/book1.jpg"
+  },
+  {
+    "id":"2",
+    "productName":"Service Empowerment",
+    "location":"San Antonio",
+    "originalPrice":"$950",
+    "duration":"",
+    "image":"https://cdn.hootout.com/VidyBack-videos/book2.jpg"
+  },
+  {
+    "id":"3",
+    "productName":"Secure Your Spot",
+    "location":"Dallas",
+    "originalPrice":"$900",
+    "duration":"",
+    "image":"https://cdn.hootout.com/VidyBack-videos/book3.jpg"
+  },
+  {
+    "id":"4",
+    "productName":"Elite Assistance",
+    "location":"Washington",
+    "originalPrice":"$750",
+    "duration":"",
+    "image":"https://cdn.hootout.com/VidyBack-videos/book4.jpg"
+  },
+  {
+    "id":"5",
+    "productName":"Booking Beyond Boundaries",
+    "location":"California",
+    "originalPrice":"$800",
+    "duration":"",
+    "image":"https://cdn.hootout.com/VidyBack-videos/book5.jpg"
+  }
+
+]
 }
 
 
