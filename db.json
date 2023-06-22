@@ -2283,37 +2283,37 @@
     "image":"https://cdn.hootout.com/VidyBack-videos/book5.jpg"
   }
 
-],
+  ],
 "bookingQuote": [
   {
     "id": "1",
-    "quote": "The world is a book, and those who do not travel read only a page.",
-    "author": "Saint Augustine"
+    "quote": "Staying at a good hotel can make you feel like you're in a home away from home.",
+    "author": "Unknown"
   },
   {
     "id":"2",
-    "quote":"Traveling - it leaves you speechless, then turns you into a storyteller.",
-    "author":"Ibn Battuta"
+    "quote":"A table at a restaurant is an invitation to savor delightful flavors and create cherished moments",
+    "author":"Unknown"
   },
   {
     "id":"3",
-    "quote":"A journey is best measured in friends, rather than miles.",
-    "author":"Tim Cahill"
+    "quote":"Live music has the power to transport us to another world, where melodies speak louder than words.",
+    "author":"Unknown"
   },
   {
     "id":"4",
-    "quote":"The gladdest moment in human life is a departure into unknown lands.",
-    "author":"Sir Richard Burton"
+    "quote":"Sports ignite passion and bring people together, creating an atmosphere of excitement and unity",
+    "author":"Unknown"
   },
   {
     "id":"5",
-    "quote":"Do what you do so well that they will want to see it again and bring their friends",
-    "author":"Walt Disney"
+    "quote":"Workshops are opportunities for growth, where knowledge is shared, and skills are nurtured.",
+    "author":"Unknown"
   },
   {
     "id":"6",
-    "quote":"Customer service is the new marketing.",
-    "author":"Derek Sivers"
+    "quote":"A spa is a sanctuary that rejuvenates the body, mind, and soul, leaving you refreshed and renewed.",
+    "author":"Unknown"
   },
   {
     "id":"7",
@@ -2332,42 +2332,42 @@
   },
   {
     "id":"10",
-    "quote":"Travel far, travel wide, and let your bookings be your guide",
+    "quote":"A well-chosen rental car can transform a journey into a thrilling adventure on the open road",
     "author":"Unknown"
   }
-],
+  ],
 "bookingTips":[
   {
     "id":"1",
-    "tip1":"Plan ahead, compare prices, read reviews, and be mindful of cancellation policies for a smooth booking experience"
+    "tip1":" Familiarize yourself with the booking process on the booking platform you're using."
   },
   {
     "id":"2",
-    "tip1":"Save money by booking in advance, comparing prices, and taking advantage of deals and packages."
+    "tip1":"Save money by booking in advance,comparing prices,and taking advantage of deals and packages."
   },
   {
     "id":"3",
-    "tip1":"Research, compare, and book with confidence. Stay flexible and consider off-peak travel for better rates."
+    "tip1":"Stay updated on special offers and promotions."
   },
   {
     "id":"4",
-    "tip1":"Secure the best deals by booking early, checking for promotions, and reading reviews. Happy travels! "
+    "tip1":"Look for flexible scheduling options that suit your preferences,such as different time slots,multiple days, or recurring classes."
   },
   {
     "id":"5",
-    "tip1":"Maximize savings: compare prices, book in advance, and keep an eye out for exclusive discounts"
+    "tip1":"Read reviews,check booking service's security measures,and ensure they have a good reputation for reliable and secure transactions."
   },
   {
     "id":"6",
-    "tip1":"Deliver exceptional service, exceed expectations, and prioritize customer satisfaction."
+    "tip1":"Deliver exceptional service,exceed expectations,and prioritize customer satisfaction."
   },
   {
     "id":"7",
-    "tip1":"Listen actively,communicate effectively, and personalize experiences to create lasting impressions. "
+    "tip1":"Listen actively,communicate effectively,and personalize experiences to create lasting impressions."
   },
   {
     "id":"8",
-    "tip1":"Pay attention to details, be responsive, and go the extra mile to create memorable service moments."
+    "tip1":" Take advantage of comparison websites that aggregate prices and options across multiple platforms."
   },
   {
     "id":"9",
@@ -2378,7 +2378,7 @@
     "tip1":"Foster a culture of service excellence, empower your team, and continuously seek feedback for improvement."
   }
   
-]
+  ]
 }
 
 
