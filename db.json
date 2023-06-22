@@ -1318,6 +1318,59 @@
       "tip1":"Report any adverse reactions or concerns about medications to healthcare professionals or relevant authorities."
     }
   ],
+  "pharmaceuticalsQuotes":[
+    {
+      "id": "1",
+      "quote": "Medicines are the wings that allow humanity to soar above the limitations of illness.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "2",
+      "quote": "Behind every medicine, there is a story of dedication, research, and a commitment to wellbeing.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "3",
+      "quote": "Medicines are the silent heroes, silently working to bring relief and restore lives.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "4",
+      "quote": "Pharmaceuticals: Shaping the future of healthcare with innovation, precision, and compassion.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "5",
+      "quote": "Pharmaceuticals: Changing lives by turning scientific potential into tangible solutions.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "6",
+      "quote": "Medicines are the wings that allow humanity to soar above the limitations of illness.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "7",
+      "quote":"In the realm of pharmaceuticals, innovation and care combine to bring wellness to the world.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "8",
+      "quote": "In the world of pharmaceuticals, innovation is the key that unlocks doors to healthier futures.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "9",
+      "quote": "Medicines bring relief, restore smiles, and remind us of the incredible power of science and compassion.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "10",
+      "quote": "In the realm of pharmaceuticals, every pill is a promise of healing and hope",
+      "author": "Anonymous"
+    }
+    
+  ],
   "fmcg":[
     {
     "id":" 1",
@@ -2241,6 +2294,101 @@
       "https://cdn.hootout.com/VidyBack-videos/emp3.jpg"]
     }
   ],
+  "ngoTips":[
+    {
+      "id":"1",
+      "tip1":"Clearly define your mission, engage volunteers, foster transparency, and build strong partnerships for effective NGO impact"
+    },
+      {
+        "id": "2",
+        "tip1":"Communicate effectively, diversify funding sources, measure impact, and advocate for change to drive NGO success."
+      },
+      {
+      "id": "3",
+      "tip1":"Prioritize transparency, engage stakeholders, network with peers, and innovate for sustainable NGO growth."
+      },
+      {
+      "id": "4",
+      "tip1":"Define your goals, empower volunteers, collaborate, and leverage diverse funding for impactful NGO initiatives."
+      },
+      {
+      "id": "5",
+      "tip1":"Engage the community, measure impact, communicate effectively, and stay adaptable for NGO effectiveness. "
+      },
+      {
+      "id": "6",
+      "tip1":"Define mission and goals clearly"
+      },
+      {
+      "id": "7",
+      "tip1":"Measure and showcase impact."
+      },
+      {
+      "id": "8",
+      "tip1":"Engage and empower volunteers."
+      },
+      {
+      "id": "9",
+      "tip1":" Foster relationships with stakeholders, partners, volunteers, and the community. Collaboration and partnerships can amplify your impact."
+      },
+      {
+      "id": "10",
+      "tip1":"Use your platform to advocate for policy changes, social justice, and systemic solutions related to your cause."
+    }
+    
+  ],
+  "ngoQuotes":[
+    {
+      "id": "1",
+      "quote": "A small group of thoughtful, committed citizens can change the world.",
+      "author": "Margaret Mead"
+    },
+    {
+      "id": "2",
+      "quote": "The power of one, if fearless and focused, is formidable. But the power of many working together is better.",
+      "author": "Gloria Macapagal Arroyo"
+    },
+    {
+      "id": "3",
+      "quote": "We rise by lifting others.",
+      "author": "Robert Ingersoll"
+    },
+    {
+      "id": "4",
+      "quote": "The best way to find yourself is to lose yourself in the service of others.",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "id": "5",
+      "quote": "Alone we can do so little; together we can do so much.",
+      "author": "Helen Keller"
+    },
+    {
+      "id": "6",
+      "quote": "The measure of life is not its duration, but its donation.",
+      "author": "Peter Marshall"
+    },
+    {
+      "id": "7",
+      "quote": "We make a living by what we get, but we make a life by what we give.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": "8",
+      "quote": "Service to others is the rent you pay for your room here on Earth.",
+      "author": " Muhammad Ali"
+    },
+    {
+      "id": "9",
+      "quote": "Never doubt that a small group of thoughtful,committed citizens can change the world; indeed, it's the only thing that ever has.",
+      "author": " Margaret Mead"
+    },
+    {
+      "id": "10",
+      "quote": "The measure of life is not its duration, but its donation.",
+      "author": "Peter Marshall"
+    }
+  ],
   "bookings":[
   {
     "id":"1",
@@ -2287,53 +2435,53 @@
 "bookingQuote": [
   {
     "id": "1",
-    "quote": "Staying at a good hotel can make you feel like you're in a home away from home.",
-    "author": "Unknown"
+    "quote": "Unlock your potential and book an appointment that will shape your future.",
+    "author": "Anonymous"
   },
   {
     "id":"2",
-    "quote":"A table at a restaurant is an invitation to savor delightful flavors and create cherished moments",
-    "author":"Unknown"
+    "quote":"The world of learning is just a few clicks away.Book your online course and embark on a transformative journey.",
+    "author":"Anonymous"
   },
   {
     "id":"3",
-    "quote":"Live music has the power to transport us to another world, where melodies speak louder than words.",
-    "author":"Unknown"
+    "quote":"Embrace the digital era and book your classes online. Education is now at your fingertips.",
+    "author":"Anonymous"
   },
   {
     "id":"4",
-    "quote":"Sports ignite passion and bring people together, creating an atmosphere of excitement and unity",
-    "author":"Unknown"
+    "quote":"Time is a precious commodity. Make every appointment count",
+    "author":"Anonymous"
   },
   {
     "id":"5",
-    "quote":"Workshops are opportunities for growth, where knowledge is shared, and skills are nurtured.",
-    "author":"Unknown"
+    "quote":"An appointment is not just a date on a calendar; it's an opportunity for transformation.",
+    "author":"Anonymous"
   },
   {
     "id":"6",
-    "quote":"A spa is a sanctuary that rejuvenates the body, mind, and soul, leaving you refreshed and renewed.",
-    "author":"Unknown"
+    "quote":"With the power of technology, booking appointments and classes online has never been easier.",
+    "author":"Anonymous"
   },
   {
     "id":"7",
-    "quote":"The best way to find yourself is to lose yourself in the service of others",
-    "author":"Mahatma Gandhi"
+    "quote":"Unlock convenience with easy online appointment booking.",
+    "author":"Anonymous"
   },
   {
     "id":"8",
-    "quote":"Customer service is not a department, it's an attitude.",
-    "author":"Unknown"
+    "quote":"Time is valuable.Reserve your appointment and make the most of it.",
+    "author":"Anonymous"
   },
   {
     "id":"9",
-    "quote":"Travel is fatal to prejudice, bigotry, and narrow-mindedness.",
-    "author":" Mark Twain"
+    "quote":"Invest in yourself. Book your seat in our classes and embrace personal growth and development.",
+    "author":"Anonymous"
   },
   {
     "id":"10",
-    "quote":"A well-chosen rental car can transform a journey into a thrilling adventure on the open road",
-    "author":"Unknown"
+    "quote":"Knowledge is the key to success. Book your place in our classes and unlock a world of endless possibilities",
+    "author":"Anonymous"
   }
   ],
 "bookingTips":[
@@ -2347,7 +2495,7 @@
   },
   {
     "id":"3",
-    "tip1":"Stay updated on special offers and promotions."
+    "tip1":"Pay attention to the descriptions and details provided for the service"
   },
   {
     "id":"4",
@@ -2363,19 +2511,19 @@
   },
   {
     "id":"7",
-    "tip1":"Listen actively,communicate effectively,and personalize experiences to create lasting impressions."
+    "tip1":" If you're booking a class or course, verify the credentials and qualifications of the instructors or facilitators."
   },
   {
     "id":"8",
-    "tip1":" Take advantage of comparison websites that aggregate prices and options across multiple platforms."
+    "tip1":"Before finalizing your booking, double-check the details you have entered, such as the date, time, location, and any specific instructions."
   },
   {
     "id":"9",
-    "tip1":"Anticipate customer needs, offer proactive assistance, and provide solutions with a smile."
+    "tip1":"Understand the terms and conditions regarding cancellations, rescheduling, or refunds in case your plans change."
   },
   {
     "id":"10",
-    "tip1":"Foster a culture of service excellence, empower your team, and continuously seek feedback for improvement."
+    "tip1":"After attending an appointment, class, or course, provide feedback and reviews on the platform or to the service provider."
   }
   
   ]
