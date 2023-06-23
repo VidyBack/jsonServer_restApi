@@ -1488,6 +1488,58 @@
       "tip1":"Develop a pricing strategy that aligns with your target market. Consider factors such as production costs, competitor pricing, and consumer affordability."
     }
   ],
+  "fmcgQuote":[
+    {
+      "id": "1",
+      "quote": "In the FMCG world,customer loyalty is earned by consistently delivering products that meet their needs and exceed their expectations",
+      "author": "Howard Dietz"
+    },
+    {
+      "id":"2",
+      "quote":"In a fast-moving consumer goods industry, innovation is the key to staying relevant and capturing the hearts of consumers.",
+      "author":"Martin Kippenberger"
+    },
+    {
+      "id":"3",
+      "quote":"Good branding and packaging are like magnets, attracting consumers to your FMCG products and leaving a lasting impression.",
+      "author":"Satoru Iwata"
+    },
+    {
+      "id":"4",
+      "quote":"I need that on stage. I need a burst of life. That's entertainment for me.",
+      "author":"Tina Turner"
+    },
+    {
+      "id":"5",
+      "quote":"Politics is the entertainment branch of industry.",
+      "author":"Frank Zappa"
+    },
+    {
+      "id":"6",
+      "quote":"People who see life as anything more than pure entertainment are missing the point.",
+      "author":"George Carlin"
+    },
+    {
+      "id":"7",
+      "quote":"It seems that entertainment is what most excites us and what we value above everything else.",
+      "author":"Carroll O'Connor"
+    },
+    {
+      "id":"8",
+      "quote":"I have never read for entertainment, but rather for understanding and to satisfy my eager curiosity.",
+      "author":"Bryant H. McGill"
+    },
+    {
+      "id":"9",
+      "quote":"The analysis of character is the highest human entertainment.",
+      "author":"Isaac Bashevis Singer"
+    },
+    {
+      "id":"10",
+      "quote":"Entertainment alleviates the fear of life, but art vanquishes the fear of death",
+      "author":"Dean Cavanagh"
+    }
+  ],
   "entertainment":[
     {
     "productName":"Guardians of Galaxy vol. 3",
