@@ -1450,6 +1450,44 @@
       "NumberOfDays":"15"
     }
   ],
+  "fmcgTips": [
+    {
+      "id": "1",
+      "tip1":"Conduct thorough market research to understand consumer preferences,patterns, and trends.This will help identify the demands and expectations of your target audience."
+    },
+    {
+      "id": "2",
+      "tip1":"Utilize data analytics to gain insights into consumer behavior,trends,& market dynamics.Leverage these insights to make informed business decisions, refine your strategies."
+    },
+    {
+      "id": "3",
+      "tip1":"Consumers are increasingly concerned about sustainability.Communicate your commitment to social and environmental causes to resonate with conscious consumers."
+    },
+    {
+      "id": "4",
+      "tip1":"Stay updated with market trends and technological advancements. Continuously innovate your products to meet changing consumer demands and preferences."
+    },
+    {
+      "id": "5",
+      "tip1":"Provide excellent customer service, respond promptly to inquiries and feedback, and offer loyalty programs or incentives to encourage repeat purchases."
+    },
+    {
+      "id": "6",
+      "tip1":"Develop comprehensive marketing and promotion plans to create awareness and drive sales. Leverage various channels, including digital marketing,traditional advertising,etc."
+    },
+    {
+      "id": "7",
+      "tip1":"Efficient distribution and supply chain management are vital in the FMCG industry. Establish strong relationships with consern people to ensure timely delivery of products."
+    },
+    {
+      "id": "8",
+      "tip1":"Optimize your supply chain processes to minimize costs and improve overall efficiency."
+    },
+    {
+      "id": "9",
+      "tip1":"Develop a pricing strategy that aligns with your target market. Consider factors such as production costs, competitor pricing, and consumer affordability."
+    }
+  ],
   "entertainment":[
     {
     "productName":"Guardians of Galaxy vol. 3",
