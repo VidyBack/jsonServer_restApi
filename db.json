@@ -1279,94 +1279,94 @@
   "pharmaceuticalsTips":[
     {
       "id": "1",
-      "tip1":"Keep an updated list of your medications, including names, dosages, and prescribing doctors."
+      "title":"Keep an updated list of your medications, including names, dosages, and prescribing doctors."
     },
     {
       "id": "2",
-      "tip1":"Inform healthcare providers about any allergies or sensitivities to medications or ingredients."
+      "title":"Inform healthcare providers about any allergies or sensitivities to medications or ingredients."
     },
     {
       "id": "3",
-      "tip1":"Stay informed about potential recalls or safety warnings regarding medications you are taking."
+      "title":"Stay informed about potential recalls or safety warnings regarding medications you are taking."
     },
     {
       "id": "4",
-      "tip1":"Seek medical advice before taking over-the-counter medications, especially if you're on prescription drugs."
+      "title":"Seek medical advice before taking over-the-counter medications, especially if you're on prescription drugs."
     },
     {
       "id": "5",
-      "tip1":"Follow prescribed dosage and frequency. Don't alter or stop medication without consulting a healthcare professional"
+      "title":"Follow prescribed dosage and frequency. Don't alter or stop medication without consulting a healthcare professional"
     },
     {
       "id": "6",
-      "tip1":"Be aware of expiration dates, dispose of unused medications responsibly, and never self-diagnose or self-medicate."
+      "title":"Be aware of expiration dates, dispose of unused medications responsibly, and never self-diagnose or self-medicate."
     },
     {
       "id": "7",
-      "tip1":"Consult a healthcare professional for medication advice, side effects, and possible drug interactions"
+      "title":"Consult a healthcare professional for medication advice, side effects, and possible drug interactions"
     },
     {
       "id": "8",
-      "tip1":"Keep medications out of reach of children and store them properly according to label instructions."
+      "title":"Keep medications out of reach of children and store them properly according to label instructions."
     },
     {
       "id": "9",
-      "tip1":"Report any unexpected side effects to your healthcare provider promptly."
+      "title":"Report any unexpected side effects to your healthcare provider promptly."
     },
     {
       "id": "10",
-      "tip1":"Report any adverse reactions or concerns about medications to healthcare professionals or relevant authorities."
+      "title":"Report any adverse reactions or concerns about medications to healthcare professionals or relevant authorities."
     }
   ],
   "pharmaceuticalsQuotes":[
     {
       "id": "1",
-      "quote": "Medicines are the wings that allow humanity to soar above the limitations of illness.",
+      "title": "Medicines are the wings that allow humanity to soar above the limitations of illness.",
       "author": "Anonymous"
     },
     {
       "id": "2",
-      "quote": "Behind every medicine, there is a story of dedication, research, and a commitment to wellbeing.",
+      "title": "Behind every medicine, there is a story of dedication, research, and a commitment to wellbeing.",
       "author": "Anonymous"
     },
     {
       "id": "3",
-      "quote": "Medicines are the silent heroes, silently working to bring relief and restore lives.",
+      "title": "Medicines are the silent heroes, silently working to bring relief and restore lives.",
       "author": "Anonymous"
     },
     {
       "id": "4",
-      "quote": "Pharmaceuticals: Shaping the future of healthcare with innovation, precision, and compassion.",
+      "title": "Pharmaceuticals: Shaping the future of healthcare with innovation, precision, and compassion.",
       "author": "Anonymous"
     },
     {
       "id": "5",
-      "quote": "Pharmaceuticals: Changing lives by turning scientific potential into tangible solutions.",
+      "title": "Pharmaceuticals: Changing lives by turning scientific potential into tangible solutions.",
       "author": "Anonymous"
     },
     {
       "id": "6",
-      "quote": "Medicines are the wings that allow humanity to soar above the limitations of illness.",
+      "title": "Medicines are the wings that allow humanity to soar above the limitations of illness.",
       "author": "Anonymous"
     },
     {
       "id": "7",
-      "quote":"In the realm of pharmaceuticals, innovation and care combine to bring wellness to the world.",
+      "title":"In the realm of pharmaceuticals, innovation and care combine to bring wellness to the world.",
       "author": "Anonymous"
     },
     {
       "id": "8",
-      "quote": "In the world of pharmaceuticals, innovation is the key that unlocks doors to healthier futures.",
+      "title": "In the world of pharmaceuticals, innovation is the key that unlocks doors to healthier futures.",
       "author": "Anonymous"
     },
     {
       "id": "9",
-      "quote": "Medicines bring relief, restore smiles, and remind us of the incredible power of science and compassion.",
+      "title": "Medicines bring relief, restore smiles, and remind us of the incredible power of science and compassion.",
       "author": "Anonymous"
     },
     {
       "id": "10",
-      "quote": "In the realm of pharmaceuticals, every pill is a promise of healing and hope",
+      "title": "In the realm of pharmaceuticals, every pill is a promise of healing and hope",
       "author": "Anonymous"
     }
     
@@ -1453,90 +1453,90 @@
   "fmcgTips": [
     {
       "id": "1",
-      "tip1":"Conduct thorough market research to understand consumer preferences,patterns, and trends.This will help identify the demands and expectations of your target audience."
+      "title":"Conduct thorough market research to understand consumer preferences,patterns, and trends.This will help identify the demands and expectations of your target audience."
     },
     {
       "id": "2",
-      "tip1":"Utilize data analytics to gain insights into consumer behavior,trends,& market dynamics.Leverage these insights to make informed business decisions, refine your strategies."
+      "title":"Utilize data analytics to gain insights into consumer behavior,trends,& market dynamics.Leverage these insights to make informed business decisions, refine your strategies."
     },
     {
       "id": "3",
-      "tip1":"Consumers are increasingly concerned about sustainability.Communicate your commitment to social and environmental causes to resonate with conscious consumers."
+      "title":"Consumers are increasingly concerned about sustainability.Communicate your commitment to social and environmental causes to resonate with conscious consumers."
     },
     {
       "id": "4",
-      "tip1":"Stay updated with market trends and technological advancements. Continuously innovate your products to meet changing consumer demands and preferences."
+      "title":"Stay updated with market trends and technological advancements. Continuously innovate your products to meet changing consumer demands and preferences."
     },
     {
       "id": "5",
-      "tip1":"Provide excellent customer service, respond promptly to inquiries and feedback, and offer loyalty programs or incentives to encourage repeat purchases."
+      "title":"Provide excellent customer service, respond promptly to inquiries and feedback, and offer loyalty programs or incentives to encourage repeat purchases."
     },
     {
       "id": "6",
-      "tip1":"Develop comprehensive marketing and promotion plans to create awareness and drive sales. Leverage various channels, including digital marketing,traditional advertising,etc."
+      "title":"Develop comprehensive marketing and promotion plans to create awareness and drive sales. Leverage various channels, including digital marketing,traditional advertising,etc."
     },
     {
       "id": "7",
-      "tip1":"Efficient distribution and supply chain management are vital in the FMCG industry. Establish strong relationships with consern people to ensure timely delivery of products."
+      "title":"Efficient distribution and supply chain management are vital in the FMCG industry. Establish strong relationships with consern people to ensure timely delivery of products."
     },
     {
       "id": "8",
-      "tip1":"Optimize your supply chain processes to minimize costs and improve overall efficiency."
+      "title":"Optimize your supply chain processes to minimize costs and improve overall efficiency."
     },
     {
       "id": "9",
-      "tip1":"Develop a pricing strategy that aligns with your target market. Consider factors such as production costs, competitor pricing, and consumer affordability."
+      "title":"Develop a pricing strategy that aligns with your target market. Consider factors such as production costs, competitor pricing, and consumer affordability."
     }
   ],
   "fmcgQuote":[
     {
       "id": "1",
-      "quote": "In the FMCG world,customer loyalty is earned by consistently delivering products that meet their needs and exceed their expectations",
+      "title": "In the FMCG world,customer loyalty is earned by consistently delivering products that meet their needs and exceed their expectations",
       "author": "Anonymous"
     },
     {
       "id":"2",
-      "quote":"In a fast-moving consumer goods industry, innovation is the key to staying relevant and capturing the hearts of consumers.",
+      "title":"In a fast-moving consumer goods industry, innovation is the key to staying relevant and capturing the hearts of consumers.",
       "author":"Anonymous"
     },
     {
       "id":"3",
-      "quote":"Good branding and packaging are like magnets, attracting consumers to your FMCG products and leaving a lasting impression.",
+      "title":"Good branding and packaging are like magnets, attracting consumers to your FMCG products and leaving a lasting impression.",
       "author":"Anonymous"
     },
     {
       "id":"4",
-      "quote":"Price is what you pay, but value is what you get. FMCG brands that offer value for money build trust and loyalty among consumers.",
+      "title":"Price is what you pay, but value is what you get. FMCG brands that offer value for money build trust and loyalty among consumers.",
       "author":"Anonymous"
     },
     {
       "id":"5",
-      "quote":"Sustainability is not just a trend; it's a responsibility. FMCG brands that embrace sustainability pave the way for a better future.",
+      "title":"Sustainability is not just a trend; it's a responsibility. FMCG brands that embrace sustainability pave the way for a better future.",
       "author":"Anonymous"
     },
     {
       "id":"6",
-      "quote":"Data is the fuel that drives FMCG success, unlocking insights that lead to informed decisions and strategic growth.",
+      "title":"Data is the fuel that drives FMCG success, unlocking insights that lead to informed decisions and strategic growth.",
       "author":"Anonymous"
     },
     {
       "id":"7",
-      "quote":"In the FMCG industry, customer experience is the currency that determines brand success. Make it exceptional.",
+      "title":"In the FMCG industry, customer experience is the currency that determines brand success. Make it exceptional.",
       "author":"Anonymous"
     },
     {
       "id":"8",
-      "quote":"The FMCG landscape is ever-evolving. Those who embrace change and adapt quickly are the ones who thrive",
+      "title":"The FMCG landscape is ever-evolving. Those who embrace change and adapt quickly are the ones who thrive",
       "author":"Anonymous"
     },
     {
       "id":"9",
-      "quote":"Quality is never an accident; it is the result of high intention, sincere effort, intelligent direction, and skillful execution.",
+      "title":"Quality is never an accident; it is the result of high intention, sincere effort, intelligent direction, and skillful execution.",
       "author":"Anonymous"
     },
     {
       "id":"10",
-      "quote":"Success in FMCG is not just about selling products; it's about creating a meaningful connection with consumers and becoming a part of their lives.",
+      "title":"Success in FMCG is not just about selling products; it's about creating a meaningful connection with consumers and becoming a part of their lives.",
       "author":"Anonymous"
     }
    
@@ -2388,95 +2388,95 @@
   "ngoTips":[
     {
       "id":"1",
-      "tip1":"Clearly define your mission, engage volunteers, foster transparency, and build strong partnerships for effective NGO impact"
+      "title":"Clearly define your mission, engage volunteers, foster transparency, and build strong partnerships for effective NGO impact"
     },
       {
         "id": "2",
-        "tip1":"Communicate effectively, diversify funding sources, measure impact, and advocate for change to drive NGO success."
+        "title":"Communicate effectively, diversify funding sources, measure impact, and advocate for change to drive NGO success."
       },
       {
       "id": "3",
-      "tip1":"Prioritize transparency, engage stakeholders, network with peers, and innovate for sustainable NGO growth."
+      "title":"Prioritize transparency, engage stakeholders, network with peers, and innovate for sustainable NGO growth."
       },
       {
       "id": "4",
-      "tip1":"Define your goals, empower volunteers, collaborate, and leverage diverse funding for impactful NGO initiatives."
+      "title":"Define your goals, empower volunteers, collaborate, and leverage diverse funding for impactful NGO initiatives."
       },
       {
       "id": "5",
-      "tip1":"Engage the community, measure impact, communicate effectively, and stay adaptable for NGO effectiveness. "
+      "title":"Engage the community, measure impact, communicate effectively, and stay adaptable for NGO effectiveness. "
       },
       {
       "id": "6",
-      "tip1":"Define mission and goals clearly"
+      "title":"Define mission and goals clearly"
       },
       {
       "id": "7",
-      "tip1":"Measure and showcase impact."
+      "title":"Measure and showcase impact."
       },
       {
       "id": "8",
-      "tip1":"Engage and empower volunteers."
+      "title":"Engage and empower volunteers."
       },
       {
       "id": "9",
-      "tip1":" Foster relationships with stakeholders, partners, volunteers, and the community. Collaboration and partnerships can amplify your impact."
+      "title":" Foster relationships with stakeholders, partners, volunteers, and the community. Collaboration and partnerships can amplify your impact."
       },
       {
       "id": "10",
-      "tip1":"Use your platform to advocate for policy changes, social justice, and systemic solutions related to your cause."
+      "title":"Use your platform to advocate for policy changes, social justice, and systemic solutions related to your cause."
     }
     
   ],
   "ngoQuotes":[
     {
       "id": "1",
-      "quote": "A small group of thoughtful, committed citizens can change the world.",
+      "title": "A small group of thoughtful, committed citizens can change the world.",
       "author": "Margaret Mead"
     },
     {
       "id": "2",
-      "quote": "The power of one, if fearless and focused, is formidable. But the power of many working together is better.",
+      "title": "The power of one, if fearless and focused, is formidable. But the power of many working together is better.",
       "author": "Gloria Macapagal Arroyo"
     },
     {
       "id": "3",
-      "quote": "We rise by lifting others.",
+      "title": "We rise by lifting others.",
       "author": "Robert Ingersoll"
     },
     {
       "id": "4",
-      "quote": "The best way to find yourself is to lose yourself in the service of others.",
+      "title": "The best way to find yourself is to lose yourself in the service of others.",
       "author": "Mahatma Gandhi"
     },
     {
       "id": "5",
-      "quote": "Alone we can do so little; together we can do so much.",
+      "title": "Alone we can do so little; together we can do so much.",
       "author": "Helen Keller"
     },
     {
       "id": "6",
-      "quote": "The measure of life is not its duration, but its donation.",
+      "title": "The measure of life is not its duration, but its donation.",
       "author": "Peter Marshall"
     },
     {
       "id": "7",
-      "quote": "We make a living by what we get, but we make a life by what we give.",
+      "title": "We make a living by what we get, but we make a life by what we give.",
       "author": "Winston Churchill"
     },
     {
       "id": "8",
-      "quote": "Service to others is the rent you pay for your room here on Earth.",
+      "title": "Service to others is the rent you pay for your room here on Earth.",
       "author": " Muhammad Ali"
     },
     {
       "id": "9",
-      "quote": "Never doubt that a small group of thoughtful,committed citizens can change the world; indeed, it's the only thing that ever has.",
+      "title": "Never doubt that a small group of thoughtful,committed citizens can change the world; indeed, it's the only thing that ever has.",
       "author": " Margaret Mead"
     },
     {
       "id": "10",
-      "quote": "The measure of life is not its duration, but its donation.",
+      "title": "The measure of life is not its duration, but its donation.",
       "author": "Peter Marshall"
     }
   ],
@@ -2526,95 +2526,95 @@
 "bookingQuote": [
   {
     "id": "1",
-    "quote": "Unlock your potential and book an appointment that will shape your future.",
+    "title": "Unlock your potential and book an appointment that will shape your future.",
     "author": "Anonymous"
   },
   {
     "id":"2",
-    "quote":"The world of learning is just a few clicks away.Book your online course and embark on a transformative journey.",
+    "title":"The world of learning is just a few clicks away.Book your online course and embark on a transformative journey.",
     "author":"Anonymous"
   },
   {
     "id":"3",
-    "quote":"Embrace the digital era and book your classes online. Education is now at your fingertips.",
+    "title":"Embrace the digital era and book your classes online. Education is now at your fingertips.",
     "author":"Anonymous"
   },
   {
     "id":"4",
-    "quote":"Time is a precious commodity. Make every appointment count",
+    "title":"Time is a precious commodity. Make every appointment count",
     "author":"Anonymous"
   },
   {
     "id":"5",
-    "quote":"An appointment is not just a date on a calendar; it's an opportunity for transformation.",
+    "title":"An appointment is not just a date on a calendar; it's an opportunity for transformation.",
     "author":"Anonymous"
   },
   {
     "id":"6",
-    "quote":"With the power of technology, booking appointments and classes online has never been easier.",
+    "title":"With the power of technology, booking appointments and classes online has never been easier.",
     "author":"Anonymous"
   },
   {
     "id":"7",
-    "quote":"Unlock convenience with easy online appointment booking.",
+    "title":"Unlock convenience with easy online appointment booking.",
     "author":"Anonymous"
   },
   {
     "id":"8",
-    "quote":"Time is valuable.Reserve your appointment and make the most of it.",
+    "title":"Time is valuable.Reserve your appointment and make the most of it.",
     "author":"Anonymous"
   },
   {
     "id":"9",
-    "quote":"Invest in yourself. Book your seat in our classes and embrace personal growth and development.",
+    "title":"Invest in yourself. Book your seat in our classes and embrace personal growth and development.",
     "author":"Anonymous"
   },
   {
     "id":"10",
-    "quote":"Knowledge is the key to success. Book your place in our classes and unlock a world of endless possibilities",
+    "title":"Knowledge is the key to success. Book your place in our classes and unlock a world of endless possibilities",
     "author":"Anonymous"
   }
   ],
 "bookingTips":[
   {
     "id":"1",
-    "tip1":" Familiarize yourself with the booking process on the booking platform you're using."
+    "title":" Familiarize yourself with the booking process on the booking platform you're using."
   },
   {
     "id":"2",
-    "tip1":"Save money by booking in advance,comparing prices,and taking advantage of deals and packages."
+    "title":"Save money by booking in advance,comparing prices,and taking advantage of deals and packages."
   },
   {
     "id":"3",
-    "tip1":"Pay attention to the descriptions and details provided for the service"
+    "title":"Pay attention to the descriptions and details provided for the service"
   },
   {
     "id":"4",
-    "tip1":"Look for flexible scheduling options that suit your preferences,such as different time slots,multiple days, or recurring classes."
+    "title":"Look for flexible scheduling options that suit your preferences,such as different time slots,multiple days, or recurring classes."
   },
   {
     "id":"5",
-    "tip1":"Read reviews,check booking service's security measures,and ensure they have a good reputation for reliable and secure transactions."
+    "title":"Read reviews,check booking service's security measures,and ensure they have a good reputation for reliable and secure transactions."
   },
   {
     "id":"6",
-    "tip1":"Deliver exceptional service,exceed expectations,and prioritize customer satisfaction."
+    "title":"Deliver exceptional service,exceed expectations,and prioritize customer satisfaction."
   },
   {
     "id":"7",
-    "tip1":" If you're booking a class or course, verify the credentials and qualifications of the instructors or facilitators."
+    "title":" If you're booking a class or course, verify the credentials and qualifications of the instructors or facilitators."
   },
   {
     "id":"8",
-    "tip1":"Before finalizing your booking, double-check the details you have entered, such as the date, time, location, and any specific instructions."
+    "title":"Before finalizing your booking, double-check the details you have entered, such as the date, time, location, and any specific instructions."
   },
   {
     "id":"9",
-    "tip1":"Understand the terms and conditions regarding cancellations, rescheduling, or refunds in case your plans change."
+    "title":"Understand the terms and conditions regarding cancellations, rescheduling, or refunds in case your plans change."
   },
   {
     "id":"10",
-    "tip1":"After attending an appointment, class, or course, provide feedback and reviews on the platform or to the service provider."
+    "title":"After attending an appointment, class, or course, provide feedback and reviews on the platform or to the service provider."
   }
   
   ]
