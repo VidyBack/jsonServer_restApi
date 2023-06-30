@@ -1841,7 +1841,7 @@
     "Date":"2023/2/4"
   }
   ],
-  "technology":[
+  "TECHNOLOGY":[
   {
   "id":" 1",
   "title":"San Antonio",
@@ -1916,85 +1916,85 @@
     "storeName": "Kuchnaya Technolabs."
   }
   ],
-  "technologyTips":[
+  "TECHNOLOGYTIPS":[
     {
       "id": "1",
-      "tip1":"Report junk texts and stick it to the scammers."
+      "title":"Report junk texts and stick it to the scammers."
     },
     {
       "id": "2",
-      "tip1":" Search using Site: to find content like a ninja."
+      "title":" Search using Site: to find content like a ninja."
     },
     {
       "id": "3",
-      "tip1":" Before making a tech purchase, research the product thoroughly to ensure it meets your needs and has good reviews from other consumers."
+      "title":" Before making a tech purchase, research the product thoroughly to ensure it meets your needs and has good reviews from other consumers."
     },
     {
       "id": "4",
-      "tip1":"Compare prices of similar products from different brands to find the best value for your money."
+      "title":"Compare prices of similar products from different brands to find the best value for your money."
     },
     {
       "id": "5",
-      "tip1":" Ensure the tech product is compatible with your existing devices or software to avoid compatibility issues."
+      "title":" Ensure the tech product is compatible with your existing devices or software to avoid compatibility issues."
     },
     {
       "id": "6",
-      "tip1":"Look for tech products that offer good customer support, including troubleshooting, maintenance, and repair services."
+      "title":"Look for tech products that offer good customer support, including troubleshooting, maintenance, and repair services."
     },
     {
       "id": "7",
-      "tip1":"Keep up-to-date on the latest tech trends and news to make informed purchasing decisions."
+      "title":"Keep up-to-date on the latest tech trends and news to make informed purchasing decisions."
     }
   ],
-  "technologyQuote":[
+  "TECHNOLOGYQUOTES":[
     {
       "id": "1",
-      "quote": "There are not enough jails, not enough police, not enough courts, to enforce a law not supported by the people.",
+      "title": "There are not enough jails, not enough police, not enough courts, to enforce a law not supported by the people.",
       "author": "Hubert H Humphrey"
     },
     {
       "id":"2",
-      "quote":"Technology is anything that wasn't around when you were born.",
+      "title":"Technology is anything that wasn't around when you were born.",
       "author":"Alan Kay"
     },
     {
       "id":"3",
-      "quote":"The best way to predict the future is to invent it.",
+      "title":"The best way to predict the future is to invent it.",
       "author":"Irish proverb"
     },
     {
       "id":"4",
-      "quote":"Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important.",
+      "title":"Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important.",
       "author":"Bill Gates"
     },
     {
       "id":"5",
-      "quote":"Innovation distinguishes between a leader and a follower.",
+      "title":"Innovation distinguishes between a leader and a follower.",
       "author":"Steve Jobs"
     },
     {
       "id":"6",
-      "quote":"Any sufficiently advanced technology is indistinguishable from magic.",
+      "title":"Any sufficiently advanced technology is indistinguishable from magic.",
       "author":"Arthur C. Clarke"
     },
     {
       "id":"7",
-      "quote":"The only constant in the technology industry is change.",
+      "title":"The only constant in the technology industry is change.",
       "author":"Marc Benioff"
     },
     {
       "id":"8",
-      "quote":"Technology is a useful servant but a dangerous master.",
+      "title":"Technology is a useful servant but a dangerous master.",
       "author":"Christian Lous Lange"
     },
     {
       "id":"9",
-      "quote":"It's not about the technology, it's about the people behind it.",
+      "title":"It's not about the technology, it's about the people behind it.",
       "author":"Steven Spielberg"
     }
     
   ],
-  "healthcare":[
+  "HEALTHCARE":[
   {
   "id":" 1",
   "title":"Wellness Dental Clinic",
@@ -2085,66 +2085,66 @@
           "feature3": "Open from 10am to 10pm"
           }
   ],
-  "healthcareTips":[
+  "HEALTHCARETIPS":[
     {
       "id": "1",
-      "tip1":"Drink Water and Stay Hydrated, and Limit Sugared Beverages."
+      "title":"Drink Water and Stay Hydrated, and Limit Sugared Beverages."
     },
     {
       "id": "2",
-      "tip1":"Exercise Regularly and Be Physically Active."
+      "title":"Exercise Regularly and Be Physically Active."
     },
     {
       "id": "3",
-      "tip1":"When selecting an insurance plan, consider your healthcare needs, budget, and any pre-existing conditions."
+      "title":"When selecting an insurance plan, consider your healthcare needs, budget, and any pre-existing conditions."
     },
     {
       "id": "4",
-      "tip1":"Not all healthcare providers charge the same rates for the same services. Shop around for services, such as medical procedures or prescription drugs, find the best price."
+      "title":"Not all healthcare providers charge the same rates for the same services. Shop around for services, such as medical procedures or prescription drugs, find the best price."
     },
     {
       "id": "5",
-      "tip1":"Don't be afraid to ask questions about your healthcare services, including the costs, benefits, and risks."
+      "title":"Don't be afraid to ask questions about your healthcare services, including the costs, benefits, and risks."
     },
     {
       "id": "6",
-      "tip1":"Keep up-to-date on the latest healthcare news and trends, including changes to healthcare laws and regulations. "
+      "title":"Keep up-to-date on the latest healthcare news and trends, including changes to healthcare laws and regulations. "
     }
   ],
-  "healthcareQuote":[
+  "HEALTHCAREQUOTES":[
     {
       "id": "1",
-      "quote": "Let food be thy medicine and medicine be thy food.",
+      "title": "Let food be thy medicine and medicine be thy food.",
       "author": "Hippocrates"
     },
     {
       "id":"2",
-      "quote":"A good laugh and a long sleep are the best cures in the doctor’s book.",
+      "title":"A good laugh and a long sleep are the best cures in the doctor’s book.",
       "author":"Irish proverb"
     },
     {
       "id":"3",
-      "quote":"Health is a state of complete physical, mental, and social well-being, not merely the absence of disease or infirmity.",
+      "title":"Health is a state of complete physical, mental, and social well-being, not merely the absence of disease or infirmity.",
       "author":"World Health Organization"
     },
     {
       "id":"4",
-      "quote":"Medicine is a science of uncertainty and an art of probability.",
+      "title":"Medicine is a science of uncertainty and an art of probability.",
       "author":"William Osler"
     },
     {
       "id":"5",
-      "quote":"It is health that is the real wealth and not pieces of gold and silver.",
+      "title":"It is health that is the real wealth and not pieces of gold and silver.",
       "author":"Mahatma Gandhi"
     },
     {
       "id":"6",
-      "quote":"Healthcare is not just a privilege for a few, but a right for all.",
+      "title":"Healthcare is not just a privilege for a few, but a right for all.",
       "author":"Richard Lamm"
     },
     {
       "id":"7",
-      "quote":"The physician should not treat the disease, but the patient who is suffering from it.",
+      "title":"The physician should not treat the disease, but the patient who is suffering from it.",
       "author":"Maimonides"
     }
   ],
