@@ -1541,271 +1541,281 @@
     }
    
   ],
-  "entertainment":[
+  "ENTERTAINMENT":[
     {
-    "productName":"Guardians of Galaxy vol. 3",
+    "id": "1",
+    "title":"Guardians of Galaxy vol. 3",
     "promoHeading":"Upcoming Movie",
-    "ReleaseDate":"2023/03/04",
-    "images":"https://cdn.hootout.com/VidyBack-videos/entertain1.jpg",
+    "created_at":"2023/03/04",
+    "images":["https://cdn.hootout.com/VidyBack-videos/entertain1.jpg"],
     "storeName":"www.Yourstore.com"
     },
     {
-      "productName":"Transformers: Rise of the Beasts",
-      "promoHeading":"Upcoming Movie",
-      "ReleaseDate":"2023/03/04",
-      "images":"https://cdn.hootout.com/VidyBack-videos/entertain2.jpg",
-      "storeName":"www.Yourstore.com"
-    },
-    {
-      "productName":"The Super Mario Bros.",
-      "promoHeading":"Upcoming Movie",
-      "ReleaseDate":"2023/03/04",
-      "images":"https://cdn.hootout.com/VidyBack-videos/entertain3.jpg",
-      "storeName":"www.Yourstore.com"
-    },
-    {
-      "productName":"The Little Mermaid",
-      "promoHeading":"Upcoming Movie",
-      "ReleaseDate":"2023/03/04",
-      "images":"https://cdn.hootout.com/VidyBack-videos/entertain4.jpg",
-      "storeName":"www.Yourstore.com"
-    },
-    {
-      "productName":"Dungeons & Dragons: Honor Among Thieves",
-      "promoHeading":"Upcoming Movie",
-      "ReleaseDate":"2023/03/04",
-      "images":"https://cdn.hootout.com/VidyBack-videos/entertain5.jpg",
-      "storeName":"www.Yourstore.com"
-    }
-  ],
-  "entertainmentTips":[
-    {
-      "id": "1",
-      "tip1":"Don’t Hide Your Entertainment Away."
-    },
-    {
       "id": "2",
-      "tip1":"Pick Entertainment to set the Tone."
+      "title":"Transformers: Rise of the Beasts",
+      "promoHeading":"Upcoming Movie",
+      "created_at":"2023/03/04",
+      "images":["https://cdn.hootout.com/VidyBack-videos/entertain2.jpg"],
+      "storeName":"www.Yourstore.com"
     },
     {
       "id": "3",
-      "tip1":"Always keep yourself aware of the modern trends as well as tweak any campaigns depending on that."
+      "title":"The Super Mario Bros.",
+      "promoHeading":"Upcoming Movie",
+      "created_at":"2023/03/04",
+      "images":["https://cdn.hootout.com/VidyBack-videos/entertain3.jpg"],
+      "storeName":"www.Yourstore.com"
     },
     {
       "id": "4",
-      "tip1":"Conduct live sessions and engage well with your target audience.The greater they focus on your communication."
+      "title":"The Little Mermaid",
+      "promoHeading":"Upcoming Movie",
+      "created_at":"2023/03/04",
+      "images":["https://cdn.hootout.com/VidyBack-videos/entertain4.jpg"],
+      "storeName":"www.Yourstore.com"
     },
     {
       "id": "5",
-      "tip1":"Respond to queries, questions, and comments asked by the target customers."
+      "title":"Dungeons & Dragons: Honor Among Thieves",
+      "promoHeading":"Upcoming Movie",
+      "created_at":"2023/03/04",
+      "images":["https://cdn.hootout.com/VidyBack-videos/entertain5.jpg"],
+      "storeName":"www.Yourstore.com"
+    }
+  ],
+  "ENTERTAINMENTTIPS":[
+    {
+      "id": "1",
+      "title":"Don’t Hide Your Entertainment Away."
+    },
+    {
+      "id": "2",
+      "title":"Pick Entertainment to set the Tone."
+    },
+    {
+      "id": "3",
+      "title":"Always keep yourself aware of the modern trends as well as tweak any campaigns depending on that."
+    },
+    {
+      "id": "4",
+      "title":"Conduct live sessions and engage well with your target audience.The greater they focus on your communication."
+    },
+    {
+      "id": "5",
+      "title":"Respond to queries, questions, and comments asked by the target customers."
     },
     {
       "id": "6",
-      "tip1":"Whatever may be your social media marketing strategy, ensure to cross-post."
+      "title":"Whatever may be your social media marketing strategy, ensure to cross-post."
     },
     {
       "id": "7",
-      "tip1":"You need to have certain content interesting and unique to a particular website."
+      "title":"You need to have certain content interesting and unique to a particular website."
     },
     {
       "id": "8",
-      "tip1":"It is always essential to have a particular hashtag to efficiently follow up and communicate with the crowd."
+      "title":"It is always essential to have a particular hashtag to efficiently follow up and communicate with the crowd."
     },
     {
       "id": "9",
-      "tip1":"Develop curiosity as well as keep your content engaging, up to date, and fresh."
+      "title":"Develop curiosity as well as keep your content engaging, up to date, and fresh."
     },
     {
       "id": "10",
-      "tip1":"Create better content and always give the end-users what they have been looking for about their interesting things."
+      "title":"Create better content and always give the end-users what they have been looking for about their interesting things."
     }
   ],
-  "entertainmentQuote":[
+  "ENTERTAINMENTQUOTES":[
     {
       "id": "1",
-      "quote": "The world is a stage, the stage is a world of entertainment.",
+      "title": "The world is a stage, the stage is a world of entertainment.",
       "author": "Howard Dietz"
     },
     {
       "id":"2",
-      "quote":"Entertainment is in art like color in pictures.",
+      "title":"Entertainment is in art like color in pictures.",
       "author":"Martin Kippenberger"
     },
     {
       "id":"3",
-      "quote":"Entertainment is there to improve people's quality of life. After your basic needs, there's entertainment.",
+      "title":"Entertainment is there to improve people's quality of life. After your basic needs, there's entertainment.",
       "author":"Satoru Iwata"
     },
     {
       "id":"4",
-      "quote":"I need that on stage. I need a burst of life. That's entertainment for me.",
+      "title":"I need that on stage. I need a burst of life. That's entertainment for me.",
       "author":"Tina Turner"
     },
     {
       "id":"5",
-      "quote":"Politics is the entertainment branch of industry.",
+      "title":"Politics is the entertainment branch of industry.",
       "author":"Frank Zappa"
     },
     {
       "id":"6",
-      "quote":"People who see life as anything more than pure entertainment are missing the point.",
+      "title":"People who see life as anything more than pure entertainment are missing the point.",
       "author":"George Carlin"
     },
     {
       "id":"7",
-      "quote":"It seems that entertainment is what most excites us and what we value above everything else.",
+      "title":"It seems that entertainment is what most excites us and what we value above everything else.",
       "author":"Carroll O'Connor"
     },
     {
       "id":"8",
-      "quote":"I have never read for entertainment, but rather for understanding and to satisfy my eager curiosity.",
+      "title":"I have never read for entertainment, but rather for understanding and to satisfy my eager curiosity.",
       "author":"Bryant H. McGill"
     },
     {
       "id":"9",
-      "quote":"The analysis of character is the highest human entertainment.",
+      "title":"The analysis of character is the highest human entertainment.",
       "author":"Isaac Bashevis Singer"
     },
     {
       "id":"10",
-      "quote":"Entertainment alleviates the fear of life, but art vanquishes the fear of death",
+      "title":"Entertainment alleviates the fear of life, but art vanquishes the fear of death",
       "author":"Dean Cavanagh"
     }
   ],
-  "education":[
+  "EDUCATION":[
     {
+    "id": "1",
     "title":"Marketing and Advertising crash course",
     "promoHeading":"Online Webinar",
     "date":"2023/03/04",
-    "time":"08AMGMT",
-    "speakerBy":"Joy Emanuel",
-    "images":"https://cdn.hootout.com/VidyBack-videos/education1.jpg",
+    "eventstarttime":"08AMGMT",
+    "author":"Joy Emanuel",
+    "images":["https://cdn.hootout.com/VidyBack-videos/education1.jpg"],
     "storeName":"www.Yourstore.com"
     },
     {
+      "id": "2",
       "title":"Complete C# Unity Game Developer 2D",
       "promoHeading":"Online Webinar",
       "date":"2023/03/04",
-      "time":"08AMGMT",
-      "speakerBy":"Rick Davidson",
-      "images":"https://cdn.hootout.com/VidyBack-videos/education2.jpg",
+      "eventstarttime":"08AMGMT",
+      "author":"Rick Davidson",
+      "images":["https://cdn.hootout.com/VidyBack-videos/education2.jpg"],
       "storeName":"www.Yourstore.com"
-    },
-    {
-      "title":"The Ultimate Digital Painting Course",
-      "promoHeading":"Online Webinar",
-      "date":"2023/03/04",
-      "time":"08AMGMT",
-      "speakerBy":"Jaysen Batchelor",
-      "images":"https://cdn.hootout.com/VidyBack-videos/education3.jpg",
-      "storeName":"www.Yourstore.com"
-    },
-    {
-      "title":"Leadership: You Can Speak Like a Leader",
-      "promoHeading":"Online Webinar",
-      "date":"2023/03/04",
-      "time":"08AMGMT",
-      "speakerBy":"TJ Walker",
-      "images":"https://cdn.hootout.com/VidyBack-videos/education4.jpg",
-      "storeName":"www.Yourstore.com"
-    },
-    {
-      "title":"Boost Your Career Success by Developing Your Soft Skills",
-      "promoHeading":"Online Webinar",
-      "date":"2023/03/04",
-      "time":"08AMGMT",
-      "speakerBy":"Denise Fletcher",
-      "images":"https://cdn.hootout.com/VidyBack-videos/education5.jpg",
-      "storeName":"www.Yourstore.com"
-    }
-  ],
-  "educationTips": [
-    {
-      "id": "1",
-      "tip1":"Use technology effectively:Leverage educational technology tools,such as online learning platforms,interactive apps,and digital resources."
-    },
-    {
-      "id": "2",
-      "tip1":"Foster a growth mindset:Embrace a mindset that focuses on learning and growth.Be open to new ideas,feedback,and constructive criticism."
     },
     {
       "id": "3",
-      "tip1":"Continuously expand your knowledge:Stay updated on the latest trends,developments,and best practices in your industry."
+      "title":"The Ultimate Digital Painting Course",
+      "promoHeading":"Online Webinar",
+      "date":"2023/03/04",
+      "eventstarttime":"08AMGMT",
+      "author":"Jaysen Batchelor",
+      "images":["https://cdn.hootout.com/VidyBack-videos/education3.jpg"],
+      "storeName":"www.Yourstore.com"
     },
     {
       "id": "4",
-      "tip1":"Set aside dedicated time for your online course and create a study schedule."
+      "title":"Leadership: You Can Speak Like a Leader",
+      "promoHeading":"Online Webinar",
+      "date":"2023/03/04",
+      "eventstarttime":"08AMGMT",
+      "author":"TJ Walker",
+      "images":["https://cdn.hootout.com/VidyBack-videos/education4.jpg"],
+      "storeName":"www.Yourstore.com"
     },
     {
       "id": "5",
-      "tip1":"Treat online courses as you would a traditional in-person course to ensure you allocate sufficient time for learning and assignments."
+      "title":"Boost Your Career Success by Developing Your Soft Skills",
+      "promoHeading":"Online Webinar",
+      "date":"2023/03/04",
+      "eventstarttime":"08AMGMT",
+      "author":"Denise Fletcher",
+      "images":["https://cdn.hootout.com/VidyBack-videos/education5.jpg"],
+      "storeName":"www.Yourstore.com"
+    }
+  ],
+  "EDUCATIONTIPS": [
+    {
+      "id": "1",
+      "title":"Use technology effectively:Leverage educational technology tools,such as online learning platforms,interactive apps,and digital resources."
+    },
+    {
+      "id": "2",
+      "title":"Foster a growth mindset:Embrace a mindset that focuses on learning and growth.Be open to new ideas,feedback,and constructive criticism."
+    },
+    {
+      "id": "3",
+      "title":"Continuously expand your knowledge:Stay updated on the latest trends,developments,and best practices in your industry."
+    },
+    {
+      "id": "4",
+      "title":"Set aside dedicated time for your online course and create a study schedule."
+    },
+    {
+      "id": "5",
+      "title":"Treat online courses as you would a traditional in-person course to ensure you allocate sufficient time for learning and assignments."
     },
     {
       "id": "6",
-      "tip1":"Look for courses that offer instructor support or a community platform where you can interact with other learners."
+      "title":"Look for courses that offer instructor support or a community platform where you can interact with other learners."
     },
     {
       "id": "7",
-      "tip1":"If you're seeking professional development,ensure that the course or the platform offering the course is accredited in your field."
+      "title":"If you're seeking professional development,ensure that the course or the platform offering the course is accredited in your field."
     },
     {
       "id": "8",
-      "tip1":"Apply the knowledge and skills you acquire from the course in real-world scenarios."
+      "title":"Apply the knowledge and skills you acquire from the course in real-world scenarios."
     },
     {
       "id": "9",
-      "tip1":"Testimonials & student reviews can provide insights into the course quality,instructor expertise,and overall learning experience."
+      "title":"Testimonials & student reviews can provide insights into the course quality,instructor expertise,and overall learning experience."
     }
   ],
-  "educationQuote": [
+  "EDUCATIONQUOTES": [
     {
       "id": "1",
-      "quote": "An investment in knowledge pays the best interest.",
+      "title": "An investment in knowledge pays the best interest.",
       "author": "Benjamin Franklin"
     },
     {
       "id":"2",
-      "quote":"The roots of education are bitter, but the fruit is sweet",
+      "title":"The roots of education are bitter, but the fruit is sweet",
       "author":"Aristotle"
     },
     {
       "id":"3",
-      "quote":"Education is the most powerful weapon which you can use to change the world.",
+      "title":"Education is the most powerful weapon which you can use to change the world.",
       "author":"Nelson Mandela"
     },
     {
       "id":"4",
-      "quote":"An education isn't how much you have committed to memory, or even how much you know. It's being able to differentiate between what you know and what you don't.",
+      "title":"An education isn't how much you have committed to memory, or even how much you know. It's being able to differentiate between what you know and what you don't.",
       "author":"Anatole France"
     },
     {
       "id":"5",
-      "quote":"Education is not preparation for life; education is life itself.",
+      "title":"Education is not preparation for life; education is life itself.",
       "author":"John Dewey"
     },
     {
       "id":"6",
-      "quote":"Learning is not attained by chance, it must be sought for with ardor and diligence.",
+      "title":"Learning is not attained by chance, it must be sought for with ardor and diligence.",
       "author":"Abigail Adams"
     },
     {
       "id":"7",
-      "quote":"It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+      "title":"It is the mark of an educated mind to be able to entertain a thought without accepting it.",
       "author":"Aristotle"
     },
     {
       "id":"8",
-      "quote":"Develop a passion for learning. If you do, you will never cease to grow.",
+      "title":"Develop a passion for learning. If you do, you will never cease to grow.",
       "author":"Anthony J. D'Angelo"
     },
     {
       "id":"9",
-      "quote":"Education's purpose is to replace an empty mind with an open one.",
+      "title":"Education's purpose is to replace an empty mind with an open one.",
       "author":"Malcolm Forbes"
     },
     {
       "id":"10",
-      "quote":"It is better to know some of the questions than all of the answers.",
+      "title":"It is better to know some of the questions than all of the answers.",
       "author":"James Thurber"
     }
   ],
