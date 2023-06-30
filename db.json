@@ -1191,7 +1191,7 @@
       "author": "Harry S. Truman"
     }
   ],
-  "pharmaceuticals":[
+  "PHARMACEUTICALS":[
     {
     "id":"1",
     "title":"ColdnFlu tablets",
@@ -1276,7 +1276,7 @@
             "numberOfDays":"15"
     }
   ],
-  "pharmaceuticalsTips":[
+  "PHARMATIPS":[
     {
       "id": "1",
       "title":"Keep an updated list of your medications, including names, dosages, and prescribing doctors."
@@ -1318,7 +1318,7 @@
       "title":"Report any adverse reactions or concerns about medications to healthcare professionals or relevant authorities."
     }
   ],
-  "pharmaceuticalsQuotes":[
+  "PHARMAQUOTES":[
     {
       "id": "1",
       "title": "Medicines are the wings that allow humanity to soar above the limitations of illness.",
@@ -1371,7 +1371,7 @@
     }
     
   ],
-  "fmcg":[
+  "FMCG":[
     {
     "id":" 1",
     "title":"Nutritious biscuits for dogs",
@@ -1450,7 +1450,7 @@
       "NumberOfDays":"15"
     }
   ],
-  "fmcgTips": [
+  "FMCGTIPS": [
     {
       "id": "1",
       "title":"Conduct thorough market research to understand consumer preferences,patterns, and trends.This will help identify the demands and expectations of your target audience."
@@ -1488,7 +1488,7 @@
       "title":"Develop a pricing strategy that aligns with your target market. Consider factors such as production costs, competitor pricing, and consumer affordability."
     }
   ],
-  "fmcgQuote":[
+  "FMCGQUOTES":[
     {
       "id": "1",
       "title": "In the FMCG world,customer loyalty is earned by consistently delivering products that meet their needs and exceed their expectations",
