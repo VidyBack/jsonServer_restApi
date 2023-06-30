@@ -2148,10 +2148,10 @@
       "author":"Maimonides"
     }
   ],
-  "legalLaw":[
+  "LEGALLAW":[
   {
     "id":" 1",
-  "author":"Aido law firm",
+  "title":"Aido law firm",
   "images":[
   "https://cdn.hootout.com/VidyBack-videos/law1.jpg",
   "https://cdn.hootout.com/VidyBack-videos/law2.jpg",
@@ -2162,7 +2162,7 @@
  },
 {
   "id":"2",
-  "author":"Indian law firm",
+  "title":"Indian law firm",
   "images":[
   "https://cdn.hootout.com/VidyBack-videos/lawgrp1.jpg",
   "https://cdn.hootout.com/VidyBack-videos/lawgrp2.jpg",
@@ -2173,7 +2173,7 @@
  },
  {
   "id":"3",
-  "author":"Scott Turowrm",
+  "title":"Scott Turowrm",
   "images":[
   "https://cdn.hootout.com/VidyBack-videos/legal1.jpg"
  
@@ -2184,7 +2184,7 @@
  },
  {
   "id":"4",
-  "author":"Truman Capote firm",
+  "title":"Truman Capote firm",
   "images":[
   "https://cdn.hootout.com/VidyBack-videos/legal2.jpg"
   
@@ -2195,7 +2195,7 @@
  },
  {
   "id":"5",
-  "author":"John Mortimer firm",
+  "title":"John Mortimer firm",
   "images":[
   
   "https://cdn.hootout.com/VidyBack-videos/legal3.jpg"
@@ -2205,130 +2205,130 @@
   "feature3":"Divorce cases handlers"
  }
   ],
-  "legalLawTips":[
+  "LEGALLAWTIPS":[
     {
       "id": "1",
-      "tip1":"Look for a lawyer who is licensed to practice law in your state and has no history of disciplinary action."
+      "title":"Look for a lawyer who is licensed to practice law in your state and has no history of disciplinary action."
     },
     {
       "id": "2",
-      "tip1":" Be clear and specific about your legal needs and expectations when speaking with your lawyer."
+      "title":" Be clear and specific about your legal needs and expectations when speaking with your lawyer."
     },
     {
       "id": "3",
-      "tip1":"Keep up-to-date on legal issues that affect you by reading news articles, attending seminars or webinars, or consulting with legal professionals."
+      "title":"Keep up-to-date on legal issues that affect you by reading news articles, attending seminars or webinars, or consulting with legal professionals."
     },
     {
       "id": "4",
-      "tip1":"Understanding your rights and responsibilities under the law is essential."
+      "title":"Understanding your rights and responsibilities under the law is essential."
     }
    
   ],
-  "legalLawQuote":[
+  "LEGALLAWQUOTES":[
      {
       "id": "1",
-      "quote": "The law is reason, free from passion.",
+      "title": "The law is reason, free from passion.",
       "author": "Aristotle"
     },
     {
       "id": "2",
-      "quote": "It is better to risk saving a guilty person than to condemn an innocent one.",
+      "title": "It is better to risk saving a guilty person than to condemn an innocent one.",
       "author": "Voltaire"
     },
     {
       "id": "3",
-      "quote": "The law is a profession that's designed to help people and to solve problems.",
+      "title": "The law is a profession that's designed to help people and to solve problems.",
       "author": "Abraham Lincoln"
     },
     {
       "id": "4",
-      "quote": "The first duty of society is justice.",
+      "title": "The first duty of society is justice.",
       "author": "Alexander Hamilton"
     },
     {
       "id": "5",
-      "quote": "Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.",
+      "title": "Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.",
       "author": "Jonathan Swift"
     },
     {
       "id": "6",
-      "quote": "Justice delayed is justice denied.",
+      "title": "Justice delayed is justice denied.",
       "author": "William E. Gladstone"
     }
   ],
-  "financeQuotes":[
+  "FINANCEQUOTES":[
   {
      "id": "1",
-     "quote": "Every financial decision should be driven by what you value.",
+     "title": "Every financial decision should be driven by what you value.",
      "author": "David Bach"
   },
   {
     "id": "2",
-    "quote": "Wealth consists not in having great possessions, but in having few wants.",
+    "title": "Wealth consists not in having great possessions, but in having few wants.",
     "author": "Epictetus"
  },
  {
   "id": "3",
-  "quote": "The stock market is a device for transferring money from the impatient to the patient.",
+  "title": "The stock market is a device for transferring money from the impatient to the patient.",
   "author": "Epictetus"
 },
 {
   "id": "4",
-  "quote": "Wealth consists not in having great possessions, but in having few wants.",
+  "title": "Wealth consists not in having great possessions, but in having few wants.",
   "author": "Warren Buffett"
 },
 {
   "id": "5",
-  "quote": "The four most dangerous words in investing are: 'this time it's different'.",
+  "title": "The four most dangerous words in investing are: 'this time it's different'.",
   "author": "Sir John Templeton"
 },
 {
   "id": "6",
-  "quote": "The stock market is a no-called-strike game. You don't have to swing at everything - you can wait for your pitch.",
+  "title": "The stock market is a no-called-strike game. You don't have to swing at everything - you can wait for your pitch.",
   "author": "Warren Buffett"
 },
 {
   "id": "7",
-  "quote": "The individual investor should act consistently as an investor and not as a speculator.",
+  "title": "The individual investor should act consistently as an investor and not as a speculator.",
   "author": "Sir John Templeton"
 },
 {
   "id": "8",
-  "quote": "Time is the friend of the wonderful business, the enemy of the mediocre.",
+  "title": "Time is the friend of the wonderful business, the enemy of the mediocre.",
   "author": "Warren Buffett"
 },
 {
   "id": "9",
-  "quote": "In investing, what is comfortable is rarely profitable.",
+  "title": "In investing, what is comfortable is rarely profitable.",
   "author": "Robert Arnott"
 }
 
 
   ],
-  "financeTips":[
+  "FINANCETIPS":[
     {
     "id":"1",
-    "tip1":"It's important to have a long-term investment strategy in place that aligns with your financial goals, risk tolerance, and time horizon."
+    "title":"It's important to have a long-term investment strategy in place that aligns with your financial goals, risk tolerance, and time horizon."
     },
     {
       "id":"2",
-      "tip1":"Investing in low-cost index funds,tracks the performance of the overall market,can provide broad exposure to the market and help you achieve market-like returns."
+      "title":"Investing in low-cost index funds,tracks the performance of the overall market,can provide broad exposure to the market and help you achieve market-like returns."
     },
     {
       "id":"3",
-      "tip1":"Rather than getting caught up in short-term market fluctuations, focus on long-term trends and economic fundamentals."
+      "title":"Rather than getting caught up in short-term market fluctuations, focus on long-term trends and economic fundamentals."
     },
     {
       "id":"4",
-      "tip1":"A financial advisor can help you develop a personalized investment strategy and provide guidance on how to navigate the market."
+      "title":"A financial advisor can help you develop a personalized investment strategy and provide guidance on how to navigate the market."
     },
     {
       "id":"5",
-      "tip1":"Before investing in a particular stock, bond, or fund, do your research and make sure you understand the company or fund's financial health, management, and industry trends."
+      "title":"Before investing in a particular stock, bond, or fund, do your research and make sure you understand the company or fund's financial health, management, and industry trends."
     },
     {
       "id":"6",
-      "tip1":"Stick to your investment plan and avoid making impulsive decisions based on market fluctuations or emotions."
+      "title":"Stick to your investment plan and avoid making impulsive decisions based on market fluctuations or emotions."
     }
     
 
