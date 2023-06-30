@@ -976,7 +976,7 @@
     }
 
   ],
-  "jobs":[
+  "JOBS":[
     {
       "id": "1",
         "title": "Interior Designer",
@@ -1023,81 +1023,81 @@
     }
 
   ],
-  "jobTips":[
+  "JOBTIPS":[
     {
     "id":"1",
-    "tip1":"Before you start your job search, it's important to have a clear idea of the type of job you're looking for and what you want to achieve in your career."
+    "title":"Before you start your job search, it's important to have a clear idea of the type of job you're looking for and what you want to achieve in your career."
     },
     {
     "id":"2",
-    "tip1":" Networking is a great way to connect with people in your industry and learn about job opportunities."
+    "title":" Networking is a great way to connect with people in your industry and learn about job opportunities."
     },
     {
       "id":"3",
-      "tip1":"Build, cultivate, and utilize your network of contacts"
+      "title":"Build, cultivate, and utilize your network of contacts"
     },
     {
       "id":"4",
-      "tip1":"Send a thank-you email or note after a job interview to show your appreciation for the opportunity and reiterate your interest in the job."
+      "title":"Send a thank-you email or note after a job interview to show your appreciation for the opportunity and reiterate your interest in the job."
     },
     {
       "id":"5",
-      "tip1":" The job search process can be challenging, but it's important to stay positive and persistent."
+      "title":" The job search process can be challenging, but it's important to stay positive and persistent."
     },
     {
       "id":"6",
-      "tip1":"Resume & cover letter is the first impression with potential employers, so make sure they're professional, error-free, and highlight your relevant skills and experience."
+      "title":"Resume & cover letter is the first impression with potential employers, so make sure they're professional, error-free, and highlight your relevant skills and experience."
     }
   ],
-  "jobQuote":[
+  "JOBQUOTES":[
     {
       "id":"1",
-      "quote": "Pleasure in the job puts perfection in the work.",
+      "title": "Pleasure in the job puts perfection in the work.",
       "author": "Aristotle"
     },
     {
       "id": "2",
-      "quote": "Work to become, not to acquire.",
+      "title": "Work to become, not to acquire.",
       "author": "Elbert Hubbard"
      },
      {
       "id": "3",
-      "quote": "The best preparation for tomorrow is doing your best today.",
+      "title": "The best preparation for tomorrow is doing your best today.",
       "author": "H.Jackson Brown"
      },
      {
       "id": "4",
-      "quote": "The only way to do great work is to love what you do.",
+      "title": "The only way to do great work is to love what you do.",
       "author": "Steve Jobs"
      },
      {
       "id": "5",
-      "quote": "Don't be afraid to give up the good to go for the great.",
+      "title": "Don't be afraid to give up the good to go for the great.",
       "author": "John D. Rockefeller"
      },
      {
       "id": "6",
-      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "title": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
       "author": "Albert Schweitzer"
      },
      {
       "id": "7",
-      "quote": "Believe you can and you're halfway there.",
+      "title": "Believe you can and you're halfway there.",
       "author": "Theodore Roosevelt"
      },
      {
       "id": "8",
-      "quote": "The future depends on what you do today.",
+      "title": "The future depends on what you do today.",
       "author": "Mahatma Gandhi"
      },
      {
       "id": "9",
-      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "title": "The only limit to our realization of tomorrow will be our doubts of today.",
       "author": "Franklin D. Roosevelt"
      },
      {
       "id": "10",
-      "quote": "You miss 100% of the shots you don't take.",
+      "title": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky"
      }
   ],
@@ -2333,59 +2333,59 @@
     
 
   ],
-  "ngo":[
+  "NGO":[
     {
       "id":"1",
-      "productName":"Foundation for Advancement of Education & Development",
+      "title":"Foundation for Advancement of Education & Development",
       "promoHeading":"Fundraiser",
       "productSummary":"The Foundation for Advancement of Education & Development campaign Bringing Hope and Health to Those in Need.",
       "location":"Milaap Social Ventures USA Pvt.Ltd.Dallas.",
-      "image":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg",
+      "images":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/ngo2.jpg",
       "https://cdn.hootout.com/VidyBack-videos/ngo3.jpg"]
     },
     {
       "id":"2",
-      "productName":"Initiative for Humanitarian Assistance Empowerment",
+      "title":"Initiative for Humanitarian Assistance Empowerment",
       "promoHeading":"Donation Camp",
       "productSummary":"The Initiative for Humanitarian Assistance Empowerment campaign Bringing Hope and Health to Those in Need.",
       "location":"310 Old Freeland Road, Freeland, MD 21053",
-      "image":["https://cdn.hootout.com/VidyBack-videos/rising1.jpg",
+      "images":["https://cdn.hootout.com/VidyBack-videos/rising1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/rising2.jpg",
       "https://cdn.hootout.com/VidyBack-videos/rising3.jpg"]
     },
     {
       "id":"3",
-      "productName":"Center for Youth Empowerment & Social Entrepreneurship",
+      "title":"Center for Youth Empowerment & Social Entrepreneurship",
       "promoHeading":"Campaign Update",
       "productSummary":"The Center for Youth Empowerment & Social Entrepreneurship campaign Bringing Hope and Health to Those in Need.",
       "location":"888 Far Hills Drive, New Freedom, PA 17349",
-      "image":["https://cdn.hootout.com/VidyBack-videos/charity1.jpg",
+      "images":["https://cdn.hootout.com/VidyBack-videos/charity1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/charity2.jpg"
     ]
     },
     {
       "id":"4",
-      "productName":"Organization for Relief and Community Rehabilitation",
+      "title":"Organization for Relief and Community Rehabilitation",
       "promoHeading":"Fundraiser",
       "productSummary":"The Organization for Relief and Community Rehabilitation campaign Bringing Hope and Health to Those in Need.",
       "location":"8046 83rd Street NW Maple Lake, MN 55358",
-      "image":["https://cdn.hootout.com/VidyBack-videos/stand1.jpg",
+      "images":["https://cdn.hootout.com/VidyBack-videos/stand1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/stand2.jpg",
       "https://cdn.hootout.com/VidyBack-videos/stand3.jpg"]
     },
     {
       "id":"5",
-      "productName":"Alliance for Poverty Alleviation & Economic Empowerment",
+      "title":"Alliance for Poverty Alleviation & Economic Empowerment",
       "promoHeading":"Fundraiser",
       "productSummary":"The Alliance for Poverty Alleviation & Economic Empowerment campaign Bringing Hope and Health to Those in Need.",
       "location":"10509 108th Street NW Annandale, MN 55302",
-      "image":["https://cdn.hootout.com/VidyBack-videos/emp1.jpg",
+      "images":["https://cdn.hootout.com/VidyBack-videos/emp1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/emp2.jpg",
       "https://cdn.hootout.com/VidyBack-videos/emp3.jpg"]
     }
   ],
-  "ngoTips":[
+  "NGOTIPS":[
     {
       "id":"1",
       "title":"Clearly define your mission, engage volunteers, foster transparency, and build strong partnerships for effective NGO impact"
@@ -2428,7 +2428,7 @@
     }
     
   ],
-  "ngoQuotes":[
+  "NGOQUOTES":[
     {
       "id": "1",
       "title": "A small group of thoughtful, committed citizens can change the world.",
