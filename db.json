@@ -1,5 +1,5 @@
  {
-  "auto":[
+  "AUTO":[
     {
       "id": "1",
       "title": "2019 Mercedes-Benz CLA",
@@ -20,7 +20,7 @@
       "originalPrice": "$25000",
       "discountedPrice": "$24000",
       "discountPercentage": "4% OFF",
-      "desc": "Mercedes-Benz CLA is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
+      "productSummary": "Mercedes-Benz CLA is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
       "feature1": "Cruise control",
       "feature2": "Sunroof",
       "feature3": "Airbags"
@@ -42,7 +42,7 @@
       "originalPrice": "$25000",
       "discountedPrice": "$24000",
       "discountPercentage": "4% OFF",
-      "desc": "Jeep Compass is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
+      "productSummary": "Jeep Compass is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
       "feature1": "Anti-glare mirrors",
       "feature2": "Wireless Phone Charging",
       "feature3": "Airbags"
@@ -66,7 +66,7 @@
       "originalPrice": "$25000",
       "discountedPrice": "$24000",
       "discountPercentage": "4% OFF",
-      "desc": "Mercedes-Benz C-Classs is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
+      "productSummary": "Mercedes-Benz C-Classs is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
       "feature1": "Seat lumbar support",
       "feature2": "Integrated (in-dash) music system",
       "feature3": "GPS navigation system"
@@ -90,92 +90,92 @@
       "originalPrice": "$25000",
       "discountedPrice": "$24000",
       "discountPercentage": "4% OFF",
-      "desc": "BMW 3 Series is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
+      "productSummary": "BMW 3 Series is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
       "feature1": "Keyless start",
       "feature2": "Touch screen infotainment system",
       "feature3": "Rain sensing wipers"
     }
     
   ],
-  "autoQuote":[
+  "AUTOQUOTE":[
     {
       "id": "1",
-      "quote": "Driving a car is like a meditation. It's a journey itself.",
+      "title": "Driving a car is like a meditation. It's a journey itself.",
       "author": "Lynette Winter"
     },
     {
       "id": "2",
-      "quote": "The automobile has not merely taken over the street, it has dissolved it.",
+      "title": "The automobile has not merely taken over the street, it has dissolved it.",
       "author": "J.B. Jackson"
     },
     {
       "id": "3",
-      "quote": "A dream without ambition is like a car without gas... you're not going anywhere.",
+      "title": "A dream without ambition is like a car without gas... you're not going anywhere.",
       "author": "Sean Hampton"
     },
     {
       "id": "4",
-      "quote": "A car is like a mother-in-law - if you let it, it will rule your life.",
+      "title": "A car is like a mother-in-law - if you let it, it will rule your life.",
       "author": "Jamie Kitman"
     },
     {
       "id": "5",
-      "quote": "The joy of life is to drive, not to arrive.",
+      "title": "The joy of life is to drive, not to arrive.",
       "author": "Sir Alec Issigonis"
     },
     {
       "id": "6",
-      "quote": "Cars are the sculptures of our everyday lives",
+      "title": "Cars are the sculptures of our everyday lives",
       "author": "Chris Bangle"
     },
     {
       "id": "7",
-      "quote": "Money may not buy happiness, but I'd rather cry in a Jaguar than on a bus.",
+      "title": "Money may not buy happiness, but I'd rather cry in a Jaguar than on a bus.",
       "author": " Françoise Sagan"
     },
     {
       "id": "8",
-      "quote": "The automobile engine will come, and then I will consider my life's work complete",
+      "title": "The automobile engine will come, and then I will consider my life's work complete",
       "author": "Rudolf Diesel"
     },
     {
       "id": "9",
-      "quote": "You can't buy happiness, but you can buy a car and that's kind of the same thing.",
+      "title": "You can't buy happiness, but you can buy a car and that's kind of the same thing.",
       "author": "Unknown"
     }
   ],
-  "autoTips":[
+  "AUTOTIPS":[
     {
       "id": "1",
-      "tip1":"Regular maintenance is crucial for your car's longevity and optimal performance."
+      "title":"Regular maintenance is crucial for your car's longevity and optimal performance."
     },
     {
       "id": "2",
-      "tip1":" Used cars can be a great way to save money on a vehicle purchase. Look for used cars with low mileage that are still in good condition."
+      "title":" Used cars can be a great way to save money on a vehicle purchase. Look for used cars with low mileage that are still in good condition."
     },
     {
       "id": "3",
-      "tip1":"If you work for a company that has a partnership with a car manufacturer, you may be eligible for an employee discount on a new car purchase."
+      "title":"If you work for a company that has a partnership with a car manufacturer, you may be eligible for an employee discount on a new car purchase."
     },
     {
       "id": "4",
-      "tip1":"Financing a car purchase can be a good option if you have good credit. Look for low-interest rates and make sure you understand the terms and conditions of the agreement."
+      "title":"Financing a car purchase can be a good option if you have good credit. Look for low-interest rates and make sure you understand the terms and conditions of the agreement."
     },
     {
       "id": "5",
-      "tip1":"Properly inflated tires can improve fuel efficiency and extend the life of your tires."
+      "title":"Properly inflated tires can improve fuel efficiency and extend the life of your tires."
     },
     {
       "id": "6",
-      "tip1":"Regularly washing and waxing your vehicle can help protect the paint and prevent rust from forming. It can also improve your vehicle's resale value."
+      "title":"Regularly washing and waxing your vehicle can help protect the paint and prevent rust from forming. It can also improve your vehicle's resale value."
     },
     {
       "id": "7",
-      "tip1":"Your driving habits can have a big impact on the longevity of your vehicle. Avoid aggressive driving, excessive idling, and overloading your vehicle."
+      "title":"Your driving habits can have a big impact on the longevity of your vehicle. Avoid aggressive driving, excessive idling, and overloading your vehicle."
     },
     {
       "id": "8",
-      "tip1":" If you notice any problems with your vehicle, such as strange noises or warning lights, address them promptly to prevent them from turning into larger issues."
+      "title":" If you notice any problems with your vehicle, such as strange noises or warning lights, address them promptly to prevent them from turning into larger issues."
     }
     
   ],
@@ -193,7 +193,7 @@
       "eventLocation": "Tomorrowland"
     }
   ],
-  "autoBlogs":[
+  "AUTOBLOGS":[
     {
       "id": "1",
       "title":"First business blogs",
@@ -223,11 +223,11 @@
     }
 
   ],
-  "food":[
+  "FOOD":[
     {
       "id": "1",
-      "title": "New Dish",
-      "productname": "Soupy ramen",
+      "promoHeading": "New Dish",
+      "title": "Soupy ramen",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/soupy1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/soupy2.jpg",
@@ -245,8 +245,8 @@
     },
     {
       "id": "2",
-      "title": "New In Menu",
-      "productname": "Feta cheese salad",
+      "promoHeading": "New In Menu",
+      "title": "Feta cheese salad",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/new1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/new2.jpg",
@@ -263,8 +263,8 @@
     } ,  
     {
       "id": "4",
-      "title": "Most Favourite",
-      "productname":"Chicken",
+      "promoHeading": "Most Favourite",
+      "title":"Chicken",
        "images": [
         "https://cdn.hootout.com/VidyBack-videos/chicken1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/chicken2.jpg",
@@ -279,8 +279,8 @@
     },
     {
       "id": "5",
-      "title": "Most Popular",
-      "productname": "Japnese sushi rolls",
+      "promoHeading": "Most Popular",
+      "title": "Japnese sushi rolls",
       "images": ["https://cdn.hootout.com/VidyBack-videos/rolls1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/sushiroll1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/sushiroll2.jpg",
@@ -293,8 +293,8 @@
     },
     {
       "id": "6",
-      "title": "Platter",
-      "productname":"Thukpa",
+      "promoHeading": "Platter",
+      "title":"Thukpa",
       "images": ["https://cdn.hootout.com/VidyBack-videos/dish2.jpg"],
       "originalPrice": "$100",
       "discountedPrice": "$80",
@@ -305,81 +305,81 @@
    
    
   ],
-  "foodQuote":[
+  "FOODQUOTE":[
     {
       "id": "1",
-      "quote": "Food is symbolic of love when words are inadequate.",
+      "title": "Food is symbolic of love when words are inadequate.",
       "author": "Alan D. Wolfelt"
     },
     {
       "id": "2",
-      "quote": "Good food is the foundation of genuine happiness.",
+      "title": "Good food is the foundation of genuine happiness.",
       "author": "Auguste Escoffier"
      },
      {
       "id": "3",
-      "quote": "You don't need a silver fork to eat good food.",
+      "title": "You don't need a silver fork to eat good food.",
       "author": "Paul Prudhomme"
      },
      {
       "id": "4",
-      "quote": "Let food be thy medicine and medicine be thy food.",
+      "title": "Let food be thy medicine and medicine be thy food.",
       "author": "Hippocrates"
      },
      {
       "id": "5",
-      "quote": "The food you eat can be either the safest and most powerful form of medicine or the slowest form of poison",
+      "title": "The food you eat can be either the safest and most powerful form of medicine or the slowest form of poison",
       "author": "Ann Wigmore"
      },
      {
       "id": "6",
-      "quote": "Food, to me, is always about cooking and eating with those you love and care for.",
+      "title": "Food, to me, is always about cooking and eating with those you love and care for.",
       "author": "David Chang"
      },
      {
       "id": "7",
-      "quote": "You are what you eat, so don't be fast, cheap, easy or fake.",
+      "title": "You are what you eat, so don't be fast, cheap, easy or fake.",
       "author": " Unknown"
      },
      {
       "id": "8",
-      "quote": "Food is not just about eating energy. It's about sharing knowledge, sharing stories, and sharing life.",
+      "title": "Food is not just about eating energy. It's about sharing knowledge, sharing stories, and sharing life.",
       "author": " Unknown"
      },
      {
       "id": "9",
-      "quote": "Your diet is a bank account. Good food choices are good investments.",
+      "title": "Your diet is a bank account. Good food choices are good investments.",
       "author": "Bethenny Frankel"
      }
   ],
-  "foodTips":[
+  "FOODTIPS":[
     {
     "id":"1",
-    "tip1":"Check the restaurant's social media pages or website for any promotions or deals that may be available."
+    "title":"Check the restaurant's social media pages or website for any promotions or deals that may be available."
     },
     {
       "id":"2",
-      "tip1":"Sign up for loyalty programs: Joining loyalty programs can help you save money on your favorite restaurant meals."
+      "title":"Sign up for loyalty programs: Joining loyalty programs can help you save money on your favorite restaurant meals."
     },
     {
       "id":"3",
-      "tip1":"Take advantage of happy hour: Many restaurants offer discounted drinks and food items during happy hour."
+      "title":"Take advantage of happy hour: Many restaurants offer discounted drinks and food items during happy hour."
     },
     {
       "id":"4",
-      "tip1":"Look for daily specials: Many restaurants offer daily specials on specific days of the week."
+      "title":"Look for daily specials: Many restaurants offer daily specials on specific days of the week."
      },
     {
       "id":"5",
-      "tip1":"Use coupons: Keep an eye out for coupons or promotional offers from restaurants. You may find these in local newspapers, coupon books, or online."
+      "title":"Use coupons: Keep an eye out for coupons or promotional offers from restaurants. You may find these in local newspapers, coupon books, or online."
     },
     {
       "id":"6",
-      "tip1":"Check for student discounts: If you're a student, be sure to check with the restaurant to see if they offer any deals."
+      "title":"Check for student discounts: If you're a student, be sure to check with the restaurant to see if they offer any deals."
     },
     {
       "id":"7",
-      "tip1":"Share meals: Consider sharing a meal with a friend or family member to save money and reduce waste."
+      "title":"Share meals: Consider sharing a meal with a friend or family member to save money and reduce waste."
     }
    
   ],
@@ -406,7 +406,7 @@
     }
 
   ],
-  "estate":[
+  "ESTATE":[
     {
       "id": "1",
       "title": "Mi Casa Duplex Apartment ",
@@ -524,93 +524,93 @@
       "feature3": "Located at the center of the city"
     }
   ],
-  "estateQuote":[
+  "ESTATEQUOTE":[
     {
       "id": "1",
-      "quote": "Home is where love resides, memories are created, and laughter never ends.",
+      "title": "Home is where love resides, memories are created, and laughter never ends.",
       "author": "Unknown"
     },
     {
       "id": "2",
-      "quote": "The light is what guides you home, the warmth is what keeps you there.",
+      "title": "The light is what guides you home, the warmth is what keeps you there.",
       "author": "Ellie Rodriguez"
     },
     {
       "id": "3",
-      "quote": "Don't wait to buy real estate, buy real estate and wait.",
+      "title": "Don't wait to buy real estate, buy real estate and wait.",
       "author": "T. Harv Eker"
     },
     {
       "id": "4",
-      "quote": "The house you looked at today and wanted to think about until tomorrow may be the same house someone looked at yesterday and will buy today.",
+      "title": "The house you looked at today and wanted to think about until tomorrow may be the same house someone looked at yesterday and will buy today.",
       "author": "Koki Adasi"
     },
     {
       "id": "5",
-      "quote": "Owning a home is a keystone of wealth... both financial affluence and emotional security",
+      "title": "Owning a home is a keystone of wealth... both financial affluence and emotional security",
       "author": "Suze Orman"
     },
     {
       "id": "6",
-      "quote": "The best time to buy a home is always five years ago.",
+      "title": "The best time to buy a home is always five years ago.",
       "author": "Ray Brown"
     },
     {
       "id": "7",
-      "quote": "The light is what guides you home, the warmth is what keeps you there.",
+      "title": "The light is what guides you home, the warmth is what keeps you there.",
       "author": "Ellie Rodriguez"
     },
     {
       "id": "8",
-      "quote": "A man's home may seem to be his castle on the outside; inside, it is more often his nursery.",
+      "title": "A man's home may seem to be his castle on the outside; inside, it is more often his nursery.",
       "author": " Clare Boothe Luce"
     },
     {
       "id": "9",
-      "quote": "The major fortunes in America have been made in land.",
+      "title": "The major fortunes in America have been made in land.",
       "author": "John D. Rockefeller"
     }
   ],
-  "estateTips":[
+  "ESTATETIPS":[
     {
       "id": "1",
-      "tip1":"When buying real estate, don't just focus on the property itself. Consider the location, the neighborhood, the schools."
+      "title":"When buying real estate, don't just focus on the property itself. Consider the location, the neighborhood, the schools."
     },
     {
       "id": "2",
-      "tip1":"Getting pre-approved for a mortgage will help you determine how much you can afford to spend on a property and make you a more attractive buyer to sellers."
+      "title":"Getting pre-approved for a mortgage will help you determine how much you can afford to spend on a property and make you a more attractive buyer to sellers."
     },
     {
       "id": "3",
-      "tip1":"Research the local real estate market to get an idea of the prices and types of properties available in the area."
+      "title":"Research the local real estate market to get an idea of the prices and types of properties available in the area."
     },
     {
       "id": "4",
-      "tip1":"Before making an offer, check the property's history to see if there have been any major repairs or issues. "
+      "title":"Before making an offer, check the property's history to see if there have been any major repairs or issues. "
     },
     {
       "id": "5",
-      "tip1":"Take your time when making a decision and don't rush into buying a property."
+      "title":"Take your time when making a decision and don't rush into buying a property."
     },
     {
       "id": "6",
-      "tip1":"A home inspection can help identify any problems with the property and give you leverage to negotiate the price or request repairs."
+      "title":"A home inspection can help identify any problems with the property and give you leverage to negotiate the price or request repairs."
     },
     {
       "id": "7",
-      "tip1":"Regular maintenance can help prevent major problems from occurring and extend the life of your home."
+      "title":"Regular maintenance can help prevent major problems from occurring and extend the life of your home."
     },
     {
       "id": "8",
-      "tip1":"Change air filters regularly and have your HVAC system serviced annually to keep it running efficiently and prevent breakdowns."
+      "title":"Change air filters regularly and have your HVAC system serviced annually to keep it running efficiently and prevent breakdowns."
     },
     {
       "id": "9",
-      "tip1":"Clean gutters and downspouts regularly to prevent water damage to your roof and foundation."
+      "title":"Clean gutters and downspouts regularly to prevent water damage to your roof and foundation."
     },
     {
       "id": "10",
-      "tip1":"Regularly maintain your landscaping, including mowing the lawn, trimming bushes, and removing weeds, to keep your property looking its best."
+      "title":"Regularly maintain your landscaping, including mowing the lawn, trimming bushes, and removing weeds, to keep your property looking its best."
     }
    
   ],
@@ -637,7 +637,7 @@
     }
 
   ],
-  "travel":[
+  "TRAVEL":[
    
     {
       "id": "1",
@@ -717,78 +717,78 @@
           "discountPercentage": "8% OFF"
         }
   ],
-  "travelQuote":[
+  "TRAVELQUOTE":[
    {
       "id": "1",
-      "quote": "The world is a book and those who do not travel read only one page.",
+      "title": "The world is a book and those who do not travel read only one page.",
       "author": "Saint Augustine"
      },
      {
       "id": "2",
-      "quote": "We travel not to escape life, but for life not to escape us.",
+      "title": "We travel not to escape life, but for life not to escape us.",
       "author": "Unknown"
      },
      {
       "id": "3",
-      "quote": "Travel is fatal to prejudice, bigotry, and narrow-mindedness.",
+      "title": "Travel is fatal to prejudice, bigotry, and narrow-mindedness.",
       "author": "Mark Twain"
      },
      {
       "id": "4",
-      "quote": "To travel is to discover that everyone is wrong about other countries.",
+      "title": "To travel is to discover that everyone is wrong about other countries.",
       "author": "LAO TZU"
      },
      {
       "id": "5",
-      "quote": "I haven't been everywhere, but it's on my list.",
+      "title": "I haven't been everywhere, but it's on my list.",
       "author": "Susan Sontag"
      },
      {
       "id": "6",
-      "quote": "Once a year, go somewhere you have never been before.",
+      "title": "Once a year, go somewhere you have never been before.",
       "author": "Dalai Lama"
      }
   ],
-  "travelTips":[
+  "TRAVELTIPS":[
     {
       "id": "1",
-      "tip1":"Obey the laws and cultural differences of the country you’re visiting."
+      "title":"Obey the laws and cultural differences of the country you’re visiting."
     },
     {
       "id": "2",
-      "tip1":"Check if you’re regarded as a national of the destination you plan to visit."
+      "title":"Check if you’re regarded as a national of the destination you plan to visit."
     },
     {
       "id": "3",
-      "tip1":"Being flexible with your travel dates can help you find better deals, especially if you're willing to travel during off-peak times."
+      "title":"Being flexible with your travel dates can help you find better deals, especially if you're willing to travel during off-peak times."
     },
     {
       "id": "4",
-      "tip1":"Booking your travel in advance can often save you money, as prices tend to go up as the departure date gets closer."
+      "title":"Booking your travel in advance can often save you money, as prices tend to go up as the departure date gets closer."
     },
     {
       "id": "5",
-      "tip1":"Package deals that include flights, hotels, and activities can often be more affordable than booking each component separately."
+      "title":"Package deals that include flights, hotels, and activities can often be more affordable than booking each component separately."
     },
     {
       "id": "6",
-      "tip1":"Travel rewards programs, such as frequent flyer programs and credit card rewards, can help you save money on travel expenses."
+      "title":"Travel rewards programs, such as frequent flyer programs and credit card rewards, can help you save money on travel expenses."
     },
     {
       "id": "7",
-      "tip1":"Airlines and travel companies often post exclusive deals on their social media accounts, so following them can help you stay up-to-date on the latest deals."
+      "title":"Airlines and travel companies often post exclusive deals on their social media accounts, so following them can help you stay up-to-date on the latest deals."
     },
     {
       "id": "8",
-      "tip1":"Avoiding peak travel times, such as holidays and weekends, can help you save money on airfare and hotels."
+      "title":"Avoiding peak travel times, such as holidays and weekends, can help you save money on airfare and hotels."
     },
     {
       "id": "9",
-      "tip1":"Use comparison sites to compare prices across multiple airlines and travel companies to find the best deal."
+      "title":"Use comparison sites to compare prices across multiple airlines and travel companies to find the best deal."
     },
     {
       "id": "10",
-      "tip1":"Consider alternative accommodations, such as vacation rentals or hostels, which can often be more affordable than traditional hotels."
+      "title":"Consider alternative accommodations, such as vacation rentals or hostels, which can often be more affordable than traditional hotels."
     }
   ],
   "travelFact":[
@@ -814,142 +814,142 @@
     }
 
   ],
-  "sports":[
+  "SPORTS":[
     {
       "id": "1",
       "title":"Royals Sports Organization",
-      "description": "Register players for your team with a free Sports Registration and food coupons",
+      "productSummary": "Register players for your team with a free Sports Registration and food coupons",
       "date": "14-04-2023",
       "location": "3306 Stout Street, York, Pennsylvania, United States",
-      "image":"https://cdn.hootout.com/VidyBack-videos/sports1.jpg",
-      "Time":"08AMGMT",
-      "Price":"$800"
+      "images": ["https://cdn.hootout.com/VidyBack-videos/sports1.jpg"],
+      "duration":"08AMGMT",
+      "originalPrice":"$800"
     },
     {
       "id": "2",
       "title":"Camelback plays Organization",
-      "description": "Register players for your team with a free Sports Registration",
+      "productSummary": "Register players for your team with a free Sports Registration",
       "date": "15-04-2023",
       "location": "392 Byers Lane,Blairsden,California, United States",
-      "image":"https://cdn.hootout.com/VidyBack-videos/sports2.jpg",
-      "Time":"09AMGMT",
-      "Price":"$650"
+      "images":["https://cdn.hootout.com/VidyBack-videos/sports2.jpg"],
+      "duration":"09AMGMT",
+      "originalPrice":"$650"
     },
     {
       "id": "3",
       "title":"Olympian Sports Organization",
-      "description": "Register players for your team with a free Sports Registration",
+      "productSummary": "Register players for your team with a free Sports Registration",
       "date": "03-04-2023",
       "location": "2990 Hampton Meadows, Cincinnati,Ohio, United States",
-      "image":"https://cdn.hootout.com/VidyBack-videos/sports3.jpg",
-      "Time":"10AMGMT",
-      "Price":"$750"
+      "images":["https://cdn.hootout.com/VidyBack-videos/sports3.jpg"],
+      "duration":"10AMGMT",
+      "originalPrice":"$750"
     },
     {
       "id": "4",
       "title":"Indian Sports Organization",
-      "description": "Register players for your team with a free Sports Registration",
+      "productSummary": "Register players for your team with a free Sports Registration",
       "date": "01-04-2023",
       "location": "4F, 52 Nishiiru Shincho, Shijyo-dori Kawaramachi, Shimogyo-ku,United States",
-      "image":"https://cdn.hootout.com/VidyBack-videos/sport4.jpg",
-      "Time":"07AMGMT",
-      "Price":"$700"
+      "images":["https://cdn.hootout.com/VidyBack-videos/sport4.jpg"],
+      "duration":"07AMGMT",
+      "originalPrice":"$700"
     },
     {
       "id": "5",
       "title":"Royal Sports Organization",
-      "description": "Register players for your team with a free Sports Registration",
+      "productSummary": "Register players for your team with a free Sports Registration",
       "date": "12-04-2023",
       "location": "201 Bellevue Square, Space 201,Bellevue,United States",
-      "image":"https://cdn.hootout.com/VidyBack-videos/sport5.jpg",
-      "Time":"06AMGMT",
-      "Price":"$500"
+      "images":["https://cdn.hootout.com/VidyBack-videos/sport5.jpg"],
+      "duration":"06AMGMT",
+      "originalPrice":"$500"
     }
 
   ],
-  "sportsTips":[
+  "SPORTSTIPS":[
     {
     "id":"1",
-    "tip1":" Do the sports activity or exercise with proper equipment."
+    "title":" Do the sports activity or exercise with proper equipment."
     },
     {
     "id":"2",
-    "tip1":"Take proper muscle strengthening training."
+    "title":"Take proper muscle strengthening training."
     },
     {
       "id":"3",
-      "tip1":" Always go for adequate warm-up, and stretching before the activity or exercise followed by warm-down and stretching after the activity or exercise."
+      "title":" Always go for adequate warm-up, and stretching before the activity or exercise followed by warm-down and stretching after the activity or exercise."
     },
     {
       "id":"4",
-      "tip1":"It's important to set clear, specific, and measurable goals for your athletic career. This will help you stay focused and motivated as you work towards achieving them."
+      "title":"It's important to set clear, specific, and measurable goals for your athletic career. This will help you stay focused and motivated as you work towards achieving them."
     },
     {
       "id":"5",
-      "tip1":"Physical fitness is key to success in the sports industry. Make sure to maintain a healthy diet, get enough rest &sleep and exercise regularly keeping body in top shape."
+      "title":"Physical fitness is key to success in the sports industry. Make sure to maintain a healthy diet, get enough rest &sleep and exercise regularly keeping body in top shape."
     },
     {
       "id":"6",
-      "tip1":"Surround yourself with people who support and encourage you, including coaches, teammates, and family members."
+      "title":"Surround yourself with people who support and encourage you, including coaches, teammates, and family members."
     },
     {
       "id":"7",
-      "tip1":"As an athlete, it's important to stay humble and respectful towards others, including your opponents and teammates."
+      "title":"As an athlete, it's important to stay humble and respectful towards others, including your opponents and teammates."
     },
     {
       "id":"8",
-      "tip1":"Everyone makes mistakes, but it's important to learn from them and use them as opportunities for growth and improvement."
+      "title":"Everyone makes mistakes, but it's important to learn from them and use them as opportunities for growth and improvement."
       }
   ],
-  "sportsQuote":[
+  "SPORTSQUOTES":[
     {
       "id":"1",
-      "quote": "The only one who can tell you ‘you can’t win’ is you and you don’t have to listen.",
+      "title": "The only one who can tell you ‘you can’t win’ is you and you don’t have to listen.",
       "author": "Jessica Ennis-Hill "
     },
     {
       "id": "2",
-      "quote": "The only way to prove that you’re a good sport is to lose.",
+      "title": "The only way to prove that you’re a good sport is to lose.",
       "author": "Ernie Banks"
      },
      {
       "id": "3",
-      "quote": "I just knew if it could be done, it had to be done, and I did it.",
+      "title": "I just knew if it could be done, it had to be done, and I did it.",
       "author": "Gertrude Ederle"
      },
      {
       "id": "4",
-      "quote": "Hard work beats talent when talent doesn't work hard.",
+      "title": "Hard work beats talent when talent doesn't work hard.",
       "author": "Tim Notke"
      },
      {
       "id": "5",
-      "quote": "If you don't have confidence, you'll always find a way not to win.",
+      "title": "If you don't have confidence, you'll always find a way not to win.",
       "author": "Carl Lewis"
      },
      {
       "id": "6",
-      "quote": "I just knew if it could be done, it had to be done, and I did it.",
+      "title": "I just knew if it could be done, it had to be done, and I did it.",
       "author": "Gertrude Ederle"
      },
      {
       "id": "7",
-      "quote": "You miss 100% of the shots you don't take",
+      "title": "You miss 100% of the shots you don't take",
       "author": "Wayne Gretzky"
      },
      {
       "id": "8",
-      "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "title": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
       "author": "Winston Churchill"
      },
      {
       "id": "9",
-      "quote": "The most important thing is to try and inspire people so that they can be great in whatever they want to do.",
+      "title": "The most important thing is to try and inspire people so that they can be great in whatever they want to do.",
       "author": "Kobe Bryant"
      },
      {
       "id": "10",
-      "quote": "To be a great champion, you must believe you are the best. If you're not, pretend you are.",
+      "title": "To be a great champion, you must believe you are the best. If you're not, pretend you are.",
       "author": "Muhammad Ali"
      }
   ],
