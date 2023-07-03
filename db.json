@@ -1101,13 +1101,13 @@
       "author": "Wayne Gretzky"
      }
   ],
-  "politics":[
+  "POLITICS":[
     {
       "id": "1",
       "title":"NBM Political Party",
-      "authorName": "Jason Smith",
-      "message": "We believe in empowering the youth of today to care. We need to right to vote for change.",
-      "image":[
+      "author": "Jason Smith",
+      "productSummary": "We believe in empowering the youth of today to care. We need to right to vote for change.",
+      "images":[
         "https://cdn.hootout.com/VidyBack-videos/pol1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/pol2.jpg",
         "https://cdn.hootout.com/VidyBack-videos/pol3.jpg",
@@ -1118,9 +1118,9 @@
     {
       "id": "2",
       "title":"IBR Political Party",
-      "authorName": "Aristotle",
-      "message": "We stand together as a political party, committed to building a better future for our nation.",
-      "image":[
+      "author": "Aristotle",
+      "productSummary": "We stand together as a political party, committed to building a better future for our nation.",
+      "images":[
         "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
@@ -1131,9 +1131,9 @@
     {
       "id": "3",
       "title":"Indian Political Party",
-      "authorName": "Hubert H Humphrey",
-      "message": "we can bring positive change, empower our communities, and ensure a prosperous tomorrow. Join us in our mission to create a fair, inclusive, and prosperous society for all.",
-      "image":[
+      "author": "Hubert H Humphrey",
+      "productSummary": "we can bring positive change, empower our communities, and ensure a prosperous tomorrow. Join us in our mission to create a fair, inclusive, and prosperous society for all.",
+      "images":[
         "https://cdn.hootout.com/VidyBack-videos/politics1.jpg"
       ],
       "storeName":"www.Yourstore.com"
@@ -1141,9 +1141,9 @@
     {
       "id": "4",
       "title":"ITR Political Party",
-      "authorName": "Arthur C. Clarke",
-      "message": "we can create a society that thrives on justice, innovation, and compassion. Join us as we embark on a transformative journey towards a better tomorrow.",
-      "image":[
+      "author": "Arthur C. Clarke",
+      "productSummary": "we can create a society that thrives on justice, innovation, and compassion. Join us as we embark on a transformative journey towards a better tomorrow.",
+      "images":[
         "https://cdn.hootout.com/VidyBack-videos/politics2.jpg"
       ],
       "storeName":"www.Yourstore.com"
@@ -1151,43 +1151,43 @@
     {
       "id": "5",
       "title":"PBR Political Party",
-      "authorName": "Marc Benioff",
-      "message": "Our party stands firm in its commitment to champion the values that define us.",
-      "image":[
+      "author": "Marc Benioff",
+      "productSummary": "Our party stands firm in its commitment to champion the values that define us.",
+      "images":[
         "https://cdn.hootout.com/VidyBack-videos/politics3.jpg"
       ],
       "storeName":"www.Yourstore.com"
     }
   ],
-  "politicsQuote":[
+  "POLITICSQUOTE":[
     {
       "id":"1",
-      "quote": "Loyalty to country ALWAYS. Loyalty to government, when it deserves it.",
+      "title": "Loyalty to country ALWAYS. Loyalty to government, when it deserves it.",
       "author": "Mark Twain"
     },
    {
       "id":"2",
-      "quote": "The ballot is stronger than the bullet.",
+      "title": "The ballot is stronger than the bullet.",
       "author": " Abraham Lincoln"
     },
     {
       "id":"3",
-      "quote": "In a democracy, the power belongs to the people, and it is their responsibility to wield it.",
+      "title": "In a democracy, the power belongs to the people, and it is their responsibility to wield it.",
       "author": "Barack Obama"
     },
     {
       "id":"4",
-      "quote": "If you don't vote, you lose the right to complain.",
+      "title": "If you don't vote, you lose the right to complain.",
       "author": "George Carlin"
     },
     {
       "id":"5",
-      "quote": "Politics is too important to be left to the politicians",
+      "title": "Politics is too important to be left to the politicians",
       "author": "Charles de Gaulle"
     },
     {
       "id":"6",
-      "quote": "A good citizen is one who knows his or her rights and responsibilities as a member of a free society.",
+      "title": "A good citizen is one who knows his or her rights and responsibilities as a member of a free society.",
       "author": "Harry S. Truman"
     }
   ],
