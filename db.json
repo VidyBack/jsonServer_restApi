@@ -1687,7 +1687,7 @@
     "author":"Joy Emanuel",
     "images":["https://cdn.hootout.com/VidyBack-videos/education1.jpg"],
     "storeName":"www.Yourstore.com",
-    "location":["Zoom","Webinar","Google Meet"],
+    "location":"Zoom,Webinar,Google Meet",
     "duration":"7:30pm",
     "originalPrice":"$200"
 
@@ -1701,7 +1701,7 @@
       "author":"Rick Davidson",
       "images":["https://cdn.hootout.com/VidyBack-videos/education2.jpg"],
       "storeName":"www.Yourstore.com",
-      "location":["Zoom","Webinar","Google Meet"],
+      "location":"Zoom,Webinar,Google Meet",
       "duration":"8:30pm",
       "originalPrice":"$350"
 
@@ -1715,7 +1715,7 @@
       "author":"Jaysen Batchelor",
       "images":["https://cdn.hootout.com/VidyBack-videos/education3.jpg"],
       "storeName":"www.Yourstore.com",
-      "location":["Zoom","Webinar","Google Meet"],
+      "location":"Zoom,Webinar,Google Meet",
       "duration":"6:30pm",
       "originalPrice":"$250"
 
@@ -1729,7 +1729,7 @@
       "author":"TJ Walker",
       "images":["https://cdn.hootout.com/VidyBack-videos/education4.jpg"],
       "storeName":"www.Yourstore.com",
-      "location":["Zoom","Webinar","Google Meet"],
+      "location":"Zoom,Webinar,Google Meet",
       "duration":"5:30pm",
       "originalPrice":"$300"
 
@@ -1743,7 +1743,7 @@
       "author":"Denise Fletcher",
       "images":["https://cdn.hootout.com/VidyBack-videos/education5.jpg"],
       "storeName":"www.Yourstore.com",
-      "location":["Zoom","Webinar","Google Meet"],
+      "location":"Zoom,Webinar,Google Meet",
       "duration":"7:30pm",
       "originalPrice":"$200"
 
