@@ -305,7 +305,7 @@
    
    
   ],
-  "FOODQUOTE":[
+  "FOODQUOTES":[
     {
       "id": "1",
       "title": "Food is symbolic of love when words are inadequate.",
@@ -717,7 +717,7 @@
           "discountPercentage": "8% OFF"
         }
   ],
-  "TRAVELQUOTE":[
+  "TRAVELQUOTES":[
    {
       "id": "1",
       "title": "The world is a book and those who do not travel read only one page.",
@@ -901,7 +901,7 @@
       "title":"Everyone makes mistakes, but it's important to learn from them and use them as opportunities for growth and improvement."
       }
   ],
-  "SPORTSQUOTES":[
+  "SPORTQUOTES":[
     {
       "id":"1",
       "title": "The only one who can tell you ‘you can’t win’ is you and you don’t have to listen.",
@@ -1159,7 +1159,7 @@
       "storeName":"www.Yourstore.com"
     }
   ],
-  "POLITICSQUOTE":[
+  "POLITICQUOTES":[
     {
       "id":"1",
       "title": "Loyalty to country ALWAYS. Loyalty to government, when it deserves it.",
@@ -1191,7 +1191,7 @@
       "author": "Harry S. Truman"
     }
   ],
-  "PHARMACEUTICALS":[
+  "PHARMACEUTICAL":[
     {
     "id":"1",
     "title":"ColdnFlu tablets",
