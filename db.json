@@ -1702,8 +1702,8 @@
       "images":["https://cdn.hootout.com/VidyBack-videos/education2.jpg"],
       "storeName":"www.Yourstore.com",
       "location":"Zoom,Webinar,Google Meet",
-      "duration":"7:30pm",
-      "originalPrice":"$200"
+      "duration":"8:30pm",
+      "originalPrice":"$350"
 
     },
     {
@@ -1716,8 +1716,8 @@
       "images":["https://cdn.hootout.com/VidyBack-videos/education3.jpg"],
       "storeName":"www.Yourstore.com",
       "location":"Zoom,Webinar,Google Meet",
-      "duration":"7:30pm",
-      "originalPrice":"$200"
+      "duration":"6:30pm",
+      "originalPrice":"$250"
 
     },
     {
@@ -1730,8 +1730,8 @@
       "images":["https://cdn.hootout.com/VidyBack-videos/education4.jpg"],
       "storeName":"www.Yourstore.com",
       "location":"Zoom,Webinar,Google Meet",
-      "duration":"7:30pm",
-      "originalPrice":"$200"
+      "duration":"5:30pm",
+      "originalPrice":"$300"
 
     },
     {
