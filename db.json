@@ -1687,7 +1687,10 @@
     "author":"Joy Emanuel",
     "images":["https://cdn.hootout.com/VidyBack-videos/education1.jpg"],
     "storeName":"www.Yourstore.com",
-    "location":"Zoom,Webinar,Google Meet"
+    "location":"Zoom,Webinar,Google Meet",
+    "duration":"7:30pm",
+    "originalPrice":"$200"
+
     },
     {
       "id": "2",
@@ -1697,7 +1700,11 @@
       "eventstarttime":"08AMGMT",
       "author":"Rick Davidson",
       "images":["https://cdn.hootout.com/VidyBack-videos/education2.jpg"],
-      "storeName":"www.Yourstore.com"
+      "storeName":"www.Yourstore.com",
+      "location":"Zoom,Webinar,Google Meet",
+      "duration":"7:30pm",
+      "originalPrice":"$200"
+
     },
     {
       "id": "3",
@@ -1707,7 +1714,11 @@
       "eventstarttime":"08AMGMT",
       "author":"Jaysen Batchelor",
       "images":["https://cdn.hootout.com/VidyBack-videos/education3.jpg"],
-      "storeName":"www.Yourstore.com"
+      "storeName":"www.Yourstore.com",
+      "location":"Zoom,Webinar,Google Meet",
+      "duration":"7:30pm",
+      "originalPrice":"$200"
+
     },
     {
       "id": "4",
@@ -1717,7 +1728,11 @@
       "eventstarttime":"08AMGMT",
       "author":"TJ Walker",
       "images":["https://cdn.hootout.com/VidyBack-videos/education4.jpg"],
-      "storeName":"www.Yourstore.com"
+      "storeName":"www.Yourstore.com",
+      "location":"Zoom,Webinar,Google Meet",
+      "duration":"7:30pm",
+      "originalPrice":"$200"
+
     },
     {
       "id": "5",
@@ -1727,7 +1742,11 @@
       "eventstarttime":"08AMGMT",
       "author":"Denise Fletcher",
       "images":["https://cdn.hootout.com/VidyBack-videos/education5.jpg"],
-      "storeName":"www.Yourstore.com"
+      "storeName":"www.Yourstore.com",
+      "location":"Zoom,Webinar,Google Meet",
+      "duration":"7:30pm",
+      "originalPrice":"$200"
+
     }
   ],
   "EDUCATIONTIPS": [
