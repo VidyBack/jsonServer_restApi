@@ -97,7 +97,7 @@
     }
     
   ],
-  "AUTOQUOTE":[
+  "AUTOQUOTES":[
     {
       "id": "1",
       "title": "Driving a car is like a meditation. It's a journey itself.",
@@ -524,7 +524,7 @@
       "feature3": "Located at the center of the city"
     }
   ],
-  "ESTATEQUOTE":[
+  "ESTATEQUOTES":[
     {
       "id": "1",
       "title": "Home is where love resides, memories are created, and laughter never ends.",
