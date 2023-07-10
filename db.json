@@ -1687,7 +1687,7 @@
     "author":"Joy Emanuel",
     "images":["https://cdn.hootout.com/VidyBack-videos/education1.jpg"],
     "storeName":"www.Yourstore.com",
-    "location":["Zoom","Webinar","Google Meet"]
+    "location":"Zoom,Webinar,Google Meet"
     },
     {
       "id": "2",
