@@ -1,5 +1,5 @@
  {
-  "auto":[
+  "AUTO":[
     {
       "id": "1",
       "title": "2019 Mercedes-Benz CLA",
@@ -20,7 +20,7 @@
       "originalPrice": "$25000",
       "discountedPrice": "$24000",
       "discountPercentage": "4% OFF",
-      "desc": "Mercedes-Benz CLA is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
+      "productSummary": "Mercedes-Benz CLA is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
       "feature1": "Cruise control",
       "feature2": "Sunroof",
       "feature3": "Airbags"
@@ -42,7 +42,7 @@
       "originalPrice": "$25000",
       "discountedPrice": "$24000",
       "discountPercentage": "4% OFF",
-      "desc": "Jeep Compass is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
+      "productSummary": "Jeep Compass is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
       "feature1": "Anti-glare mirrors",
       "feature2": "Wireless Phone Charging",
       "feature3": "Airbags"
@@ -66,7 +66,7 @@
       "originalPrice": "$25000",
       "discountedPrice": "$24000",
       "discountPercentage": "4% OFF",
-      "desc": "Mercedes-Benz C-Classs is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
+      "productSummary": "Mercedes-Benz C-Classs is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
       "feature1": "Seat lumbar support",
       "feature2": "Integrated (in-dash) music system",
       "feature3": "GPS navigation system"
@@ -90,92 +90,92 @@
       "originalPrice": "$25000",
       "discountedPrice": "$24000",
       "discountPercentage": "4% OFF",
-      "desc": "BMW 3 Series is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
+      "productSummary": "BMW 3 Series is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
       "feature1": "Keyless start",
       "feature2": "Touch screen infotainment system",
       "feature3": "Rain sensing wipers"
     }
     
   ],
-  "autoQuote":[
+  "AUTOQUOTE":[
     {
       "id": "1",
-      "quote": "Driving a car is like a meditation. It's a journey itself.",
+      "title": "Driving a car is like a meditation. It's a journey itself.",
       "author": "Lynette Winter"
     },
     {
       "id": "2",
-      "quote": "The automobile has not merely taken over the street, it has dissolved it.",
+      "title": "The automobile has not merely taken over the street, it has dissolved it.",
       "author": "J.B. Jackson"
     },
     {
       "id": "3",
-      "quote": "A dream without ambition is like a car without gas... you're not going anywhere.",
+      "title": "A dream without ambition is like a car without gas... you're not going anywhere.",
       "author": "Sean Hampton"
     },
     {
       "id": "4",
-      "quote": "A car is like a mother-in-law - if you let it, it will rule your life.",
+      "title": "A car is like a mother-in-law - if you let it, it will rule your life.",
       "author": "Jamie Kitman"
     },
     {
       "id": "5",
-      "quote": "The joy of life is to drive, not to arrive.",
+      "title": "The joy of life is to drive, not to arrive.",
       "author": "Sir Alec Issigonis"
     },
     {
       "id": "6",
-      "quote": "Cars are the sculptures of our everyday lives",
+      "title": "Cars are the sculptures of our everyday lives",
       "author": "Chris Bangle"
     },
     {
       "id": "7",
-      "quote": "Money may not buy happiness, but I'd rather cry in a Jaguar than on a bus.",
+      "title": "Money may not buy happiness, but I'd rather cry in a Jaguar than on a bus.",
       "author": " Françoise Sagan"
     },
     {
       "id": "8",
-      "quote": "The automobile engine will come, and then I will consider my life's work complete",
+      "title": "The automobile engine will come, and then I will consider my life's work complete",
       "author": "Rudolf Diesel"
     },
     {
       "id": "9",
-      "quote": "You can't buy happiness, but you can buy a car and that's kind of the same thing.",
+      "title": "You can't buy happiness, but you can buy a car and that's kind of the same thing.",
       "author": "Unknown"
     }
   ],
-  "autoTips":[
+  "AUTOTIPS":[
     {
       "id": "1",
-      "tip1":"Regular maintenance is crucial for your car's longevity and optimal performance."
+      "title":"Regular maintenance is crucial for your car's longevity and optimal performance."
     },
     {
       "id": "2",
-      "tip1":" Used cars can be a great way to save money on a vehicle purchase. Look for used cars with low mileage that are still in good condition."
+      "title":" Used cars can be a great way to save money on a vehicle purchase. Look for used cars with low mileage that are still in good condition."
     },
     {
       "id": "3",
-      "tip1":"If you work for a company that has a partnership with a car manufacturer, you may be eligible for an employee discount on a new car purchase."
+      "title":"If you work for a company that has a partnership with a car manufacturer, you may be eligible for an employee discount on a new car purchase."
     },
     {
       "id": "4",
-      "tip1":"Financing a car purchase can be a good option if you have good credit. Look for low-interest rates and make sure you understand the terms and conditions of the agreement."
+      "title":"Financing a car purchase can be a good option if you have good credit. Look for low-interest rates and make sure you understand the terms and conditions of the agreement."
     },
     {
       "id": "5",
-      "tip1":"Properly inflated tires can improve fuel efficiency and extend the life of your tires."
+      "title":"Properly inflated tires can improve fuel efficiency and extend the life of your tires."
     },
     {
       "id": "6",
-      "tip1":"Regularly washing and waxing your vehicle can help protect the paint and prevent rust from forming. It can also improve your vehicle's resale value."
+      "title":"Regularly washing and waxing your vehicle can help protect the paint and prevent rust from forming. It can also improve your vehicle's resale value."
     },
     {
       "id": "7",
-      "tip1":"Your driving habits can have a big impact on the longevity of your vehicle. Avoid aggressive driving, excessive idling, and overloading your vehicle."
+      "title":"Your driving habits can have a big impact on the longevity of your vehicle. Avoid aggressive driving, excessive idling, and overloading your vehicle."
     },
     {
       "id": "8",
-      "tip1":" If you notice any problems with your vehicle, such as strange noises or warning lights, address them promptly to prevent them from turning into larger issues."
+      "title":" If you notice any problems with your vehicle, such as strange noises or warning lights, address them promptly to prevent them from turning into larger issues."
     }
     
   ],
@@ -193,7 +193,7 @@
       "eventLocation": "Tomorrowland"
     }
   ],
-  "autoBlogs":[
+  "AUTOBLOGS":[
     {
       "id": "1",
       "title":"First business blogs",
@@ -223,11 +223,11 @@
     }
 
   ],
-  "food":[
+  "FOOD":[
     {
       "id": "1",
-      "title": "New Dish",
-      "productname": "Soupy ramen",
+      "promoHeading": "New Dish",
+      "title": "Soupy ramen",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/soupy1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/soupy2.jpg",
@@ -245,8 +245,8 @@
     },
     {
       "id": "2",
-      "title": "New In Menu",
-      "productname": "Feta cheese salad",
+      "promoHeading": "New In Menu",
+      "title": "Feta cheese salad",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/new1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/new2.jpg",
@@ -263,8 +263,8 @@
     } ,  
     {
       "id": "4",
-      "title": "Most Favourite",
-      "productname":"Chicken",
+      "promoHeading": "Most Favourite",
+      "title":"Chicken",
        "images": [
         "https://cdn.hootout.com/VidyBack-videos/chicken1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/chicken2.jpg",
@@ -279,8 +279,8 @@
     },
     {
       "id": "5",
-      "title": "Most Popular",
-      "productname": "Japnese sushi rolls",
+      "promoHeading": "Most Popular",
+      "title": "Japnese sushi rolls",
       "images": ["https://cdn.hootout.com/VidyBack-videos/rolls1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/sushiroll1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/sushiroll2.jpg",
@@ -293,8 +293,8 @@
     },
     {
       "id": "6",
-      "title": "Platter",
-      "productname":"Thukpa",
+      "promoHeading": "Platter",
+      "title":"Thukpa",
       "images": ["https://cdn.hootout.com/VidyBack-videos/dish2.jpg"],
       "originalPrice": "$100",
       "discountedPrice": "$80",
@@ -305,81 +305,81 @@
    
    
   ],
-  "foodQuote":[
+  "FOODQUOTE":[
     {
       "id": "1",
-      "quote": "Food is symbolic of love when words are inadequate.",
+      "title": "Food is symbolic of love when words are inadequate.",
       "author": "Alan D. Wolfelt"
     },
     {
       "id": "2",
-      "quote": "Good food is the foundation of genuine happiness.",
+      "title": "Good food is the foundation of genuine happiness.",
       "author": "Auguste Escoffier"
      },
      {
       "id": "3",
-      "quote": "You don't need a silver fork to eat good food.",
+      "title": "You don't need a silver fork to eat good food.",
       "author": "Paul Prudhomme"
      },
      {
       "id": "4",
-      "quote": "Let food be thy medicine and medicine be thy food.",
+      "title": "Let food be thy medicine and medicine be thy food.",
       "author": "Hippocrates"
      },
      {
       "id": "5",
-      "quote": "The food you eat can be either the safest and most powerful form of medicine or the slowest form of poison",
+      "title": "The food you eat can be either the safest and most powerful form of medicine or the slowest form of poison",
       "author": "Ann Wigmore"
      },
      {
       "id": "6",
-      "quote": "Food, to me, is always about cooking and eating with those you love and care for.",
+      "title": "Food, to me, is always about cooking and eating with those you love and care for.",
       "author": "David Chang"
      },
      {
       "id": "7",
-      "quote": "You are what you eat, so don't be fast, cheap, easy or fake.",
+      "title": "You are what you eat, so don't be fast, cheap, easy or fake.",
       "author": " Unknown"
      },
      {
       "id": "8",
-      "quote": "Food is not just about eating energy. It's about sharing knowledge, sharing stories, and sharing life.",
+      "title": "Food is not just about eating energy. It's about sharing knowledge, sharing stories, and sharing life.",
       "author": " Unknown"
      },
      {
       "id": "9",
-      "quote": "Your diet is a bank account. Good food choices are good investments.",
+      "title": "Your diet is a bank account. Good food choices are good investments.",
       "author": "Bethenny Frankel"
      }
   ],
-  "foodTips":[
+  "FOODTIPS":[
     {
     "id":"1",
-    "tip1":"Check the restaurant's social media pages or website for any promotions or deals that may be available."
+    "title":"Check the restaurant's social media pages or website for any promotions or deals that may be available."
     },
     {
       "id":"2",
-      "tip1":"Sign up for loyalty programs: Joining loyalty programs can help you save money on your favorite restaurant meals."
+      "title":"Sign up for loyalty programs: Joining loyalty programs can help you save money on your favorite restaurant meals."
     },
     {
       "id":"3",
-      "tip1":"Take advantage of happy hour: Many restaurants offer discounted drinks and food items during happy hour."
+      "title":"Take advantage of happy hour: Many restaurants offer discounted drinks and food items during happy hour."
     },
     {
       "id":"4",
-      "tip1":"Look for daily specials: Many restaurants offer daily specials on specific days of the week."
+      "title":"Look for daily specials: Many restaurants offer daily specials on specific days of the week."
      },
     {
       "id":"5",
-      "tip1":"Use coupons: Keep an eye out for coupons or promotional offers from restaurants. You may find these in local newspapers, coupon books, or online."
+      "title":"Use coupons: Keep an eye out for coupons or promotional offers from restaurants. You may find these in local newspapers, coupon books, or online."
     },
     {
       "id":"6",
-      "tip1":"Check for student discounts: If you're a student, be sure to check with the restaurant to see if they offer any deals."
+      "title":"Check for student discounts: If you're a student, be sure to check with the restaurant to see if they offer any deals."
     },
     {
       "id":"7",
-      "tip1":"Share meals: Consider sharing a meal with a friend or family member to save money and reduce waste."
+      "title":"Share meals: Consider sharing a meal with a friend or family member to save money and reduce waste."
     }
    
   ],
@@ -406,7 +406,7 @@
     }
 
   ],
-  "estate":[
+  "ESTATE":[
     {
       "id": "1",
       "title": "Mi Casa Duplex Apartment ",
@@ -524,93 +524,93 @@
       "feature3": "Located at the center of the city"
     }
   ],
-  "estateQuote":[
+  "ESTATEQUOTE":[
     {
       "id": "1",
-      "quote": "Home is where love resides, memories are created, and laughter never ends.",
+      "title": "Home is where love resides, memories are created, and laughter never ends.",
       "author": "Unknown"
     },
     {
       "id": "2",
-      "quote": "The light is what guides you home, the warmth is what keeps you there.",
+      "title": "The light is what guides you home, the warmth is what keeps you there.",
       "author": "Ellie Rodriguez"
     },
     {
       "id": "3",
-      "quote": "Don't wait to buy real estate, buy real estate and wait.",
+      "title": "Don't wait to buy real estate, buy real estate and wait.",
       "author": "T. Harv Eker"
     },
     {
       "id": "4",
-      "quote": "The house you looked at today and wanted to think about until tomorrow may be the same house someone looked at yesterday and will buy today.",
+      "title": "The house you looked at today and wanted to think about until tomorrow may be the same house someone looked at yesterday and will buy today.",
       "author": "Koki Adasi"
     },
     {
       "id": "5",
-      "quote": "Owning a home is a keystone of wealth... both financial affluence and emotional security",
+      "title": "Owning a home is a keystone of wealth... both financial affluence and emotional security",
       "author": "Suze Orman"
     },
     {
       "id": "6",
-      "quote": "The best time to buy a home is always five years ago.",
+      "title": "The best time to buy a home is always five years ago.",
       "author": "Ray Brown"
     },
     {
       "id": "7",
-      "quote": "The light is what guides you home, the warmth is what keeps you there.",
+      "title": "The light is what guides you home, the warmth is what keeps you there.",
       "author": "Ellie Rodriguez"
     },
     {
       "id": "8",
-      "quote": "A man's home may seem to be his castle on the outside; inside, it is more often his nursery.",
+      "title": "A man's home may seem to be his castle on the outside; inside, it is more often his nursery.",
       "author": " Clare Boothe Luce"
     },
     {
       "id": "9",
-      "quote": "The major fortunes in America have been made in land.",
+      "title": "The major fortunes in America have been made in land.",
       "author": "John D. Rockefeller"
     }
   ],
-  "estateTips":[
+  "ESTATETIPS":[
     {
       "id": "1",
-      "tip1":"When buying real estate, don't just focus on the property itself. Consider the location, the neighborhood, the schools."
+      "title":"When buying real estate, don't just focus on the property itself. Consider the location, the neighborhood, the schools."
     },
     {
       "id": "2",
-      "tip1":"Getting pre-approved for a mortgage will help you determine how much you can afford to spend on a property and make you a more attractive buyer to sellers."
+      "title":"Getting pre-approved for a mortgage will help you determine how much you can afford to spend on a property and make you a more attractive buyer to sellers."
     },
     {
       "id": "3",
-      "tip1":"Research the local real estate market to get an idea of the prices and types of properties available in the area."
+      "title":"Research the local real estate market to get an idea of the prices and types of properties available in the area."
     },
     {
       "id": "4",
-      "tip1":"Before making an offer, check the property's history to see if there have been any major repairs or issues. "
+      "title":"Before making an offer, check the property's history to see if there have been any major repairs or issues. "
     },
     {
       "id": "5",
-      "tip1":"Take your time when making a decision and don't rush into buying a property."
+      "title":"Take your time when making a decision and don't rush into buying a property."
     },
     {
       "id": "6",
-      "tip1":"A home inspection can help identify any problems with the property and give you leverage to negotiate the price or request repairs."
+      "title":"A home inspection can help identify any problems with the property and give you leverage to negotiate the price or request repairs."
     },
     {
       "id": "7",
-      "tip1":"Regular maintenance can help prevent major problems from occurring and extend the life of your home."
+      "title":"Regular maintenance can help prevent major problems from occurring and extend the life of your home."
     },
     {
       "id": "8",
-      "tip1":"Change air filters regularly and have your HVAC system serviced annually to keep it running efficiently and prevent breakdowns."
+      "title":"Change air filters regularly and have your HVAC system serviced annually to keep it running efficiently and prevent breakdowns."
     },
     {
       "id": "9",
-      "tip1":"Clean gutters and downspouts regularly to prevent water damage to your roof and foundation."
+      "title":"Clean gutters and downspouts regularly to prevent water damage to your roof and foundation."
     },
     {
       "id": "10",
-      "tip1":"Regularly maintain your landscaping, including mowing the lawn, trimming bushes, and removing weeds, to keep your property looking its best."
+      "title":"Regularly maintain your landscaping, including mowing the lawn, trimming bushes, and removing weeds, to keep your property looking its best."
     }
    
   ],
@@ -637,7 +637,7 @@
     }
 
   ],
-  "travel":[
+  "TRAVEL":[
    
     {
       "id": "1",
@@ -717,78 +717,78 @@
           "discountPercentage": "8% OFF"
         }
   ],
-  "travelQuote":[
+  "TRAVELQUOTE":[
    {
       "id": "1",
-      "quote": "The world is a book and those who do not travel read only one page.",
+      "title": "The world is a book and those who do not travel read only one page.",
       "author": "Saint Augustine"
      },
      {
       "id": "2",
-      "quote": "We travel not to escape life, but for life not to escape us.",
+      "title": "We travel not to escape life, but for life not to escape us.",
       "author": "Unknown"
      },
      {
       "id": "3",
-      "quote": "Travel is fatal to prejudice, bigotry, and narrow-mindedness.",
+      "title": "Travel is fatal to prejudice, bigotry, and narrow-mindedness.",
       "author": "Mark Twain"
      },
      {
       "id": "4",
-      "quote": "To travel is to discover that everyone is wrong about other countries.",
+      "title": "To travel is to discover that everyone is wrong about other countries.",
       "author": "LAO TZU"
      },
      {
       "id": "5",
-      "quote": "I haven't been everywhere, but it's on my list.",
+      "title": "I haven't been everywhere, but it's on my list.",
       "author": "Susan Sontag"
      },
      {
       "id": "6",
-      "quote": "Once a year, go somewhere you have never been before.",
+      "title": "Once a year, go somewhere you have never been before.",
       "author": "Dalai Lama"
      }
   ],
-  "travelTips":[
+  "TRAVELTIPS":[
     {
       "id": "1",
-      "tip1":"Obey the laws and cultural differences of the country you’re visiting."
+      "title":"Obey the laws and cultural differences of the country you’re visiting."
     },
     {
       "id": "2",
-      "tip1":"Check if you’re regarded as a national of the destination you plan to visit."
+      "title":"Check if you’re regarded as a national of the destination you plan to visit."
     },
     {
       "id": "3",
-      "tip1":"Being flexible with your travel dates can help you find better deals, especially if you're willing to travel during off-peak times."
+      "title":"Being flexible with your travel dates can help you find better deals, especially if you're willing to travel during off-peak times."
     },
     {
       "id": "4",
-      "tip1":"Booking your travel in advance can often save you money, as prices tend to go up as the departure date gets closer."
+      "title":"Booking your travel in advance can often save you money, as prices tend to go up as the departure date gets closer."
     },
     {
       "id": "5",
-      "tip1":"Package deals that include flights, hotels, and activities can often be more affordable than booking each component separately."
+      "title":"Package deals that include flights, hotels, and activities can often be more affordable than booking each component separately."
     },
     {
       "id": "6",
-      "tip1":"Travel rewards programs, such as frequent flyer programs and credit card rewards, can help you save money on travel expenses."
+      "title":"Travel rewards programs, such as frequent flyer programs and credit card rewards, can help you save money on travel expenses."
     },
     {
       "id": "7",
-      "tip1":"Airlines and travel companies often post exclusive deals on their social media accounts, so following them can help you stay up-to-date on the latest deals."
+      "title":"Airlines and travel companies often post exclusive deals on their social media accounts, so following them can help you stay up-to-date on the latest deals."
     },
     {
       "id": "8",
-      "tip1":"Avoiding peak travel times, such as holidays and weekends, can help you save money on airfare and hotels."
+      "title":"Avoiding peak travel times, such as holidays and weekends, can help you save money on airfare and hotels."
     },
     {
       "id": "9",
-      "tip1":"Use comparison sites to compare prices across multiple airlines and travel companies to find the best deal."
+      "title":"Use comparison sites to compare prices across multiple airlines and travel companies to find the best deal."
     },
     {
       "id": "10",
-      "tip1":"Consider alternative accommodations, such as vacation rentals or hostels, which can often be more affordable than traditional hotels."
+      "title":"Consider alternative accommodations, such as vacation rentals or hostels, which can often be more affordable than traditional hotels."
     }
   ],
   "travelFact":[
@@ -814,142 +814,142 @@
     }
 
   ],
-  "sports":[
+  "SPORTS":[
     {
       "id": "1",
       "title":"Royals Sports Organization",
-      "description": "Register players for your team with a free Sports Registration and food coupons",
+      "productSummary": "Register players for your team with a free Sports Registration and food coupons",
       "date": "14-04-2023",
       "location": "3306 Stout Street, York, Pennsylvania, United States",
-      "image":"https://cdn.hootout.com/VidyBack-videos/sports1.jpg",
-      "Time":"08AMGMT",
-      "Price":"$800"
+      "images": ["https://cdn.hootout.com/VidyBack-videos/sports1.jpg"],
+      "duration":"08AMGMT",
+      "originalPrice":"$800"
     },
     {
       "id": "2",
       "title":"Camelback plays Organization",
-      "description": "Register players for your team with a free Sports Registration",
+      "productSummary": "Register players for your team with a free Sports Registration",
       "date": "15-04-2023",
       "location": "392 Byers Lane,Blairsden,California, United States",
-      "image":"https://cdn.hootout.com/VidyBack-videos/sports2.jpg",
-      "Time":"09AMGMT",
-      "Price":"$650"
+      "images":["https://cdn.hootout.com/VidyBack-videos/sports2.jpg"],
+      "duration":"09AMGMT",
+      "originalPrice":"$650"
     },
     {
       "id": "3",
       "title":"Olympian Sports Organization",
-      "description": "Register players for your team with a free Sports Registration",
+      "productSummary": "Register players for your team with a free Sports Registration",
       "date": "03-04-2023",
       "location": "2990 Hampton Meadows, Cincinnati,Ohio, United States",
-      "image":"https://cdn.hootout.com/VidyBack-videos/sports3.jpg",
-      "Time":"10AMGMT",
-      "Price":"$750"
+      "images":["https://cdn.hootout.com/VidyBack-videos/sports3.jpg"],
+      "duration":"10AMGMT",
+      "originalPrice":"$750"
     },
     {
       "id": "4",
       "title":"Indian Sports Organization",
-      "description": "Register players for your team with a free Sports Registration",
+      "productSummary": "Register players for your team with a free Sports Registration",
       "date": "01-04-2023",
       "location": "4F, 52 Nishiiru Shincho, Shijyo-dori Kawaramachi, Shimogyo-ku,United States",
-      "image":"https://cdn.hootout.com/VidyBack-videos/sport4.jpg",
-      "Time":"07AMGMT",
-      "Price":"$700"
+      "images":["https://cdn.hootout.com/VidyBack-videos/sport4.jpg"],
+      "duration":"07AMGMT",
+      "originalPrice":"$700"
     },
     {
       "id": "5",
       "title":"Royal Sports Organization",
-      "description": "Register players for your team with a free Sports Registration",
+      "productSummary": "Register players for your team with a free Sports Registration",
       "date": "12-04-2023",
       "location": "201 Bellevue Square, Space 201,Bellevue,United States",
-      "image":"https://cdn.hootout.com/VidyBack-videos/sport5.jpg",
-      "Time":"06AMGMT",
-      "Price":"$500"
+      "images":["https://cdn.hootout.com/VidyBack-videos/sport5.jpg"],
+      "duration":"06AMGMT",
+      "originalPrice":"$500"
     }
 
   ],
-  "sportsTips":[
+  "SPORTSTIPS":[
     {
     "id":"1",
-    "tip1":" Do the sports activity or exercise with proper equipment."
+    "title":" Do the sports activity or exercise with proper equipment."
     },
     {
     "id":"2",
-    "tip1":"Take proper muscle strengthening training."
+    "title":"Take proper muscle strengthening training."
     },
     {
       "id":"3",
-      "tip1":" Always go for adequate warm-up, and stretching before the activity or exercise followed by warm-down and stretching after the activity or exercise."
+      "title":" Always go for adequate warm-up, and stretching before the activity or exercise followed by warm-down and stretching after the activity or exercise."
     },
     {
       "id":"4",
-      "tip1":"It's important to set clear, specific, and measurable goals for your athletic career. This will help you stay focused and motivated as you work towards achieving them."
+      "title":"It's important to set clear, specific, and measurable goals for your athletic career. This will help you stay focused and motivated as you work towards achieving them."
     },
     {
       "id":"5",
-      "tip1":"Physical fitness is key to success in the sports industry. Make sure to maintain a healthy diet, get enough rest &sleep and exercise regularly keeping body in top shape."
+      "title":"Physical fitness is key to success in the sports industry. Make sure to maintain a healthy diet, get enough rest &sleep and exercise regularly keeping body in top shape."
     },
     {
       "id":"6",
-      "tip1":"Surround yourself with people who support and encourage you, including coaches, teammates, and family members."
+      "title":"Surround yourself with people who support and encourage you, including coaches, teammates, and family members."
     },
     {
       "id":"7",
-      "tip1":"As an athlete, it's important to stay humble and respectful towards others, including your opponents and teammates."
+      "title":"As an athlete, it's important to stay humble and respectful towards others, including your opponents and teammates."
     },
     {
       "id":"8",
-      "tip1":"Everyone makes mistakes, but it's important to learn from them and use them as opportunities for growth and improvement."
+      "title":"Everyone makes mistakes, but it's important to learn from them and use them as opportunities for growth and improvement."
       }
   ],
-  "sportsQuote":[
+  "SPORTSQUOTES":[
     {
       "id":"1",
-      "quote": "The only one who can tell you ‘you can’t win’ is you and you don’t have to listen.",
+      "title": "The only one who can tell you ‘you can’t win’ is you and you don’t have to listen.",
       "author": "Jessica Ennis-Hill "
     },
     {
       "id": "2",
-      "quote": "The only way to prove that you’re a good sport is to lose.",
+      "title": "The only way to prove that you’re a good sport is to lose.",
       "author": "Ernie Banks"
      },
      {
       "id": "3",
-      "quote": "I just knew if it could be done, it had to be done, and I did it.",
+      "title": "I just knew if it could be done, it had to be done, and I did it.",
       "author": "Gertrude Ederle"
      },
      {
       "id": "4",
-      "quote": "Hard work beats talent when talent doesn't work hard.",
+      "title": "Hard work beats talent when talent doesn't work hard.",
       "author": "Tim Notke"
      },
      {
       "id": "5",
-      "quote": "If you don't have confidence, you'll always find a way not to win.",
+      "title": "If you don't have confidence, you'll always find a way not to win.",
       "author": "Carl Lewis"
      },
      {
       "id": "6",
-      "quote": "I just knew if it could be done, it had to be done, and I did it.",
+      "title": "I just knew if it could be done, it had to be done, and I did it.",
       "author": "Gertrude Ederle"
      },
      {
       "id": "7",
-      "quote": "You miss 100% of the shots you don't take",
+      "title": "You miss 100% of the shots you don't take",
       "author": "Wayne Gretzky"
      },
      {
       "id": "8",
-      "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "title": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
       "author": "Winston Churchill"
      },
      {
       "id": "9",
-      "quote": "The most important thing is to try and inspire people so that they can be great in whatever they want to do.",
+      "title": "The most important thing is to try and inspire people so that they can be great in whatever they want to do.",
       "author": "Kobe Bryant"
      },
      {
       "id": "10",
-      "quote": "To be a great champion, you must believe you are the best. If you're not, pretend you are.",
+      "title": "To be a great champion, you must believe you are the best. If you're not, pretend you are.",
       "author": "Muhammad Ali"
      }
   ],
@@ -976,7 +976,7 @@
     }
 
   ],
-  "jobs":[
+  "JOBS":[
     {
       "id": "1",
         "title": "Interior Designer",
@@ -1023,91 +1023,91 @@
     }
 
   ],
-  "jobTips":[
+  "JOBTIPS":[
     {
     "id":"1",
-    "tip1":"Before you start your job search, it's important to have a clear idea of the type of job you're looking for and what you want to achieve in your career."
+    "title":"Before you start your job search, it's important to have a clear idea of the type of job you're looking for and what you want to achieve in your career."
     },
     {
     "id":"2",
-    "tip1":" Networking is a great way to connect with people in your industry and learn about job opportunities."
+    "title":" Networking is a great way to connect with people in your industry and learn about job opportunities."
     },
     {
       "id":"3",
-      "tip1":"Build, cultivate, and utilize your network of contacts"
+      "title":"Build, cultivate, and utilize your network of contacts"
     },
     {
       "id":"4",
-      "tip1":"Send a thank-you email or note after a job interview to show your appreciation for the opportunity and reiterate your interest in the job."
+      "title":"Send a thank-you email or note after a job interview to show your appreciation for the opportunity and reiterate your interest in the job."
     },
     {
       "id":"5",
-      "tip1":" The job search process can be challenging, but it's important to stay positive and persistent."
+      "title":" The job search process can be challenging, but it's important to stay positive and persistent."
     },
     {
       "id":"6",
-      "tip1":"Resume & cover letter is the first impression with potential employers, so make sure they're professional, error-free, and highlight your relevant skills and experience."
+      "title":"Resume & cover letter is the first impression with potential employers, so make sure they're professional, error-free, and highlight your relevant skills and experience."
     }
   ],
-  "jobQuote":[
+  "JOBQUOTES":[
     {
       "id":"1",
-      "quote": "Pleasure in the job puts perfection in the work.",
+      "title": "Pleasure in the job puts perfection in the work.",
       "author": "Aristotle"
     },
     {
       "id": "2",
-      "quote": "Work to become, not to acquire.",
+      "title": "Work to become, not to acquire.",
       "author": "Elbert Hubbard"
      },
      {
       "id": "3",
-      "quote": "The best preparation for tomorrow is doing your best today.",
+      "title": "The best preparation for tomorrow is doing your best today.",
       "author": "H.Jackson Brown"
      },
      {
       "id": "4",
-      "quote": "The only way to do great work is to love what you do.",
+      "title": "The only way to do great work is to love what you do.",
       "author": "Steve Jobs"
      },
      {
       "id": "5",
-      "quote": "Don't be afraid to give up the good to go for the great.",
+      "title": "Don't be afraid to give up the good to go for the great.",
       "author": "John D. Rockefeller"
      },
      {
       "id": "6",
-      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "title": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
       "author": "Albert Schweitzer"
      },
      {
       "id": "7",
-      "quote": "Believe you can and you're halfway there.",
+      "title": "Believe you can and you're halfway there.",
       "author": "Theodore Roosevelt"
      },
      {
       "id": "8",
-      "quote": "The future depends on what you do today.",
+      "title": "The future depends on what you do today.",
       "author": "Mahatma Gandhi"
      },
      {
       "id": "9",
-      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "title": "The only limit to our realization of tomorrow will be our doubts of today.",
       "author": "Franklin D. Roosevelt"
      },
      {
       "id": "10",
-      "quote": "You miss 100% of the shots you don't take.",
+      "title": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky"
      }
   ],
-  "politics":[
+  "POLITICS":[
     {
       "id": "1",
       "title":"NBM Political Party",
-      "authorName": "Jason Smith",
-      "message": "We believe in empowering the youth of today to care. We need to right to vote for change.",
-      "image":[
+      "author": "Jason Smith",
+      "productSummary": "We believe in empowering the youth of today to care. We need to right to vote for change.",
+      "images":[
         "https://cdn.hootout.com/VidyBack-videos/pol1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/pol2.jpg",
         "https://cdn.hootout.com/VidyBack-videos/pol3.jpg",
@@ -1118,9 +1118,9 @@
     {
       "id": "2",
       "title":"IBR Political Party",
-      "authorName": "Aristotle",
-      "message": "We stand together as a political party, committed to building a better future for our nation.",
-      "image":[
+      "author": "Aristotle",
+      "productSummary": "We stand together as a political party, committed to building a better future for our nation.",
+      "images":[
         "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
@@ -1131,9 +1131,9 @@
     {
       "id": "3",
       "title":"Indian Political Party",
-      "authorName": "Hubert H Humphrey",
-      "message": "we can bring positive change, empower our communities, and ensure a prosperous tomorrow. Join us in our mission to create a fair, inclusive, and prosperous society for all.",
-      "image":[
+      "author": "Hubert H Humphrey",
+      "productSummary": "we can bring positive change, empower our communities, and ensure a prosperous tomorrow. Join us in our mission to create a fair, inclusive, and prosperous society for all.",
+      "images":[
         "https://cdn.hootout.com/VidyBack-videos/politics1.jpg"
       ],
       "storeName":"www.Yourstore.com"
@@ -1141,9 +1141,9 @@
     {
       "id": "4",
       "title":"ITR Political Party",
-      "authorName": "Arthur C. Clarke",
-      "message": "we can create a society that thrives on justice, innovation, and compassion. Join us as we embark on a transformative journey towards a better tomorrow.",
-      "image":[
+      "author": "Arthur C. Clarke",
+      "productSummary": "we can create a society that thrives on justice, innovation, and compassion. Join us as we embark on a transformative journey towards a better tomorrow.",
+      "images":[
         "https://cdn.hootout.com/VidyBack-videos/politics2.jpg"
       ],
       "storeName":"www.Yourstore.com"
@@ -1151,47 +1151,47 @@
     {
       "id": "5",
       "title":"PBR Political Party",
-      "authorName": "Marc Benioff",
-      "message": "Our party stands firm in its commitment to champion the values that define us.",
-      "image":[
+      "author": "Marc Benioff",
+      "productSummary": "Our party stands firm in its commitment to champion the values that define us.",
+      "images":[
         "https://cdn.hootout.com/VidyBack-videos/politics3.jpg"
       ],
       "storeName":"www.Yourstore.com"
     }
   ],
-  "politicsQuote":[
+  "POLITICSQUOTE":[
     {
       "id":"1",
-      "quote": "Loyalty to country ALWAYS. Loyalty to government, when it deserves it.",
+      "title": "Loyalty to country ALWAYS. Loyalty to government, when it deserves it.",
       "author": "Mark Twain"
     },
    {
       "id":"2",
-      "quote": "The ballot is stronger than the bullet.",
+      "title": "The ballot is stronger than the bullet.",
       "author": " Abraham Lincoln"
     },
     {
       "id":"3",
-      "quote": "In a democracy, the power belongs to the people, and it is their responsibility to wield it.",
+      "title": "In a democracy, the power belongs to the people, and it is their responsibility to wield it.",
       "author": "Barack Obama"
     },
     {
       "id":"4",
-      "quote": "If you don't vote, you lose the right to complain.",
+      "title": "If you don't vote, you lose the right to complain.",
       "author": "George Carlin"
     },
     {
       "id":"5",
-      "quote": "Politics is too important to be left to the politicians",
+      "title": "Politics is too important to be left to the politicians",
       "author": "Charles de Gaulle"
     },
     {
       "id":"6",
-      "quote": "A good citizen is one who knows his or her rights and responsibilities as a member of a free society.",
+      "title": "A good citizen is one who knows his or her rights and responsibilities as a member of a free society.",
       "author": "Harry S. Truman"
     }
   ],
-  "pharmaceuticals":[
+  "PHARMACEUTICALS":[
     {
     "id":"1",
     "title":"ColdnFlu tablets",
@@ -1276,7 +1276,7 @@
             "numberOfDays":"15"
     }
   ],
-  "pharmaceuticalsTips":[
+  "PHARMATIPS":[
     {
       "id": "1",
       "title":"Keep an updated list of your medications, including names, dosages, and prescribing doctors."
@@ -1318,7 +1318,7 @@
       "title":"Report any adverse reactions or concerns about medications to healthcare professionals or relevant authorities."
     }
   ],
-  "pharmaceuticalsQuotes":[
+  "PHARMAQUOTES":[
     {
       "id": "1",
       "title": "Medicines are the wings that allow humanity to soar above the limitations of illness.",
@@ -1371,7 +1371,7 @@
     }
     
   ],
-  "fmcg":[
+  "FMCG":[
     {
     "id":" 1",
     "title":"Nutritious biscuits for dogs",
@@ -1450,7 +1450,7 @@
       "NumberOfDays":"15"
     }
   ],
-  "fmcgTips": [
+  "FMCGTIPS": [
     {
       "id": "1",
       "title":"Conduct thorough market research to understand consumer preferences,patterns, and trends.This will help identify the demands and expectations of your target audience."
@@ -1488,7 +1488,7 @@
       "title":"Develop a pricing strategy that aligns with your target market. Consider factors such as production costs, competitor pricing, and consumer affordability."
     }
   ],
-  "fmcgQuote":[
+  "FMCGQUOTES":[
     {
       "id": "1",
       "title": "In the FMCG world,customer loyalty is earned by consistently delivering products that meet their needs and exceed their expectations",
@@ -1541,271 +1541,281 @@
     }
    
   ],
-  "entertainment":[
+  "ENTERTAINMENT":[
     {
-    "productName":"Guardians of Galaxy vol. 3",
+    "id": "1",
+    "title":"Guardians of Galaxy vol. 3",
     "promoHeading":"Upcoming Movie",
-    "ReleaseDate":"2023/03/04",
-    "images":"https://cdn.hootout.com/VidyBack-videos/entertain1.jpg",
+    "created_at":"2023/03/04",
+    "images":["https://cdn.hootout.com/VidyBack-videos/entertain1.jpg"],
     "storeName":"www.Yourstore.com"
     },
     {
-      "productName":"Transformers: Rise of the Beasts",
-      "promoHeading":"Upcoming Movie",
-      "ReleaseDate":"2023/03/04",
-      "images":"https://cdn.hootout.com/VidyBack-videos/entertain2.jpg",
-      "storeName":"www.Yourstore.com"
-    },
-    {
-      "productName":"The Super Mario Bros.",
-      "promoHeading":"Upcoming Movie",
-      "ReleaseDate":"2023/03/04",
-      "images":"https://cdn.hootout.com/VidyBack-videos/entertain3.jpg",
-      "storeName":"www.Yourstore.com"
-    },
-    {
-      "productName":"The Little Mermaid",
-      "promoHeading":"Upcoming Movie",
-      "ReleaseDate":"2023/03/04",
-      "images":"https://cdn.hootout.com/VidyBack-videos/entertain4.jpg",
-      "storeName":"www.Yourstore.com"
-    },
-    {
-      "productName":"Dungeons & Dragons: Honor Among Thieves",
-      "promoHeading":"Upcoming Movie",
-      "ReleaseDate":"2023/03/04",
-      "images":"https://cdn.hootout.com/VidyBack-videos/entertain5.jpg",
-      "storeName":"www.Yourstore.com"
-    }
-  ],
-  "entertainmentTips":[
-    {
-      "id": "1",
-      "tip1":"Don’t Hide Your Entertainment Away."
-    },
-    {
       "id": "2",
-      "tip1":"Pick Entertainment to set the Tone."
+      "title":"Transformers: Rise of the Beasts",
+      "promoHeading":"Upcoming Movie",
+      "created_at":"2023/03/04",
+      "images":["https://cdn.hootout.com/VidyBack-videos/entertain2.jpg"],
+      "storeName":"www.Yourstore.com"
     },
     {
       "id": "3",
-      "tip1":"Always keep yourself aware of the modern trends as well as tweak any campaigns depending on that."
+      "title":"The Super Mario Bros.",
+      "promoHeading":"Upcoming Movie",
+      "created_at":"2023/03/04",
+      "images":["https://cdn.hootout.com/VidyBack-videos/entertain3.jpg"],
+      "storeName":"www.Yourstore.com"
     },
     {
       "id": "4",
-      "tip1":"Conduct live sessions and engage well with your target audience.The greater they focus on your communication."
+      "title":"The Little Mermaid",
+      "promoHeading":"Upcoming Movie",
+      "created_at":"2023/03/04",
+      "images":["https://cdn.hootout.com/VidyBack-videos/entertain4.jpg"],
+      "storeName":"www.Yourstore.com"
     },
     {
       "id": "5",
-      "tip1":"Respond to queries, questions, and comments asked by the target customers."
+      "title":"Dungeons & Dragons: Honor Among Thieves",
+      "promoHeading":"Upcoming Movie",
+      "created_at":"2023/03/04",
+      "images":["https://cdn.hootout.com/VidyBack-videos/entertain5.jpg"],
+      "storeName":"www.Yourstore.com"
+    }
+  ],
+  "ENTERTAINMENTTIPS":[
+    {
+      "id": "1",
+      "title":"Don’t Hide Your Entertainment Away."
+    },
+    {
+      "id": "2",
+      "title":"Pick Entertainment to set the Tone."
+    },
+    {
+      "id": "3",
+      "title":"Always keep yourself aware of the modern trends as well as tweak any campaigns depending on that."
+    },
+    {
+      "id": "4",
+      "title":"Conduct live sessions and engage well with your target audience.The greater they focus on your communication."
+    },
+    {
+      "id": "5",
+      "title":"Respond to queries, questions, and comments asked by the target customers."
     },
     {
       "id": "6",
-      "tip1":"Whatever may be your social media marketing strategy, ensure to cross-post."
+      "title":"Whatever may be your social media marketing strategy, ensure to cross-post."
     },
     {
       "id": "7",
-      "tip1":"You need to have certain content interesting and unique to a particular website."
+      "title":"You need to have certain content interesting and unique to a particular website."
     },
     {
       "id": "8",
-      "tip1":"It is always essential to have a particular hashtag to efficiently follow up and communicate with the crowd."
+      "title":"It is always essential to have a particular hashtag to efficiently follow up and communicate with the crowd."
     },
     {
       "id": "9",
-      "tip1":"Develop curiosity as well as keep your content engaging, up to date, and fresh."
+      "title":"Develop curiosity as well as keep your content engaging, up to date, and fresh."
     },
     {
       "id": "10",
-      "tip1":"Create better content and always give the end-users what they have been looking for about their interesting things."
+      "title":"Create better content and always give the end-users what they have been looking for about their interesting things."
     }
   ],
-  "entertainmentQuote":[
+  "ENTERTAINMENTQUOTES":[
     {
       "id": "1",
-      "quote": "The world is a stage, the stage is a world of entertainment.",
+      "title": "The world is a stage, the stage is a world of entertainment.",
       "author": "Howard Dietz"
     },
     {
       "id":"2",
-      "quote":"Entertainment is in art like color in pictures.",
+      "title":"Entertainment is in art like color in pictures.",
       "author":"Martin Kippenberger"
     },
     {
       "id":"3",
-      "quote":"Entertainment is there to improve people's quality of life. After your basic needs, there's entertainment.",
+      "title":"Entertainment is there to improve people's quality of life. After your basic needs, there's entertainment.",
       "author":"Satoru Iwata"
     },
     {
       "id":"4",
-      "quote":"I need that on stage. I need a burst of life. That's entertainment for me.",
+      "title":"I need that on stage. I need a burst of life. That's entertainment for me.",
       "author":"Tina Turner"
     },
     {
       "id":"5",
-      "quote":"Politics is the entertainment branch of industry.",
+      "title":"Politics is the entertainment branch of industry.",
       "author":"Frank Zappa"
     },
     {
       "id":"6",
-      "quote":"People who see life as anything more than pure entertainment are missing the point.",
+      "title":"People who see life as anything more than pure entertainment are missing the point.",
       "author":"George Carlin"
     },
     {
       "id":"7",
-      "quote":"It seems that entertainment is what most excites us and what we value above everything else.",
+      "title":"It seems that entertainment is what most excites us and what we value above everything else.",
       "author":"Carroll O'Connor"
     },
     {
       "id":"8",
-      "quote":"I have never read for entertainment, but rather for understanding and to satisfy my eager curiosity.",
+      "title":"I have never read for entertainment, but rather for understanding and to satisfy my eager curiosity.",
       "author":"Bryant H. McGill"
     },
     {
       "id":"9",
-      "quote":"The analysis of character is the highest human entertainment.",
+      "title":"The analysis of character is the highest human entertainment.",
       "author":"Isaac Bashevis Singer"
     },
     {
       "id":"10",
-      "quote":"Entertainment alleviates the fear of life, but art vanquishes the fear of death",
+      "title":"Entertainment alleviates the fear of life, but art vanquishes the fear of death",
       "author":"Dean Cavanagh"
     }
   ],
-  "education":[
+  "EDUCATION":[
     {
+    "id": "1",
     "title":"Marketing and Advertising crash course",
     "promoHeading":"Online Webinar",
     "date":"2023/03/04",
-    "time":"08AMGMT",
-    "speakerBy":"Joy Emanuel",
-    "images":"https://cdn.hootout.com/VidyBack-videos/education1.jpg",
+    "eventstarttime":"08AMGMT",
+    "author":"Joy Emanuel",
+    "images":["https://cdn.hootout.com/VidyBack-videos/education1.jpg"],
     "storeName":"www.Yourstore.com"
     },
     {
+      "id": "2",
       "title":"Complete C# Unity Game Developer 2D",
       "promoHeading":"Online Webinar",
       "date":"2023/03/04",
-      "time":"08AMGMT",
-      "speakerBy":"Rick Davidson",
-      "images":"https://cdn.hootout.com/VidyBack-videos/education2.jpg",
+      "eventstarttime":"08AMGMT",
+      "author":"Rick Davidson",
+      "images":["https://cdn.hootout.com/VidyBack-videos/education2.jpg"],
       "storeName":"www.Yourstore.com"
-    },
-    {
-      "title":"The Ultimate Digital Painting Course",
-      "promoHeading":"Online Webinar",
-      "date":"2023/03/04",
-      "time":"08AMGMT",
-      "speakerBy":"Jaysen Batchelor",
-      "images":"https://cdn.hootout.com/VidyBack-videos/education3.jpg",
-      "storeName":"www.Yourstore.com"
-    },
-    {
-      "title":"Leadership: You Can Speak Like a Leader",
-      "promoHeading":"Online Webinar",
-      "date":"2023/03/04",
-      "time":"08AMGMT",
-      "speakerBy":"TJ Walker",
-      "images":"https://cdn.hootout.com/VidyBack-videos/education4.jpg",
-      "storeName":"www.Yourstore.com"
-    },
-    {
-      "title":"Boost Your Career Success by Developing Your Soft Skills",
-      "promoHeading":"Online Webinar",
-      "date":"2023/03/04",
-      "time":"08AMGMT",
-      "speakerBy":"Denise Fletcher",
-      "images":"https://cdn.hootout.com/VidyBack-videos/education5.jpg",
-      "storeName":"www.Yourstore.com"
-    }
-  ],
-  "educationTips": [
-    {
-      "id": "1",
-      "tip1":"Use technology effectively:Leverage educational technology tools,such as online learning platforms,interactive apps,and digital resources."
-    },
-    {
-      "id": "2",
-      "tip1":"Foster a growth mindset:Embrace a mindset that focuses on learning and growth.Be open to new ideas,feedback,and constructive criticism."
     },
     {
       "id": "3",
-      "tip1":"Continuously expand your knowledge:Stay updated on the latest trends,developments,and best practices in your industry."
+      "title":"The Ultimate Digital Painting Course",
+      "promoHeading":"Online Webinar",
+      "date":"2023/03/04",
+      "eventstarttime":"08AMGMT",
+      "author":"Jaysen Batchelor",
+      "images":["https://cdn.hootout.com/VidyBack-videos/education3.jpg"],
+      "storeName":"www.Yourstore.com"
     },
     {
       "id": "4",
-      "tip1":"Set aside dedicated time for your online course and create a study schedule."
+      "title":"Leadership: You Can Speak Like a Leader",
+      "promoHeading":"Online Webinar",
+      "date":"2023/03/04",
+      "eventstarttime":"08AMGMT",
+      "author":"TJ Walker",
+      "images":["https://cdn.hootout.com/VidyBack-videos/education4.jpg"],
+      "storeName":"www.Yourstore.com"
     },
     {
       "id": "5",
-      "tip1":"Treat online courses as you would a traditional in-person course to ensure you allocate sufficient time for learning and assignments."
+      "title":"Boost Your Career Success by Developing Your Soft Skills",
+      "promoHeading":"Online Webinar",
+      "date":"2023/03/04",
+      "eventstarttime":"08AMGMT",
+      "author":"Denise Fletcher",
+      "images":["https://cdn.hootout.com/VidyBack-videos/education5.jpg"],
+      "storeName":"www.Yourstore.com"
+    }
+  ],
+  "EDUCATIONTIPS": [
+    {
+      "id": "1",
+      "title":"Use technology effectively:Leverage educational technology tools,such as online learning platforms,interactive apps,and digital resources."
+    },
+    {
+      "id": "2",
+      "title":"Foster a growth mindset:Embrace a mindset that focuses on learning and growth.Be open to new ideas,feedback,and constructive criticism."
+    },
+    {
+      "id": "3",
+      "title":"Continuously expand your knowledge:Stay updated on the latest trends,developments,and best practices in your industry."
+    },
+    {
+      "id": "4",
+      "title":"Set aside dedicated time for your online course and create a study schedule."
+    },
+    {
+      "id": "5",
+      "title":"Treat online courses as you would a traditional in-person course to ensure you allocate sufficient time for learning and assignments."
     },
     {
       "id": "6",
-      "tip1":"Look for courses that offer instructor support or a community platform where you can interact with other learners."
+      "title":"Look for courses that offer instructor support or a community platform where you can interact with other learners."
     },
     {
       "id": "7",
-      "tip1":"If you're seeking professional development,ensure that the course or the platform offering the course is accredited in your field."
+      "title":"If you're seeking professional development,ensure that the course or the platform offering the course is accredited in your field."
     },
     {
       "id": "8",
-      "tip1":"Apply the knowledge and skills you acquire from the course in real-world scenarios."
+      "title":"Apply the knowledge and skills you acquire from the course in real-world scenarios."
     },
     {
       "id": "9",
-      "tip1":"Testimonials & student reviews can provide insights into the course quality,instructor expertise,and overall learning experience."
+      "title":"Testimonials & student reviews can provide insights into the course quality,instructor expertise,and overall learning experience."
     }
   ],
-  "educationQuote": [
+  "EDUCATIONQUOTES": [
     {
       "id": "1",
-      "quote": "An investment in knowledge pays the best interest.",
+      "title": "An investment in knowledge pays the best interest.",
       "author": "Benjamin Franklin"
     },
     {
       "id":"2",
-      "quote":"The roots of education are bitter, but the fruit is sweet",
+      "title":"The roots of education are bitter, but the fruit is sweet",
       "author":"Aristotle"
     },
     {
       "id":"3",
-      "quote":"Education is the most powerful weapon which you can use to change the world.",
+      "title":"Education is the most powerful weapon which you can use to change the world.",
       "author":"Nelson Mandela"
     },
     {
       "id":"4",
-      "quote":"An education isn't how much you have committed to memory, or even how much you know. It's being able to differentiate between what you know and what you don't.",
+      "title":"An education isn't how much you have committed to memory, or even how much you know. It's being able to differentiate between what you know and what you don't.",
       "author":"Anatole France"
     },
     {
       "id":"5",
-      "quote":"Education is not preparation for life; education is life itself.",
+      "title":"Education is not preparation for life; education is life itself.",
       "author":"John Dewey"
     },
     {
       "id":"6",
-      "quote":"Learning is not attained by chance, it must be sought for with ardor and diligence.",
+      "title":"Learning is not attained by chance, it must be sought for with ardor and diligence.",
       "author":"Abigail Adams"
     },
     {
       "id":"7",
-      "quote":"It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+      "title":"It is the mark of an educated mind to be able to entertain a thought without accepting it.",
       "author":"Aristotle"
     },
     {
       "id":"8",
-      "quote":"Develop a passion for learning. If you do, you will never cease to grow.",
+      "title":"Develop a passion for learning. If you do, you will never cease to grow.",
       "author":"Anthony J. D'Angelo"
     },
     {
       "id":"9",
-      "quote":"Education's purpose is to replace an empty mind with an open one.",
+      "title":"Education's purpose is to replace an empty mind with an open one.",
       "author":"Malcolm Forbes"
     },
     {
       "id":"10",
-      "quote":"It is better to know some of the questions than all of the answers.",
+      "title":"It is better to know some of the questions than all of the answers.",
       "author":"James Thurber"
     }
   ],
@@ -1841,7 +1851,7 @@
     "Date":"2023/2/4"
   }
   ],
-  "technology":[
+  "TECHNOLOGY":[
   {
   "id":" 1",
   "title":"San Antonio",
@@ -1916,85 +1926,85 @@
     "storeName": "Kuchnaya Technolabs."
   }
   ],
-  "technologyTips":[
+  "TECHNOLOGYTIPS":[
     {
       "id": "1",
-      "tip1":"Report junk texts and stick it to the scammers."
+      "title":"Report junk texts and stick it to the scammers."
     },
     {
       "id": "2",
-      "tip1":" Search using Site: to find content like a ninja."
+      "title":" Search using Site: to find content like a ninja."
     },
     {
       "id": "3",
-      "tip1":" Before making a tech purchase, research the product thoroughly to ensure it meets your needs and has good reviews from other consumers."
+      "title":" Before making a tech purchase, research the product thoroughly to ensure it meets your needs and has good reviews from other consumers."
     },
     {
       "id": "4",
-      "tip1":"Compare prices of similar products from different brands to find the best value for your money."
+      "title":"Compare prices of similar products from different brands to find the best value for your money."
     },
     {
       "id": "5",
-      "tip1":" Ensure the tech product is compatible with your existing devices or software to avoid compatibility issues."
+      "title":" Ensure the tech product is compatible with your existing devices or software to avoid compatibility issues."
     },
     {
       "id": "6",
-      "tip1":"Look for tech products that offer good customer support, including troubleshooting, maintenance, and repair services."
+      "title":"Look for tech products that offer good customer support, including troubleshooting, maintenance, and repair services."
     },
     {
       "id": "7",
-      "tip1":"Keep up-to-date on the latest tech trends and news to make informed purchasing decisions."
+      "title":"Keep up-to-date on the latest tech trends and news to make informed purchasing decisions."
     }
   ],
-  "technologyQuote":[
+  "TECHNOLOGYQUOTES":[
     {
       "id": "1",
-      "quote": "There are not enough jails, not enough police, not enough courts, to enforce a law not supported by the people.",
+      "title": "There are not enough jails, not enough police, not enough courts, to enforce a law not supported by the people.",
       "author": "Hubert H Humphrey"
     },
     {
       "id":"2",
-      "quote":"Technology is anything that wasn't around when you were born.",
+      "title":"Technology is anything that wasn't around when you were born.",
       "author":"Alan Kay"
     },
     {
       "id":"3",
-      "quote":"The best way to predict the future is to invent it.",
+      "title":"The best way to predict the future is to invent it.",
       "author":"Irish proverb"
     },
     {
       "id":"4",
-      "quote":"Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important.",
+      "title":"Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important.",
       "author":"Bill Gates"
     },
     {
       "id":"5",
-      "quote":"Innovation distinguishes between a leader and a follower.",
+      "title":"Innovation distinguishes between a leader and a follower.",
       "author":"Steve Jobs"
     },
     {
       "id":"6",
-      "quote":"Any sufficiently advanced technology is indistinguishable from magic.",
+      "title":"Any sufficiently advanced technology is indistinguishable from magic.",
       "author":"Arthur C. Clarke"
     },
     {
       "id":"7",
-      "quote":"The only constant in the technology industry is change.",
+      "title":"The only constant in the technology industry is change.",
       "author":"Marc Benioff"
     },
     {
       "id":"8",
-      "quote":"Technology is a useful servant but a dangerous master.",
+      "title":"Technology is a useful servant but a dangerous master.",
       "author":"Christian Lous Lange"
     },
     {
       "id":"9",
-      "quote":"It's not about the technology, it's about the people behind it.",
+      "title":"It's not about the technology, it's about the people behind it.",
       "author":"Steven Spielberg"
     }
     
   ],
-  "healthcare":[
+  "HEALTHCARE":[
   {
   "id":" 1",
   "title":"Wellness Dental Clinic",
@@ -2085,73 +2095,73 @@
           "feature3": "Open from 10am to 10pm"
           }
   ],
-  "healthcareTips":[
+  "HEALTHCARETIPS":[
     {
       "id": "1",
-      "tip1":"Drink Water and Stay Hydrated, and Limit Sugared Beverages."
+      "title":"Drink Water and Stay Hydrated, and Limit Sugared Beverages."
     },
     {
       "id": "2",
-      "tip1":"Exercise Regularly and Be Physically Active."
+      "title":"Exercise Regularly and Be Physically Active."
     },
     {
       "id": "3",
-      "tip1":"When selecting an insurance plan, consider your healthcare needs, budget, and any pre-existing conditions."
+      "title":"When selecting an insurance plan, consider your healthcare needs, budget, and any pre-existing conditions."
     },
     {
       "id": "4",
-      "tip1":"Not all healthcare providers charge the same rates for the same services. Shop around for services, such as medical procedures or prescription drugs, find the best price."
+      "title":"Not all healthcare providers charge the same rates for the same services. Shop around for services, such as medical procedures or prescription drugs, find the best price."
     },
     {
       "id": "5",
-      "tip1":"Don't be afraid to ask questions about your healthcare services, including the costs, benefits, and risks."
+      "title":"Don't be afraid to ask questions about your healthcare services, including the costs, benefits, and risks."
     },
     {
       "id": "6",
-      "tip1":"Keep up-to-date on the latest healthcare news and trends, including changes to healthcare laws and regulations. "
+      "title":"Keep up-to-date on the latest healthcare news and trends, including changes to healthcare laws and regulations. "
     }
   ],
-  "healthcareQuote":[
+  "HEALTHCAREQUOTES":[
     {
       "id": "1",
-      "quote": "Let food be thy medicine and medicine be thy food.",
+      "title": "Let food be thy medicine and medicine be thy food.",
       "author": "Hippocrates"
     },
     {
       "id":"2",
-      "quote":"A good laugh and a long sleep are the best cures in the doctor’s book.",
+      "title":"A good laugh and a long sleep are the best cures in the doctor’s book.",
       "author":"Irish proverb"
     },
     {
       "id":"3",
-      "quote":"Health is a state of complete physical, mental, and social well-being, not merely the absence of disease or infirmity.",
+      "title":"Health is a state of complete physical, mental, and social well-being, not merely the absence of disease or infirmity.",
       "author":"World Health Organization"
     },
     {
       "id":"4",
-      "quote":"Medicine is a science of uncertainty and an art of probability.",
+      "title":"Medicine is a science of uncertainty and an art of probability.",
       "author":"William Osler"
     },
     {
       "id":"5",
-      "quote":"It is health that is the real wealth and not pieces of gold and silver.",
+      "title":"It is health that is the real wealth and not pieces of gold and silver.",
       "author":"Mahatma Gandhi"
     },
     {
       "id":"6",
-      "quote":"Healthcare is not just a privilege for a few, but a right for all.",
+      "title":"Healthcare is not just a privilege for a few, but a right for all.",
       "author":"Richard Lamm"
     },
     {
       "id":"7",
-      "quote":"The physician should not treat the disease, but the patient who is suffering from it.",
+      "title":"The physician should not treat the disease, but the patient who is suffering from it.",
       "author":"Maimonides"
     }
   ],
-  "legalLaw":[
+  "LEGALLAW":[
   {
     "id":" 1",
-  "author":"Aido law firm",
+  "title":"Aido law firm",
   "images":[
   "https://cdn.hootout.com/VidyBack-videos/law1.jpg",
   "https://cdn.hootout.com/VidyBack-videos/law2.jpg",
@@ -2162,7 +2172,7 @@
  },
 {
   "id":"2",
-  "author":"Indian law firm",
+  "title":"Indian law firm",
   "images":[
   "https://cdn.hootout.com/VidyBack-videos/lawgrp1.jpg",
   "https://cdn.hootout.com/VidyBack-videos/lawgrp2.jpg",
@@ -2173,7 +2183,7 @@
  },
  {
   "id":"3",
-  "author":"Scott Turowrm",
+  "title":"Scott Turowrm",
   "images":[
   "https://cdn.hootout.com/VidyBack-videos/legal1.jpg"
  
@@ -2184,7 +2194,7 @@
  },
  {
   "id":"4",
-  "author":"Truman Capote firm",
+  "title":"Truman Capote firm",
   "images":[
   "https://cdn.hootout.com/VidyBack-videos/legal2.jpg"
   
@@ -2195,7 +2205,7 @@
  },
  {
   "id":"5",
-  "author":"John Mortimer firm",
+  "title":"John Mortimer firm",
   "images":[
   
   "https://cdn.hootout.com/VidyBack-videos/legal3.jpg"
@@ -2205,187 +2215,187 @@
   "feature3":"Divorce cases handlers"
  }
   ],
-  "legalLawTips":[
+  "LEGALLAWTIPS":[
     {
       "id": "1",
-      "tip1":"Look for a lawyer who is licensed to practice law in your state and has no history of disciplinary action."
+      "title":"Look for a lawyer who is licensed to practice law in your state and has no history of disciplinary action."
     },
     {
       "id": "2",
-      "tip1":" Be clear and specific about your legal needs and expectations when speaking with your lawyer."
+      "title":" Be clear and specific about your legal needs and expectations when speaking with your lawyer."
     },
     {
       "id": "3",
-      "tip1":"Keep up-to-date on legal issues that affect you by reading news articles, attending seminars or webinars, or consulting with legal professionals."
+      "title":"Keep up-to-date on legal issues that affect you by reading news articles, attending seminars or webinars, or consulting with legal professionals."
     },
     {
       "id": "4",
-      "tip1":"Understanding your rights and responsibilities under the law is essential."
+      "title":"Understanding your rights and responsibilities under the law is essential."
     }
    
   ],
-  "legalLawQuote":[
+  "LEGALLAWQUOTES":[
      {
       "id": "1",
-      "quote": "The law is reason, free from passion.",
+      "title": "The law is reason, free from passion.",
       "author": "Aristotle"
     },
     {
       "id": "2",
-      "quote": "It is better to risk saving a guilty person than to condemn an innocent one.",
+      "title": "It is better to risk saving a guilty person than to condemn an innocent one.",
       "author": "Voltaire"
     },
     {
       "id": "3",
-      "quote": "The law is a profession that's designed to help people and to solve problems.",
+      "title": "The law is a profession that's designed to help people and to solve problems.",
       "author": "Abraham Lincoln"
     },
     {
       "id": "4",
-      "quote": "The first duty of society is justice.",
+      "title": "The first duty of society is justice.",
       "author": "Alexander Hamilton"
     },
     {
       "id": "5",
-      "quote": "Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.",
+      "title": "Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.",
       "author": "Jonathan Swift"
     },
     {
       "id": "6",
-      "quote": "Justice delayed is justice denied.",
+      "title": "Justice delayed is justice denied.",
       "author": "William E. Gladstone"
     }
   ],
-  "financeQuotes":[
+  "FINANCEQUOTES":[
   {
      "id": "1",
-     "quote": "Every financial decision should be driven by what you value.",
+     "title": "Every financial decision should be driven by what you value.",
      "author": "David Bach"
   },
   {
     "id": "2",
-    "quote": "Wealth consists not in having great possessions, but in having few wants.",
+    "title": "Wealth consists not in having great possessions, but in having few wants.",
     "author": "Epictetus"
  },
  {
   "id": "3",
-  "quote": "The stock market is a device for transferring money from the impatient to the patient.",
+  "title": "The stock market is a device for transferring money from the impatient to the patient.",
   "author": "Epictetus"
 },
 {
   "id": "4",
-  "quote": "Wealth consists not in having great possessions, but in having few wants.",
+  "title": "Wealth consists not in having great possessions, but in having few wants.",
   "author": "Warren Buffett"
 },
 {
   "id": "5",
-  "quote": "The four most dangerous words in investing are: 'this time it's different'.",
+  "title": "The four most dangerous words in investing are: 'this time it's different'.",
   "author": "Sir John Templeton"
 },
 {
   "id": "6",
-  "quote": "The stock market is a no-called-strike game. You don't have to swing at everything - you can wait for your pitch.",
+  "title": "The stock market is a no-called-strike game. You don't have to swing at everything - you can wait for your pitch.",
   "author": "Warren Buffett"
 },
 {
   "id": "7",
-  "quote": "The individual investor should act consistently as an investor and not as a speculator.",
+  "title": "The individual investor should act consistently as an investor and not as a speculator.",
   "author": "Sir John Templeton"
 },
 {
   "id": "8",
-  "quote": "Time is the friend of the wonderful business, the enemy of the mediocre.",
+  "title": "Time is the friend of the wonderful business, the enemy of the mediocre.",
   "author": "Warren Buffett"
 },
 {
   "id": "9",
-  "quote": "In investing, what is comfortable is rarely profitable.",
+  "title": "In investing, what is comfortable is rarely profitable.",
   "author": "Robert Arnott"
 }
 
 
   ],
-  "financeTips":[
+  "FINANCETIPS":[
     {
     "id":"1",
-    "tip1":"It's important to have a long-term investment strategy in place that aligns with your financial goals, risk tolerance, and time horizon."
+    "title":"It's important to have a long-term investment strategy in place that aligns with your financial goals, risk tolerance, and time horizon."
     },
     {
       "id":"2",
-      "tip1":"Investing in low-cost index funds,tracks the performance of the overall market,can provide broad exposure to the market and help you achieve market-like returns."
+      "title":"Investing in low-cost index funds,tracks the performance of the overall market,can provide broad exposure to the market and help you achieve market-like returns."
     },
     {
       "id":"3",
-      "tip1":"Rather than getting caught up in short-term market fluctuations, focus on long-term trends and economic fundamentals."
+      "title":"Rather than getting caught up in short-term market fluctuations, focus on long-term trends and economic fundamentals."
     },
     {
       "id":"4",
-      "tip1":"A financial advisor can help you develop a personalized investment strategy and provide guidance on how to navigate the market."
+      "title":"A financial advisor can help you develop a personalized investment strategy and provide guidance on how to navigate the market."
     },
     {
       "id":"5",
-      "tip1":"Before investing in a particular stock, bond, or fund, do your research and make sure you understand the company or fund's financial health, management, and industry trends."
+      "title":"Before investing in a particular stock, bond, or fund, do your research and make sure you understand the company or fund's financial health, management, and industry trends."
     },
     {
       "id":"6",
-      "tip1":"Stick to your investment plan and avoid making impulsive decisions based on market fluctuations or emotions."
+      "title":"Stick to your investment plan and avoid making impulsive decisions based on market fluctuations or emotions."
     }
     
 
   ],
-  "ngo":[
+  "NGO":[
     {
       "id":"1",
-      "productName":"Foundation for Advancement of Education & Development",
+      "title":"Foundation for Advancement of Education & Development",
       "promoHeading":"Fundraiser",
       "productSummary":"The Foundation for Advancement of Education & Development campaign Bringing Hope and Health to Those in Need.",
       "location":"Milaap Social Ventures USA Pvt.Ltd.Dallas.",
-      "image":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg",
+      "images":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/ngo2.jpg",
       "https://cdn.hootout.com/VidyBack-videos/ngo3.jpg"]
     },
     {
       "id":"2",
-      "productName":"Initiative for Humanitarian Assistance Empowerment",
+      "title":"Initiative for Humanitarian Assistance Empowerment",
       "promoHeading":"Donation Camp",
       "productSummary":"The Initiative for Humanitarian Assistance Empowerment campaign Bringing Hope and Health to Those in Need.",
       "location":"310 Old Freeland Road, Freeland, MD 21053",
-      "image":["https://cdn.hootout.com/VidyBack-videos/rising1.jpg",
+      "images":["https://cdn.hootout.com/VidyBack-videos/rising1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/rising2.jpg",
       "https://cdn.hootout.com/VidyBack-videos/rising3.jpg"]
     },
     {
       "id":"3",
-      "productName":"Center for Youth Empowerment & Social Entrepreneurship",
+      "title":"Center for Youth Empowerment & Social Entrepreneurship",
       "promoHeading":"Campaign Update",
       "productSummary":"The Center for Youth Empowerment & Social Entrepreneurship campaign Bringing Hope and Health to Those in Need.",
       "location":"888 Far Hills Drive, New Freedom, PA 17349",
-      "image":["https://cdn.hootout.com/VidyBack-videos/charity1.jpg",
+      "images":["https://cdn.hootout.com/VidyBack-videos/charity1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/charity2.jpg"
     ]
     },
     {
       "id":"4",
-      "productName":"Organization for Relief and Community Rehabilitation",
+      "title":"Organization for Relief and Community Rehabilitation",
       "promoHeading":"Fundraiser",
       "productSummary":"The Organization for Relief and Community Rehabilitation campaign Bringing Hope and Health to Those in Need.",
       "location":"8046 83rd Street NW Maple Lake, MN 55358",
-      "image":["https://cdn.hootout.com/VidyBack-videos/stand1.jpg",
+      "images":["https://cdn.hootout.com/VidyBack-videos/stand1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/stand2.jpg",
       "https://cdn.hootout.com/VidyBack-videos/stand3.jpg"]
     },
     {
       "id":"5",
-      "productName":"Alliance for Poverty Alleviation & Economic Empowerment",
+      "title":"Alliance for Poverty Alleviation & Economic Empowerment",
       "promoHeading":"Fundraiser",
       "productSummary":"The Alliance for Poverty Alleviation & Economic Empowerment campaign Bringing Hope and Health to Those in Need.",
       "location":"10509 108th Street NW Annandale, MN 55302",
-      "image":["https://cdn.hootout.com/VidyBack-videos/emp1.jpg",
+      "images":["https://cdn.hootout.com/VidyBack-videos/emp1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/emp2.jpg",
       "https://cdn.hootout.com/VidyBack-videos/emp3.jpg"]
     }
   ],
-  "ngoTips":[
+  "NGOTIPS":[
     {
       "id":"1",
       "title":"Clearly define your mission, engage volunteers, foster transparency, and build strong partnerships for effective NGO impact"
@@ -2428,7 +2438,7 @@
     }
     
   ],
-  "ngoQuotes":[
+  "NGOQUOTES":[
     {
       "id": "1",
       "title": "A small group of thoughtful, committed citizens can change the world.",
