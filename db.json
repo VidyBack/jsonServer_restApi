@@ -1686,7 +1686,8 @@
     "eventstarttime":"08AMGMT",
     "author":"Joy Emanuel",
     "images":["https://cdn.hootout.com/VidyBack-videos/education1.jpg"],
-    "storeName":"www.Yourstore.com"
+    "storeName":"www.Yourstore.com",
+    "location":["Zoom","Webinar","Google Meet"]
     },
     {
       "id": "2",
