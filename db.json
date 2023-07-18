@@ -1839,36 +1839,41 @@
       "author":"James Thurber"
     }
   ],
- "audioPodcasts":[
+ "AUDIOPODCAST":[
   {
-  "productName":"Podcast on Mobile Development",
-  "authorName":"Jenifer Lowrence",
+  "id": "1",
+  "title":"Podcast on Mobile Development",
+  "author":"Jenifer Lowrence",
   "Day":"Monday",
-  "Date":"2023/2/4"
+  "date":"2023/2/4"
   },
   {
-    "productName":"Cheesy Gordita Bunch Podcast",
-    "authorName":"Jenifer Lowrence",
+    "id": "2",
+    "title":"Cheesy Gordita Bunch Podcast",
+    "author":"Jenifer Lowrence",
     "Day":"Tuesday",
-    "Date":"2023/2/4"
+    "date":"2023/2/4"
   },
   {
-    "productName":"The Trash Rats's Podcast.",
-    "authorName":"Jenifer Lowrence",
+    "id": "3",
+    "title":"The Trash Rats's Podcast.",
+    "author":"Jenifer Lowrence",
     "Day":"Wednesday",
-    "Date":"2023/2/4"
+    "date":"2023/2/4"
   },
   {
-    "productName":"Harvard Business Review IdeaCast",
-    "authorName":"Jenifer Lowrence",
+    "id": "4",
+    "title":"Harvard Business Review IdeaCast",
+    "author":"Jenifer Lowrence",
     "Day":"Thursday",
-    "Date":"2023/2/4"
+    "date":"2023/2/4"
   },
   {
-    "productName":"But Why: A Podcast for Curious Kids",
-    "authorName":"Jenifer Lowrence",
+    "id": "5",
+    "title":"But Why: A Podcast for Curious Kids",
+    "author":"Jenifer Lowrence",
     "Day":"Friday",
-    "Date":"2023/2/4"
+    "date":"2023/2/4"
   }
   ],
   "TECHNOLOGY":[
