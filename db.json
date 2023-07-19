@@ -305,7 +305,7 @@
    
    
   ],
-  "FOODQUOTE":[
+  "FOODQUOTES":[
     {
       "id": "1",
       "title": "Food is symbolic of love when words are inadequate.",
@@ -717,7 +717,7 @@
           "discountPercentage": "8% OFF"
         }
   ],
-  "TRAVELQUOTE":[
+  "TRAVELQUOTES":[
    {
       "id": "1",
       "title": "The world is a book and those who do not travel read only one page.",
@@ -901,7 +901,7 @@
       "title":"Everyone makes mistakes, but it's important to learn from them and use them as opportunities for growth and improvement."
       }
   ],
-  "SPORTSQUOTES":[
+  "SPORTQUOTES":[
     {
       "id":"1",
       "title": "The only one who can tell you ‘you can’t win’ is you and you don’t have to listen.",
@@ -1159,7 +1159,7 @@
       "storeName":"www.Yourstore.com"
     }
   ],
-  "POLITICSQUOTE":[
+  "POLITICQUOTES":[
     {
       "id":"1",
       "title": "Loyalty to country ALWAYS. Loyalty to government, when it deserves it.",
@@ -1191,7 +1191,7 @@
       "author": "Harry S. Truman"
     }
   ],
-  "PHARMACEUTICALS":[
+  "PHARMACEUTICAL":[
     {
     "id":"1",
     "title":"ColdnFlu tablets",
@@ -1839,36 +1839,41 @@
       "author":"James Thurber"
     }
   ],
- "audioPodcasts":[
+ "AUDIOPODCAST":[
   {
-  "productName":"Podcast on Mobile Development",
-  "authorName":"Jenifer Lowrence",
+  "id": "1",
+  "title":"Podcast on Mobile Development",
+  "author":"Jenifer Lowrence",
   "Day":"Monday",
-  "Date":"2023/2/4"
+  "date":"2023/2/4"
   },
   {
-    "productName":"Cheesy Gordita Bunch Podcast",
-    "authorName":"Jenifer Lowrence",
+    "id": "2",
+    "title":"Cheesy Gordita Bunch Podcast",
+    "author":"Jenifer Lowrence",
     "Day":"Tuesday",
-    "Date":"2023/2/4"
+    "date":"2023/2/4"
   },
   {
-    "productName":"The Trash Rats's Podcast.",
-    "authorName":"Jenifer Lowrence",
+    "id": "3",
+    "title":"The Trash Rats's Podcast.",
+    "author":"Jenifer Lowrence",
     "Day":"Wednesday",
-    "Date":"2023/2/4"
+    "date":"2023/2/4"
   },
   {
-    "productName":"Harvard Business Review IdeaCast",
-    "authorName":"Jenifer Lowrence",
+    "id": "4",
+    "title":"Harvard Business Review IdeaCast",
+    "author":"Jenifer Lowrence",
     "Day":"Thursday",
-    "Date":"2023/2/4"
+    "date":"2023/2/4"
   },
   {
-    "productName":"But Why: A Podcast for Curious Kids",
-    "authorName":"Jenifer Lowrence",
+    "id": "5",
+    "title":"But Why: A Podcast for Curious Kids",
+    "author":"Jenifer Lowrence",
     "Day":"Friday",
-    "Date":"2023/2/4"
+    "date":"2023/2/4"
   }
   ],
   "TECHNOLOGY":[
