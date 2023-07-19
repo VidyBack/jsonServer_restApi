@@ -2195,8 +2195,8 @@
   "feature2":"Divorce cases handlers",
   "feature3":"Legal disputes ",
   "location":"Dallas",
-  "duration":"1 hr",
-  "originalPrice":"$25000"
+  "duration":"07AMGMT",
+  "originalPrice":"$5000"
 
  },
 {
@@ -2209,7 +2209,9 @@
   "feature1":"Legal disputes Lawyer",
   "feature2":"Real Estate",
   "feature3":"Divorce cases handlers",
-  "location":"Dallas"
+  "location":"Dallas",
+  "duration":"07.30AMGMT",
+  "originalPrice":"$7000"
  },
  {
   "id":"3",
@@ -2221,7 +2223,9 @@
   "feature1":"Legal disputes Lawyer",
   "feature2":"Real Estate",
   "feature3":"Divorce cases handlers",
-  "location":"Dallas"
+  "location":"Dallas",
+  "duration":"10AMGMT",
+  "originalPrice":"$9000"
  },
  {
   "id":"4",
@@ -2233,7 +2237,9 @@
   "feature1":"Legal disputes Lawyer",
   "feature2":"Real Estate",
   "feature3":"Divorce cases handlers",
-  "location":"Dallas"
+  "location":"Dallas",
+  "duration":"09AMGMT",
+  "originalPrice":"$7000"
  },
  {
   "id":"5",
@@ -2245,7 +2251,9 @@
   "feature1":"Legal disputes Lawyer",
   "feature2":"Real Estate",
   "feature3":"Divorce cases handlers",
-  "location":"Dallas"
+  "location":"Dallas",
+  "duration":"08AMGMT",
+  "originalPrice":"$6000"
  }
   ],
   "LEGALLAWTIPS":[
