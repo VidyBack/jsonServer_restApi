@@ -1020,7 +1020,20 @@
       "author": "Washigton M Society",
       "images":["https://cdn.hootout.com/VidyBack-videos/job5.jpg"]
       
-    }
+    },
+    {
+      "id": "6",
+        "title": "Architect",
+        "description": "We are seeking an experienced and creative Architect to join our team. The successful candidate will work closely with clients.",
+        "email": "mailto:john@greatesite.com",
+        "author": "Nexus Architecture",
+        "images":["https://cdn.hootout.com/VidyBack-videos/job6.jpg"],
+        "productName":"Architect",
+        "productSummary":"We are seeking an experienced and creative Architect to join our team.The successful candidate will work closely with clients.",
+        "url" :"www.yourSite.com",
+        "location":"Dellas",
+        "platform":"platformName"
+      }
 
   ],
   "JOBTIPS":[
@@ -2185,7 +2198,7 @@
   ],
   "LEGALLAW":[
   {
-    "id":" 1",
+  "id":" 1",
   "title":"Aido law firm",
   "images":[
   "https://cdn.hootout.com/VidyBack-videos/law1.jpg",
@@ -2245,7 +2258,6 @@
   "id":"5",
   "title":"John Mortimer firm",
   "images":[
-  
   "https://cdn.hootout.com/VidyBack-videos/legal3.jpg"
   ],
   "feature1":"Legal disputes Lawyer",
