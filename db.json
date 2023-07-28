@@ -1401,7 +1401,7 @@
     "updated_at":"2023/02/10",
     "storeName":"Pawstation ltd.",
     "NumberOfDays":"15",
-    "customerReview":"test review"
+    "customerReview":"I appreciate the sturdy packaging, which keeps the biscuits fresh and crunchy"
     },
     {
       "id":"2",
@@ -1416,7 +1416,8 @@
       "created_at":" 2023/01/09",
       "updated_at":"2023/02/10",
       "storeName":"Pawstation ltd.",
-      "NumberOfDays":"15"
+      "NumberOfDays":"15",
+      "customerReview":"They're not too sweet and provide a satisfying crunch or chew, depending on the type."
     },
     {
       "id":"3",
@@ -1431,7 +1432,8 @@
       "created_at":" 2023/01/09",
       "updated_at":"2023/02/10",
       "storeName":"Pawstation ltd.",
-      "NumberOfDays":"15"
+      "NumberOfDays":"15",
+      "customerReview":"I am blown away by the incredible variety & taste of the food and beverages offered!"
     },
     {
       "id":"4",
@@ -1446,7 +1448,8 @@
       "created_at":" 2023/01/09",
       "updated_at":"2023/02/10",
       "storeName":"Pawstation ltd.",
-      "NumberOfDays":"15"
+      "NumberOfDays":"15",
+      "customerReview":"I was enveloped by the aroma of freshly brewed coffee."
     },
     {
       "id":"5",
@@ -1461,7 +1464,8 @@
       "created_at":" 2023/01/09",
       "updated_at":"2023/02/10",
       "storeName":"Pawstation ltd.",
-      "NumberOfDays":"15"
+      "NumberOfDays":"15",
+      "customerReview":"The texture is perfect - soft, chewy, and bursting with natural banana flavor."
     }
   ],
   "FMCGTIPS": [
