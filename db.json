@@ -2076,7 +2076,9 @@
   "storeName":"Pawstation ltd.",
   "feature1":"overall dental care for you",
   "feature2":"Teeth cleaning with polishing",
-  "feature3":"Open from 10am to 10pm"
+  "feature3":"Open from 10am to 10pm",
+  "customerReview":"I left feeling satisfied with the treatment I received & confident in the health.",
+  "customerName":"Anish Jhaveri"
   
   },
   {
@@ -2094,7 +2096,9 @@
     "storeName": "Pawstation ltd.",
     "feature1": "Overall care for your pet",
     "feature2": "Teeth cleaning with polishing",
-    "feature3": "Open from 10am to 10pm"
+    "feature3": "Open from 10am to 10pm",
+    "customerReview":"The entire team at the clinic is dedicated & knowledgeable.",
+    "customerName":"Aly"
     },
     {
       "id": "3",
@@ -2111,7 +2115,9 @@
       "storeName": "TeleMed ltd.",
       "feature1": "Offers virtual consultations with healthcare professionals via video or audio calls for medical assessments, advice, and treatment recommendations.",
       "feature2": "Enables electronic prescriptions for medications, which can be conveniently delivered to the patient's doorstep or picked up at a local pharmacy.",
-      "feature3": "Timing: 10am to 10pm"
+      "feature3": "Timing: 10am to 10pm",
+      "customerReview":"Their commitment to accessible & reliable healthcare is evident in every aspect.",
+      "customerName":"John Doe"
       },
       {
         "id": "4",
@@ -2128,7 +2134,9 @@
         "storeName": "Dentistryltd.",
         "feature1": "Overall care for your teeth",
         "feature2": "Teeth cleaning with polishing",
-        "feature3": "Open from 10am to 10pm"
+        "feature3": "Open from 10am to 10pm",
+        "customerReview":"The staff ensures that each visit is a comfortable and pleasant experience.",
+        "customerName":"Emanual Dey"
         },
         {
           "id": "5",
@@ -2145,7 +2153,9 @@
           "storeName": "RapidResponse ltd.",
           "feature1": "Safety Protocols: Strict adherence to infection control measures, including thorough sanitization,and social distancing, to ensure patient and staff safety.",
           "feature2": "Collaboration with local health authorities to stay informed about guidelines, protocols, and resources.",
-          "feature3": "Open from 10am to 10pm"
+          "feature3": "Open from 10am to 10pm",
+          "customerReview":"I was impressed with their efficiency & dedication.",
+          "customerName":"Sam Goodwill"
           }
   ],
   "HEALTHCARETIPS":[
