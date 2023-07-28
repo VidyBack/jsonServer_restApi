@@ -240,7 +240,7 @@
       "originalPrice": "$100",
       "discountedPrice": "$80",
       "discountPercentage": "20% OFF",
-      "customerReview": "Had authentic Ramen at a local Japanese spot. Broth was rich, noodles perfect, and toppings added flavour. Presentation was impressive. Highly recommend for noodle soup lovers.",
+      "customerReview": "Presentation was impressive. Highly recommend for noodle soup lovers.",
       "customerName": "Yasmine"
     },
     {
@@ -258,7 +258,7 @@
       "originalPrice":"$100",
       "discountedPrice":"$80",
       "discountPercentage": "20% OFF",
-      "customerReview": "Feta cheese salad had fresh greens, juicy tomatoes, and tangy red onions. The crumbled Feta cheese added a creamy, salty flavour. It was lightly dressed, and the portion size was perfect. Highly recommend for a refreshing and healthy meal or as a side dish.",
+      "customerReview": "It was lightly dressed! Highly recommend for a refreshing and healthy meal.",
       "customerName":"Yasmine"
     } ,  
     {
@@ -288,7 +288,7 @@
       "originalPrice": "$100",
       "discountedPrice":"$80",
       "discountPercentage": "20% OFF",
-      "customerReview": "Had authentic Sushi at a local Japanese spot. Fish was rich, very fresh, and toppings added flavour. Presentation was impressive. Highly recommend for sushi lovers.",
+      "customerReview": "Had authentic Sushi at a local Japanese spot.",
       "customerName": "Yasmine"
     },
     {
