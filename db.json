@@ -429,7 +429,8 @@
       "discountPercentage": "3% OFF",
       "feature1": "Full Furnished Apartment with a balcony",
       "feature2": "Terrace garden attached to the apartment",
-      "feature3": "Located at the center of the city"
+      "feature3": "Located at the center of the city",
+      "Number of BHK":"3 BHK"
     },
     {
       "id": "2",
