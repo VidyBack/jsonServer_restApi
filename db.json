@@ -430,7 +430,9 @@
       "feature1": "Full Furnished Apartment with a balcony",
       "feature2": "Terrace garden attached to the apartment",
       "feature3": "Located at the center of the city",
-      "NumberofBHK":"3 BHK"
+      "bhk":"3 BHK",
+      "squareft":"1100 sq.ft.",
+      "propertyAge":"2"
     },
     {
       "id": "2",
@@ -454,7 +456,10 @@
 "discountPercentage": "3% OFF",
 "feature1": "Brand new modern and stylish furniture with king size bed",
 "feature2": "Terrace garden attached to the apartment",
-"feature3": "Located at the center of the city"
+"feature3": "Located at the center of the city",
+"bhk":"2 BHK",
+      "squareft":"900 sq.ft.",
+      "propertyAge":"2"
     },
     {
       "id": "3",
@@ -478,7 +483,10 @@
       "discountPercentage": "3% OFF",
       "feature1": "Brand new modern and stylish furniture with king size bed",
       "feature2": "Terrace garden attached to the apartment",
-      "feature3": "Located at the center of the city"
+      "feature3": "Located at the center of the city",
+      "bhk":"3 BHK",
+      "squareft":"1100 sq.ft.",
+      "propertyAge":"2"
     },
     {
       "id": "4",
@@ -500,7 +508,10 @@
       "discountPercentage": "3% OFF",
       "feature1": "Brand new modern and stylish furniture with king size bed",
       "feature2": "Terrace garden attached to the apartment",
-      "feature3": "Located at the center of the city"
+      "feature3": "Located at the center of the city",
+      "bhk":"4 BHK",
+      "squareft":"1200 sq.ft.",
+      "propertyAge":"3"
     },
     {
       "id": "5",
@@ -522,7 +533,10 @@
       "discountPercentage": "3% OFF",
       "feature1": "Brand new modern and stylish furniture with king size bed",
       "feature2": "Terrace garden attached to the apartment",
-      "feature3": "Located at the center of the city"
+      "feature3": "Located at the center of the city",
+      "bhk":"2 BHK",
+      "squareft":"1000 sq.ft.",
+      "propertyAge":"2"
     }
   ],
   "ESTATEQUOTES":[
