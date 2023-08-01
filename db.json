@@ -1732,7 +1732,9 @@
     "storeName":"www.Yourstore.com",
     "location":"Zoom",
     "duration":"7:30pm",
-    "originalPrice":"$200"
+    "originalPrice":"$200",
+    "customerReview":"It was useful"
+    
 
     },
     {
