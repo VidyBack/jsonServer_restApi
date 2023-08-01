@@ -1733,7 +1733,9 @@
     "location":"Zoom",
     "duration":"7:30pm",
     "originalPrice":"$200",
-    "customerReview":"It was useful"
+    "customerReview":"It was useful!",
+    "productSummary":"this is summary",
+    "url":"dummy url"
     
 
     },
