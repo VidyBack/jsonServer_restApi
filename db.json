@@ -1735,7 +1735,8 @@
     "originalPrice":"$200",
     "customerReview":"It was useful!",
     "productSummary":"Join us on this exhilarating journey to unlock the secrets of successful marketing and advertising.",
-    "url":"www.yourUrl.com"
+    "url":"www.yourUrl.com",
+    "customerName":"Anish Jhaveri"
     
 
     },
@@ -1752,7 +1753,8 @@
       "duration":"8:30pm",
       "originalPrice":"$350",
       "productSummary":"Join us on this exciting journey to become a proficient 2D game developer with Unity and C#. By the end of this course, you will have the knowledge and confidence to create your own captivating 2D games and embark on a rewarding career in the world of game development.",
-      "url":"www.yourUrl.com"
+      "url":"www.yourUrl.com",
+      "customerName":"Jasly"
 
     },
     {
@@ -1768,7 +1770,8 @@
       "duration":"6:30pm",
       "originalPrice":"$250",
       "productSummary":"Unleash your artistic potential and embark on an exciting journey of self-expression with The Ultimate Digital Painting Course. This course will equip you with the skills and confidence to bring your imagination to life.",
-      "url":"www.yourUrl.com"
+      "url":"www.yourUrl.com",
+      "customerName":"Emanual Dey"
 
     },
     {
@@ -1784,7 +1787,8 @@
       "duration":"5:30pm",
       "originalPrice":"$300",
       "productSummary":"With Leadership: You Can Speak Like a Leader,you will gain the tools and confidence to communicate with influence, connect with your audience, and inspire positive change in your personal and professional life. Let your leadership journey begin today!",
-      "url":"www.yourUrl.com"
+      "url":"www.yourUrl.com",
+      "customerName":"Samuel"
 
     },
     {
@@ -1800,7 +1804,10 @@
       "duration":"7:30pm",
       "originalPrice":"$200",
       "productSummary":"Boost Your Career Success by Developing Your Soft Skills will empower you with the tools and confidence to thrive in your professional life, build meaningful relationships, and stand out as a valuable asset in any organization.",
-      "url":"www.yourUrl.com"
+      "url":"www.yourUrl.com",
+      "customerName":"Simran Gujral"
+
+      
 
     }
   ],
