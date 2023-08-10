@@ -1245,7 +1245,8 @@
     "created_at":"2023/02/27",
     "updated_at":"2023/02/27",
     "storeName":"Wellness Forever",
-    "numberOfDays":"15"
+    "numberOfDays":"15",
+    "customerName": "Sam Goodwill"
     },
     {
       "id":"2",
