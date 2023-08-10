@@ -151,7 +151,7 @@
     },
     {
       "id": "2",
-      "title":" Used cars can be a great way to save money on a vehicle purchase. Look for used cars with low mileage that are still in good condition."
+      "title":"Used cars can be a great way to save money on a vehicle purchase.Look for used cars with low mileage that are still in good condition."
     },
     {
       "id": "3",
@@ -241,7 +241,8 @@
       "discountedPrice": "$80",
       "discountPercentage": "20% OFF",
       "customerReview": "Presentation was impressive. Highly recommend for noodle soup lovers.",
-      "customerName": "Yasmine"
+      "customerName": "Yasmine",
+      "storeName": "www.yoursite.com"
     },
     {
       "id": "2",
@@ -2447,7 +2448,7 @@
     },
     {
       "id":"5",
-      "title":"Before investing in a particular stock, bond, or fund, do your research and make sure you understand the company or fund's financial health, management, and industry trends."
+      "title":"Before investing in a particular stock,bond,or fund,do your research and make sure you understand the company or fund's financial health,management,& industry trends."
     },
     {
       "id":"6",
