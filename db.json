@@ -672,7 +672,7 @@
         "https://cdn.hootout.com/VidyBack-videos/ttsq4.jpg",
         "https://cdn.hootout.com/VidyBack-videos/ttsq5.jpg"
       ],
-      "customerReview":"Delhi is a beautiful and culturally rich destination, delicious cuisine, and warm hospitality. Highly recommend for those seeking a relaxing and immersive travel experience.",
+      "customerReview":"Delhi is a beautiful and culturally rich destination, delicious cuisine.",
       "customerName": "Sam Goodwill",
       "location": "Delhi",
       "price": "$800",
@@ -694,7 +694,7 @@
         "https://cdn.hootout.com/VidyBack-videos/bali5.jpg",
         "https://cdn.hootout.com/VidyBack-videos/bali6.jpg"
       ],
-      "customerReview": "Bali is a beautiful and culturally rich destination that offers stunning beaches, delicious cuisine, and warm hospitality. Highly recommend for those seeking a relaxing and immersive travel experience.",
+      "customerReview": "Bali is a beautiful & culturally rich destination that offers stunning beaches.",
       "customerName": "John Doe",
       "location": "Bali",
       "price": "$800",
@@ -715,7 +715,7 @@
           "https://cdn.hootout.com/VidyBack-videos/andaman5.jpg",
           "https://cdn.hootout.com/VidyBack-videos/andaman6.jpg"
         ],
-        "customerReview": "Andaman is a beautiful and culturally rich destination that offers stunning beaches, delicious cuisine, and warm hospitality. Highly recommend for those seeking a relaxing and immersive travel experience.",
+        "customerReview": "Andaman is a beautiful and culturally rich destination that offers stunning beaches, delicious cuisine.",
         "customerName": "John Doe",
         "location": "Andaman Islands",
         "price": "$800",
@@ -729,7 +729,7 @@
           "id": "4",
           "title": "Mumbai 1 Day Tour",
           "images": ["https://cdn.hootout.com/VidyBack-videos/mumbai.jpg"],
-          "customerReview": "Mumbai is well served by buses from destinations inside India. National highway numbers 3, 4, 6, 8, 9, 17, and the Mumbai-Pune expressway radiate from the city providing links to all parts of the country.",
+          "customerReview": "Mumbai is well served by buses from destinations inside India.",
           "customerName": "John Doe",
           "location": "CST-Mumbai",
           "price": "$800",
