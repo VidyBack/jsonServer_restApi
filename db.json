@@ -46,7 +46,8 @@
       "productSummary": "Jeep Compass is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
       "feature1": "Anti-glare mirrors",
       "feature2": "Wireless Phone Charging",
-      "feature3": "Airbags"
+      "feature3": "Airbags",
+      "storeName": "www.yoursite.com"
     },
     {
       "id": "3",
@@ -70,7 +71,8 @@
       "productSummary": "Mercedes-Benz C-Classs is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
       "feature1": "Seat lumbar support",
       "feature2": "Integrated (in-dash) music system",
-      "feature3": "GPS navigation system"
+      "feature3": "GPS navigation system",
+      "storeName": "www.yoursite.com"
     },
     {
       "id": "4",
@@ -94,7 +96,8 @@
       "productSummary": "BMW 3 Series is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
       "feature1": "Keyless start",
       "feature2": "Touch screen infotainment system",
-      "feature3": "Rain sensing wipers"
+      "feature3": "Rain sensing wipers",
+      "storeName": "www.yoursite.com"
     }
     
   ],
