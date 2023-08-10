@@ -1245,8 +1245,9 @@
     "created_at":"2023/02/27",
     "updated_at":"2023/02/27",
     "storeName":"Wellness Forever",
-    "numberOfDays":"15",
-    "customerName": "Sam Goodwill"
+    "numberOfDays":"15G",
+    "customerName": "Sam oodwill",
+    "customerReview":"These tablets exceeded my expectations in several ways."
     },
     {
       "id":"2",
@@ -1262,7 +1263,9 @@
       "created_at":"2023/02/27",
       "updated_at":"2023/02/27",
       "storeName":"Wellness Forever",
-      "numberOfDays":"15"
+      "numberOfDays":"15",
+      "customerName": "Kapil Malhotra",
+      "customerReview":"These tablets exceeded my expectations in several ways."
     },
     {
         "id":"3",
@@ -1278,7 +1281,9 @@
         "created_at":"2023/02/27",
         "updated_at":"2023/02/27",
         "storeName":"Wellness Forever",
-        "numberOfDays":"15"
+        "numberOfDays":"15",
+        "customerName": "Anish Jhaveri",
+        "customerReview":"These tablets exceeded my expectations in several ways."
     },
     {
           "id":"4",
@@ -1294,7 +1299,9 @@
           "created_at":"2023/02/27",
           "updated_at":"2023/02/27",
           "storeName":"Wellness Forever",
-          "numberOfDays":"15"
+          "numberOfDays":"15",
+          "customerName": "Johny Dey",
+          "customerReview":"These tablets exceeded my expectations in several ways."
     },
     {
             "id":"5",
@@ -1310,7 +1317,9 @@
             "created_at":"2023/02/27",
             "updated_at":"2023/02/27",
             "storeName":"Wellness Forever",
-            "numberOfDays":"15"
+            "numberOfDays":"15",
+            "customerName": "Emanual Dey",
+            "customerReview":"These tablets exceeded my expectations in several ways."
     }
   ],
   "PHARMATIPS":[
