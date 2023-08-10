@@ -23,7 +23,8 @@
       "productSummary": "Mercedes-Benz CLA is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
       "feature1": "Cruise control",
       "feature2": "Sunroof",
-      "feature3": "Airbags"
+      "feature3": "Airbags",
+      "storeName": "www.yoursite.com"
     },
     {
       "id": "2",
@@ -241,8 +242,7 @@
       "discountedPrice": "$80",
       "discountPercentage": "20% OFF",
       "customerReview": "Presentation was impressive. Highly recommend for noodle soup lovers.",
-      "customerName": "Yasmine",
-      "storeName": "www.yoursite.com"
+      "customerName": "Yasmine"
     },
     {
       "id": "2",
