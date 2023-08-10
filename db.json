@@ -2488,7 +2488,8 @@
       "location":"Milaap Social Ventures USA Pvt.Ltd.Dallas.",
       "images":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/ngo2.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/ngo3.jpg"]
+      "https://cdn.hootout.com/VidyBack-videos/ngo3.jpg"],
+      "url": "www.yoursite.com"
     },
     {
       "id":"2",
