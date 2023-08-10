@@ -436,7 +436,8 @@
       "feature3": "Located at the center of the city",
       "bhk":"3 BHK",
       "squareft":"1100 sq.ft.",
-      "propertyAge":"2"
+      "propertyAge":"2",
+      "storeName": "www.yoursite.com"
     },
     {
       "id": "2",
@@ -463,7 +464,8 @@
 "feature3": "Located at the center of the city",
 "bhk":"2 BHK",
       "squareft":"900 sq.ft.",
-      "propertyAge":"2"
+      "propertyAge":"2",
+      "storeName": "www.yoursite.com"
     },
     {
       "id": "3",
@@ -515,7 +517,8 @@
       "feature3": "Located at the center of the city",
       "bhk":"4 BHK",
       "squareft":"1200 sq.ft.",
-      "propertyAge":"3"
+      "propertyAge":"3",
+      "storeName": "www.yoursite.com"
     },
     {
       "id": "5",
@@ -540,7 +543,8 @@
       "feature3": "Located at the center of the city",
       "bhk":"2 BHK",
       "squareft":"1000 sq.ft.",
-      "propertyAge":"2"
+      "propertyAge":"2",
+      "storeName": "www.yoursite.com"
     }
   ],
   "ESTATEQUOTES":[
