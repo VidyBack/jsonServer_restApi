@@ -2489,8 +2489,7 @@
       "images":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/ngo2.jpg",
       "https://cdn.hootout.com/VidyBack-videos/ngo3.jpg"],
-      "url": "www.yoursite.com",
-      "city":"your city"
+      "url": "www.yoursite.com"
     },
     {
       "id":"2",
@@ -2500,7 +2499,8 @@
       "location":"310 Old Freeland Road, Freeland, MD 21053",
       "images":["https://cdn.hootout.com/VidyBack-videos/rising1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/rising2.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/rising3.jpg"]
+      "https://cdn.hootout.com/VidyBack-videos/rising3.jpg"],
+      "url": "www.yoursite.com"
     },
     {
       "id":"3",
@@ -2510,7 +2510,8 @@
       "location":"888 Far Hills Drive, New Freedom, PA 17349",
       "images":["https://cdn.hootout.com/VidyBack-videos/charity1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/charity2.jpg"
-    ]
+    ],
+    "url": "www.yoursite.com"
     },
     {
       "id":"4",
@@ -2520,7 +2521,8 @@
       "location":"8046 83rd Street NW Maple Lake, MN 55358",
       "images":["https://cdn.hootout.com/VidyBack-videos/stand1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/stand2.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/stand3.jpg"]
+      "https://cdn.hootout.com/VidyBack-videos/stand3.jpg"],
+      "url": "www.yoursite.com"
     },
     {
       "id":"5",
@@ -2530,7 +2532,8 @@
       "location":"10509 108th Street NW Annandale, MN 55302",
       "images":["https://cdn.hootout.com/VidyBack-videos/emp1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/emp2.jpg",
-      "https://cdn.hootout.com/VidyBack-videos/emp3.jpg"]
+      "https://cdn.hootout.com/VidyBack-videos/emp3.jpg"],
+      "url": "www.yoursite.com"
     }
   ],
   "NGOTIPS":[
