@@ -756,9 +756,8 @@
           "discountPercentage": "8% OFF",
           "feature1":"Accommodation",
           "feature2":"Transportation",
-          "feature3":"Entrance Fees and Tickets",
-          "storeName" :"www.yourSite.com",
-          "date":"01-04-2023"
+          "feature3":"Entrance Fees and Tickets"
+          
         }
   ],
   "TRAVELQUOTES":[
@@ -1027,7 +1026,12 @@
         "description": "We are seeking an experienced and creative interior designer to join our team. The successful candidate will work closely with clients to create functional and aesthetically pleasing interior spaces that meet their needs and preferences..",
         "email": "mailto:john@greatesite.com",
         "author": "Undo Designs",
-        "images":["https://cdn.hootout.com/VidyBack-videos/job1.jpg"]
+        "images":["https://cdn.hootout.com/VidyBack-videos/job1.jpg"],
+        "url" :"www.yourSite.com",
+        "date":"01-04-2023",
+        "platform":"Interior Designer",
+        "location":"Dellas",
+        "productName":"Interior Designer"
       },
     {
       "id": "2",
@@ -1035,7 +1039,12 @@
       "description": "Deeply understand Customer Support business and strategies, clarify business priorities for the cross-functional team, and set qualitative and quantitative objectives.",
       "email": "mailto:john@greatesite.com",
       "author": "Techkie World",
-      "images":["https://cdn.hootout.com/VidyBack-videos/job2.jpg"]
+      "images":["https://cdn.hootout.com/VidyBack-videos/job2.jpg"],
+      "url" :"www.yourSite.com",
+      "date":"01-04-2023",
+      "platform":"Product Manager",
+      "location":"Dellas",
+      "productName":"Product Manager"
       
     },
     {
@@ -1044,7 +1053,12 @@
       "description": "Client Communication: Maintain regular communication with clients throughout the design process. Present design proposals, incorporating feedback and revisions as necessary. Provide guidance and advice on design choices, keeping clients informed about project progress and timelines.",
       "email": "mailto:john@greatesite.com",
       "author": "YOLO UX Ajency",
-      "images":["https://cdn.hootout.com/VidyBack-videos/job3.jpg"]
+      "images":["https://cdn.hootout.com/VidyBack-videos/job3.jpg"],
+      "url" :"www.yourSite.com",
+      "date":"01-04-2023",
+      "platform":"Asst. Project manager",
+      "location":"Dellas",
+      "productName":"Asst. Project manager"
      
     },
     {
@@ -1053,7 +1067,12 @@
       "description": "We are seeking a dedicated and knowledgeable Tutor to join our team. As a Tutor, you will play a vital role in providing academic support and guidance to students of various ages and skill levels.",
       "email": "mailto:john@greatesite.com",
       "author": "BriskTaker",
-      "images":["https://cdn.hootout.com/VidyBack-videos/job4.jpg"]
+      "images":["https://cdn.hootout.com/VidyBack-videos/job4.jpg"],
+      "url" :"www.yourSite.com",
+      "date":"01-04-2023",
+      "platform":"Tutor",
+      "location":"Dellas",
+      "productName":"Tutor"
       
     },
     {
@@ -1062,7 +1081,12 @@
       "description": "We are seeking a skilled and experienced Plumber to join our team. As a Plumber, you will play a crucial role in installing, repairing, and maintaining plumbing systems in residential, commercial, and industrial settings.",
       "email": "mailto:john@greatesite.com",
       "author": "Washigton M Society",
-      "images":["https://cdn.hootout.com/VidyBack-videos/job5.jpg"]
+      "images":["https://cdn.hootout.com/VidyBack-videos/job5.jpg"],
+      "url" :"www.yourSite.com",
+      "date":"01-04-2023",
+      "platform":"Plumber",
+      "location":"Dellas",
+      "productName":"Plumber"
       
     },
     {
