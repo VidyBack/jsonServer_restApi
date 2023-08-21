@@ -684,7 +684,8 @@
       "feature1":"Accommodation",
       "feature2":"Transportation",
       "feature3":"Entrance Fees and Tickets",
-      "url" :"www.yourSite.com"
+      "url" :"www.yourSite.com",
+      "date":"01-04-2023"
     },
    
     {
@@ -710,7 +711,8 @@
       "feature1":"Accommodation",
       "feature2":"Transportation",
       "feature3":"Entrance Fees and Tickets",
-      "url" :"www.yourSite.com"
+      "url" :"www.yourSite.com",
+      "date":"01-04-2023"
       },
       {
         "id": "3",
@@ -735,7 +737,9 @@
         "feature1":"Accommodation",
         "feature2":"Transportation",
         "feature3":"Entrance Fees and Tickets",
-        "url" :"www.yourSite.com"
+        "url" :"www.yourSite.com",
+        
+          "date":"01-04-2023"
         },
         {
           "id": "4",
@@ -753,7 +757,8 @@
           "feature1":"Accommodation",
           "feature2":"Transportation",
           "feature3":"Entrance Fees and Tickets",
-          "url" :"www.yourSite.com"
+          "url" :"www.yourSite.com",
+          "date":"01-04-2023"
         }
   ],
   "TRAVELQUOTES":[
