@@ -680,7 +680,11 @@
       "contactNumber": "9876543210",
       "originalPrice": "$800",
       "discountedPrice": "$640",
-      "discountPercentage": "8% OFF"
+      "discountPercentage": "8% OFF",
+      "feature1":"Accommodation",
+      "feature2":"Transportation",
+      "feature3":"Entrance Fees and Tickets",
+      "url" :"www.yourSite.com"
     },
    
     {
@@ -702,7 +706,11 @@
       "contactNumber": "9876543210",
       "originalPrice": "$800",
       "discountedPrice": "$640",
-      "discountPercentage": "8% OFF"
+      "discountPercentage": "8% OFF",
+      "feature1":"Accommodation",
+      "feature2":"Transportation",
+      "feature3":"Entrance Fees and Tickets",
+      "url" :"www.yourSite.com"
       },
       {
         "id": "3",
@@ -723,7 +731,11 @@
         "contactNumber": "9876543210",
         "originalPrice": "$800",
         "discountedPrice": "$640",
-        "discountPercentage": "8% OFF"
+        "discountPercentage": "8% OFF",
+        "feature1":"Accommodation",
+        "feature2":"Transportation",
+        "feature3":"Entrance Fees and Tickets",
+        "url" :"www.yourSite.com"
         },
         {
           "id": "4",
@@ -737,7 +749,11 @@
           "contactNumber": "9876543210",
           "originalPrice": "$800",
           "discountedPrice": "$640",
-          "discountPercentage": "8% OFF"
+          "discountPercentage": "8% OFF",
+          "feature1":"Accommodation",
+          "feature2":"Transportation",
+          "feature3":"Entrance Fees and Tickets",
+          "url" :"www.yourSite.com"
         }
   ],
   "TRAVELQUOTES":[
