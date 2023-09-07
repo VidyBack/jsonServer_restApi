@@ -2813,6 +2813,36 @@
     "title":"After attending an appointment,class,or course, provide feedback and reviews on the platform or to the service provider."
   }
   
+  ],
+  "CRYPTOCURRENCY":[
+    {
+    "id":"1",
+    "title":"NFT",
+    "logo":"Your logo will come here",
+    "startDate":"Aug 02",
+    "endDate":"Aug 06",
+    "time":"7pm IST",
+    "volumeSold":"14.2k",
+    "volumeSoldTotalAmount":"$32.1M",
+    "volumeSoldUnitMeasurement":"ETH",
+    "%OfItSoldForTheWeek":"+53.6%",
+    "currencyName":"cryptoTrends"
+   },
+   {
+    "id":"2",
+    "title":"Bored Age Yacht Club",
+    "logo":"https://cdn.hootout.com/VidyBack-videos/cryptocurrency_ape.jpg",
+    "startDate":"Aug 04",
+    "endDate":"Aug 08",
+    "time":"6PM IST",
+    "volumeSold":"12.8K",
+    "volumeSoldTotalAmount":"$24.2M",
+    "currencyName":"ETH",
+    "%OfItSoldForTheWeek":"+53.6%",
+    "stockName":"cryptoTrends"
+    }
+
+  
   ]
 }
 
