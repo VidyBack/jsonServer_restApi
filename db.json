@@ -2828,15 +2828,15 @@
     {
     "id":"1",
     "title":"NFT",
-    "logo":"Your logo will come here",
+    "logo":"https://cdn.hootout.com/VidyBack-videos/nft.jpg",
     "startDate":"Aug 02",
     "endDate":"Aug 06",
     "time":"7pm IST",
     "volumeSold":"14.2k",
     "volumeSoldTotalAmount":"$32.1M",
-    "volumeSoldUnitMeasurement":"ETH",
+    "currencyName":"ETH",
     "%OfItSoldForTheWeek":"+53.6%",
-    "currencyName":"cryptoTrends"
+    "stockName":"cryptoTrends"
    },
    {
     "id":"2",
@@ -2850,7 +2850,46 @@
     "currencyName":"ETH",
     "%OfItSoldForTheWeek":"+53.6%",
     "stockName":"cryptoTrends"
-    }
+    }, 
+    {
+      "id":"3",
+      "title":"Crypto Critter Cruise Club",
+      "logo":"https://cdn.hootout.com/VidyBack-videos/CruiseClub.jpg",
+      "startDate":"Aug 14",
+      "endDate":"Aug 18",
+      "time":"6PM IST",
+      "volumeSold":"14.8K",
+      "volumeSoldTotalAmount":"$24.2M",
+      "currencyName":"ETH",
+      "%OfItSoldForTheWeek":"+54.6%",
+      "stockName":"cryptoTrends"
+      },
+      {
+        "id":"4",
+        "title":"NFT Navigators: Narwhal Edition",
+        "logo":"https://cdn.hootout.com/VidyBack-videos/navigatorNFT.jpg",
+        "startDate":"Aug 10",
+        "endDate":"Aug 14",
+        "time":"5PM IST",
+        "volumeSold":"14.8K",
+        "volumeSoldTotalAmount":"$24.2M",
+        "currencyName":"ETH",
+        "%OfItSoldForTheWeek":"+53.6%",
+        "stockName":"cryptoTrends"
+        },
+        {
+          "id":"5",
+          "title":"Crypto Cartel: Chameleon Chapter",
+          "logo":"https://cdn.hootout.com/VidyBack-videos/cartel.jpg",
+          "startDate":"Aug 10",
+          "endDate":"Aug 14",
+          "time":"5PM IST",
+          "volumeSold":"14.8K",
+          "volumeSoldTotalAmount":"$24.2M",
+          "currencyName":"ETH",
+          "%OfItSoldForTheWeek":"+53.6%",
+          "stockName":"cryptoTrends"
+          }
 
   
   ]
