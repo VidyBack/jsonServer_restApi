@@ -1023,7 +1023,7 @@
     {
       "id": "1",
         "title": "Interior Designer",
-        "description": "We are seeking an experienced and creative interior designer to join our team. The successful candidate will work closely with clients to create functional and aesthetically pleasing interior spaces that meet their needs and preferences..",
+        "productSummary": "We are seeking an experienced and creative interior designer to join our team. The successful candidate will work closely with clients to create functional and aesthetically pleasing interior spaces that meet their needs and preferences..",
         "email": "mailto:john@greatesite.com",
         "author": "Undo Designs",
         "images":["https://cdn.hootout.com/VidyBack-videos/job1.jpg"],
@@ -1036,7 +1036,7 @@
     {
       "id": "2",
       "title":"Product Manager",
-      "description": "Deeply understand Customer Support business and strategies, clarify business priorities for the cross-functional team, and set qualitative and quantitative objectives.",
+      "productSummary": "Deeply understand Customer Support business and strategies, clarify business priorities for the cross-functional team, and set qualitative and quantitative objectives.",
       "email": "mailto:john@greatesite.com",
       "author": "Techkie World",
       "images":["https://cdn.hootout.com/VidyBack-videos/job2.jpg"],
@@ -1050,7 +1050,7 @@
     {
       "id": "3",
       "title":"Asst. Project manager",
-      "description": "Client Communication: Maintain regular communication with clients throughout the design process. Present design proposals, incorporating feedback and revisions as necessary. Provide guidance and advice on design choices, keeping clients informed about project progress and timelines.",
+      "productSummary": "Client Communication: Maintain regular communication with clients throughout the design process. Present design proposals, incorporating feedback and revisions as necessary. Provide guidance and advice on design choices, keeping clients informed about project progress and timelines.",
       "email": "mailto:john@greatesite.com",
       "author": "YOLO UX Ajency",
       "images":["https://cdn.hootout.com/VidyBack-videos/job3.jpg"],
@@ -1064,7 +1064,7 @@
     {
       "id": "4",
       "title":"Tutor",
-      "description": "We are seeking a dedicated and knowledgeable Tutor to join our team. As a Tutor, you will play a vital role in providing academic support and guidance to students of various ages and skill levels.",
+      "productSummary": "We are seeking a dedicated and knowledgeable Tutor to join our team. As a Tutor, you will play a vital role in providing academic support and guidance to students of various ages and skill levels.",
       "email": "mailto:john@greatesite.com",
       "author": "BriskTaker",
       "images":["https://cdn.hootout.com/VidyBack-videos/job4.jpg"],
@@ -1078,7 +1078,7 @@
     {
       "id": "5",
       "title":"Plumber",
-      "description": "We are seeking a skilled and experienced Plumber to join our team. As a Plumber, you will play a crucial role in installing, repairing, and maintaining plumbing systems in residential, commercial, and industrial settings.",
+      "productSummary": "We are seeking a skilled and experienced Plumber to join our team. As a Plumber, you will play a crucial role in installing, repairing, and maintaining plumbing systems in residential, commercial, and industrial settings.",
       "email": "mailto:john@greatesite.com",
       "author": "Washigton M Society",
       "images":["https://cdn.hootout.com/VidyBack-videos/job5.jpg"],
@@ -1974,6 +1974,7 @@
   {
   "id": "1",
   "title":"Podcast on Mobile Development",
+  "images": [],
   "author":"Jenifer Lowrence",
   "Day":"Monday",
   "date":"2023/2/4"
@@ -1982,6 +1983,7 @@
     "id": "2",
     "title":"Cheesy Gordita Bunch Podcast",
     "author":"Jenifer Lowrence",
+    "images": [],
     "Day":"Tuesday",
     "date":"2023/2/4"
   },
@@ -1989,6 +1991,7 @@
     "id": "3",
     "title":"The Trash Rats's Podcast.",
     "author":"Jenifer Lowrence",
+    "images": [],
     "Day":"Wednesday",
     "date":"2023/2/4"
   },
@@ -1996,6 +1999,7 @@
     "id": "4",
     "title":"Harvard Business Review IdeaCast",
     "author":"Jenifer Lowrence",
+    "images": [],
     "Day":"Thursday",
     "date":"2023/2/4"
   },
@@ -2003,6 +2007,7 @@
     "id": "5",
     "title":"But Why: A Podcast for Curious Kids",
     "author":"Jenifer Lowrence",
+    "images": [],
     "Day":"Friday",
     "date":"2023/2/4"
   }
@@ -2530,6 +2535,7 @@
       "title":"Foundation for Advancement of Education & Development",
       "promoHeading":"Fundraiser",
       "productSummary":"The Foundation for Advancement of Education & Development campaign Bringing Hope and Health to Those in Need.",
+      "author":"Milaap Social Ventures USA Pvt.Ltd.Dallas.",
       "location":"Milaap Social Ventures USA Pvt.Ltd.Dallas.",
       "images":["https://cdn.hootout.com/VidyBack-videos/ngo1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/ngo2.jpg",
@@ -2541,6 +2547,7 @@
       "title":"Initiative for Humanitarian Assistance Empowerment",
       "promoHeading":"Donation Camp",
       "productSummary":"The Initiative for Humanitarian Assistance Empowerment campaign Bringing Hope and Health to Those in Need.",
+      "author":"310 Old Freeland Road, Freeland, MD 21053",
       "location":"310 Old Freeland Road, Freeland, MD 21053",
       "images":["https://cdn.hootout.com/VidyBack-videos/rising1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/rising2.jpg",
@@ -2553,6 +2560,7 @@
       "promoHeading":"Campaign Update",
       "productSummary":"The Center for Youth Empowerment & Social Entrepreneurship campaign Bringing Hope and Health to Those in Need.",
       "location":"888 Far Hills Drive, New Freedom, PA 17349",
+      "author":"888 Far Hills Drive, New Freedom, PA 17349",
       "images":["https://cdn.hootout.com/VidyBack-videos/charity1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/charity2.jpg"
     ],
@@ -2563,6 +2571,7 @@
       "title":"Organization for Relief and Community Rehabilitation",
       "promoHeading":"Fundraiser",
       "productSummary":"The Organization for Relief and Community Rehabilitation campaign Bringing Hope and Health to Those in Need.",
+      "author":"8046 83rd Street NW Maple Lake, MN 55358",
       "location":"8046 83rd Street NW Maple Lake, MN 55358",
       "images":["https://cdn.hootout.com/VidyBack-videos/stand1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/stand2.jpg",
@@ -2574,6 +2583,7 @@
       "title":"Alliance for Poverty Alleviation & Economic Empowerment",
       "promoHeading":"Fundraiser",
       "productSummary":"The Alliance for Poverty Alleviation & Economic Empowerment campaign Bringing Hope and Health to Those in Need.",
+      "author":"10509 108th Street NW Annandale, MN 55302",
       "location":"10509 108th Street NW Annandale, MN 55302",
       "images":["https://cdn.hootout.com/VidyBack-videos/emp1.jpg",
       "https://cdn.hootout.com/VidyBack-videos/emp2.jpg",
