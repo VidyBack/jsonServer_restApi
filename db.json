@@ -52771,9 +52771,7 @@
           
         },
         {
-          "purpose": "p_na",
-          "templates": [
-            {
+          
               "version": 1,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -56560,13 +56558,11 @@
               ],
               "id": "QjqmDsnEfFa65kzQJoYeq",
               "templateId": "QjqmDsnEfFa65kzQJoYeq"
-            }
-          ]
+            
+          
         },
         {
-          "purpose": "p_fest",
-          "templates": [
-            {
+          
               "version": 1,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -57006,13 +57002,11 @@
               "previews": [],
               "id": "HuOu_LKOnW4s0WCm-TZSN",
               "templateId": "HuOu_LKOnW4s0WCm-TZSN"
-            }
-          ]
+            
+          
         },
         {
-          "purpose": "p_forhire_job",
-          "templates": [
-            {
+          
               "version": 2,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -57203,13 +57197,11 @@
               "previews": [],
               "id": "eOMl-xRlIIRP3AQovIiGU",
               "templateId": "eOMl-xRlIIRP3AQovIiGU"
-            }
-          ]
+            
+          
         },
         {
-          "purpose": "p_au_pc",
-          "templates": [
-            {
+          
               "version": 2,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -57338,8 +57330,8 @@
               "previews": [],
               "id": "9JDGChpjZyaktkat5VBLi",
               "templateId": "9JDGChpjZyaktkat5VBLi"
-            }
-          ]
+            
+          
         },
         {
               "version": 2,
@@ -63562,9 +63554,7 @@
           ]
         },
         {
-          "purpose": "p_pr",
-          "templates": [
-            {
+          
               "version": 2,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -64474,8 +64464,8 @@
               ],
               "id": "luNvPZ9vjYAkFbBsIshtn55",
               "templateId": "luNvPZ9vjYAkFbBsIshtn55"
-            }
-          ]
+            
+          
         },
         {
           
@@ -69020,9 +69010,7 @@
           
         },
         {
-          "purpose": "p_tdd",
-          "templates": [
-            {
+          
               "version": 1,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -69331,13 +69319,11 @@
               "outroId": null,
               "isTransparent": false,
               "previews": []
-            }
-          ]
+            
+          
         },
         {
-          "purpose": "p_nauto_r",
-          "templates": [
-            {
+          
               "id": "TiJjxVgNUwYIcxjfqW4FV212",
               "templateId": "TiJjxVgNUwYIcxjfqW4FV212",
               "version": 1,
@@ -69522,13 +69508,11 @@
               "previews": [],
               "id": "TiJjxVgNUwYIcxjfqW4FV",
               "templateId": "TiJjxVgNUwYIcxjfqW4FV"
-            }
-          ]
+            
+          
         },
         {
-          "purpose": "p_f",
-          "templates": [
-            {
+          
               "version": 1,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -69713,13 +69697,11 @@
               "previews": [],
               "id": "ORzrKcTOIozZLMeuUjFAO",
               "templateId": "ORzrKcTOIozZLMeuUjFAO"
-            }
-          ]
+            
+          
         },
         {
-          "purpose": "p_nauto_dpercentage",
-          "templates": [
-            {
+          
               "version": 1,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -69904,13 +69886,11 @@
               "previews": [],
               "id": "7fmLTj9VsxZHQUlOvTqHs11",
               "templateId": "7fmLTj9VsxZHQUlOvTqHs11"
-            }
-          ]
+            
+          
         },
         {
-          "purpose": "p_nauto_na",
-          "templates": [
-            {
+          
               "version": 1,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -70095,13 +70075,11 @@
               "outroId": null,
               "isTransparent": false,
               "previews": []
-            }
-          ]
+            
+          
         },
         {
-          "purpose": "p_ba",
-          "templates": [
-            {
+         
               "version": 1,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -70181,13 +70159,11 @@
               ],
               "id": "OES2buPYfxXUCeE1wqqAL",
               "templateId": "OES2buPYfxXUCeE1wqqAL"
-            }
-          ]
+            
+          
         },
         {
-          "purpose": "p_np",
-          "templates": [
-            {
+          
               "version": 1,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -70410,8 +70386,8 @@
               ],
               "id": "5WEnG-K0yGMzdRTI08fOB",
               "templateId": "5WEnG-K0yGMzdRTI08fOB"
-            }
-          ]
+            
+          
         },
         {
           
@@ -76234,9 +76210,7 @@
           
         },
         {
-          "purpose": "p_pd",
-          "templates": [
-            {
+          
               "version": 1,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -76544,9 +76518,7 @@
           
         },
         {
-          "purpose": "p_pps",
-          "templates": [
-            {
+          
               "version": 1,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -76707,13 +76679,11 @@
               ],
               "id": "sIyJ-NczsiHJYrT-lxN30",
               "templateId": "sIyJ-NczsiHJYrT-lxN30"
-            }
-          ]
+            
+          
         },
         {
-          "purpose": "p_etdd",
-          "templates": [
-            {
+          
               "id": "sIyJ-NczsiHJYrT-mm",
               "templateId": "sIyJ-NczsiHJYrT-mm",
               "version": 1,
@@ -77084,13 +77054,11 @@
               "outroId": null,
               "isTransparent": false,
               "previews": []
-            }
-          ]
+            
+          
         },
         {
-          "purpose": "p_nts",
-          "templates": [
-            {
+          
               "version": 2,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -78587,13 +78555,11 @@
                   }
                 }
               ]
-            }
-          ]
+            
+          
         },
         {
-          "purpose": "p_nbn",
-          "templates": [
-            {
+          
               "version": 2,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -79856,13 +79822,11 @@
               ],
               "id": "_BELq2-abmgyCDjJGUzCC",
               "templateId": "_BELq2-abmgyCDjJGUzCC"
-            }
-          ]
+            
+          
         },
         {
-          "purpose": "p_nblogs",
-          "templates": [
-            {
+          
               "version": 2,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -80246,13 +80210,11 @@
               ],
               "id": "xyO7vHOJKrpBsC1eEVez4",
               "templateId": "xyO7vHOJKrpBsC1eEVez4"
-            }
-          ]
+            
+          
         },
         {
-          "purpose": "p_nb",
-          "templates": [
-            {
+          
               "version": 2,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -81121,13 +81083,11 @@
               ],
               "id": "qRqoGJXPCQQqbk2FA-5Ji",
               "templateId": "qRqoGJXPCQQqbk2FA-5Ji"
-            }
-          ]
+            
+          
         },
         {
-          "purpose": "p_par",
-          "templates": [
-            {
+          
               "version": 1,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -81312,13 +81272,11 @@
               "previews": [],
               "id": "E1xKT0E1lLVgHazTJgAqJ",
               "templateId": "E1xKT0E1lLVgHazTJgAqJ"
-            }
-          ]
+            
+          
         },
         {
-          "purpose": "p_bs",
-          "templates": [
-            {
+          
               "version": 2,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -82117,13 +82075,11 @@
                   }
                 }
               ]
-            }
-          ]
+            
+          
         },
         {
-          "purpose": "p_pps",
-          "templates": [
-            {
+          
               "version": 1,
               "gifUrl": "",
               "bgVideoUrl": [
@@ -82203,16 +82159,8 @@
               ],
               "id": "oJcGBK4rKbO11654-s0A9",
               "templateId": "oJcGBK4rKbO11654-s0A9"
-            }
-          ]
-        },
-        {
-          "purpose": "p_pd",
-          "templates": []
-        },
-        {
-          "purpose": "p_np",
-          "templates": []
+            
+          
         },
         {
           
@@ -82379,7 +82327,7 @@
             }
           ]
         }
-          ]}
+          
       
     
       
