@@ -2903,6 +2903,71 @@
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
+          ""
+      ],
+      "fontUrl": [
+          ""
+      ],
+      "bgImageUrl": [
+          ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-09-13T12:27:15.509Z",
+      "extraComps": [
+          {
+              "index": 2,
+              "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+          }
+      ],
+      "widgetsDefinition": [
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_tE79c_1694608033053_01-finance-stock-post-final-dynamic-final.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-finance-stock-post-final-dynamic-final",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+          "p_stkdata"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_HFUfz_1694608033056_01-finance-stock-post-final-dynamic-final.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3Q-kz_1694608033055_01-finance-stock-post-final-dynamic-final.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "DpPY0Pf64_QMnbDBfdX12",
+      "templateId": "DpPY0Pf64_QMnbDBfdX12"
+  },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
         ""
       ],
       "fontUrl": [
