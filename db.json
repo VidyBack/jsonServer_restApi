@@ -2898,8 +2898,72 @@
 
   
   ],
-  "TEMPLATES":[
-    
+  "TEMPLATES_DEV":[
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3safL_1666165205619_mixkit-my-little-prince-815.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-09-13T05:09:10.420Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_PPYqZ_1694581746684_01-finance-stock-post-final-dynamic.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-finance-stock-post-final-dynamic",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_stkdata"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_HEoWJ_1694581746689_01-finance-stock-post-final-dynamic.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lH-aV_1694581746687_01-finance-stock-post-final-dynamic.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "12O8DpPY0Pf64_QMnbDBfdX",
+      "templateId": "12O8DpPY0Pf64_QMnbDBfdX"
+    },
     {
       "version": 1,
       "gifUrl": "",
