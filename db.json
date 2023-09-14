@@ -2969,7 +2969,19 @@
       "calculateValue":"-0.31%",
       "isDescending": "true",
       "fundHouse":"LIC Mutual Fund",
-      "date":"12-09-2023",
+      "date":"13-09-2023",
+      "time":"2PM IST"
+    },
+    {
+      "id": "7",
+      "title": "LIC MF Multi Cap Fund-Direct Growth",
+      "schemeName":"LIC MF Multi Cap Fund-Direct Growth",
+      "schemeType":"Open Ended Schemes",
+      "nav":"11.89440",
+      "calculateValue":"-0.16%",
+      "isDescending": "true",
+      "fundHouse":"LIC Mutual Fund",
+      "date":"13-09-2023",
       "time":"2PM IST"
     }
   ],
