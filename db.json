@@ -2907,6 +2907,7 @@
       "schemeType":"360 ONE Mutual Fund",
       "nav":"446.37000",
       "calculateValue":"-0.50 %",
+      "isDescending": true,
       "fundHouse":"ICICI Prudential Mutual Fund",
       "date":"12-09-2023",
       "time":"1PM IST"
@@ -2918,6 +2919,7 @@
       "schemeType":"Open Ended Schemes",
       "nav":"15.63010",
       "calculateValue":"-0.06%",
+      "isDescending": true,
       "fundHouse":"Tata Mutual Fund",
       "date":"12-09-2023",
       "time":"11AM IST"
@@ -2929,6 +2931,7 @@
       "schemeType":"Open Ended Schemes",
       "nav":"50.92160",
       "calculateValue":"0.29%",
+      "isDescending": false,
       "fundHouse":"L&T Mutual Fund",
       "date":"12-09-2023",
       "time":"10AM IST"
@@ -2940,6 +2943,7 @@
       "schemeType":"360 ONE Mutual Fund",
       "nav":"1354.75200",
       "calculateValue":"0.54%",
+      "isDescending": false,
       "fundHouse":"HDFC Mutual Fund",
       "date":"12-09-2023",
       "time":"12PM IST"
@@ -2951,6 +2955,7 @@
       "schemeType":"Open Ended Schemes",
       "nav":"12.50000",
       "calculateValue":"1.54%",
+      "isDescending": false,
       "fundHouse":"Aditya Birla Sun Life Mutual Fund",
       "date":"12-09-2023",
       "time":"2PM IST"
