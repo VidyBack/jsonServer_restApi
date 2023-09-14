@@ -3447,35 +3447,45 @@
       "schemeType":"360 ONE Mutual Fund",
       "nav":"446.37000",
       "calculateValue":"-0.50 %",
-      "fundHouse":"ICICI Prudential Mutual Fund"
+      "fundHouse":"ICICI Prudential Mutual Fund",
+      "date":"12-09-2023",
+      "time":"1PM IST"
     },
     {
       "schemeName":"TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option",
       "schemeType":"Open Ended Schemes",
       "nav":"15.63010",
       "calculateValue":"",
-      "fundHouse":"Tata Mutual Fund"
+      "fundHouse":"Tata Mutual Fund",
+      "date":"12-09-2023",
+      "time":"11AM IST"
     },
     {
       "schemeName":"L&T Mid Cap Fund-Regular Plan-IDCW",
       "schemeType":"Open Ended Schemes",
       "nav":"50.92160",
       "calculateValue":"",
-      "fundHouse":"L&T Mutual Fund"
+      "fundHouse":"L&T Mutual Fund",
+      "date":"12-09-2023",
+      "time":"10AM IST"
     },
     {
       "schemeName":"HDFC Flexi Cap Fund - Growth Plan",
       "schemeType":"360 ONE Mutual Fund",
       "nav":"1354.75200",
       "calculateValue":"",
-      "fundHouse":"HDFC Mutual Fund"
+      "fundHouse":"HDFC Mutual Fund",
+      "date":"12-09-2023",
+      "time":"12PM IST"
     },
     {
       "schemeName":"Aditya Birla Sun Life Frontline Equity Fund-Plan B",
       "schemeType":"Open Ended Schemes",
       "nav":"12.50000",
       "calculateValue":"",
-      "fundHouse":"Aditya Birla Sun Life Mutual Fund"
+      "fundHouse":"Aditya Birla Sun Life Mutual Fund",
+      "date":"12-09-2023",
+      "time":"2PM IST"
     }
   ],
   "TEMPLATES":[
