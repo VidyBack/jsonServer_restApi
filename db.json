@@ -7904,6 +7904,7 @@
       "volume": 0.4,
       "isMultipleTemplate": false,
       "previews": [],
+      "isToggleTemplate":true,
       "id": "LWm68w7m-vqTy9EQS9jZS",
       "templateId": "LWm68w7m-vqTy9EQS9jZS"
     },
@@ -82560,6 +82561,7 @@
               "volume": 0.4,
               "isMultipleTemplate": false,
               "previews": [],
+              "isToggleTemplate":true,
               "id": "LWm68w7m-vqTy9EQS9jZS",
               "templateId": "LWm68w7m-vqTy9EQS9jZS"
             },
