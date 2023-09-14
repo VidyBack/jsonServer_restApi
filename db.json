@@ -2967,6 +2967,8 @@
       "schemeType":"360 ONE Mutual Fund",
       "nav":"28.55140",
       "calculateValue":"-0.31%",
+      "isDescending": false,
+
       "fundHouse":"LIC Mutual Fund",
       "date":"12-09-2023",
       "time":"2PM IST"
