@@ -2898,293 +2898,65 @@
 
   
   ],
+ 
+  "MUTUALFUND":[
+    {
+      "id": 1,
+      "title": "ICICI Prudential FMCG Fund - Growth",
+      "schemeName":"ICICI Prudential FMCG Fund - Growth",
+      "schemeType":"360 ONE Mutual Fund",
+      "nav":"446.37000",
+      "calculateValue":"-0.50 %",
+      "fundHouse":"ICICI Prudential Mutual Fund",
+      "date":"12-09-2023",
+      "time":"1PM IST"
+    },
+    {
+      "id": 2,
+      "title": "TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option",
+      "schemeName":"TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option",
+      "schemeType":"Open Ended Schemes",
+      "nav":"15.63010",
+      "calculateValue":"-0.06%",
+      "fundHouse":"Tata Mutual Fund",
+      "date":"12-09-2023",
+      "time":"11AM IST"
+    },
+    {
+      "id": 3,
+      "title": "L&T Mid Cap Fund-Regular Plan-IDCW",
+      "schemeName":"L&T Mid Cap Fund-Regular Plan-IDCW",
+      "schemeType":"Open Ended Schemes",
+      "nav":"50.92160",
+      "calculateValue":"0.29%",
+      "fundHouse":"L&T Mutual Fund",
+      "date":"12-09-2023",
+      "time":"10AM IST"
+    },
+    {
+      "id": 4,
+      "title": "HDFC Flexi Cap Fund - Growth Plan",
+      "schemeName":"HDFC Flexi Cap Fund - Growth Plan",
+      "schemeType":"360 ONE Mutual Fund",
+      "nav":"1354.75200",
+      "calculateValue":"0.54%",
+      "fundHouse":"HDFC Mutual Fund",
+      "date":"12-09-2023",
+      "time":"12PM IST"
+    },
+    {
+      "id": 5,
+      "title": "Aditya Birla Sun Life Frontline Equity Fund-Plan B",
+      "schemeName":"Aditya Birla Sun Life Frontline Equity Fund-Plan B",
+      "schemeType":"Open Ended Schemes",
+      "nav":"12.50000",
+      "calculateValue":"1.54%",
+      "fundHouse":"Aditya Birla Sun Life Mutual Fund",
+      "date":"12-09-2023",
+      "time":"2PM IST"
+    }
+  ],
   "TEMPLATES_DEV":[
-    {
-      "id": "123bJgTMr_y2cUwNq8QvcqQ8",
-      "templateId": "123bJgTMr_y2cUwNq8QvcqQ8",
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7WrqO_1666164631737_mixkit-a-happy-child-532.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2023-09-11T13:05:01.636Z",
-      "extraComps": [
-        {
-          "index": 7,
-          "compId": "1688557660289_15-youtube-1920x1080"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_29jMW_1694436868378_01-product-rating-youtube.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Youtube Videos",
-      "name": "01-product-rating-youtube",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_pr"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wzycE_1694436868381_01-product-rating-youtube.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_AeEQ1_1694436868379_01-product-rating-youtube.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1920,
-      "height": 1080,
-      "width": 1920,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.3,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Accessories": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_r8-i4_1694437486135_01-product-rating-youtube-Accessories.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_96HUn_1694437489778_01-product-rating-youtube-Accessories.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Toys": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_VMOaE_1694437486137_01-product-rating-youtube-Toys.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qjELR_1694437489780_01-product-rating-youtube-Toys.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_KUdK0_1694437486138_01-product-rating-youtube-HealthFitness.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_whpVD_1694437489783_01-product-rating-youtube-HealthFitness.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FWxBx_1694437486140_01-product-rating-youtube-Perfumes.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kPVzz_1694437489785_01-product-rating-youtube-Perfumes.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_D6KrW_1694437486142_01-product-rating-youtube-BagPurse.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4fwPF_1694437489787_01-product-rating-youtube-BagPurse.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthBeauty": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JE8AX_1694437486143_01-product-rating-youtube-HealthBeauty.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vgP49_1694437489789_01-product-rating-youtube-HealthBeauty.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "MobileElec": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JIoEX_1694437486145_01-product-rating-youtube-MobileElec.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_sIrOg_1694437489791_01-product-rating-youtube-MobileElec.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Clothings": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_nLmA4_1694437486146_01-product-rating-youtube-Clothings.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2y9QH_1694437489793_01-product-rating-youtube-Clothings.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Footwear": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6pP8q_1694437486147_01-product-rating-youtube-Footwear.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_FNoEB_1694437489794_01-product-rating-youtube-Footwear.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jewellery": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SIGUc_1694437486148_01-product-rating-youtube-Jewellery.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Ia8iy_1694437489797_01-product-rating-youtube-Jewellery.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Wearables": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IjDLI_1694437486149_01-product-rating-youtube-Wearables.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rfNZv_1694437489799_01-product-rating-youtube-Wearables.mp4",
-            "promoHeading": ""
-          }
-        }
-      ]
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7WrqO_1666164631737_mixkit-a-happy-child-532.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2023-09-11T13:05:01.636Z",
-      "extraComps": [
-        {
-          "index": 7,
-          "compId": "1688557660289_15-youtube-1920x1080"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_29jMW_1694436868378_01-product-rating-youtube.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Youtube Videos",
-      "name": "01-product-rating-youtube",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_pr"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wzycE_1694436868381_01-product-rating-youtube.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_AeEQ1_1694436868379_01-product-rating-youtube.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1920,
-      "height": 1080,
-      "width": 1920,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.3,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Accessories": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_r8-i4_1694437486135_01-product-rating-youtube-Accessories.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_96HUn_1694437489778_01-product-rating-youtube-Accessories.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Toys": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_VMOaE_1694437486137_01-product-rating-youtube-Toys.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qjELR_1694437489780_01-product-rating-youtube-Toys.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_KUdK0_1694437486138_01-product-rating-youtube-HealthFitness.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_whpVD_1694437489783_01-product-rating-youtube-HealthFitness.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FWxBx_1694437486140_01-product-rating-youtube-Perfumes.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kPVzz_1694437489785_01-product-rating-youtube-Perfumes.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_D6KrW_1694437486142_01-product-rating-youtube-BagPurse.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4fwPF_1694437489787_01-product-rating-youtube-BagPurse.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthBeauty": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JE8AX_1694437486143_01-product-rating-youtube-HealthBeauty.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vgP49_1694437489789_01-product-rating-youtube-HealthBeauty.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "MobileElec": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JIoEX_1694437486145_01-product-rating-youtube-MobileElec.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_sIrOg_1694437489791_01-product-rating-youtube-MobileElec.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Clothings": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_nLmA4_1694437486146_01-product-rating-youtube-Clothings.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2y9QH_1694437489793_01-product-rating-youtube-Clothings.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Footwear": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6pP8q_1694437486147_01-product-rating-youtube-Footwear.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_FNoEB_1694437489794_01-product-rating-youtube-Footwear.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jewellery": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SIGUc_1694437486148_01-product-rating-youtube-Jewellery.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Ia8iy_1694437489797_01-product-rating-youtube-Jewellery.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Wearables": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IjDLI_1694437486149_01-product-rating-youtube-Wearables.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rfNZv_1694437489799_01-product-rating-youtube-Wearables.mp4",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "bJgTMr_y2cUwNq8QvcqQ8",
-      "templateId": "bJgTMr_y2cUwNq8QvcqQ8"
-    },
     {
       "version": 2,
       "gifUrl": "",
@@ -3440,66 +3212,7 @@
       "volume": 0.4,
       "isMultipleTemplate": false,
       "previews": []
-  }],
-  "MUTUALFUND":[
-    {
-      "id": 1,
-      "title": "ICICI Prudential FMCG Fund - Growth",
-      "schemeName":"ICICI Prudential FMCG Fund - Growth",
-      "schemeType":"360 ONE Mutual Fund",
-      "nav":"446.37000",
-      "calculateValue":"-0.50 %",
-      "fundHouse":"ICICI Prudential Mutual Fund",
-      "date":"12-09-2023",
-      "time":"1PM IST"
-    },
-    {
-      "id": 2,
-      "title": "TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option",
-      "schemeName":"TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option",
-      "schemeType":"Open Ended Schemes",
-      "nav":"15.63010",
-      "calculateValue":"-0.06%",
-      "fundHouse":"Tata Mutual Fund",
-      "date":"12-09-2023",
-      "time":"11AM IST"
-    },
-    {
-      "id": 3,
-      "title": "L&T Mid Cap Fund-Regular Plan-IDCW",
-      "schemeName":"L&T Mid Cap Fund-Regular Plan-IDCW",
-      "schemeType":"Open Ended Schemes",
-      "nav":"50.92160",
-      "calculateValue":"0.29%",
-      "fundHouse":"L&T Mutual Fund",
-      "date":"12-09-2023",
-      "time":"10AM IST"
-    },
-    {
-      "id": 4,
-      "title": "HDFC Flexi Cap Fund - Growth Plan",
-      "schemeName":"HDFC Flexi Cap Fund - Growth Plan",
-      "schemeType":"360 ONE Mutual Fund",
-      "nav":"1354.75200",
-      "calculateValue":"0.54%",
-      "fundHouse":"HDFC Mutual Fund",
-      "date":"12-09-2023",
-      "time":"12PM IST"
-    },
-    {
-      "id": 5,
-      "title": "Aditya Birla Sun Life Frontline Equity Fund-Plan B",
-      "schemeName":"Aditya Birla Sun Life Frontline Equity Fund-Plan B",
-      "schemeType":"Open Ended Schemes",
-      "nav":"12.50000",
-      "calculateValue":"1.54%",
-      "fundHouse":"Aditya Birla Sun Life Mutual Fund",
-      "date":"12-09-2023",
-      "time":"2PM IST"
-    }
-  ],
-  "TEMPLATES":[
-    
+  },
     {
       "version": 1,
       "gifUrl": "",
@@ -83369,6 +83082,7 @@
               ]
             }
           ]
+
         }
           
       
