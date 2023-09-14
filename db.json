@@ -2983,7 +2983,20 @@
       "fundHouse":"LIC Mutual Fund",
       "date":"13-09-2023",
       "time":"2PM IST"
+    },
+    {
+      "id": "8",
+      "title": "LIC NOMURA MF SYSTEMATIC ASSET ALLOCATION FUND - GROWTH OPTION",
+      "schemeName":"LIC NOMURA MF SYSTEMATIC ASSET ALLOCATION FUND - GROWTH OPTION",
+      "schemeType":"Open Ended Schemes",
+      "nav":"10.25330",
+      "calculateValue":"0.49%",
+      "isDescending": "true",
+      "fundHouse":"LIC Mutual Fund",
+      "date":"13-09-2023",
+      "time":"2PM IST"
     }
+
   ],
   "TEMPLATES_DEV":[
     {"id": "DpPY0Pf64_1MnbDBfdXa",
