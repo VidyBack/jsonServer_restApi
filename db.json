@@ -2901,56 +2901,61 @@
  
   "MUTUALFUND":[
     {
-      "id": 1,
+      "id": "1",
       "title": "ICICI Prudential FMCG Fund - Growth",
       "schemeName":"ICICI Prudential FMCG Fund - Growth",
       "schemeType":"360 ONE Mutual Fund",
       "nav":"446.37000",
       "calculateValue":"-0.50 %",
+      "isDescending": true,
       "fundHouse":"ICICI Prudential Mutual Fund",
       "date":"12-09-2023",
       "time":"1PM IST"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option",
       "schemeName":"TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option",
       "schemeType":"Open Ended Schemes",
       "nav":"15.63010",
       "calculateValue":"-0.06%",
+      "isDescending": true,
       "fundHouse":"Tata Mutual Fund",
       "date":"12-09-2023",
       "time":"11AM IST"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "L&T Mid Cap Fund-Regular Plan-IDCW",
       "schemeName":"L&T Mid Cap Fund-Regular Plan-IDCW",
       "schemeType":"Open Ended Schemes",
       "nav":"50.92160",
       "calculateValue":"0.29%",
+      "isDescending": false,
       "fundHouse":"L&T Mutual Fund",
       "date":"12-09-2023",
       "time":"10AM IST"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "HDFC Flexi Cap Fund - Growth Plan",
       "schemeName":"HDFC Flexi Cap Fund - Growth Plan",
       "schemeType":"360 ONE Mutual Fund",
       "nav":"1354.75200",
       "calculateValue":"0.54%",
+      "isDescending": false,
       "fundHouse":"HDFC Mutual Fund",
       "date":"12-09-2023",
       "time":"12PM IST"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Aditya Birla Sun Life Frontline Equity Fund-Plan B",
       "schemeName":"Aditya Birla Sun Life Frontline Equity Fund-Plan B",
       "schemeType":"Open Ended Schemes",
       "nav":"12.50000",
       "calculateValue":"1.54%",
+      "isDescending": false,
       "fundHouse":"Aditya Birla Sun Life Mutual Fund",
       "date":"12-09-2023",
       "time":"2PM IST"
@@ -2968,6 +2973,10 @@
     }
   ],
   "TEMPLATES_DEV":[
+    {"id": "DpPY0Pf64_1MnbDBfdXa",
+    "templateId": "DpPY0Pf64_1MnbDBfdXa","version":2,"gifUrl":"","bgVideoUrl":[""],"fontUrl":[""],"bgImageUrl":[""],"bgMusicUrl":"https://cdn.hootout.com/VidyBack-videos/vbe_Vkuvn_1663651998875_mixkit-no-violence-337.mp3","fillEnabled":true,"forWebsites":[],"pro":false,"createdOn":"2023-09-14T11:18:05.681Z","extraComps":[],"widgetsDefinition":[{"mappingKeyMandatory":false,"Height":"100%","Width":"100%","StartTime":0,"EndTime":-1,"URLS":[],"mappingKeyValue":"","URL":"https://cdn.hootout.com/VidyBack-videos/vbe_Lobb6_1694690282671_01-mutual-funds-story.json","X":"0.0%","Y":"0.0%","type":"SVG_SINGLE","duration":10}],"type":"Instagram Stories","name":"01-mutual-funds-story","brandEnabled":false,"brandType":"X1","category":["p_mfdata"],"vidUrl":"https://cdn.hootout.com/VidyBack-videos/vbe_jpSpJ_1694690282675_01-mutual-funds-story.mp4","thumbUrl":"https://cdn.hootout.com/VidyBack-videos/vbe_qfPAb_1694690282672_01-mutual-funds-story.jpg","imageType":"Instagram Stories","outroType":null,"introType":null,"Height":1920,"Width":1080,"height":1920,"width":1080,"introId":null,"outroId":null,"isTransparent":false,"AddId":"","volume":0.5,"isMultipleTemplate":false,"previews":[]},
+    {"id": "DpPY0Pf64_1MnbDBfdX123",
+    "templateId": "DpPY0Pf64_1MnbDBfdX123","version":2,"gifUrl":"","bgVideoUrl":[""],"fontUrl":[""],"bgImageUrl":[""],"bgMusicUrl":"https://cdn.hootout.com/VidyBack-videos/vbe_Vkuvn_1663651998875_mixkit-no-violence-337.mp3","fillEnabled":true,"forWebsites":[],"pro":false,"createdOn":"2023-09-14T10:44:35.906Z","extraComps":[],"widgetsDefinition":[{"mappingKeyMandatory":false,"Height":"100%","Width":"100%","StartTime":0,"EndTime":-1,"URLS":[],"mappingKeyValue":"","URL":"https://cdn.hootout.com/VidyBack-videos/vbe_CdWgG_1694688271107_01-mutual-funds-story.json","X":"0.0%","Y":"0.0%","type":"SVG_SINGLE","duration":10}],"type":"Instagram Stories","name":"01-mutual-funds-story","brandEnabled":false,"brandType":"X1","category":["p_mfdata"],"vidUrl":"https://cdn.hootout.com/VidyBack-videos/vbe_ImWFW_1694688271112_01-mutual-funds-story.mp4","thumbUrl":"https://cdn.hootout.com/VidyBack-videos/vbe_8v2wW_1694688271110_01-mutual-funds-story.jpg","imageType":"Instagram Stories","outroType":null,"introType":null,"Height":1920,"Width":1080,"height":1920,"width":1080,"introId":null,"outroId":null,"isTransparent":false,"AddId":"","volume":0.5,"isMultipleTemplate":false,"previews":[]},
     {
       "version": 2,
       "gifUrl": "",
