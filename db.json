@@ -2901,7 +2901,7 @@
  
   "MUTUALFUND":[
     {
-      "id": 1,
+      "id": "1",
       "title": "ICICI Prudential FMCG Fund - Growth",
       "schemeName":"ICICI Prudential FMCG Fund - Growth",
       "schemeType":"360 ONE Mutual Fund",
@@ -2912,7 +2912,7 @@
       "time":"1PM IST"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option",
       "schemeName":"TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option",
       "schemeType":"Open Ended Schemes",
@@ -2923,7 +2923,7 @@
       "time":"11AM IST"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "L&T Mid Cap Fund-Regular Plan-IDCW",
       "schemeName":"L&T Mid Cap Fund-Regular Plan-IDCW",
       "schemeType":"Open Ended Schemes",
@@ -2934,7 +2934,7 @@
       "time":"10AM IST"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "HDFC Flexi Cap Fund - Growth Plan",
       "schemeName":"HDFC Flexi Cap Fund - Growth Plan",
       "schemeType":"360 ONE Mutual Fund",
@@ -2945,7 +2945,7 @@
       "time":"12PM IST"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Aditya Birla Sun Life Frontline Equity Fund-Plan B",
       "schemeName":"Aditya Birla Sun Life Frontline Equity Fund-Plan B",
       "schemeType":"Open Ended Schemes",
