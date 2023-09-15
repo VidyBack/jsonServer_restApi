@@ -2998,6 +2998,46 @@
     }
 
   ],
+  "TOPGAINERS":[
+    {
+      "id":"1",
+      "title":"HDFC",
+      "companyName":"HDFC",
+      "lastPrice":"1171.05",
+      "calculatedValue":"3.88%",
+      "date":"15-09-2023",
+      "time":"11AM IST"
+    },
+    {
+      "id":"2",
+      "title":"LT",
+      "companyName":"LT",
+      "lastPrice":"1537.0",
+      "calculatedValue":"2.36%",
+      "date":"15-09-2023",
+      "time":"12PM IST"
+    }
+  ],
+  "TOPLOSERS":[
+    {
+      "id":"1",
+      "title":"BPCL",
+      "companyName":"BPCL",
+      "lastPrice":"646.75",
+      "calculatedValue":"-0.63%",
+      "date":"15-09-2023",
+      "time":"11AM IST"
+    },
+    {
+      "id":"2",
+      "title":"HINDUNILVR",
+      "companyName":"HINDUNILVR",
+      "lastPrice":"757.05",
+      "calculatedValue":"0.006%",
+      "date":"15-09-2023",
+      "time":"12PM IST"
+    }
+  ],
   "TEMPLATES_DEV":[
     {
       "id": "DpPY0Pf64_1MnbDBfdaa",
