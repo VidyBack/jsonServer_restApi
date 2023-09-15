@@ -3228,7 +3228,7 @@
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
-          "p_stkdata"
+          "p_tgtldata"
       ],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_U4mFS_1694775420855_01-topgainer-finance-post.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Kqwra_1694775420852_01-topgainer-finance-post.jpg",
@@ -3290,7 +3290,7 @@
     "brandEnabled": false,
     "brandType": "X1",
     "category": [
-        "p_stkdata"
+        "p_tgtldata"
     ],
     "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_blN_o_1694782979057_01-topgainer-finance-post-updated.mp4",
     "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LgZ8K_1694782979055_01-topgainer-finance-post-updated.jpg",
@@ -3581,6 +3581,271 @@
         }
     ]
 },
+{
+  "version": 1,
+  "gifUrl": "",
+  "bgVideoUrl": [
+    ""
+  ],
+  "fontUrl": [
+    ""
+  ],
+  "bgImageUrl": [
+    ""
+  ],
+  "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ep7mP_1685442288659_mixkit-classical-4-711.mp3",
+  "fillEnabled": true,
+  "forWebsites": [],
+  "pro": false,
+  "createdOn": "2023-09-12T08:32:08.263Z",
+  "extraComps": [
+    {
+      "index": 4,
+      "compId": "1666868563760_15-BrandOutro-Story"
+    }
+  ],
+  "widgetsDefinition": [
+    {
+      "mappingKeyMandatory": false,
+      "Height": "100%",
+      "Width": "100%",
+      "StartTime": 0,
+      "EndTime": -1,
+      "URLS": [],
+      "mappingKeyValue": "",
+      "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ZmMf2_1694507221601_18-display-ads-story.json",
+      "X": "0.0%",
+      "Y": "0.0%",
+      "type": "SVG_SINGLE",
+      "duration": 10
+    }
+  ],
+  "type": "Instagram Stories",
+  "name": "18-display-ads-story",
+  "brandEnabled": false,
+  "brandType": "X1",
+  "category": [
+    "p_ps"
+  ],
+  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_HV6cx_1694507221605_18-display-ads-story.mp4",
+  "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_BWFkr_1694507221602_18-display-ads-story.jpg",
+  "imageType": "Instagram Stories",
+  "outroType": null,
+  "introType": null,
+  "Height": 1920,
+  "Width": 1080,
+  "height": 1920,
+  "width": 1080,
+  "introId": null,
+  "outroId": null,
+  "isTransparent": false,
+  "AddId": "",
+  "volume": 0.5,
+  "isMultipleTemplate": false,
+  "previews": [
+    {
+      "Perfumes": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_35e1J_1694507518872_18-display-ads-story-Perfumes.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_aAasI_1694507523633_18-display-ads-story-Perfumes.mp4",
+        "promoHeading": ""
+      }
+    },
+    {
+      "BagPurse": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QJEKt_1694507518873_18-display-ads-story-BagPurse.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jDF7z_1694507523635_18-display-ads-story-BagPurse.mp4",
+        "promoHeading": ""
+      }
+    },
+    {
+      "Furniture": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_AUlAh_1694507518875_18-display-ads-story-Furniture.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_sFvId_1694507523636_18-display-ads-story-Furniture.mp4",
+        "promoHeading": ""
+      }
+    },
+    {
+      "Footwear": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rp_K6_1694507518876_18-display-ads-story-Footwear.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_OO2P4_1694507523638_18-display-ads-story-Footwear.mp4",
+        "promoHeading": ""
+      }
+    },
+    {
+      "Jewellery": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_AZ7r6_1694507518878_18-display-ads-story-Jewellery.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QvTUV_1694507523641_18-display-ads-story-Jewellery.mp4",
+        "promoHeading": ""
+      }
+    },
+    {
+      "Electronics": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ceMg-_1694507518879_18-display-ads-story-Electronics.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_OqGOk_1694507523644_18-display-ads-story-Electronics.mp4",
+        "promoHeading": ""
+      }
+    },
+    {
+      "Wearables": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_BrAH7_1694507518880_18-display-ads-story-Wearables.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_reEYE_1694507523645_18-display-ads-story-Wearables.mp4",
+        "promoHeading": ""
+      }
+    },
+    {
+      "HomeDecor": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FjrLA_1694507518882_18-display-ads-story-HomeDecor.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HWG38_1694507523647_18-display-ads-story-HomeDecor.mp4",
+        "promoHeading": ""
+      }
+    }
+  ],
+  "id": "ioofYxkDb_VF5G27HHP3u",
+  "templateId": "ioofYxkDb_VF5G27HHP3u"
+},
+{
+  "version": 1,
+  "gifUrl": "",
+  "bgVideoUrl": [
+    ""
+  ],
+  "fontUrl": [
+    ""
+  ],
+  "bgImageUrl": [
+    ""
+  ],
+  "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6PfGw_1674197085363_Summer Uplifting Dance (Full).mp3",
+  "fillEnabled": true,
+  "forWebsites": [],
+  "pro": true,
+  "createdOn": "2023-09-09T10:25:59.836Z",
+  "extraComps": [
+    {
+      "index": 7,
+      "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+    }
+  ],
+  "widgetsDefinition": [
+    {
+      "mappingKeyMandatory": false,
+      "Height": "100%",
+      "Width": "100%",
+      "StartTime": 0,
+      "EndTime": -1,
+      "URLS": [],
+      "mappingKeyValue": "",
+      "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Wkwna_1694254809001_06-display-ads-15-02-2023.json",
+      "X": "0.0%",
+      "Y": "0.0%",
+      "type": "SVG_SINGLE",
+      "duration": 10
+    }
+  ],
+  "type": "Instagram Posts",
+  "name": "06-display-ads-15-02-2023",
+  "brandEnabled": false,
+  "brandType": "X1",
+  "category": [
+    "p_ps"
+  ],
+  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GhNOv_1694254809014_06-display-ads-15-02-2023.mp4",
+  "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QLVzE_1694254809012_06-display-ads-15-02-2023.jpg",
+  "imageType": "Instagram Posts",
+  "outroType": null,
+  "introType": null,
+  "Height": 1080,
+  "Width": 1080,
+  "height": 1080,
+  "width": 1080,
+  "introId": null,
+  "outroId": null,
+  "isTransparent": false,
+  "AddId": "",
+  "volume": 0.3,
+  "isMultipleTemplate": false,
+  "previews": [
+    {
+      "Accessories": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vFl4j_1694255149283_06-display-ads-15-02-2023-Accessories.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CTX-__1694255153018_06-display-ads-15-02-2023-Accessories.mp4",
+        "promoHeading": ""
+      }
+    },
+    {
+      "Toys": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8GfW7_1694255149285_06-display-ads-15-02-2023-Toys.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_bdQKC_1694255153022_06-display-ads-15-02-2023-Toys.mp4",
+        "promoHeading": ""
+      }
+    },
+    {
+      "HealthFitness": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_VV1Z8_1694255149287_06-display-ads-15-02-2023-HealthFitness.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Kenz2_1694255153027_06-display-ads-15-02-2023-HealthFitness.mp4",
+        "promoHeading": ""
+      }
+    },
+    {
+      "Perfumes": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_EUIfL_1694255149303_06-display-ads-15-02-2023-Perfumes.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tT_iP_1694255153028_06-display-ads-15-02-2023-Perfumes.mp4",
+        "promoHeading": ""
+      }
+    },
+    {
+      "BagPurse": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jU1fT_1694255149306_06-display-ads-15-02-2023-BagPurse.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_NTdax_1694255153030_06-display-ads-15-02-2023-BagPurse.mp4",
+        "promoHeading": ""
+      }
+    },
+    {
+      "HealthBeauty": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SsBFX_1694255149308_06-display-ads-15-02-2023-HealthBeauty.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8lPY4_1694255153032_06-display-ads-15-02-2023-HealthBeauty.mp4",
+        "promoHeading": ""
+      }
+    },
+    {
+      "MobileElec": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wQqJt_1694255149309_06-display-ads-15-02-2023-MobileElec.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_uKOCD_1694255153033_06-display-ads-15-02-2023-MobileElec.mp4",
+        "promoHeading": ""
+      }
+    },
+    {
+      "Footwear": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_YXt5s_1694255149312_06-display-ads-15-02-2023-Footwear.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vG-YN_1694255153035_06-display-ads-15-02-2023-Footwear.mp4",
+        "promoHeading": ""
+      }
+    },
+    {
+      "Jewellery": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_YBrzT_1694255149314_06-display-ads-15-02-2023-Jewellery.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_pNWMZ_1694255153036_06-display-ads-15-02-2023-Jewellery.mp4",
+        "promoHeading": ""
+      }
+    },
+    {
+      "Wearables": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_XERi3_1694255149316_06-display-ads-15-02-2023-Wearables.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_wwTDv_1694255153038_06-display-ads-15-02-2023-Wearables.mp4",
+        "promoHeading": ""
+      }
+    },
+    {
+      "HomeDecor": {
+        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Fzp-2_1694255149332_06-display-ads-15-02-2023-HomeDecor.jpg",
+        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0Gwu8_1694255153040_06-display-ads-15-02-2023-HomeDecor.mp4",
+        "promoHeading": ""
+      }
+    }
+  ],
+  "id": "o4WhBZCjr9ZCEvq3ip-Ad",
+  "templateId": "o4WhBZCjr9ZCEvq3ip-Ad"
+},
   {
     "id": "qwer_1MnbDBfdaa1x",
   "templateId": "qwer_1MnbDBfdaa1x",
@@ -3622,7 +3887,7 @@
     "brandEnabled": false,
     "brandType": "X1",
     "category": [
-        "p_stkdata"
+        "p_tgtldata"
     ],
     "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_O0UZ4_1694780311403_01-topgainer-finance-post-updated.mp4",
     "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_NFBxe_1694780311401_01-topgainer-finance-post-updated.jpg",
@@ -3682,7 +3947,7 @@
     "brandEnabled": false,
     "brandType": "X1",
     "category": [
-        "p_stkdata"
+        "p_tgtldata"
     ],
     "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_gcjM4_1694779296210_01-topgainer-finance-post-updated.mp4",
     "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_zBL5-_1694779296208_01-topgainer-finance-post-updated.jpg",
