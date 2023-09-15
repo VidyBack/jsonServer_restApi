@@ -3029,10 +3029,7 @@
   "TOPLOSERS":[
     {
       "id":"1",
-<<<<<<< HEAD
       "promoHeading":"TOP LOSERS",
-=======
->>>>>>> ea0ed980574d58503d87f3992f4691c07d10dca7
       "replaceableText":"TOP LOSERS",
       "title":"BPCL",
       "companyName":"NIFTY 50",
@@ -3044,10 +3041,7 @@
     },
     {
       "id":"2",
-<<<<<<< HEAD
       "promoHeading":"TOP LOSERS",
-=======
->>>>>>> ea0ed980574d58503d87f3992f4691c07d10dca7
       "replaceableText":"TOP LOSERS",
       "title":"HINDUNILVR",
       "companyName":"NIFTY 50",
