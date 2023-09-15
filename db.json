@@ -3002,7 +3002,7 @@
     {
       "id":"1",
       "promoHeading":"TOP GAINERS",
-      "replaceableText":"TOP GAINERS",
+      "headerName":"TOP GAINERS",
       "title":"Bajaj Auto Ltd.",
       "companyName":"NIFTY 50",
       "symbol":"Bajaj Auto Ltd.",
