@@ -3006,6 +3006,7 @@
       "symbol":"HDFC",
       "lastPrice":"1171.05",
       "calculateValue":"3.88%",
+      "isDescending": "false",
       "date":"15-09-2023"
       
     },
@@ -3015,6 +3016,7 @@
       "companyName":"NIFTY 50",
       "symbol":"LT",
       "lastPrice":"1537.0",
+      "isDescending": "false",
       "calculateValue":"2.36%",
       "date":"15-09-2023"
       
@@ -3028,7 +3030,8 @@
       "symbol":"BPCL",
       "lastPrice":"646.75",
       "calculateValue":"-0.63%",
-      "date":"15-09-2023"
+      "date":"15-09-2023",
+      "isDescending": "true"
     },
     {
       "id":"2",
@@ -3036,8 +3039,9 @@
       "companyName":"NIFTY 50",
       "symbol":"HINDUNILVR",
       "lastPrice":"757.05",
-      "calculateValue":"0.006%",
-      "date":"15-09-2023"
+      "calculateValue":"-0.006%",
+      "date":"15-09-2023",
+      "isDescending": "true"
     }
   ],
   "TEMPLATES_DEV":[
