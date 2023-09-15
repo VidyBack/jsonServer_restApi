@@ -3002,7 +3002,7 @@
     {
       "id":"1",
       "promoHeading":"TOP GAINERS",
-      "replaceableText":"TOP GAINERS",
+      "headerName":"TOP GAINERS",
       "title":"HDFC",
       "companyName":"NIFTY 50",
       "symbol":"HDFC",
@@ -3015,7 +3015,7 @@
     {
       "id":"2",
       "promoHeading":"TOP GAINERS",
-      "replaceableText":"TOP GAINERS",
+      "headerName":"TOP GAINERS",
       "title":"LT",
       "companyName":"NIFTY 50",
       "symbol":"LT",
@@ -3030,7 +3030,7 @@
     {
       "id":"1",
       "promoHeading":"TOP LOSERS",
-      "replaceableText":"TOP LOSERS",
+      "headerName":"TOP LOSERS",
       "title":"BPCL",
       "companyName":"NIFTY 50",
       "symbol":"BPCL",
@@ -3042,7 +3042,7 @@
     {
       "id":"2",
       "promoHeading":"TOP LOSERS",
-      "replaceableText":"TOP LOSERS",
+      "headerName":"TOP LOSERS",
       "title":"HINDUNILVR",
       "companyName":"NIFTY 50",
       "symbol":"HINDUNILVR",
