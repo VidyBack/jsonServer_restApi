@@ -3001,8 +3001,8 @@
   "TOPGAINERS":[
     {
       "id":"1",
-      "title":"Nifty50",
-      "companyName":"HDFC",
+      "title":"HDFC",
+      "companyName":"NIFTY 50",
       "symbol ":"HDFC",
       "lastPrice":"1171.05",
       "calculatedValue":"3.88%",
@@ -3011,8 +3011,8 @@
     },
     {
       "id":"2",
-      "title":"Nifty50",
-      "companyName":"LT",
+      "title":"L&T",
+      "companyName":"NIFTY 50",
       "symbol ":"LT",
       "lastPrice":"1537.0",
       "calculatedValue":"2.36%",
@@ -3023,8 +3023,8 @@
   "TOPLOSERS":[
     {
       "id":"1",
-      "title":"Nifty50",
-      "companyName":"BPCL",
+      "title":"BPCL",
+      "companyName":"NIFTY 50",
       "symbol":"BPCL",
       "lastPrice":"646.75",
       "calculatedValue":"-0.63%",
@@ -3032,8 +3032,8 @@
     },
     {
       "id":"2",
-      "title":"Nifty50",
-      "companyName":"HINDUNILVR",
+      "title":"HINDUNILVR",
+      "companyName":"NIFTY 50",
       "symbol ":"HINDUNILVR",
       "lastPrice":"757.05",
       "calculatedValue":"0.006%",
