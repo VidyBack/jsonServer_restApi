@@ -3001,6 +3001,7 @@
   "TOPGAINERS":[
     {
       "id":"1",
+      "promoHeading":"Top Gainer",
       "title":"HDFC",
       "companyName":"NIFTY 50",
       "symbol":"HDFC",
@@ -3012,6 +3013,8 @@
     },
     {
       "id":"2",
+      "promoHeading":"Top Gainer",
+
       "title":"LT",
       "companyName":"NIFTY 50",
       "symbol":"LT",
@@ -3025,6 +3028,7 @@
   "TOPLOSERS":[
     {
       "id":"1",
+      "promoHeading":"Top Loser",
       "title":"BPCL",
       "companyName":"NIFTY 50",
       "symbol":"BPCL",
@@ -3035,6 +3039,7 @@
     },
     {
       "id":"2",
+      "promoHeading":"Top Loser",
       "title":"HINDUNILVR",
       "companyName":"NIFTY 50",
       "symbol":"HINDUNILVR",
