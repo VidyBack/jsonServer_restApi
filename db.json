@@ -3003,6 +3003,19 @@
       "id":"1",
       "promoHeading":"TOP GAINERS",
       "replaceableText":"TOP GAINERS",
+      "title":"Bajaj Auto Ltd.",
+      "companyName":"NIFTY 50",
+      "symbol":"Bajaj Auto Ltd.",
+      "lastPrice":"5,130.50",
+      "isDescending": "false",
+      "calculateValue":"5.90%",
+      "date":"15-09-2023"
+      
+    },
+    {
+      "id":"2",
+      "promoHeading":"TOP GAINERS",
+      "replaceableText":"TOP GAINERS",
       "title":"HDFC",
       "companyName":"NIFTY 50",
       "symbol":"HDFC",
@@ -3013,7 +3026,7 @@
       
     },
     {
-      "id":"2",
+      "id":"3",
       "promoHeading":"TOP GAINERS",
       "replaceableText":"TOP GAINERS",
       "title":"LT",
@@ -3025,6 +3038,7 @@
       "date":"15-09-2023"
       
     }
+    
   ],
   "TOPLOSERS":[
     {
