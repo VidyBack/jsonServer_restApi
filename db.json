@@ -3002,6 +3002,7 @@
     {
       "id":"1",
       "promoHeading":"TOP GAINERS",
+      "replaceableText":"TOP GAINERS",
       "title":"HDFC",
       "companyName":"NIFTY 50",
       "symbol":"HDFC",
@@ -3014,6 +3015,7 @@
     {
       "id":"2",
       "promoHeading":"TOP GAINERS",
+      "replaceableText":"TOP GAINERS",
       "title":"LT",
       "companyName":"NIFTY 50",
       "symbol":"LT",
@@ -3028,6 +3030,7 @@
     {
       "id":"1",
       "promoHeading":"TOP LOSERS",
+      "replaceableText":"TOP LOSERS",
       "title":"BPCL",
       "companyName":"NIFTY 50",
       "symbol":"BPCL",
@@ -3039,6 +3042,7 @@
     {
       "id":"2",
       "promoHeading":"TOP LOSERS",
+      "replaceableText":"TOP LOSERS",
       "title":"HINDUNILVR",
       "companyName":"NIFTY 50",
       "symbol":"HINDUNILVR",
@@ -3109,6 +3113,66 @@
       "id": "DpPY0Pf64_1MnbDBfdaa1x",
     "templateId": "DpPY0Pf64_1MnbDBfdaa1x"
   },
+  {
+    "id": "qwer_1MnbDBfdaa1x",
+  "templateId": "qwer_1MnbDBfdaa1x",
+    "version": 2,
+    "gifUrl": "",
+    "bgVideoUrl": [
+        ""
+    ],
+    "fontUrl": [
+        ""
+    ],
+    "bgImageUrl": [
+        ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ewW6a_1666164968190_mixkit-fight-till-the-end-81.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2023-09-15T12:18:33.818Z",
+    "extraComps": [],
+    "widgetsDefinition": [
+        {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_8jxyy_1694780311399_01-topgainer-finance-post-updated.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+        }
+    ],
+    "type": "Instagram Posts",
+    "name": "01-topgainer-finance-post-updated",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+        "p_stkdata"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_O0UZ4_1694780311403_01-topgainer-finance-post-updated.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_NFBxe_1694780311401_01-topgainer-finance-post-updated.jpg",
+    "imageType": "Instagram Posts",
+    "outroType": null,
+    "introType": null,
+    "Height": 1080,
+    "Width": 1080,
+    "height": 1080,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "volume": 0.3,
+    "isMultipleTemplate": false,
+    "previews": []
+},
   {
     "id": "12DpPY0Pf64_1MnbDBfdaa1x",
   "templateId": "12DpPY0Pf64_1MnbDBfdaa1x",
