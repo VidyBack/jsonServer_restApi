@@ -3061,7 +3061,7 @@
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2023-09-15T10:43:52.603Z",
+      "createdOn": "2023-09-15T10:57:03.295Z",
       "extraComps": [],
       "widgetsDefinition": [
           {
@@ -3072,7 +3072,7 @@
               "EndTime": -1,
               "URLS": [],
               "mappingKeyValue": "",
-              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ZUgAh_1694774630160_01-topgainer-finance-post.json",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Pf1_T_1694775420849_01-topgainer-finance-post.json",
               "X": "0.0%",
               "Y": "0.0%",
               "type": "SVG_SINGLE",
@@ -3086,8 +3086,8 @@
       "category": [
           "p_stkdata"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wZT2z_1694774630164_01-topgainer-finance-post.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_EYtKs_1694774630162_01-topgainer-finance-post.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_U4mFS_1694775420855_01-topgainer-finance-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Kqwra_1694775420852_01-topgainer-finance-post.jpg",
       "imageType": "Instagram Posts",
       "outroType": null,
       "introType": null,
@@ -3099,7 +3099,7 @@
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "volume": 0.4,
+      "volume": 0.5,
       "isMultipleTemplate": false,
       "previews": [],
       "id": "DpPY0Pf64_1MnbDBfdaa1x",
