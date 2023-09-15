@@ -3029,7 +3029,10 @@
   "TOPLOSERS":[
     {
       "id":"1",
+<<<<<<< HEAD
       "promoHeading":"TOP LOSERS",
+=======
+>>>>>>> ea0ed980574d58503d87f3992f4691c07d10dca7
       "replaceableText":"TOP LOSERS",
       "title":"BPCL",
       "companyName":"NIFTY 50",
@@ -3041,7 +3044,10 @@
     },
     {
       "id":"2",
+<<<<<<< HEAD
       "promoHeading":"TOP LOSERS",
+=======
+>>>>>>> ea0ed980574d58503d87f3992f4691c07d10dca7
       "replaceableText":"TOP LOSERS",
       "title":"HINDUNILVR",
       "companyName":"NIFTY 50",
@@ -3113,6 +3119,66 @@
       "id": "DpPY0Pf64_1MnbDBfdaa1x",
     "templateId": "DpPY0Pf64_1MnbDBfdaa1x"
   },
+  {
+    "id": "12DpPY0Pf64_1MnbDBfdaa1x",
+  "templateId": "12DpPY0Pf64_1MnbDBfdaa1x",
+    "version": 2,
+    "gifUrl": "",
+    "bgVideoUrl": [
+        ""
+    ],
+    "fontUrl": [
+        ""
+    ],
+    "bgImageUrl": [
+        ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ewW6a_1666164968190_mixkit-fight-till-the-end-81.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2023-09-15T12:01:40.094Z",
+    "extraComps": [],
+    "widgetsDefinition": [
+        {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_SplEP_1694779296206_01-topgainer-finance-post-updated.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+        }
+    ],
+    "type": "Instagram Posts",
+    "name": "01-topgainer-finance-post-updated",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+        "p_stkdata"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_gcjM4_1694779296210_01-topgainer-finance-post-updated.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_zBL5-_1694779296208_01-topgainer-finance-post-updated.jpg",
+    "imageType": "Instagram Posts",
+    "outroType": null,
+    "introType": null,
+    "Height": 1080,
+    "Width": 1080,
+    "height": 1080,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "volume": 0.3,
+    "isMultipleTemplate": false,
+    "previews": []
+},
     {
       "version": 1,
       "gifUrl": "",
