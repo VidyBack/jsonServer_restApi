@@ -3042,6 +3042,142 @@
   ],
   "TEMPLATES_DEV":[
     {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+          ""
+      ],
+      "fontUrl": [
+          ""
+      ],
+      "bgImageUrl": [
+          ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XEFrW_1663651653306_mixkit-its-love-834.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-09-15T09:31:47.755Z",
+      "extraComps": [
+          {
+              "index": 4,
+              "compId": "1669380914434_18-BrandOutro-4-5-version-1"
+          }
+      ],
+      "widgetsDefinition": [
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_iwMM9_1694770030604_10-most-popular-portrait.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
+      ],
+      "type": "Post 4:5",
+      "name": "10-most-popular-portrait",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+          "p_mp"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_P0ZAm_1694770030653_10-most-popular-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_cpBmo_1694770030610_10-most-popular-portrait.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "isMultipleTemplate": false,
+      "previews": [
+          {
+              "Accessories": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_4ErBM_1694770292682_10-most-popular-portrait-Accessories.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IT5Nw_1694770299935_10-most-popular-portrait-Accessories.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Toys": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_u4cJF_1694770292684_10-most-popular-portrait-Toys.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_EeEKb_1694770299936_10-most-popular-portrait-Toys.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HealthFitness": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OZvmI_1694770292685_10-most-popular-portrait-HealthFitness.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qJmfP_1694770299938_10-most-popular-portrait-HealthFitness.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Perfumes": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_2uygr_1694770292686_10-most-popular-portrait-Perfumes.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_wo9N1_1694770299939_10-most-popular-portrait-Perfumes.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "BagPurse": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_55VXK_1694770292687_10-most-popular-portrait-BagPurse.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0dJ1e_1694770299941_10-most-popular-portrait-BagPurse.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HealthBeauty": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_VlAOK_1694770292689_10-most-popular-portrait-HealthBeauty.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-ocJb_1694770299943_10-most-popular-portrait-HealthBeauty.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "MobileElec": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_flsLf_1694770292690_10-most-popular-portrait-MobileElec.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_S_f6W_1694770299945_10-most-popular-portrait-MobileElec.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Clothings": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_fYGNA_1694770292691_10-most-popular-portrait-Clothings.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HkMx5_1694770299947_10-most-popular-portrait-Clothings.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Jewellery": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_gjFsB_1694770292692_10-most-popular-portrait-Jewellery.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_9XOJN_1694770299949_10-most-popular-portrait-Jewellery.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Wearables": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_F-GFw_1694770292694_10-most-popular-portrait-Wearables.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_71KJP_1694770299977_10-most-popular-portrait-Wearables.mp4",
+                  "promoHeading": ""
+              }
+          }
+      ],
+      "id": "DpPY0Pf64_1MnbDBfjk1x",
+    "templateId": "DpPY0Pf64_1MnbDBfjk1x"
+  },
+    {
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
