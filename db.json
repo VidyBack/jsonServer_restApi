@@ -3042,6 +3042,18 @@
   ],
   "TOPLOSERS":[
     {
+      "id":"0",
+      "promoHeading":"TOP LOSERS",
+      "headerName":"TOP LOSERS",
+      "title":"Kesar Terminals & Infrastructure Ltd.",
+      "companyName":"NIFTY 50",
+      "symbol":"Kesar Terminals & Infrastructure Ltd.",
+      "lastPrice":"56.80",
+      "calculateValue":"-4.78%",
+      "date":"15-09-2023",
+      "isDescending": "true"
+    },
+    {
       "id":"1",
       "promoHeading":"TOP LOSERS",
       "headerName":"TOP LOSERS",
