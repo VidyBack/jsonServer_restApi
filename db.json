@@ -2835,7 +2835,7 @@
     "volumeSold":"14.2k",
     "volumeSoldTotalAmount":"$32.1M",
     "currencyName":"ETH",
-    "%OfItSoldForTheWeek":"+53.6%",
+    "percentageOfItSoldForTheWeek":"+53.6%",
     "stockName":"cryptoTrends",
     "currentValue": "$100"
    },
@@ -2849,7 +2849,7 @@
     "volumeSold":"12.8K",
     "volumeSoldTotalAmount":"$24.2M",
     "currencyName":"ETH",
-    "%OfItSoldForTheWeek":"+53.6%",
+    "percentageOfItSoldForTheWeek":"+53.6%",
     "stockName":"cryptoTrends",
     "currentValue": "$110"
     }, 
@@ -2863,7 +2863,7 @@
       "volumeSold":"14.8K",
       "volumeSoldTotalAmount":"$24.2M",
       "currencyName":"ETH",
-      "%OfItSoldForTheWeek":"+54.6%",
+      "percentageOfItSoldForTheWeek":"+54.6%",
       "stockName":"cryptoTrends",
       "currentValue": "$120"
       },
@@ -2877,7 +2877,7 @@
         "volumeSold":"14.8K",
         "volumeSoldTotalAmount":"$24.2M",
         "currencyName":"ETH",
-        "%OfItSoldForTheWeek":"+53.6%",
+        "percentageOfItSoldForTheWeek":"+53.6%",
         "stockName":"cryptoTrends",
         "currentValue": "$140"
         },
@@ -2891,7 +2891,7 @@
           "volumeSold":"14.8K",
           "volumeSoldTotalAmount":"$24.2M",
           "currencyName":"ETH",
-          "%OfItSoldForTheWeek":"+53.6%",
+          "percentageOfItSoldForTheWeek":"+53.6%",
           "stockName":"cryptoTrends",
           "currentValue": "$150"
           }
