@@ -26337,6 +26337,79 @@
   ],
   "TEMPLATES_MAIN":[
     {
+      "id": "DpPY0Pf64_1MnbDBfdaa_jk",
+      "templateId": "DpPY0Pf64_1MnbDBfdaa_jk",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+          ""
+      ],
+      "fontUrl": [
+          ""
+      ],
+      "bgImageUrl": [
+          ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_C8pkI_1663651826811_mixkit-molly-260.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-09-20T09:02:01.024Z",
+      "extraComps": [
+          {
+              "index": 2,
+              "compId": "1666868563760_15-BrandOutro-Story"
+          }
+      ],
+      "widgetsDefinition": [
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_3_5cW_1695200509722_02-booking-titleinfo-story.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
+      ],
+      "type": "Instagram Stories",
+      "name": "02-booking-titleinfo-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+          "p_bookings_tandi"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7qfhg_1695200509726_02-booking-titleinfo-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bmqv__1695200509724_02-booking-titleinfo-story.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "WLV6l-hFokqc7xQYj-llL",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+          {
+              "Education": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_60Dgk_1695200517547_02-booking-titleinfo-story-Education.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_N9j-D_1695200518876_02-booking-titleinfo-story-Education.mp4",
+                  "promoHeading": ""
+              }
+          }
+      ]
+    },
+    {
       "id": "DpPY0ml64_1bDBfdXa12ax",
       "templateId": "DpPY0ml64_1bDBfdXa12ax",
       "version": 1,
