@@ -3082,7 +3082,7 @@
   "TOPLOSERS":[
     
     {
-      "id":"0",
+      "id":"1",
       "promoHeading":"TOP LOSERS",
       "headerName":"TOP LOSERS",
       "title":"Kesar Terminals & Infrastructure Ltd.",
@@ -3094,7 +3094,7 @@
       "isDescending": "true"
     },
     {
-      "id":"1",
+      "id":"2",
       "promoHeading":"TOP LOSERS",
       "headerName":"TOP LOSERS",
       "title":"BPCL",
@@ -3106,7 +3106,7 @@
       "isDescending": "true"
     },
     {
-      "id":"2",
+      "id":"3",
       "promoHeading":"TOP LOSERS",
       "headerName":"TOP LOSERS",
       "title":"HINDUNILVR",
@@ -3116,7 +3116,44 @@
       "calculateValue":"-0.006%",
       "date":"15-09-2023",
       "isDescending": "true"
+    },
+    {
+      "id":"4",
+      "promoHeading":"TOP LOSERS",
+      "headerName":"TOP LOSERS",
+      "title":"SBI Life Insura ",
+      "companyName":"NIFTY 50",
+      "symbol":"SBI Life Insura ",
+      "lastPrice":"1,294.55",
+      "calculateValue":"-1.84",
+      "date":"25-09-2023",
+      "isDescending": "true"
+    },
+    {
+      "id":"5",
+      "promoHeading":"TOP LOSERS",
+      "headerName":"TOP LOSERS",
+      "title":"Adani Enterpris ",
+      "companyName":"NIFTY 50",
+      "symbol":"Adani Enterpris ",
+      "lastPrice":"2,428.80",
+      "calculateValue":"-1.46",
+      "date":"25-09-2023",
+      "isDescending": "true"
+    },
+    {
+      "id":"6",
+      "promoHeading":"TOP LOSERS",
+      "headerName":"TOP LOSERS",
+      "title":"Infosys ",
+      "companyName":"NIFTY 50",
+      "symbol":"Infosys ",
+      "lastPrice":"1,474.35",
+      "calculateValue":"-1.46",
+      "date":"25-09-2023",
+      "isDescending": "true"
     }
+
   ],
   "TEMPLATES_DEV":[
     {
