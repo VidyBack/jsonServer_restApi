@@ -3037,6 +3037,45 @@
       "calculateValue":"2.36%",
       "date":"15-09-2023"
       
+    },
+    {
+      "id":"4",
+      "promoHeading":"TOP GAINERS",
+      "headerName":"TOP GAINERS",
+      "title":"Bajaj Finance",
+      "companyName":"NIFTY 50",
+      "symbol":"Bajaj Finance",
+      "lastPrice":"7,786.40",
+      "isDescending": "false",
+      "calculateValue":"4.22%",
+      "date":"25-09-2023"
+      
+    },
+    {
+      "id":"5",
+      "promoHeading":"TOP GAINERS",
+      "headerName":"TOP GAINERS",
+      "title":"TATA Cons. Prod",
+      "companyName":"NIFTY 50",
+      "symbol":"TATA Cons. Prod",
+      "lastPrice":"889.40",
+      "isDescending": "false",
+      "calculateValue":"1.33%",
+      "date":"25-09-2023"
+      
+    },
+    {
+      "id":"6",
+      "promoHeading":"TOP GAINERS",
+      "headerName":"TOP GAINERS",
+      "title":"Asian Paints",
+      "companyName":"NIFTY 50",
+      "symbol":"Asian Paints",
+      "lastPrice":"3,308.00",
+      "isDescending": "false",
+      "calculateValue":"1.01%",
+      "date":"15-09-2023"
+      
     }
     
   ],
