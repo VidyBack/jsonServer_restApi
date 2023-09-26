@@ -3282,6 +3282,149 @@
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
+          ""
+      ],
+      "fontUrl": [
+          ""
+      ],
+      "bgImageUrl": [
+          ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_z7KCJ_1666164835041_mixkit-classical-vibes-5-688.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-09-26T10:39:41.283Z",
+      "extraComps": [
+          {
+              "index": 7,
+              "compId": "1669380914434_18-BrandOutro-4-5-version-1"
+          }
+      ],
+      "widgetsDefinition": [
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ML-ut_1695724390744_04-discount-in-perentage-updated.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
+      ],
+      "type": "Post 4:5",
+      "name": "04-discount-in-perentage-updated",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+          "p_dpercentage"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qKsNa_1695724391038_04-discount-in-perentage-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Wm_Us_1695724391033_04-discount-in-perentage-updated.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "isMultipleTemplate": false,
+      "previews": [
+          {
+              "Accessories": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_YpwhH_1695724766884_04-discount-in-perentage-updated-Accessories.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Ja5em_1695724775412_04-discount-in-perentage-updated-Accessories.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Toys": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6X77q_1695724767011_04-discount-in-perentage-updated-Toys.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WQYXx_1695724775423_04-discount-in-perentage-updated-Toys.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HealthFitness": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zmKy4_1695724767013_04-discount-in-perentage-updated-HealthFitness.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_uumHp_1695724775439_04-discount-in-perentage-updated-HealthFitness.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Perfumes": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3J2pP_1695724767048_04-discount-in-perentage-updated-Perfumes.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cO-85_1695724775441_04-discount-in-perentage-updated-Perfumes.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "BagPurse": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jBkuQ_1695724767049_04-discount-in-perentage-updated-BagPurse.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_9rXy-_1695724775443_04-discount-in-perentage-updated-BagPurse.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HealthBeauty": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_oZmtp_1695724767069_04-discount-in-perentage-updated-HealthBeauty.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_EvmsI_1695724775444_04-discount-in-perentage-updated-HealthBeauty.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "MobileElec": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_9XxF5_1695724767070_04-discount-in-perentage-updated-MobileElec.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_wEtKf_1695724775446_04-discount-in-perentage-updated-MobileElec.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Clothings": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IyS3r_1695724767071_04-discount-in-perentage-updated-Clothings.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XMzZh_1695724775448_04-discount-in-perentage-updated-Clothings.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Footwear": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zigPe_1695724767072_04-discount-in-perentage-updated-Footwear.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Ocvjg_1695724775450_04-discount-in-perentage-updated-Footwear.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Wearables": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GgRC9_1695724767093_04-discount-in-perentage-updated-Wearables.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_mCQpO_1695724775452_04-discount-in-perentage-updated-Wearables.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Furniture": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_KCz8R_1695724767094_04-discount-in-perentage-updated-Furniture.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_mG5RH_1695724775454_04-discount-in-perentage-updated-Furniture.mp4",
+                  "promoHeading": ""
+              }
+          }
+      ],
+      "id": "RYv8HHeef3rLXSnD_sIwt1",
+      "templateId": "RYv8HHeef3rLXSnD_sIwt1"
+  },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
         ""
       ],
       "fontUrl": [
