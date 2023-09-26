@@ -3076,6 +3076,42 @@
       "calculateValue":"1.01%",
       "date":"15-09-2023"
       
+    },
+    {
+      "id":"7",
+      "promoHeading":"TOP GAINERS",
+      "headerName":"TOP GAINERS",
+      "title":"EICHERMOT",
+      "companyName":"NIFTY 50",
+      "symbol":"EICHERMOTS",
+      "lastPrice":"3486.9",
+      "isDescending": "false",
+      "calculateValue":"2.40%",
+      "date":"26-09-2023"
+    },
+    {
+      "id":"8",
+      "promoHeading":"TOP GAINERS",
+      "headerName":"TOP GAINERS",
+      "title":"TATASTEEL",
+      "companyName":"NIFTY 50",
+      "symbol":"TATASTEEL",
+      "lastPrice":"129.8",
+      "isDescending": "false",
+      "calculateValue":"0.62%",
+      "date":"26-09-2023"
+    },
+    {
+      "id":"9",
+      "promoHeading":"TOP GAINERS",
+      "headerName":"TOP GAINERS",
+      "title":"NTPC",
+      "companyName":"NIFTY 50",
+      "symbol":"NTPC",
+      "lastPrice":"129.8",
+      "isDescending": "false",
+      "calculateValue":"1.35%",
+      "date":"26-09-2023"
     }
     
   ],
