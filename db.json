@@ -70352,7 +70352,7 @@
       "introId": null,
       "outroId": null,
       "isTransparent": false,
-      "isMultipleTemplate": false,
+      "isMultipleTemplate": true,
       "previews": [],
       "id": "diNIm2oTaPL2AsR2Pqs-R",
       "templateId": "diNIm2oTaPL2AsR2Pqs-R"
@@ -70418,7 +70418,7 @@
       "previews": [],
       "id": "g2OlEvvbdu29Qrln16fXV",
       "templateId": "g2OlEvvbdu29Qrln16fXV",
-      "isMultipleTemplate": false
+      "isMultipleTemplate": true
     },
     {
       "id": "XmYpaIrQI6OksJvyF3wyV",
@@ -70481,7 +70481,7 @@
       "outroId": null,
       "isTransparent": false,
       "previews": [],
-      "isMultipleTemplate": false
+      "isMultipleTemplate": true
     },
     {
       "version": 1,
@@ -70544,7 +70544,7 @@
       "previews": [],
       "id": "FWK3D5CT1x4diRy9Iqljt",
       "templateId": "FWK3D5CT1x4diRy9Iqljt",
-      "isMultipleTemplate": false
+      "isMultipleTemplate": true
     },
     {
       "version": 1,
@@ -70607,7 +70607,7 @@
       "previews": [],
       "id": "YW61b_qM2Xn9p6CH51AEb",
       "templateId": "YW61b_qM2Xn9p6CH51AEb",
-      "isMultipleTemplate": false
+      "isMultipleTemplate": true
     }
   ]
 }
