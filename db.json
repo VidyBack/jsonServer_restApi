@@ -70608,6 +70608,315 @@
       "id": "YW61b_qM2Xn9p6CH51AEb",
       "templateId": "YW61b_qM2Xn9p6CH51AEb",
       "isMultipleTemplate": true
-    }
+    },
+      {
+        "version": 1,
+        "gifUrl": "",
+        "bgVideoUrl": [
+          ""
+        ],
+        "fontUrl": [
+          ""
+        ],
+        "bgImageUrl": [
+          ""
+        ],
+        "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kxKOH_1666165483564_mixkit-when-in-love-44.mp3",
+        "fillEnabled": true,
+        "forWebsites": [],
+        "pro": false,
+        "createdOn": "2023-03-28T08:42:49.932Z",
+        "extraComps": [
+          {
+            "index": 8,
+            "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+          }
+        ],
+        "widgetsDefinition": [
+          {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_6cQQc_1679992959284_01-property-details-post.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+          }
+        ],
+        "type": "Instagram Posts",
+        "name": "01-property-details-post",
+        "brandEnabled": false,
+        "brandType": "X1",
+        "category": [
+          "p_pd"
+        ],
+        "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__Xu_T_1679992959288_01-property-details-post.mp4",
+        "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LVjJE_1679992959286_01-property-details-post.jpg",
+        "imageType": "Youtube Videos",
+        "outroType": null,
+        "introType": null,
+        "Height": 1080,
+        "Width": 1080,
+        "height": 1080,
+        "width": 1080,
+        "introId": null,
+        "outroId": null,
+        "isTransparent": false,
+        "isMultipleTemplate": false,
+        "previews": [
+          {
+            "Bunglow": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_9BBN0_1679992964598_01-property-details-post-Bunglow.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5H5jG_1679992965886_01-property-details-post-Bunglow.mp4"
+            }
+          },
+          {
+            "Flat": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_5AYgC_1679992964600_01-property-details-post-Flat.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_c8L-B_1679992965888_01-property-details-post-Flat.mp4"
+            }
+          },
+          {
+            "interiors": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_X0gS9_1679992964601_01-property-details-post-interiors.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_O4JnQ_1679992965890_01-property-details-post-interiors.mp4"
+            }
+          }
+        ],
+        "id": "lzDXrrUX_H6iynyw3sq7w",
+        "templateId": "lzDXrrUX_H6iynyw3sq7w"
+      },
+      {
+        "id": "lzDXrrUX_H6iynyw3sq7w1s",
+        "templateId": "lzDXrrUX_H6iynyw3sq7w1s",
+        "version": 1,
+        "gifUrl": "",
+        "bgVideoUrl": [
+          ""
+        ],
+        "fontUrl": [
+          ""
+        ],
+        "bgImageUrl": [
+          ""
+        ],
+        "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_k2EL5_1666165144591_mixkit-my-last-mojito-814.mp3",
+        "fillEnabled": true,
+        "forWebsites": [],
+        "pro": false,
+        "createdOn": "2023-03-30T11:48:56.615Z",
+        "extraComps": [
+          {
+            "index": 8,
+            "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+          }
+        ],
+        "widgetsDefinition": [
+          {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_oEOJP_1680176931098_01-portrait-propertyDetails.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+          }
+        ],
+        "type": "Post 4:5",
+        "name": "01-portrait-propertyDetails",
+        "brandEnabled": false,
+        "brandType": "X1",
+        "category": [
+          "p_pd"
+        ],
+        "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xeqsr_1680176931106_01-portrait-propertyDetails.mp4",
+        "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xmY3M_1680176931104_01-portrait-propertyDetails.jpg",
+        "imageType": "Instagram Stories",
+        "outroType": null,
+        "introType": null,
+        "Height": 1350,
+        "Width": 1080,
+        "height": 1350,
+        "width": 1080,
+        "introId": null,
+        "outroId": null,
+        "isTransparent": false,
+        "previews": [],
+        "isMultipleTemplate": false
+      },
+      {
+        "version": 1,
+        "gifUrl": "",
+        "bgVideoUrl": [
+          ""
+        ],
+        "fontUrl": [
+          ""
+        ],
+        "bgImageUrl": [
+          ""
+        ],
+        "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XEFrW_1663651653306_mixkit-its-love-834.mp3",
+        "fillEnabled": true,
+        "forWebsites": [],
+        "pro": false,
+        "createdOn": "2023-03-28T05:43:43.867Z",
+        "extraComps": [
+          {
+            "index": 8,
+            "compId": "1666868563760_15-BrandOutro-Story"
+          }
+        ],
+        "widgetsDefinition": [
+          {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_-Cf9y_1679982213962_01-realestate-propertyDetails-updated.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+          }
+        ],
+        "type": "Instagram Stories",
+        "name": "01-realestate-propertyDetails-updated",
+        "brandEnabled": false,
+        "brandType": "X1",
+        "category": [
+          "p_pd"
+        ],
+        "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QmH28_1679982213971_01-realestate-propertyDetails-updated.mp4",
+        "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SaVKz_1679982213969_01-realestate-propertyDetails-updated.jpg",
+        "imageType": "Instagram Posts",
+        "outroType": null,
+        "introType": null,
+        "Height": 1920,
+        "Width": 1080,
+        "height": 1920,
+        "width": 1080,
+        "introId": null,
+        "outroId": null,
+        "isTransparent": false,
+        "previews": [
+          {
+            "Bunglow": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ROHvH_1679982218496_01-realestate-propertyDetails-updated-Bunglow.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lHamV_1679982219928_01-realestate-propertyDetails-updated-Bunglow.mp4"
+            }
+          },
+          {
+            "Flat": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_u7k36_1679982218500_01-realestate-propertyDetails-updated-Flat.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hBW3W_1679982219933_01-realestate-propertyDetails-updated-Flat.mp4"
+            }
+          },
+          {
+            "interiors": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SnOYT_1679982218503_01-realestate-propertyDetails-updated-interiors.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IPbLd_1679982219936_01-realestate-propertyDetails-updated-interiors.mp4"
+            }
+          }
+        ],
+        "id": "OKVhceE6_aeQpxMZhHAU0",
+        "templateId": "OKVhceE6_aeQpxMZhHAU0",
+        "isMultipleTemplate": false
+      },
+      {
+        "version": 1,
+        "gifUrl": "",
+        "bgVideoUrl": [
+          ""
+        ],
+        "fontUrl": [
+          ""
+        ],
+        "bgImageUrl": [
+          ""
+        ],
+        "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_k2EL5_1666165144591_mixkit-my-last-mojito-814.mp3",
+        "fillEnabled": true,
+        "forWebsites": [],
+        "pro": false,
+        "createdOn": "2023-03-22T08:35:32.153Z",
+        "extraComps": [
+          {
+            "index": 8,
+            "compId": "1666868563760_15-BrandOutro-Story"
+          }
+        ],
+        "widgetsDefinition": [
+          {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_PcSSO_1679474121963_02-realestate-propertyDetails.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+          }
+        ],
+        "type": "Instagram Stories",
+        "name": "02-realestate-propertyDetails",
+        "brandEnabled": false,
+        "brandType": "X1",
+        "category": [
+          "p_pd"
+        ],
+        "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_EIwj6_1679474121979_02-realestate-propertyDetails_updated.mp4",
+        "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2ePvr_1679474121975_02-realestate-propertyDetails.jpg",
+        "imageType": "Instagram Stories",
+        "outroType": null,
+        "introType": null,
+        "Height": 1920,
+        "Width": 1080,
+        "height": 1920,
+        "width": 1080,
+        "introId": null,
+        "outroId": null,
+        "isTransparent": false,
+        "previews": [
+          {
+            "Bunglow": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wkq3q_1679474126497_02-realestate-propertyDetails-Bunglow.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_uwKQg_1679474127920_02-realestate-propertyDetails-Bunglow.mp4"
+            }
+          },
+          {
+            "Flat": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wKdKV_1679474126502_02-realestate-propertyDetails-Flat.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HB_jT_1679474127924_02-realestate-propertyDetails-Flat.mp4"
+            }
+          },
+          {
+            "interiors": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Nlede_1679474126505_02-realestate-propertyDetails-interiors.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_JIghd_1679474127928_02-realestate-propertyDetails-interiors.mp4"
+            }
+          }
+        ],
+        "id": "EvvfcEfT63qu7JDFVjJ4l",
+        "templateId": "EvvfcEfT63qu7JDFVjJ4l",
+        "isMultipleTemplate": false
+      }
   ]
 }
