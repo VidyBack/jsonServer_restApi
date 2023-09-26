@@ -3188,7 +3188,45 @@
       "calculateValue":"-1.46",
       "date":"25-09-2023",
       "isDescending": "true"
+    },
+    {
+        "id":"7",
+        "promoHeading":"TOP LOSERS",
+        "headerName":"TOP LOSERS",
+        "title":"KOTAKBANK ",
+        "companyName":"NIFTY 50",
+        "symbol":"KOTAKBANK",
+        "lastPrice":"1762.8",
+        "calculateValue":"-0.74",
+        "date":"26-09-2023",
+        "isDescending": "true"
+    },
+    {
+        "id":"8",
+        "promoHeading":"TOP LOSERS",
+        "headerName":"TOP LOSERS",
+        "title":"ASIANPAINT ",
+        "companyName":"NIFTY 50",
+        "symbol":"ASIANPAINT",
+        "lastPrice":"3283",
+        "calculateValue":"-1.02%",
+        "date":"26-09-2023",
+        "isDescending": "true"
+
+    },
+    {
+      "id":"9",
+        "promoHeading":"TOP LOSERS",
+        "headerName":"TOP LOSERS",
+        "title":"BAJAJFINSV ",
+        "companyName":"NIFTY 50",
+        "symbol":"BAJAJFINSV",
+        "lastPrice":"1558.7",
+        "calculateValue":"-1.53%",
+        "date":"26-09-2023",
+        "isDescending": "true"
     }
+    
 
   ],
   "TEMPLATES_DEV":[
