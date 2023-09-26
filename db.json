@@ -68084,7 +68084,392 @@
                 ],
                 "brandDisabled": true,
                 "isMultipleTemplate": false
-              }
+              },
+                {
+                  "version": 2,
+                  "gifUrl": "",
+                  "bgVideoUrl": [
+                    ""
+                  ],
+                  "fontUrl": [
+                    ""
+                  ],
+                  "bgImageUrl": [
+                    ""
+                  ],
+                  "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_z7KCJ_1666164835041_mixkit-classical-vibes-5-688.mp3",
+                  "fillEnabled": true,
+                  "forWebsites": [],
+                  "pro": false,
+                  "createdOn": "2023-05-30T11:25:29.029Z",
+                  "extraComps": [
+                    {
+                      "index": 3,
+                      "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+                    }
+                  ],
+                  "widgetsDefinition": [
+                    {
+                      "mappingKeyMandatory": false,
+                      "Height": "100%",
+                      "Width": "100%",
+                      "StartTime": 0,
+                      "EndTime": -1,
+                      "URLS": [],
+                      "mappingKeyValue": "",
+                      "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_h_A8c_1685445899513_01-blog-post-template-square.json",
+                      "X": "0.0%",
+                      "Y": "0.0%",
+                      "type": "SVG_SINGLE",
+                      "duration": 10
+                    }
+                  ],
+                  "type": "Instagram Posts",
+                  "name": "01-blog-post-template-square",
+                  "brandEnabled": false,
+                  "brandType": "X1",
+                  "category": [
+                    "p_nblogs"
+                  ],
+                  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_urRyB_1685445900687_01-blog-post-template-square.mp4",
+                  "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_o5UkY_1685445900313_01-blog-post-template-square.jpg",
+                  "imageType": "1200x800",
+                  "outroType": null,
+                  "introType": null,
+                  "Height": 1080,
+                  "Width": 1080,
+                  "height": 1080,
+                  "width": 1080,
+                  "introId": null,
+                  "outroId": null,
+                  "isTransparent": false,
+                  "previews": [
+                    {
+                      "Food": {
+                        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_M6UHW_1685445925502_01-blog-post-template-square-Food.jpg",
+                        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QDs9o_1685445926759_01-blog-post-template-square-Food.mp4",
+                        "promoHeading": ""
+                      }
+                    },
+                    {
+                      "Healthcare": {
+                        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Kk2UN_1685445925503_01-blog-post-template-square-Healthcare.jpg",
+                        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PRLUU_1685445926770_01-blog-post-template-square-Healthcare.mp4",
+                        "promoHeading": ""
+                      }
+                    }
+                  ],
+                  "id": "lW11lPVSOp8YJnWXfXrFD",
+                  "templateId": "lW11lPVSOp8YJnWXfXrFD"
+                },
+                {
+                  "version": 2,
+                  "gifUrl": "",
+                  "bgVideoUrl": [
+                    ""
+                  ],
+                  "fontUrl": [
+                    ""
+                  ],
+                  "bgImageUrl": [
+                    ""
+                  ],
+                  "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZEHdG_1666165457869_mixkit-this-is-what-im-fighting-for-917.mp3",
+                  "fillEnabled": true,
+                  "forWebsites": [],
+                  "pro": false,
+                  "createdOn": "2023-05-30T11:12:15.513Z",
+                  "extraComps": [
+                    {
+                      "index": 6,
+                      "compId": "1669383380037_18-BrandOutro-Square-version-1-update"
+                    }
+                  ],
+                  "widgetsDefinition": [
+                    {
+                      "mappingKeyMandatory": false,
+                      "Height": "100%",
+                      "Width": "100%",
+                      "StartTime": 0,
+                      "EndTime": -1,
+                      "URLS": [],
+                      "mappingKeyValue": "",
+                      "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_dkpN7_1685445084315_02-blog-post-template-square.json",
+                      "X": "0.0%",
+                      "Y": "0.0%",
+                      "type": "SVG_SINGLE",
+                      "duration": 10
+                    }
+                  ],
+                  "type": "Instagram Posts",
+                  "name": "02-blog-post-template-square",
+                  "brandEnabled": false,
+                  "brandType": "X1",
+                  "category": [
+                    "p_nblogs"
+                  ],
+                  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ks4pb_1685445084322_02-blog-post-template-square.mp4",
+                  "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_I3-hM_1685445084317_02-blog-post-template-square.jpg",
+                  "imageType": "1200x800",
+                  "outroType": null,
+                  "introType": null,
+                  "Height": 1080,
+                  "Width": 1080,
+                  "height": 1080,
+                  "width": 1080,
+                  "introId": null,
+                  "outroId": null,
+                  "isTransparent": false,
+                  "previews": [
+                    {
+                      "Food": {
+                        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_miqcm_1685445131859_02-blog-post-template-square-Food.jpg",
+                        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_DTdMZ_1685445133097_02-blog-post-template-square-Food.mp4",
+                        "promoHeading": ""
+                      }
+                    },
+                    {
+                      "Healthcare": {
+                        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_YkWLm_1685445131860_02-blog-post-template-square-Healthcare.jpg",
+                        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qnqsM_1685445133099_02-blog-post-template-square-Healthcare.mp4",
+                        "promoHeading": ""
+                      }
+                    }
+                  ],
+                  "id": "c7L5VvbbL-X4wBjWK30Ye",
+                  "templateId": "c7L5VvbbL-X4wBjWK30Ye"
+                },
+                {
+                  "version": 2,
+                  "gifUrl": "",
+                  "bgVideoUrl": [
+                    ""
+                  ],
+                  "fontUrl": [
+                    ""
+                  ],
+                  "bgImageUrl": [
+                    ""
+                  ],
+                  "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6PfGw_1674197085363_Summer Uplifting Dance (Full).mp3",
+                  "fillEnabled": true,
+                  "forWebsites": [],
+                  "pro": false,
+                  "createdOn": "2023-05-27T05:44:23.243Z",
+                  "extraComps": [
+                    {
+                      "index": 6,
+                      "compId": "1666868563760_15-BrandOutro-Story"
+                    }
+                  ],
+                  "widgetsDefinition": [
+                    {
+                      "mappingKeyMandatory": false,
+                      "Height": "100%",
+                      "Width": "100%",
+                      "StartTime": 0,
+                      "EndTime": -1,
+                      "URLS": [],
+                      "mappingKeyValue": "",
+                      "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_l8_7C_1685166212972_01-blog-post-template-story.json",
+                      "X": "0.0%",
+                      "Y": "0.0%",
+                      "type": "SVG_SINGLE",
+                      "duration": 10
+                    }
+                  ],
+                  "type": "Instagram Stories",
+                  "name": "01-blog-post-template-story",
+                  "brandEnabled": false,
+                  "brandType": "X1",
+                  "category": [
+                    "p_nblogs"
+                  ],
+                  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ke-w2_1685166213014_01-blog-post-template-story.mp4",
+                  "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VMstR_1685166213009_01-blog-post-template-story.jpg",
+                  "imageType": "1200x800",
+                  "outroType": null,
+                  "introType": null,
+                  "Height": 1920,
+                  "Width": 1080,
+                  "height": 1920,
+                  "width": 1080,
+                  "introId": null,
+                  "outroId": null,
+                  "isTransparent": false,
+                  "previews": [
+                    {
+                      "Food": {
+                        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__Qahv_1685166259418_01-blog-post-template-story-Food.jpg",
+                        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_sqAT6_1685166260909_01-blog-post-template-story-Food.mp4",
+                        "promoHeading": ""
+                      }
+                    },
+                    {
+                      "Healthcare": {
+                        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_HcnSc_1685166259420_01-blog-post-template-story-Healthcare.jpg",
+                        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_80OuB_1685166260920_01-blog-post-template-story-Healthcare.mp4",
+                        "promoHeading": ""
+                      }
+                    }
+                  ],
+                  "id": "ng0go_J-BdHW6GhqpbgFN",
+                  "templateId": "ng0go_J-BdHW6GhqpbgFN"
+                },
+                {
+                  "version": 2,
+                  "gifUrl": "",
+                  "bgVideoUrl": [
+                    ""
+                  ],
+                  "fontUrl": [
+                    ""
+                  ],
+                  "bgImageUrl": [
+                    ""
+                  ],
+                  "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_EWlw5_1682746536772_mixkit-recline-and-chill-25.mp3",
+                  "fillEnabled": true,
+                  "forWebsites": [],
+                  "pro": true,
+                  "createdOn": "2023-05-26T13:07:42.946Z",
+                  "extraComps": [
+                    {
+                      "index": 3,
+                      "compId": "1666868563760_15-BrandOutro-Story"
+                    }
+                  ],
+                  "widgetsDefinition": [
+                    {
+                      "mappingKeyMandatory": false,
+                      "Height": "100%",
+                      "Width": "100%",
+                      "StartTime": 0,
+                      "EndTime": -1,
+                      "URLS": [],
+                      "mappingKeyValue": "",
+                      "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ajyXS_1685106427196_02-blog-post-template-story.json",
+                      "X": "0.0%",
+                      "Y": "0.0%",
+                      "type": "SVG_SINGLE",
+                      "duration": 10
+                    }
+                  ],
+                  "type": "Instagram Stories",
+                  "name": "02-blog-post-template-story",
+                  "brandEnabled": false,
+                  "brandType": "X1",
+                  "category": [
+                    "p_nblogs"
+                  ],
+                  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kHsZp_1685106427293_02-blog-post-template-story.mp4",
+                  "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_eSLe1_1685106427282_02-blog-post-template-story.jpg",
+                  "imageType": "1200x800",
+                  "outroType": null,
+                  "introType": null,
+                  "Height": 1920,
+                  "Width": 1080,
+                  "height": 1920,
+                  "width": 1080,
+                  "introId": null,
+                  "outroId": null,
+                  "isTransparent": false,
+                  "previews": [
+                    {
+                      "Healthcare": {
+                        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3wRGM_1685106458027_02-blog-post-template-story-Healthcare.jpg",
+                        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ahezi_1685106459424_02-blog-post-template-story-Healthcare.mp4",
+                        "promoHeading": ""
+                      }
+                    },
+                    {
+                      "Food": {
+                        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zvlHE_1685106458029_02-blog-post-template-story-Food.jpg",
+                        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_E8PlP_1685106459634_02-blog-post-template-story-Food.mp4",
+                        "promoHeading": ""
+                      }
+                    }
+                  ],
+                  "id": "FLdRp-Lf9j7y1hqU3SvAh",
+                  "templateId": "FLdRp-Lf9j7y1hqU3SvAh"
+                },
+                {
+                  "version": 2,
+                  "gifUrl": "",
+                  "bgVideoUrl": [
+                    ""
+                  ],
+                  "fontUrl": [
+                    ""
+                  ],
+                  "bgImageUrl": [
+                    ""
+                  ],
+                  "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9zAHi_1662719586550_Lonerism.mp3",
+                  "fillEnabled": true,
+                  "forWebsites": [],
+                  "pro": true,
+                  "createdOn": "2023-05-26T11:48:45.410Z",
+                  "extraComps": [
+                    {
+                      "index": 3,
+                      "compId": "1669380914434_18-BrandOutro-4-5-version-1"
+                    }
+                  ],
+                  "widgetsDefinition": [
+                    {
+                      "mappingKeyMandatory": false,
+                      "Height": "100%",
+                      "Width": "100%",
+                      "StartTime": 0,
+                      "EndTime": -1,
+                      "URLS": [],
+                      "mappingKeyValue": "",
+                      "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_yU1pz_1685101665217_01-blog-post-template-portrait.json",
+                      "X": "0.0%",
+                      "Y": "0.0%",
+                      "type": "SVG_SINGLE",
+                      "duration": 10
+                    }
+                  ],
+                  "type": "Post 4:5",
+                  "name": "01-blog-post-template-portrait",
+                  "brandEnabled": false,
+                  "brandType": "X1",
+                  "category": [
+                    "p_nblogs"
+                  ],
+                  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_X5Geq_1685101665481_01-blog-post-template-portrait.mp4",
+                  "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SFd5M_1685101665445_01-blog-post-template-portrait.jpg",
+                  "imageType": "1200x800",
+                  "outroType": null,
+                  "introType": null,
+                  "Height": 1350,
+                  "Width": 1080,
+                  "height": 1350,
+                  "width": 1080,
+                  "introId": null,
+                  "outroId": null,
+                  "isTransparent": false,
+                  "previews": [
+                    {
+                      "Food": {
+                        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8NPiK_1685101721525_01-blog-post-template-portrait-Food.jpg",
+                        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_FSUDh_1685101723428_01-blog-post-template-portrait-Food.mp4",
+                        "promoHeading": ""
+                      }
+                    },
+                    {
+                      "Healthcare": {
+                        "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_X3bto_1685101721526_01-blog-post-template-portrait-Healthcare.jpg",
+                        "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hon2U_1685101723429_01-blog-post-template-portrait-Healthcare.mp4",
+                        "promoHeading": ""
+                      }
+                    }
+                  ],
+                  "id": "xyO7vHOJKrpBsC1eEVez4",
+                  "templateId": "xyO7vHOJKrpBsC1eEVez4"
+                }
   ]
         }
           
