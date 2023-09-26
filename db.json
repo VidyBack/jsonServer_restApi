@@ -75801,6 +75801,303 @@
         "id": "lbIKOlcpz7Fk-B3GgQ5SB",
         "templateId": "lbIKOlcpz7Fk-B3GgQ5SB",
         "isMultipleTemplate": false
-      }
+      },
+        {
+          "version": 2,
+          "gifUrl": "",
+          "bgVideoUrl": [
+            ""
+          ],
+          "fontUrl": [
+            ""
+          ],
+          "bgImageUrl": [
+            ""
+          ],
+          "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kxKOH_1666165483564_mixkit-when-in-love-44.mp3",
+          "fillEnabled": true,
+          "forWebsites": [],
+          "pro": false,
+          "createdOn": "2023-05-24T13:08:11.841Z",
+          "extraComps": [
+            {
+              "index": 4,
+              "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+            }
+          ],
+          "widgetsDefinition": [
+            {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_AQdTv_1684933528392_01_features_portrait.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+            }
+          ],
+          "type": "Post 4:5",
+          "name": "01_features_portrait",
+          "brandEnabled": false,
+          "brandType": "X1",
+          "category": [
+            "p_features"
+          ],
+          "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_zicvT_1684933528395_01_features_portrait.mp4",
+          "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bQ37B_1684933528393_01_features_portrait.jpg",
+          "imageType": "1200x800",
+          "outroType": null,
+          "introType": null,
+          "Height": 1350,
+          "Width": 1080,
+          "height": 1350,
+          "width": 1080,
+          "introId": null,
+          "outroId": null,
+          "isTransparent": false,
+          "isMultipleTemplate": false,
+          "previews": [
+            {
+              "Travel": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_xacoD_1684933685584_01_features_portrait-Travel.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LG71p_1684933688599_01_features_portrait-Travel.mp4",
+                "promoHeading": "MOST POPULAR"
+              }
+            },
+            {
+              "Jobs": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hKOwg_1684933685585_01_features_portrait-Jobs.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Wdd1b_1684933688601_01_features_portrait-Jobs.mp4",
+                "promoHeading": "Job Vacancy"
+              }
+            },
+            {
+              "Legal": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_DonCj_1684933685587_01_features_portrait-Legal.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dNayi_1684933688603_01_features_portrait-Legal.mp4",
+                "promoHeading": "Legal Solutions"
+              }
+            },
+            {
+              "Healthcare": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hu4Ns_1684933685589_01_features_portrait-Healthcare.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HqAOk_1684933688605_01_features_portrait-Healthcare.mp4",
+                "promoHeading": "Health is Wealth"
+              }
+            },
+            {
+              "Bunglow": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_AZt1__1684933685593_01_features_portrait-Bunglow.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_pnN9q_1684933688608_01_features_portrait-Bunglow.mp4",
+                "promoHeading": "MOST POPULAR"
+              }
+            }
+          ],
+          "id": "B-3Yhh3WiyXluXAoLUL03",
+          "templateId": "B-3Yhh3WiyXluXAoLUL03"
+        },
+        {
+          "version": 2,
+          "gifUrl": "",
+          "bgVideoUrl": [
+            ""
+          ],
+          "fontUrl": [
+            ""
+          ],
+          "bgImageUrl": [
+            ""
+          ],
+          "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YFAPO_1666165105506_mixkit-just-keep-walking-963.mp3",
+          "fillEnabled": true,
+          "forWebsites": [],
+          "pro": false,
+          "createdOn": "2023-05-19T10:27:19.612Z",
+          "extraComps": [
+            {
+              "index": 4,
+              "compId": "1666868629167_18-BrandOutro-Story"
+            }
+          ],
+          "widgetsDefinition": [
+            {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_zMQzI_1684492014294_01_features.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+            }
+          ],
+          "type": "Instagram Stories",
+          "name": "01_features",
+          "brandEnabled": false,
+          "brandType": "X1",
+          "category": [
+            "p_features"
+          ],
+          "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TFMvp_1684492017832_01_features.mp4",
+          "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pWKpX_1684492017264_01_features.jpg",
+          "imageType": "1200x800",
+          "outroType": null,
+          "introType": null,
+          "Height": 1920,
+          "Width": 1080,
+          "height": 1920,
+          "width": 1080,
+          "introId": null,
+          "outroId": null,
+          "isTransparent": false,
+          "previews": [
+            {
+              "Food": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_m7Q5X_1684492026443_01_features-Food.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_F3wrx_1684492029941_01_features-Food.mp4"
+              }
+            },
+            {
+              "Healthcare": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vOGYh_1684492027294_01_features-Healthcare.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_bDyVo_1684492029943_01_features-Healthcare.mp4"
+              }
+            },
+            {
+              "Technology": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wTMEg_1684492027295_01_features-Technology.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-_WqZ_1684492030202_01_features-Technology.mp4"
+              }
+            },
+            {
+              "Travel": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7Cygw_1684492027297_01_features-Travel.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_FMoq__1684492030204_01_features-Travel.mp4"
+              }
+            },
+            {
+              "Bunglow": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_HVVzd_1684492027298_01_features-Bunglow.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_eRfbA_1684492030354_01_features-Bunglow.mp4"
+              },
+              "Jobs": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Qd9Lu_1686295346996_01_job_features-Jobs.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_zhrQV_1686295348255_01_job_features-Jobs.mp4",
+                "promoHeading": "Job Vacancy"
+              }
+            }
+          ],
+          "id": "YRyJpvTFgVZmv3oYqArNp",
+          "templateId": "YRyJpvTFgVZmv3oYqArNp",
+          "isMultipleTemplate": false
+        },
+        {
+          "version": 2,
+          "gifUrl": "",
+          "bgVideoUrl": [
+            ""
+          ],
+          "fontUrl": [
+            ""
+          ],
+          "bgImageUrl": [
+            ""
+          ],
+          "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YFAPO_1666165105506_mixkit-just-keep-walking-963.mp3",
+          "fillEnabled": true,
+          "forWebsites": [],
+          "pro": false,
+          "createdOn": "2023-05-19T09:59:40.564Z",
+          "extraComps": [
+            {
+              "index": 4,
+              "compId": "1669383380037_18-BrandOutro-Square-version-1-update"
+            }
+          ],
+          "widgetsDefinition": [
+            {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_AmBmx_1684490371305_01_features_post.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+            }
+          ],
+          "type": "Instagram Posts",
+          "name": "01_features_post",
+          "brandEnabled": false,
+          "brandType": "X1",
+          "category": [
+            "p_features"
+          ],
+          "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_H2C8J_1684490371456_01_features_post.mp4",
+          "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wA-lv_1684490371453_01_features_post.jpg",
+          "imageType": "1200x800",
+          "outroType": null,
+          "introType": null,
+          "Height": 1080,
+          "Width": 1080,
+          "height": 1080,
+          "width": 1080,
+          "introId": null,
+          "outroId": null,
+          "isTransparent": false,
+          "previews": [
+            {
+              "Travel": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FSzPL_1684490376114_01_features_post-Travel.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__mf7r_1684490377977_01_features_post-Travel.mp4"
+              }
+            },
+            {
+              "Technology": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Gk9Ri_1684490376116_01_features_post-Technology.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_VSxzm_1684490377979_01_features_post-Technology.mp4"
+              }
+            },
+            {
+              "Healthcare": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7sCRm_1684490376118_01_features_post-Healthcare.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8qffL_1684490377981_01_features_post-Healthcare.mp4"
+              }
+            },
+            {
+              "Bunglow": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_h65Hk_1684490376120_01_features_post-Bunglow.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BpL9R_1684490377984_01_features_post-Bunglow.mp4"
+              }
+            },
+            {
+              "Food": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ykmld_1684490376122_01_features_post-Food.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZNVNo_1684490377987_01_features_post-Food.mp4"
+              },
+              "Jobs": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Qn0CN_1686294641480_01_job_features_post-Jobs.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yfd4m_1686294642716_01_job_features_post-Jobs.mp4",
+                "promoHeading": "Job Vacancy"
+              }
+            }
+          ],
+          "id": "Du1Zh0iisMkja6Z1BT3aT",
+          "templateId": "Du1Zh0iisMkja6Z1BT3aT",
+          "isMultipleTemplate": false
+        }
   ]
 }
