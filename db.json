@@ -74650,6 +74650,1157 @@
       "previews": [],
       "id": "kve4-7BHDJ8j1EvLPVJEL",
       "templateId": "kve4-7BHDJ8j1EvLPVJEL"
-    }
+    },
+      {
+        "version": 2,
+        "gifUrl": "",
+        "bgVideoUrl": [
+          ""
+        ],
+        "fontUrl": [
+          ""
+        ],
+        "bgImageUrl": [
+          ""
+        ],
+        "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_C8pkI_1663651826811_mixkit-molly-260.mp3",
+        "fillEnabled": true,
+        "forWebsites": [],
+        "pro": true,
+        "createdOn": "2023-07-21T12:13:26.007Z",
+        "extraComps": [
+          {
+            "index": 2,
+            "compId": "1666868629167_18-BrandOutro-Story"
+          }
+        ],
+        "widgetsDefinition": [
+          {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_XzaTj_1689941537136_02-booking-titleinfo-story.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+          }
+        ],
+        "type": "Instagram Stories",
+        "name": "02-booking-titleinfo-story",
+        "brandEnabled": false,
+        "brandType": "X1",
+        "category": [
+          "p_bookings_tandi"
+        ],
+        "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__qU8y_1689941537145_02-booking-titleinfo-story.mp4",
+        "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_BhiWI_1689941537137_02-booking-titleinfo-story.jpg",
+        "imageType": "1200x800",
+        "outroType": null,
+        "introType": null,
+        "Height": 1920,
+        "Width": 1080,
+        "height": 1920,
+        "width": 1080,
+        "introId": null,
+        "outroId": null,
+        "isTransparent": false,
+        "AddId": "",
+        "volume": 0.4,
+        "isMultipleTemplate": false,
+        "previews": [
+          {
+            "Events": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Mah5O_1689941601176_02-booking-titleinfo-story-Events.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qYZHY_1689941603466_02-booking-titleinfo-story-Events.mp4",
+              "promoHeading": "Grand Celebration"
+            }
+          },
+          {
+            "Legal": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1Cf04_1689941601196_02-booking-titleinfo-story-Legal.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_iD267_1689941603467_02-booking-titleinfo-story-Legal.mp4",
+              "promoHeading": "Access Reservations"
+            }
+          },
+          {
+            "Sports": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_El_zX_1689941601197_02-booking-titleinfo-story-Sports.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_6s51q_1689941603469_02-booking-titleinfo-story-Sports.mp4",
+              "promoHeading": "SPORT INSIGHT"
+            }
+          },
+          {
+            "Education": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_60Dgk_1695200517547_02-booking-titleinfo-story-Education.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_N9j-D_1695200518876_02-booking-titleinfo-story-Education.mp4",
+              "promoHeading": ""
+            }
+          }
+        ],
+        "id": "WLV6l-hFokqc7xQYj-llL",
+        "templateId": "WLV6l-hFokqc7xQYj-llL"
+      },
+      {
+        "version": 2,
+        "gifUrl": "",
+        "bgVideoUrl": [
+          ""
+        ],
+        "fontUrl": [
+          ""
+        ],
+        "bgImageUrl": [
+          ""
+        ],
+        "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TaRUb_1663652193500_mixkit-showcase-me-61.mp3",
+        "fillEnabled": true,
+        "forWebsites": [],
+        "pro": true,
+        "createdOn": "2023-07-21T09:45:07.672Z",
+        "extraComps": [
+          {
+            "index": 2,
+            "compId": "1666868607828_17-BrandOutro-Story"
+          }
+        ],
+        "widgetsDefinition": [
+          {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_o5CgA_1689932646788_01-booking-titleinfo-story.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+          }
+        ],
+        "type": "Instagram Stories",
+        "name": "01-booking-titleinfo-story",
+        "brandEnabled": false,
+        "brandType": "X1",
+        "category": [
+          "p_bookings_tandi"
+        ],
+        "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_odRnG_1689932646791_01-booking-titleinfo-story.mp4",
+        "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_E5Fx4_1689932646790_01-booking-titleinfo-story.jpg",
+        "imageType": "1200x800",
+        "outroType": null,
+        "introType": null,
+        "Height": 1920,
+        "Width": 1080,
+        "height": 1920,
+        "width": 1080,
+        "introId": null,
+        "outroId": null,
+        "isTransparent": false,
+        "AddId": "",
+        "volume": 0.3,
+        "previews": [
+          {
+            "Sports": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_2DR03_1689932703660_01-booking-titleinfo-story-Sports.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZBQoc_1689932705168_01-booking-titleinfo-story-Sports.mp4",
+              "promoHeading": "Begin Competing"
+            }
+          },
+          {
+            "Events": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_c6YxW_1689932703661_01-booking-titleinfo-story-Events.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_pDaEH_1689932705170_01-booking-titleinfo-story-Events.mp4",
+              "promoHeading": "Spectacular Gathering"
+            }
+          },
+          {
+            "Legal": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GGel__1689932703684_01-booking-titleinfo-story-Legal.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ckOq1_1689932705172_01-booking-titleinfo-story-Legal.mp4",
+              "promoHeading": "Bookings Available"
+            }
+          },
+          {
+            "Education": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_tywws_1695200992946_01-booking-titleinfo-story-Education.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_s9oK3_1695200994227_01-booking-titleinfo-story-Education.mp4",
+              "promoHeading": ""
+            }
+          }
+        ],
+        "id": "OB-88bMaDuYyKg_IABeVQ",
+        "templateId": "OB-88bMaDuYyKg_IABeVQ",
+        "isMultipleTemplate": false
+      },
+      {
+        "version": 2,
+        "gifUrl": "",
+        "bgVideoUrl": [
+          ""
+        ],
+        "fontUrl": [
+          ""
+        ],
+        "bgImageUrl": [
+          ""
+        ],
+        "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Soft/mixkit-beautiful-dream-493.mp3",
+        "fillEnabled": true,
+        "forWebsites": [],
+        "pro": true,
+        "createdOn": "2023-07-21T09:53:46.183Z",
+        "extraComps": [
+          {
+            "index": 2,
+            "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+          }
+        ],
+        "widgetsDefinition": [
+          {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_B21eK_1689933163633_05-booking-title-post.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+          }
+        ],
+        "type": "Instagram Posts",
+        "name": "05-booking-title-post",
+        "brandEnabled": false,
+        "brandType": "X1",
+        "category": [
+          "p_bookings_tandi"
+        ],
+        "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_BrtVz_1689933163637_05-booking-title-post.mp4",
+        "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2-Ulh_1689933163635_05-booking-title-post.jpg",
+        "imageType": "1200x800",
+        "outroType": null,
+        "introType": null,
+        "Height": 1080,
+        "Width": 1080,
+        "height": 1080,
+        "width": 1080,
+        "introId": null,
+        "outroId": null,
+        "isTransparent": false,
+        "AddId": "",
+        "volume": 0.3,
+        "previews": [
+          {
+            "Sports": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GjJCo_1689933221188_05-booking-title-post-Sports.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_folZD_1689933222779_05-booking-title-post-Sports.mp4",
+              "promoHeading": "Game Insights"
+            }
+          },
+          {
+            "Events": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ex5vg_1689933221190_05-booking-title-post-Events.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_zYoJO_1689933222813_05-booking-title-post-Events.mp4",
+              "promoHeading": "Upcoming Event"
+            }
+          },
+          {
+            "Legal": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NH2_V_1689933221258_05-booking-title-post-Legal.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_StVvC_1689933222816_05-booking-title-post-Legal.mp4",
+              "promoHeading": "Bookings Revealed"
+            }
+          }
+        ],
+        "id": "LrW547ZXVB_EgJFdLFSiI",
+        "templateId": "LrW547ZXVB_EgJFdLFSiI",
+        "isMultipleTemplate": false
+      },
+      {
+        "version": 2,
+        "gifUrl": "",
+        "bgVideoUrl": [
+          ""
+        ],
+        "fontUrl": [
+          ""
+        ],
+        "bgImageUrl": [
+          ""
+        ],
+        "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_F1_gu_1666165004938_mixkit-for-those-who-dont-sleep-869.mp3",
+        "fillEnabled": true,
+        "forWebsites": [],
+        "pro": false,
+        "createdOn": "2023-07-20T07:58:43.393Z",
+        "extraComps": [
+          {
+            "index": 2,
+            "compId": "1669383380037_18-BrandOutro-Square-version-1-update"
+          }
+        ],
+        "widgetsDefinition": [
+          {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ZogVc_1689839874788_03-booking-title-post.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+          }
+        ],
+        "type": "Instagram Posts",
+        "name": "03-booking-title-post",
+        "brandEnabled": false,
+        "brandType": "X1",
+        "category": [
+          "p_bookings_tandi"
+        ],
+        "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_CjI_L_1689839874791_03-booking-title-post.mp4",
+        "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_WK6he_1689839874790_03-booking-title-post.jpg",
+        "imageType": "1200x800",
+        "outroType": null,
+        "introType": null,
+        "Height": 1080,
+        "Width": 1080,
+        "height": 1080,
+        "width": 1080,
+        "introId": null,
+        "outroId": null,
+        "isTransparent": false,
+        "AddId": "",
+        "volume": 0.4,
+        "previews": [
+          {
+            "Sports": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Mi-Uf_1689839919371_03-booking-title-post-Sports.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_acN5G_1689839920639_03-booking-title-post-Sports.mp4",
+              "promoHeading": "Athletic Adventure"
+            }
+          },
+          {
+            "Legal": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_x6kxt_1689839919372_03-booking-title-post-Legal.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_csa76_1689839920641_03-booking-title-post-Legal.mp4",
+              "promoHeading": "Bookings Open"
+            }
+          },
+          {
+            "Events": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OFFZm_1689839919373_03-booking-title-post-Events.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_c4Z3n_1689839920644_03-booking-title-post-Events.mp4",
+              "promoHeading": "Scheduled Affair"
+            }
+          },
+          {
+            "Education": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ae1JU_1695206259433_03-booking-title-post-Education.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-lVN9_1695206260727_03-booking-title-post-Education.mp4",
+              "promoHeading": ""
+            }
+          }
+        ],
+        "id": "N7SHJR_d3q5xr-l5jkDSC",
+        "templateId": "N7SHJR_d3q5xr-l5jkDSC",
+        "isMultipleTemplate": false
+      },
+      {
+        "version": 2,
+        "gifUrl": "",
+        "bgVideoUrl": [
+          ""
+        ],
+        "fontUrl": [
+          ""
+        ],
+        "bgImageUrl": [
+          ""
+        ],
+        "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_k2EL5_1666165144591_mixkit-my-last-mojito-814.mp3",
+        "fillEnabled": true,
+        "forWebsites": [],
+        "pro": false,
+        "createdOn": "2023-07-20T08:12:05.707Z",
+        "extraComps": [
+          {
+            "index": 3,
+            "compId": "1667216477348_14-BrandOutro-post-square-New"
+          }
+        ],
+        "widgetsDefinition": [
+          {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_pQdOj_1689840646764_02-booking-title-post.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+          }
+        ],
+        "type": "Instagram Posts",
+        "name": "02-booking-title-post",
+        "brandEnabled": false,
+        "brandType": "X1",
+        "category": [
+          "p_bookings_tandi"
+        ],
+        "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_aPzwg_1689840646767_02-booking-title-post.mp4",
+        "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_U_d2G_1689840646765_02-booking-title-post.jpg",
+        "imageType": "1200x800",
+        "outroType": null,
+        "introType": null,
+        "Height": 1080,
+        "Width": 1080,
+        "height": 1080,
+        "width": 1080,
+        "introId": null,
+        "outroId": null,
+        "isTransparent": false,
+        "AddId": "",
+        "volume": 0.4,
+        "previews": [
+          {
+            "Sports": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sImfM_1689840718663_02-booking-title-post-Sports.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dBJTm_1689840721689_02-booking-title-post-Sports.mp4",
+              "promoHeading": "Sport Insight"
+            }
+          },
+          {
+            "Events": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_DVl7N_1689840718664_02-booking-title-post-Events.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_DKm-P_1689840721719_02-booking-title-post-Events.mp4",
+              "promoHeading": "Spectacular Gathering"
+            }
+          },
+          {
+            "Legal": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_CPtkb_1689840718666_02-booking-title-post-Legal.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rWEjJ_1689840721721_02-booking-title-post-Legal.mp4",
+              "promoHeading": "Bookings Available"
+            }
+          }
+        ],
+        "id": "hiAWlv7o4EBXZ9Bw-5NoY",
+        "templateId": "hiAWlv7o4EBXZ9Bw-5NoY",
+        "isMultipleTemplate": false
+      },
+      {
+        "version": 2,
+        "gifUrl": "",
+        "bgVideoUrl": [
+          ""
+        ],
+        "fontUrl": [
+          ""
+        ],
+        "bgImageUrl": [
+          ""
+        ],
+        "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6PfGw_1674197085363_Summer Uplifting Dance (Full).mp3",
+        "fillEnabled": true,
+        "forWebsites": [],
+        "pro": true,
+        "createdOn": "2023-07-20T10:27:02.769Z",
+        "extraComps": [
+          {
+            "index": 2,
+            "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+          }
+        ],
+        "widgetsDefinition": [
+          {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_fm0_R_1689848818847_04-booking-title-post.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+          }
+        ],
+        "type": "Instagram Posts",
+        "name": "04-booking-title-post",
+        "brandEnabled": false,
+        "brandType": "X1",
+        "category": [
+          "p_bookings_tandi"
+        ],
+        "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FbGsA_1689848818849_04-booking-title-post.mp4",
+        "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kuTOF_1689848818848_04-booking-title-post.jpg",
+        "imageType": "1200x800",
+        "outroType": null,
+        "introType": null,
+        "Height": 1080,
+        "Width": 1080,
+        "height": 1080,
+        "width": 1080,
+        "introId": null,
+        "outroId": null,
+        "isTransparent": false,
+        "AddId": "",
+        "volume": 0.2,
+        "previews": [],
+        "id": "Krv3NcA27z93jjpHDMox6",
+        "templateId": "Krv3NcA27z93jjpHDMox6",
+        "isMultipleTemplate": false
+      },
+      {
+        "version": 2,
+        "gifUrl": "",
+        "bgVideoUrl": [
+          ""
+        ],
+        "fontUrl": [
+          ""
+        ],
+        "bgImageUrl": [
+          ""
+        ],
+        "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9zAHi_1662719586550_Lonerism.mp3",
+        "fillEnabled": true,
+        "forWebsites": [],
+        "pro": false,
+        "createdOn": "2023-06-21T10:39:43.088Z",
+        "extraComps": [
+          {
+            "index": 2,
+            "compId": "1669380976064_17-BrandOutro-4-5-version-1"
+          }
+        ],
+        "widgetsDefinition": [
+          {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_XNg7U_1687343913221_03-booking-title-info-portrait.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+          }
+        ],
+        "type": "Post 4:5",
+        "name": "03-booking-title-info-portrait",
+        "brandEnabled": false,
+        "brandType": "X1",
+        "category": [
+          "p_bookings_tandi"
+        ],
+        "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xpJzi_1687343913730_03-booking-title-info-portrait.mp4",
+        "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_vnxiA_1687343913634_03-booking-title-info-portrait.jpg",
+        "imageType": "1200x800",
+        "outroType": null,
+        "introType": null,
+        "Height": 1350,
+        "Width": 1080,
+        "height": 1350,
+        "width": 1080,
+        "introId": null,
+        "outroId": null,
+        "isTransparent": false,
+        "AddId": "",
+        "previews": [
+          {
+            "Sports": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_olVuR_1687343976834_03-booking-title-info-portrait-Sports.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_j-_Lz_1687343980084_03-booking-title-info-portrait-Sports.mp4",
+              "promoHeading": "Sporting Journey"
+            }
+          },
+          {
+            "Legal": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_TOcwn_1687343976836_03-booking-title-info-portrait-Legal.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_YMvKf_1687343980086_03-booking-title-info-portrait-Legal.mp4",
+              "promoHeading": "Bookings Unveiled"
+            }
+          },
+          {
+            "Events": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_HLf73_1687343976838_03-booking-title-info-portrait-Events.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qKKp4_1687343980088_03-booking-title-info-portrait-Events.mp4",
+              "promoHeading": "Inspiring Event"
+            }
+          }
+        ],
+        "id": "EdYFxoqTL6nmaru7DQzAL",
+        "templateId": "EdYFxoqTL6nmaru7DQzAL",
+        "isMultipleTemplate": false
+      },
+      {
+        "version": 2,
+        "gifUrl": "",
+        "bgVideoUrl": [
+          ""
+        ],
+        "fontUrl": [
+          ""
+        ],
+        "bgImageUrl": [
+          ""
+        ],
+        "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ep7mP_1685442288659_mixkit-classical-4-711.mp3",
+        "fillEnabled": true,
+        "forWebsites": [],
+        "pro": false,
+        "createdOn": "2023-06-21T10:37:41.591Z",
+        "extraComps": [
+          {
+            "index": 3,
+            "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+          }
+        ],
+        "widgetsDefinition": [
+          {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_wWUPF_1687343767923_01-booking-title-info-portrait.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+          }
+        ],
+        "type": "Post 4:5",
+        "name": "01-booking-title-info-portrait",
+        "brandEnabled": false,
+        "brandType": "X1",
+        "category": [
+          "p_bookings_tandi"
+        ],
+        "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SkDcY_1687343767926_01-booking-title-info-portrait.mp4",
+        "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_AwFoK_1687343767924_01-booking-title-info-portrait.jpg",
+        "imageType": "1200x800",
+        "outroType": null,
+        "introType": null,
+        "Height": 1350,
+        "Width": 1080,
+        "height": 1350,
+        "width": 1080,
+        "introId": null,
+        "outroId": null,
+        "isTransparent": false,
+        "AddId": "",
+        "previews": [
+          {
+            "Events": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sXt5g_1687343855257_01-booking-title-info-portrait-Events.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_a9IWL_1687343858565_01-booking-title-info-portrait-Events.mp4",
+              "promoHeading": "Coming Event"
+            }
+          },
+          {
+            "Sports": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ogCHi_1687343855258_01-booking-title-info-portrait-Sports.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LTQ4p_1687343858568_01-booking-title-info-portrait-Sports.mp4",
+              "promoHeading": "Game Insights"
+            }
+          },
+          {
+            "Legal": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_-ZS_z_1687343855260_01-booking-title-info-portrait-Legal.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_eeYri_1687343858571_01-booking-title-info-portrait-Legal.mp4",
+              "promoHeading": "Explore Bookings"
+            }
+          }
+        ],
+        "id": "LHRo45OTnUhAoS90kZ8iK",
+        "templateId": "LHRo45OTnUhAoS90kZ8iK",
+        "isMultipleTemplate": false
+      },
+      {
+        "version": 2,
+        "gifUrl": "",
+        "bgVideoUrl": [
+          ""
+        ],
+        "fontUrl": [
+          ""
+        ],
+        "bgImageUrl": [
+          ""
+        ],
+        "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_AM8Go_1663651293837_mixkit-getting-older-469.mp3",
+        "fillEnabled": true,
+        "forWebsites": [],
+        "pro": false,
+        "createdOn": "2023-06-21T10:33:31.633Z",
+        "extraComps": [
+          {
+            "index": 3,
+            "compId": "1669380914434_18-BrandOutro-4-5-version-1"
+          }
+        ],
+        "widgetsDefinition": [
+          {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_aPxpW_1687343542708_02-booking-title-info-portrait.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+          }
+        ],
+        "type": "Post 4:5",
+        "name": "02-booking-title-info-portrait",
+        "brandEnabled": false,
+        "brandType": "X1",
+        "category": [
+          "p_bookings_tandi"
+        ],
+        "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Akl0P_1687343542769_02-booking-title-info-portrait.mp4",
+        "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__oSqb_1687343542738_02-booking-title-info-portrait.jpg",
+        "imageType": "1200x800",
+        "outroType": null,
+        "introType": null,
+        "Height": 1350,
+        "Width": 1080,
+        "height": 1350,
+        "width": 1080,
+        "introId": null,
+        "outroId": null,
+        "isTransparent": false,
+        "AddId": "",
+        "previews": [
+          {
+            "Events": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_d-b1X_1687343604752_02-booking-title-info-portrait-Events.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hJ7DE_1687343606991_02-booking-title-info-portrait-Events.mp4",
+              "promoHeading": "Save The Date"
+            }
+          },
+          {
+            "Sports": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_APj41_1687343604754_02-booking-title-info-portrait-Sports.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4s2_C_1687343606993_02-booking-title-info-portrait-Sports.mp4",
+              "promoHeading": "Begin Competing"
+            }
+          },
+          {
+            "Legal": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jhE9l_1687343604755_02-booking-title-info-portrait-Legal.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_7aLbV_1687343606994_02-booking-title-info-portrait-Legal.mp4",
+              "promoHeading": "Bookings Revealed"
+            }
+          },
+          {
+            "Education": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hQ9X0_1695208729503_02-booking-title-info-portrait-Education.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jn6m8_1695208730759_02-booking-title-info-portrait-Education.mp4",
+              "promoHeading": ""
+            }
+          }
+        ],
+        "id": "yQjFeXne7dOL2PI_TELYk",
+        "templateId": "yQjFeXne7dOL2PI_TELYk",
+        "isMultipleTemplate": false
+      },
+      {
+        "version": 2,
+        "gifUrl": "",
+        "bgVideoUrl": [
+          ""
+        ],
+        "fontUrl": [
+          ""
+        ],
+        "bgImageUrl": [
+          ""
+        ],
+        "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Vpq8j_1666165302989_mixkit-rising-forest-471.mp3",
+        "fillEnabled": true,
+        "forWebsites": [],
+        "pro": false,
+        "createdOn": "2023-06-21T08:56:10.908Z",
+        "extraComps": [
+          {
+            "index": 3,
+            "compId": "1666868588418_16-BrandOutro-Story"
+          }
+        ],
+        "widgetsDefinition": [
+          {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_pOwzq_1687337675139_01-booking-title-info.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+          }
+        ],
+        "type": "Instagram Stories",
+        "name": "01-booking-title-info",
+        "brandEnabled": false,
+        "brandType": "X1",
+        "category": [
+          "p_bookings_tandi"
+        ],
+        "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_oFE9I_1687337675142_01-booking-title-info.mp4",
+        "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_94rq5_1687337675140_01-booking-title-info.jpg",
+        "imageType": "1200x800",
+        "outroType": null,
+        "introType": null,
+        "Height": 1920,
+        "Width": 1080,
+        "height": 1920,
+        "width": 1080,
+        "introId": null,
+        "outroId": null,
+        "isTransparent": false,
+        "AddId": "",
+        "previews": [
+          {
+            "Events": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_-4Hn0_1687337766122_01-booking-title-info-Events.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fTV9r_1687337768470_01-booking-title-info-Events.mp4",
+              "promoHeading": "Scheduled Affair"
+            }
+          },
+          {
+            "Sports": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_qKi6K_1687337766124_01-booking-title-info-Sports.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_VgazJ_1687337768472_01-booking-title-info-Sports.mp4",
+              "promoHeading": "Athletic Adventure"
+            }
+          },
+          {
+            "Legal": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_COkjk_1687337766126_01-booking-title-info-Legal.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XjQsw_1687337768474_01-booking-title-info-Legal.mp4",
+              "promoHeading": "Limited Availability"
+            }
+          }
+        ],
+        "id": "Pm4o1md5ItcbMrowsH7Zz",
+        "templateId": "Pm4o1md5ItcbMrowsH7Zz",
+        "isMultipleTemplate": false
+      },
+      {
+        "version": 2,
+        "gifUrl": "",
+        "bgVideoUrl": [
+          ""
+        ],
+        "fontUrl": [
+          ""
+        ],
+        "bgImageUrl": [
+          ""
+        ],
+        "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_p9bZn_1666165060558_mixkit-francisco-798.mp3",
+        "fillEnabled": true,
+        "forWebsites": [],
+        "pro": false,
+        "createdOn": "2023-06-30T11:47:33.093Z",
+        "extraComps": [
+          {
+            "index": 3,
+            "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+          }
+        ],
+        "widgetsDefinition": [
+          {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_XB1cI_1688125576853_04-booking-title-info-portrait.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+          }
+        ],
+        "type": "Post 4:5",
+        "name": "04-booking-title-info-portrait",
+        "brandEnabled": false,
+        "brandType": "X1",
+        "id": "bBDGSWC707EfJo3ZRIO8Pq",
+        "templateId": "bBDGSWC707EfJo3ZRIO8Pq",
+        "category": [
+          "p_bookings_tandi"
+        ],
+        "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_mDYRA_1688125576885_04-booking-title-info-portrait.mp4",
+        "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_NT9YF_1688125576882_04-booking-title-info-portrait.jpg",
+        "imageType": "1200x800",
+        "outroType": null,
+        "introType": null,
+        "Height": 1350,
+        "Width": 1080,
+        "height": 1350,
+        "width": 1080,
+        "introId": null,
+        "outroId": null,
+        "isTransparent": false,
+        "AddId": "",
+        "previews": [
+          {
+            "Sports": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ssRYV_1688125647641_04-booking-title-info-portrait-Sports.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Hgakb_1688125650158_04-booking-title-info-portrait-Sports.mp4",
+              "promoHeading": "Game Insights"
+            }
+          },
+          {
+            "Events": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rK3pM_1688125647643_04-booking-title-info-portrait-Events.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QvVXh_1688125650159_04-booking-title-info-portrait-Events.mp4",
+              "promoHeading": "Spectacular Gathering"
+            }
+          },
+          {
+            "Legal": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LC9FJ_1688125647644_04-booking-title-info-portrait-Legal.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xpfhS_1688125650161_04-booking-title-info-portrait-Legal.mp4",
+              "promoHeading": "Access Reservations"
+            }
+          },
+          {
+            "Education": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IMocg_1695207088920_04-booking-title-info-portrait-Education.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_sKxGF_1695207090192_04-booking-title-info-portrait-Education.mp4",
+              "promoHeading": ""
+            }
+          }
+        ],
+        "isMultipleTemplate": false
+      },
+      {
+        "version": 2,
+        "gifUrl": "",
+        "bgVideoUrl": [
+          ""
+        ],
+        "fontUrl": [
+          ""
+        ],
+        "bgImageUrl": [
+          ""
+        ],
+        "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2NGJK_1666165233823_mixkit-one-night-gamble-1152.mp3",
+        "fillEnabled": true,
+        "forWebsites": [],
+        "pro": false,
+        "createdOn": "2023-06-30T11:30:05.142Z",
+        "extraComps": [
+          {
+            "index": 3,
+            "compId": "1666868607828_17-BrandOutro-Story"
+          }
+        ],
+        "widgetsDefinition": [
+          {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ljHpa_1688124482959_02-booking-titleinfo-story.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+          }
+        ],
+        "type": "Instagram Stories",
+        "name": "02-booking-titleinfo-story",
+        "brandEnabled": false,
+        "brandType": "X1",
+        "category": [
+          "p_bookings_tandi"
+        ],
+        "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_m0AoX_1688124483885_02-booking-titleinfo-story.mp4",
+        "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_JZ7Wq_1688124483784_02-booking-titleinfo-story.jpg",
+        "imageType": "1200x800",
+        "outroType": null,
+        "introType": null,
+        "Height": 1920,
+        "Width": 1080,
+        "height": 1920,
+        "width": 1080,
+        "introId": null,
+        "outroId": null,
+        "isTransparent": false,
+        "AddId": "",
+        "id": "bBDGSWC707EfJo3ZRIO8P55",
+        "templateId": "bBDGSWC707EfJo3ZRIO8P55",
+        "previews": [
+          {
+            "Sports": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_kDozD_1688124598423_02-booking-titleinfo-story-Sports.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_m5U5V_1688124601192_02-booking-titleinfo-story-Sports.mp4",
+              "promoHeading": "Sporting Journey"
+            }
+          },
+          {
+            "Legal": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_KAZrU_1688124598424_02-booking-titleinfo-story-Legal.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yR4IS_1688124601197_02-booking-titleinfo-story-Legal.mp4",
+              "promoHeading": "Get Your Seat"
+            }
+          },
+          {
+            "Events": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_o3I3-_1688124598555_02-booking-titleinfo-story-Events.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Qkbwm_1688124601243_02-booking-titleinfo-story-Events.mp4",
+              "promoHeading": "Inspiring Event"
+            }
+          },
+          {
+            "Booking": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_lH3Xd_1688124598567_02-booking-titleinfo-story-Booking.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Niqwv_1688124601246_02-booking-titleinfo-story-Booking.mp4",
+              "promoHeading": "Bookings Unveiled"
+            }
+          }
+        ],
+        "isMultipleTemplate": false
+      },
+      {
+        "version": 2,
+        "gifUrl": "",
+        "bgVideoUrl": [
+          ""
+        ],
+        "fontUrl": [
+          ""
+        ],
+        "bgImageUrl": [
+          ""
+        ],
+        "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6PfGw_1674197085363_Summer Uplifting Dance (Full).mp3",
+        "fillEnabled": true,
+        "forWebsites": [],
+        "pro": false,
+        "createdOn": "2023-06-21T08:10:31.614Z",
+        "extraComps": [
+          {
+            "index": 2,
+            "compId": "1666868563760_15-BrandOutro-Story"
+          }
+        ],
+        "widgetsDefinition": [
+          {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_AwMwz_1687334969459_04-booking-titleinfo-story.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+          }
+        ],
+        "type": "Instagram Stories",
+        "name": "04-booking-titleinfo-story",
+        "brandEnabled": false,
+        "brandType": "X1",
+        "category": [
+          "p_bookings_tandi"
+        ],
+        "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qopK4_1687334969462_04-booking-titleinfo-story.mp4",
+        "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xQyy-_1687334969460_04-booking-titleinfo-story.jpg",
+        "imageType": "1200x800",
+        "outroType": null,
+        "introType": null,
+        "Height": 1920,
+        "Width": 1080,
+        "height": 1920,
+        "width": 1080,
+        "introId": null,
+        "outroId": null,
+        "isTransparent": false,
+        "AddId": "",
+        "previews": [
+          {
+            "Sports": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_YShvQ_1687335025182_04-booking-titleinfo-story-Sports.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_j8Ayx_1687335026829_04-booking-titleinfo-story-Sports.mp4",
+              "promoHeading": "Sporting Introduction"
+            }
+          },
+          {
+            "Legal": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Li22U_1687335025183_04-booking-titleinfo-story-Legal.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_f155T_1687335026830_04-booking-titleinfo-story-Legal.mp4",
+              "promoHeading": "Limited Availability"
+            }
+          },
+          {
+            "Events": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_eNt1x_1687335025185_04-booking-titleinfo-story-Events.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_T2s0Z_1687335026832_04-booking-titleinfo-story-Events.mp4",
+              "promoHeading": "Noteworthy Function"
+            }
+          },
+          {
+            "Education": {
+              "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QXX19_1695207773250_04-booking-titleinfo-story-Education.jpg",
+              "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_uOsJ2_1695207774568_04-booking-titleinfo-story-Education.mp4",
+              "promoHeading": ""
+            }
+          }
+        ],
+        "id": "lbIKOlcpz7Fk-B3GgQ5SB",
+        "templateId": "lbIKOlcpz7Fk-B3GgQ5SB",
+        "isMultipleTemplate": false
+      }
   ]
 }
