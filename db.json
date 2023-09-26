@@ -77965,6 +77965,321 @@
           ],
           "id": "avlpWeH2OUJFSWe8WHDQW",
           "templateId": "avlpWeH2OUJFSWe8WHDQW"
-        }
+        },
+          {
+            "version": 1,
+            "gifUrl": "",
+            "bgVideoUrl": [
+              ""
+            ],
+            "fontUrl": [
+              ""
+            ],
+            "bgImageUrl": [
+              ""
+            ],
+            "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YFAPO_1666165105506_mixkit-just-keep-walking-963.mp3",
+            "fillEnabled": true,
+            "forWebsites": [],
+            "pro": true,
+            "createdOn": "2023-04-13T12:34:31.458Z",
+            "extraComps": [
+              {
+                "index": 5,
+                "compId": "1669380914434_18-BrandOutro-4-5-version-1"
+              }
+            ],
+            "widgetsDefinition": [
+              {
+                "mappingKeyMandatory": false,
+                "Height": "100%",
+                "Width": "100%",
+                "StartTime": 0,
+                "EndTime": -1,
+                "URLS": [],
+                "mappingKeyValue": "",
+                "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_B15JL_1681389265442_01-auto-online-event-template-portrait.json",
+                "X": "0.0%",
+                "Y": "0.0%",
+                "type": "SVG_SINGLE",
+                "duration": 10
+              }
+            ],
+            "type": "Post 4:5",
+            "name": "01-auto-online-event-template-portrait",
+            "brandEnabled": false,
+            "brandType": "X1",
+            "category": [
+              "p_nauto_event"
+            ],
+            "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pVWja_1681389265786_01-auto-online-event-template-portrait.mp4",
+            "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_s1RAW_1681389265784_01-auto-online-event-template-portrait.jpg",
+            "imageType": "Youtube Videos",
+            "outroType": null,
+            "introType": null,
+            "Height": 1350,
+            "Width": 1080,
+            "height": 1350,
+            "width": 1080,
+            "introId": null,
+            "outroId": null,
+            "isTransparent": false,
+            "isMultipleTemplate": false,
+            "previews": [],
+            "id": "4vwfNQa2jszH6B3U7Ligh",
+            "templateId": "4vwfNQa2jszH6B3U7Ligh"
+          },
+          {
+            "version": 1,
+            "gifUrl": "",
+            "bgVideoUrl": [
+              ""
+            ],
+            "fontUrl": [
+              ""
+            ],
+            "bgImageUrl": [
+              ""
+            ],
+            "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_EBxaw_1663652339012_mixkit-techno-fest-vibes-124.mp3",
+            "fillEnabled": true,
+            "forWebsites": [],
+            "pro": true,
+            "createdOn": "2023-04-13T11:47:13.774Z",
+            "extraComps": [
+              {
+                "index": 5,
+                "compId": "1666868607828_17-BrandOutro-Story"
+              }
+            ],
+            "widgetsDefinition": [
+              {
+                "mappingKeyMandatory": false,
+                "Height": "100%",
+                "Width": "100%",
+                "StartTime": 0,
+                "EndTime": -1,
+                "URLS": [],
+                "mappingKeyValue": "",
+                "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Vyjwk_1681386429436_02-auto-online-event-template-story.json",
+                "X": "0.0%",
+                "Y": "0.0%",
+                "type": "SVG_SINGLE",
+                "duration": 10
+              }
+            ],
+            "type": "Instagram Stories",
+            "name": "02-auto-online-event-template-story",
+            "brandEnabled": false,
+            "brandType": "X1",
+            "category": [
+              "p_nauto_event"
+            ],
+            "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tLmD__1681386429439_02-auto-online-event-template-story.mp4",
+            "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Kw97l_1681386429437_02-auto-online-event-template-story.jpg",
+            "imageType": "Instagram Posts",
+            "outroType": null,
+            "introType": null,
+            "Height": 1920,
+            "Width": 1080,
+            "height": 1920,
+            "width": 1080,
+            "introId": null,
+            "outroId": null,
+            "isTransparent": false,
+            "previews": [],
+            "id": "WLN4_DpQpf2bPCOixXtLw",
+            "templateId": "WLN4_DpQpf2bPCOixXtLw",
+            "isMultipleTemplate": false
+          },
+          {
+            "version": 1,
+            "gifUrl": "",
+            "bgVideoUrl": [
+              ""
+            ],
+            "fontUrl": [
+              ""
+            ],
+            "bgImageUrl": [
+              ""
+            ],
+            "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ewW6a_1666164968190_mixkit-fight-till-the-end-81.mp3",
+            "fillEnabled": true,
+            "forWebsites": [],
+            "pro": true,
+            "createdOn": "2023-04-13T10:38:41.807Z",
+            "extraComps": [
+              {
+                "index": 5,
+                "compId": "1666868563760_15-BrandOutro-Story"
+              }
+            ],
+            "widgetsDefinition": [
+              {
+                "mappingKeyMandatory": false,
+                "Height": "100%",
+                "Width": "100%",
+                "StartTime": 0,
+                "EndTime": -1,
+                "URLS": [],
+                "mappingKeyValue": "",
+                "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_z_QMJ_1681382317554_01-auto-event-base-template-story.json",
+                "X": "0.0%",
+                "Y": "0.0%",
+                "type": "SVG_SINGLE",
+                "duration": 10
+              }
+            ],
+            "type": "Instagram Stories",
+            "name": "01-auto-event-base-template-story",
+            "brandEnabled": false,
+            "brandType": "X1",
+            "category": [
+              "p_nauto_event"
+            ],
+            "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_J-E5o_1681382317557_01-auto-event-base-template-story.mp4",
+            "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GHdv2_1681382317555_01-auto-event-base-template-story.jpg",
+            "imageType": "Instagram Stories",
+            "outroType": null,
+            "introType": null,
+            "Height": 1920,
+            "Width": 1080,
+            "height": 1920,
+            "width": 1080,
+            "introId": null,
+            "outroId": null,
+            "isTransparent": false,
+            "previews": [],
+            "id": "CVpjx-QL62jW4FQ57aigR",
+            "templateId": "CVpjx-QL62jW4FQ57aigR",
+            "isMultipleTemplate": false
+          },
+          {
+            "version": 1,
+            "gifUrl": "",
+            "bgVideoUrl": [
+              ""
+            ],
+            "fontUrl": [
+              ""
+            ],
+            "bgImageUrl": [
+              ""
+            ],
+            "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Lp29f_1674196853177_mixkit-dance-02-762 (mp3cut (mp3cut.net).mp3",
+            "fillEnabled": true,
+            "forWebsites": [],
+            "pro": true,
+            "createdOn": "2023-04-13T09:37:58.275Z",
+            "extraComps": [
+              {
+                "index": 5,
+                "compId": "1669383412764_17-BrandOutro-Square-version-1"
+              }
+            ],
+            "widgetsDefinition": [
+              {
+                "mappingKeyMandatory": false,
+                "Height": "100%",
+                "Width": "100%",
+                "StartTime": 0,
+                "EndTime": -1,
+                "URLS": [],
+                "mappingKeyValue": "",
+                "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_5CMZn_1681378673031_02-auto-event-base-template-square.json",
+                "X": "0.0%",
+                "Y": "0.0%",
+                "type": "SVG_SINGLE",
+                "duration": 10
+              }
+            ],
+            "type": "Instagram Posts",
+            "name": "02-auto-event-base-template-square",
+            "brandEnabled": false,
+            "brandType": "X1",
+            "category": [
+              "p_nauto_event"
+            ],
+            "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fcvH5_1681378673047_02-auto-event-base-template-square.mp4",
+            "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZdK22_1681378673045_02-auto-event-base-template-square.jpg",
+            "imageType": "Youtube Videos",
+            "outroType": null,
+            "introType": null,
+            "Height": 1080,
+            "Width": 1080,
+            "height": 1080,
+            "width": 1080,
+            "introId": null,
+            "outroId": null,
+            "isTransparent": false,
+            "previews": [],
+            "id": "fGRb0wR6KLXBSExNnUNPD",
+            "templateId": "fGRb0wR6KLXBSExNnUNPD",
+            "isMultipleTemplate": false
+          },
+          {
+            "version": 1,
+            "gifUrl": "",
+            "bgVideoUrl": [
+              ""
+            ],
+            "fontUrl": [
+              ""
+            ],
+            "bgImageUrl": [
+              ""
+            ],
+            "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_84t9p_1666165433805_mixkit-the-long-road-52.mp3",
+            "fillEnabled": true,
+            "forWebsites": [],
+            "pro": true,
+            "createdOn": "2023-04-13T05:26:55.553Z",
+            "extraComps": [
+              {
+                "index": 6,
+                "compId": "1669383380037_18-BrandOutro-Square-version-1-update"
+              }
+            ],
+            "widgetsDefinition": [
+              {
+                "mappingKeyMandatory": false,
+                "Height": "100%",
+                "Width": "100%",
+                "StartTime": 0,
+                "EndTime": -1,
+                "URLS": [],
+                "mappingKeyValue": "",
+                "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_k4HCG_1681363609882_01-auto-event-base-template-square-update.json",
+                "X": "0.0%",
+                "Y": "0.0%",
+                "type": "SVG_SINGLE",
+                "duration": 10
+              }
+            ],
+            "type": "Instagram Posts",
+            "name": "01-auto-event-base-template-square-update",
+            "brandEnabled": false,
+            "brandType": "X1",
+            "category": [
+              "p_nauto_event"
+            ],
+            "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wrkpU_1681363609897_01-auto-event-base-template-square-update.mp4",
+            "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_B7fih_1681363609894_01-auto-event-base-template-square-update.jpg",
+            "imageType": "Youtube Videos",
+            "outroType": null,
+            "introType": null,
+            "Height": 1080,
+            "Width": 1080,
+            "height": 1080,
+            "width": 1080,
+            "introId": null,
+            "outroId": null,
+            "isTransparent": false,
+            "previews": [],
+            "id": "WqqErqx3XIF0UzG75QBRj",
+            "templateId": "WqqErqx3XIF0UzG75QBRj",
+            "isMultipleTemplate": false
+          }
   ]
 }
