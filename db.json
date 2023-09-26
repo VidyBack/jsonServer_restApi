@@ -10708,6 +10708,7 @@
       "introId": null,
       "outroId": null,
       "isTransparent": false,
+      "isMultipleTemplate": true,
       "previews": [
         {
           "Footwear": {
@@ -10857,7 +10858,7 @@
       "isTransparent": false,
       "AddId": "",
       "volume": 0.3,
-      "isMultipleTemplate": false,
+      "isMultipleTemplate": true,
       "previews": [
         {
           "Toys": {
@@ -10993,7 +10994,7 @@
       "isTransparent": false,
       "AddId": "",
       "volume": 0.3,
-      "isMultipleTemplate": false,
+      "isMultipleTemplate": true,
       "previews": [
         {
           "Accessories": {
@@ -11134,6 +11135,7 @@
       "introId": null,
       "outroId": null,
       "isTransparent": false,
+      "isMultipleTemplate": true,
       "AddId": "",
       "volume": 0.5,
       "previews": [],
