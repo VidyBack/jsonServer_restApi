@@ -69339,7 +69339,809 @@
                     ],
                     "id": "qRqoGJXPCQQqbk2FA-5Ji",
                     "templateId": "qRqoGJXPCQQqbk2FA-5Ji"
-                  }
+                  },
+
+
+        {
+          "version": 2,
+          "gifUrl": "",
+          "bgVideoUrl": [
+            ""
+          ],
+          "fontUrl": [
+            ""
+          ],
+          "bgImageUrl": [
+            ""
+          ],
+          "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_p9bZn_1666165060558_mixkit-francisco-798.mp3",
+          "fillEnabled": true,
+          "forWebsites": [],
+          "pro": true,
+          "createdOn": "2023-08-25T08:20:05.410Z",
+          "extraComps": [
+            {
+              "index": 3,
+              "compId": "1669380914434_18-BrandOutro-4-5-version-1"
+            }
+          ],
+          "widgetsDefinition": [
+            {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_94sgT_1692951597121_01-blog-summary-template-portrait.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+            }
+          ],
+          "type": "Post 4:5",
+          "name": "01-blog-summary-template-portrait",
+          "brandEnabled": false,
+          "brandType": "X1",
+          "category": [
+            "p_bs"
+          ],
+          "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__rXid_1692951597132_01-blog-summary-template-portrait.mp4",
+          "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pCHpr_1692951597130_01-blog-summary-template-portrait.jpg",
+          "imageType": "1200x800",
+          "outroType": null,
+          "introType": null,
+          "Height": 1350,
+          "Width": 1080,
+          "height": 1350,
+          "width": 1080,
+          "introId": null,
+          "outroId": null,
+          "isTransparent": false,
+          "AddId": "",
+          "volume": 0.3,
+          "isMultipleTemplate": false,
+          "previews": [
+            {
+              "Education": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QVRgU_1692951601814_01-blog-summary-template-portrait-Education.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_arc3F_1692951603147_01-blog-summary-template-portrait-Education.mp4",
+                "promoHeading": "Online Webinar"
+              }
+            }
+          ],
+          "id": "BEiyoV41ZR4ppdKAkdcV1",
+          "templateId": "BEiyoV41ZR4ppdKAkdcV1"
+        },
+        {
+          "version": 2,
+          "gifUrl": "",
+          "bgVideoUrl": [
+            ""
+          ],
+          "fontUrl": [
+            ""
+          ],
+          "bgImageUrl": [
+            ""
+          ],
+          "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_g1hO7_1666165379253_mixkit-the-duel-817.mp3",
+          "fillEnabled": true,
+          "forWebsites": [],
+          "pro": true,
+          "createdOn": "2023-08-25T05:24:56.872Z",
+          "extraComps": [
+            {
+              "index": 3,
+              "compId": "1666868543799_14-BrandOutro-Story"
+            }
+          ],
+          "widgetsDefinition": [
+            {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_PMdsn_1692941088717_03-blog-summary-template-story.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+            }
+          ],
+          "type": "Instagram Stories",
+          "name": "03-blog-summary-template-story",
+          "brandEnabled": false,
+          "brandType": "X1",
+          "category": [
+            "p_bs"
+          ],
+          "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_63Lmt_1692941088982_03-blog-summary-template-story.mp4",
+          "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YeVYF_1692941088978_03-blog-summary-template-story.jpg",
+          "imageType": "1200x800",
+          "outroType": null,
+          "introType": null,
+          "Height": 1920,
+          "Width": 1080,
+          "height": 1920,
+          "width": 1080,
+          "introId": null,
+          "outroId": null,
+          "isTransparent": false,
+          "AddId": "",
+          "volume": 0.4,
+          "isMultipleTemplate": false,
+          "previews": [
+            {
+              "Education": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_tthVj_1692941093692_03-blog-summary-template-story-Education.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_AdMtp_1692941094990_03-blog-summary-template-story-Education.mp4",
+                "promoHeading": "Ignite Learning"
+              }
+            }
+          ],
+          "id": "3g1SZbvxG27LmeycjQjS0",
+          "templateId": "3g1SZbvxG27LmeycjQjS0"
+        },
+        {
+          "version": 2,
+          "gifUrl": "",
+          "bgVideoUrl": [
+            ""
+          ],
+          "fontUrl": [
+            ""
+          ],
+          "bgImageUrl": [
+            ""
+          ],
+          "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3safL_1666165205619_mixkit-my-little-prince-815.mp3",
+          "fillEnabled": true,
+          "forWebsites": [],
+          "pro": true,
+          "createdOn": "2023-08-24T12:58:45.180Z",
+          "extraComps": [
+            {
+              "index": 3,
+              "compId": "1666868607828_17-BrandOutro-Story"
+            }
+          ],
+          "widgetsDefinition": [
+            {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_HC-6A_1692881911666_04-blog-summary-template-story.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+            }
+          ],
+          "type": "Instagram Stories",
+          "name": "04-blog-summary-template-story",
+          "brandEnabled": false,
+          "brandType": "X1",
+          "category": [
+            "p_bs"
+          ],
+          "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_T1r2J_1692881911669_04-blog-summary-template-story.mp4",
+          "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_oTeFw_1692881911668_04-blog-summary-template-story.jpg",
+          "imageType": "1200x800",
+          "outroType": null,
+          "introType": null,
+          "Height": 1920,
+          "Width": 1080,
+          "height": 1920,
+          "width": 1080,
+          "introId": null,
+          "outroId": null,
+          "isTransparent": false,
+          "AddId": "",
+          "volume": 0.3,
+          "isMultipleTemplate": false,
+          "previews": [
+            {
+              "Education": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_F_aLV_1692881918969_04-blog-summary-template-story-Education.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8tbQf_1692881920504_04-blog-summary-template-story-Education.mp4",
+                "promoHeading": "Knowledge Boost"
+              }
+            }
+          ],
+          "id": "Le3BmCgvoP3t8JvJRmACy",
+          "templateId": "Le3BmCgvoP3t8JvJRmACy"
+        },
+        {
+          "version": 2,
+          "gifUrl": "",
+          "bgVideoUrl": [
+            ""
+          ],
+          "fontUrl": [
+            ""
+          ],
+          "bgImageUrl": [
+            ""
+          ],
+          "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GvoFq_1663651063449_mixkit-be-happy-942.mp3",
+          "fillEnabled": true,
+          "forWebsites": [],
+          "pro": true,
+          "createdOn": "2023-08-24T12:46:02.845Z",
+          "extraComps": [
+            {
+              "index": 3,
+              "compId": "1666868563760_15-BrandOutro-Story"
+            }
+          ],
+          "widgetsDefinition": [
+            {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ivAXj_1692881155216_02-blog-summary-template-story.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+            }
+          ],
+          "type": "Instagram Stories",
+          "name": "02-blog-summary-template-story",
+          "brandEnabled": false,
+          "brandType": "X1",
+          "category": [
+            "p_bs"
+          ],
+          "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RX6Zj_1692881155220_02-blog-summary-template-story.mp4",
+          "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qq4Rz_1692881155218_02-blog-summary-template-story.jpg",
+          "imageType": "1200x800",
+          "outroType": null,
+          "introType": null,
+          "Height": 1920,
+          "Width": 1080,
+          "height": 1920,
+          "width": 1080,
+          "introId": null,
+          "outroId": null,
+          "isTransparent": false,
+          "AddId": "",
+          "volume": 0.3,
+          "isMultipleTemplate": false,
+          "previews": [
+            {
+              "Education": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SzJFR_1692881159241_02-blog-summary-template-story-Education.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fCGbN_1692881160549_02-blog-summary-template-story-Education.mp4",
+                "promoHeading": "Ace Your Learning"
+              }
+            }
+          ],
+          "id": "OvzrAFJkaiZ8U70-WOIVK",
+          "templateId": "OvzrAFJkaiZ8U70-WOIVK"
+        },
+        {
+          "version": 2,
+          "gifUrl": "",
+          "bgVideoUrl": [
+            ""
+          ],
+          "fontUrl": [
+            ""
+          ],
+          "bgImageUrl": [
+            ""
+          ],
+          "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ep7mP_1685442288659_mixkit-classical-4-711.mp3",
+          "fillEnabled": true,
+          "forWebsites": [],
+          "pro": true,
+          "createdOn": "2023-08-24T11:26:18.239Z",
+          "extraComps": [
+            {
+              "index": 3,
+              "compId": "1666868563760_15-BrandOutro-Story"
+            }
+          ],
+          "widgetsDefinition": [
+            {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_h0aBH_1692876365943_01-blog-summary-template-story.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+            }
+          ],
+          "type": "Instagram Stories",
+          "name": "01-blog-summary-template-story",
+          "brandEnabled": false,
+          "brandType": "X1",
+          "category": [
+            "p_bs"
+          ],
+          "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1vXuZ_1692876365966_01-blog-summary-template-story.mp4",
+          "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PR1x__1692876365964_01-blog-summary-template-story.jpg",
+          "imageType": "1200x800",
+          "outroType": null,
+          "introType": null,
+          "Height": 1920,
+          "Width": 1080,
+          "height": 1920,
+          "width": 1080,
+          "introId": null,
+          "outroId": null,
+          "isTransparent": false,
+          "AddId": "",
+          "volume": 0.3,
+          "isMultipleTemplate": false,
+          "previews": [
+            {
+              "Education": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_glykj_1692876373876_01-blog-summary-template-story-Education.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_7z96K_1692876376125_01-blog-summary-template-story-Education.mp4",
+                "promoHeading": "Online Webinar"
+              }
+            }
+          ],
+          "id": "cAKBBPIHQ9KdPB4m-Gt1d",
+          "templateId": "cAKBBPIHQ9KdPB4m-Gt1d"
+        },
+        {
+          "version": 2,
+          "gifUrl": "",
+          "bgVideoUrl": [
+            ""
+          ],
+          "fontUrl": [
+            ""
+          ],
+          "bgImageUrl": [
+            ""
+          ],
+          "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XEFrW_1663651653306_mixkit-its-love-834.mp3",
+          "fillEnabled": true,
+          "forWebsites": [],
+          "pro": true,
+          "createdOn": "2023-08-24T10:36:46.003Z",
+          "extraComps": [
+            {
+              "index": 3,
+              "compId": "1669380914434_18-BrandOutro-4-5-version-1"
+            }
+          ],
+          "widgetsDefinition": [
+            {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_R1axi_1692873391752_04-blog-summary-template-portrait.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+            }
+          ],
+          "type": "Post 4:5",
+          "name": "04-blog-summary-template-portrait",
+          "brandEnabled": false,
+          "brandType": "X1",
+          "category": [
+            "p_bs"
+          ],
+          "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_oug5F_1692873391756_04-blog-summary-template-portrait.mp4",
+          "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7nFVG_1692873391754_04-blog-summary-template-portrait.jpg",
+          "imageType": "1200x800",
+          "outroType": null,
+          "introType": null,
+          "Height": 1350,
+          "Width": 1080,
+          "height": 1350,
+          "width": 1080,
+          "introId": null,
+          "outroId": null,
+          "isTransparent": false,
+          "AddId": "",
+          "volume": 0.3,
+          "isMultipleTemplate": false,
+          "previews": [
+            {
+              "Education": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_RfRq4_1692873399163_04-blog-summary-template-portrait-Education.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Nla6j_1692873400455_04-blog-summary-template-portrait-Education.mp4",
+                "promoHeading": "Online Webinar"
+              }
+            }
+          ],
+          "id": "wuqVwL97M2BUZHS4_uBg7",
+          "templateId": "wuqVwL97M2BUZHS4_uBg7"
+        },
+        {
+          "version": 2,
+          "gifUrl": "",
+          "bgVideoUrl": [
+            ""
+          ],
+          "fontUrl": [
+            ""
+          ],
+          "bgImageUrl": [
+            ""
+          ],
+          "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YFAPO_1666165105506_mixkit-just-keep-walking-963.mp3",
+          "fillEnabled": true,
+          "forWebsites": [],
+          "pro": true,
+          "createdOn": "2023-08-24T10:01:40.886Z",
+          "extraComps": [
+            {
+              "index": 3,
+              "compId": "1669380914434_18-BrandOutro-4-5-version-1"
+            }
+          ],
+          "widgetsDefinition": [
+            {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_QZM5K_1692871292100_02-blog-summary-template-portrait.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+            }
+          ],
+          "type": "Post 4:5",
+          "name": "02-blog-summary-template-portrait",
+          "brandEnabled": false,
+          "brandType": "X1",
+          "category": [
+            "p_bs"
+          ],
+          "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Hr0Yb_1692871292285_02-blog-summary-template-portrait.mp4",
+          "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Zb9ZX_1692871292236_02-blog-summary-template-portrait.jpg",
+          "imageType": "Post 4:5",
+          "outroType": null,
+          "introType": null,
+          "Height": 1350,
+          "Width": 1080,
+          "height": 1350,
+          "width": 1080,
+          "introId": null,
+          "outroId": null,
+          "isTransparent": false,
+          "AddId": "",
+          "volume": 0.3,
+          "isMultipleTemplate": false,
+          "previews": [
+            {
+              "Education": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_glBVv_1692871297219_02-blog-summary-template-portrait-Education.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kCVlf_1692871298545_02-blog-summary-template-portrait-Education.mp4",
+                "promoHeading": "Online Learning"
+              }
+            }
+          ],
+          "id": "xv7P_QLcPPxvECS7WLEps",
+          "templateId": "xv7P_QLcPPxvECS7WLEps"
+        },
+        {
+          "version": 2,
+          "gifUrl": "",
+          "bgVideoUrl": [
+            ""
+          ],
+          "fontUrl": [
+            ""
+          ],
+          "bgImageUrl": [
+            ""
+          ],
+          "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_t82p4_1674197127176_Upbeat Melodic Corporate.mp3",
+          "fillEnabled": true,
+          "forWebsites": [],
+          "pro": false,
+          "createdOn": "2023-08-24T09:42:39.866Z",
+          "extraComps": [
+            {
+              "index": 3,
+              "compId": "1667216241221_14-BrandOutro-post-4-5-New"
+            }
+          ],
+          "widgetsDefinition": [
+            {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Xjadn_1692870150058_03-blog-summary-template-portrait.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+            }
+          ],
+          "type": "Post 4:5",
+          "name": "03-blog-summary-template-portrait",
+          "brandEnabled": false,
+          "brandType": "X1",
+          "category": [
+            "p_bs"
+          ],
+          "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_4ZiIO_1692870156680_03-blog-summary-template-portrait-Education.mp4",
+          "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_WDdKB_1692870154901_03-blog-summary-template-portrait-Education.jpg",
+          "imageType": "1200x800",
+          "outroType": null,
+          "introType": null,
+          "Height": 1350,
+          "Width": 1080,
+          "height": 1350,
+          "width": 1080,
+          "introId": null,
+          "outroId": null,
+          "isTransparent": false,
+          "AddId": "",
+          "volume": 0.3,
+          "isMultipleTemplate": false,
+          "previews": [
+            {
+              "Education": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_WDdKB_1692870154901_03-blog-summary-template-portrait-Education.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4ZiIO_1692870156680_03-blog-summary-template-portrait-Education.mp4",
+                "promoHeading": "Digital Classroom"
+              }
+            }
+          ],
+          "id": "Uqlt53SX3juYRlvglANxv",
+          "templateId": "Uqlt53SX3juYRlvglANxv"
+        },
+        {
+          "version": 2,
+          "gifUrl": "",
+          "bgVideoUrl": [
+            ""
+          ],
+          "fontUrl": [
+            ""
+          ],
+          "bgImageUrl": [
+            ""
+          ],
+          "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_p9bZn_1666165060558_mixkit-francisco-798.mp3",
+          "fillEnabled": true,
+          "forWebsites": [],
+          "pro": true,
+          "createdOn": "2023-08-02T08:16:35.631Z",
+          "extraComps": [
+            {
+              "index": 7,
+              "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+            }
+          ],
+          "widgetsDefinition": [
+            {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_28_qQ_1690964188041_02-blog-summary-template-square.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+            }
+          ],
+          "type": "Instagram Posts",
+          "name": "02-blog-summary-template-square",
+          "brandEnabled": false,
+          "brandType": "X1",
+          "id": "qE7yZR54hr6yI7OBqwQFRKI",
+          "templateId": "qE7yZR54hr6yI7OBqwQFRKI",
+          "category": [
+            "p_bs"
+          ],
+          "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6GFNw_1690964188100_02-blog-summary-template-square.mp4",
+          "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XD5cr_1690964188097_02-blog-summary-template-square.jpg",
+          "imageType": "1200x800",
+          "outroType": null,
+          "introType": null,
+          "Height": 1080,
+          "Width": 1080,
+          "height": 1080,
+          "width": 1080,
+          "introId": null,
+          "outroId": null,
+          "isTransparent": false,
+          "AddId": "",
+          "volume": 0.3,
+          "previews": [
+            {
+              "Education": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_PPNqx_1690964191640_02-blog-summary-template-square-Education.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__XgxZ_1690964193742_02-blog-summary-template-square-Education.mp4",
+                "promoHeading": "Virtual Learning"
+              }
+            }
+          ]
+        },
+        {
+          "version": 2,
+          "gifUrl": "",
+          "bgVideoUrl": [
+            ""
+          ],
+          "fontUrl": [
+            ""
+          ],
+          "bgImageUrl": [
+            ""
+          ],
+          "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Vkuvn_1663651998875_mixkit-no-violence-337.mp3",
+          "fillEnabled": true,
+          "forWebsites": [],
+          "pro": false,
+          "createdOn": "2023-08-02T07:21:36.367Z",
+          "extraComps": [
+            {
+              "index": 7,
+              "compId": "1669383380037_18-BrandOutro-Square-version-1-update"
+            }
+          ],
+          "widgetsDefinition": [
+            {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_NO41M_1690960887995_01-blog-summary-template-square.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+            }
+          ],
+          "type": "Instagram Posts",
+          "name": "01-blog-summary-template-square",
+          "brandEnabled": false,
+          "brandType": "X1",
+          "id": "qE7y234ZR54hr6yI7OBQFRKI",
+          "templateId": "qE7y234ZR54hr6yI7OBQFRKI",
+          "category": [
+            "p_bs"
+          ],
+          "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_HSBoW_1690960887999_01-blog-summary-template-square.mp4",
+          "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iQQLI_1690960887997_01-blog-summary-template-square.jpg",
+          "imageType": "1200x800",
+          "outroType": null,
+          "introType": null,
+          "Height": 1080,
+          "Width": 1080,
+          "height": 1080,
+          "width": 1080,
+          "introId": null,
+          "outroId": null,
+          "isTransparent": false,
+          "AddId": "",
+          "volume": 0.4,
+          "previews": [
+            {
+              "Education": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IwmS7_1690960892744_01-blog-summary-template-square-Education.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CH7jM_1690960894069_01-blog-summary-template-square-Education.mp4",
+                "promoHeading": "Expert-Led Lessons"
+              }
+            }
+          ]
+        },
+        {
+          "version": 2,
+          "gifUrl": "",
+          "bgVideoUrl": [
+            ""
+          ],
+          "fontUrl": [
+            ""
+          ],
+          "bgImageUrl": [
+            ""
+          ],
+          "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TgQmu_1663651535557_mixkit-i-do-1001.mp3",
+          "fillEnabled": true,
+          "forWebsites": [],
+          "pro": true,
+          "createdOn": "2023-08-02T09:05:46.861Z",
+          "extraComps": [
+            {
+              "index": 7,
+              "compId": "1669383380037_18-BrandOutro-Square-version-1-update"
+            }
+          ],
+          "widgetsDefinition": [
+            {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_yuujC_1690967136387_03-blog-summary-template-square.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+            }
+          ],
+          "type": "Instagram Posts",
+          "name": "03-blog-summary-template-square",
+          "brandEnabled": false,
+          "brandType": "X1",
+          "id": "q1FPtl39ahtIm127eoT2EU6N",
+          "templateId": "q1FPtl39ahtIm127eoT2EU6N",
+          "category": [
+            "p_bs"
+          ],
+          "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2c6eR_1690967136437_03-blog-summary-template-square.mp4",
+          "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_T5lPK_1690967136434_03-blog-summary-template-square.jpg",
+          "imageType": "1200x800",
+          "outroType": null,
+          "introType": null,
+          "Height": 1080,
+          "Width": 1080,
+          "height": 1080,
+          "width": 1080,
+          "introId": null,
+          "outroId": null,
+          "isTransparent": false,
+          "AddId": "",
+          "volume": 0.2,
+          "previews": [
+            {
+              "Education": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_9V_0P_1690967141593_03-blog-summary-template-square-Education.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LFcsW_1690967142807_03-blog-summary-template-square-Education.mp4",
+                "promoHeading": "Expert-Led Lessons"
+              }
+            }
+          ]
+        }
   ]
         }
           
