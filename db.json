@@ -69988,6 +69988,7 @@
           "isTransparent": false,
           "AddId": "",
           "volume": 0.3,
+          "isMultipleTemplate": false,
           "previews": [
             {
               "Education": {
@@ -70058,6 +70059,7 @@
           "introId": null,
           "outroId": null,
           "isTransparent": false,
+          "isMultipleTemplate": false,
           "AddId": "",
           "volume": 0.4,
           "previews": [
@@ -70132,6 +70134,7 @@
           "isTransparent": false,
           "AddId": "",
           "volume": 0.2,
+          "isMultipleTemplate": false,
           "previews": [
             {
               "Education": {
