@@ -6555,7 +6555,8 @@
       ],
       "id": "NlzHNmaUp70jF4fuNLnBQ",
       "templateId": "NlzHNmaUp70jF4fuNLnBQ",
-      "priorityNumber": true
+      "priorityNumber": true,
+      "isMultipleTemplate": false
     },
     {
       "version": 1,
@@ -6635,7 +6636,8 @@
         }
       ],
       "id": "P0gAR1rtCq2cqm-FuwjcI",
-      "templateId": "P0gAR1rtCq2cqm-FuwjcI"
+      "templateId": "P0gAR1rtCq2cqm-FuwjcI",
+      "isMultipleTemplate": false
     },
     {
       "version": 1,
@@ -6716,7 +6718,8 @@
       ],
       "id": "-6msVp0Ia8CIsJ9clh6FF",
       "templateId": "-6msVp0Ia8CIsJ9clh6FF",
-      "priorityNumber": true
+      "priorityNumber": true,
+      "isMultipleTemplate": false
     },
     {
       "version": 1,
@@ -6797,7 +6800,8 @@
       ],
       "id": "iDzA-dYzoF7jS8zQBrNff",
       "templateId": "iDzA-dYzoF7jS8zQBrNff",
-      "priorityNumber": true
+      "priorityNumber": true,
+      "isMultipleTemplate": false
     },
     {
       "version": 1,
@@ -6878,7 +6882,8 @@
       ],
       "id": "F3I7sl0tgr_hckx-OOfn-",
       "templateId": "F3I7sl0tgr_hckx-OOfn-",
-      "priorityNumber": true
+      "priorityNumber": true,
+      "isMultipleTemplate": false
     },
     {
       "version": 1,
@@ -6958,7 +6963,8 @@
         }
       ],
       "id": "rG3u5x9JzITS75syxOLGw",
-      "templateId": "rG3u5x9JzITS75syxOLGw"
+      "templateId": "rG3u5x9JzITS75syxOLGw",
+      "isMultipleTemplate": false
     },
     {
       "version": 1,
@@ -7039,7 +7045,8 @@
       ],
       "id": "YSxyO-TqBpD3pnB7P4pH5",
       "templateId": "YSxyO-TqBpD3pnB7P4pH5",
-      "priorityNumber": true
+      "priorityNumber": true,
+      "isMultipleTemplate": false
     },
     {
       "version": 1,
@@ -7119,7 +7126,8 @@
         }
       ],
       "id": "-uS0-Olsabe3IIf0LvIOS",
-      "templateId": "-uS0-Olsabe3IIf0LvIOS"
+      "templateId": "-uS0-Olsabe3IIf0LvIOS",
+      "isMultipleTemplate": false
     },
     {
       "version": 1,
@@ -7199,7 +7207,8 @@
         }
       ],
       "id": "ufiWbIZGZ6W9kTnyXmpYI",
-      "templateId": "ufiWbIZGZ6W9kTnyXmpYI"
+      "templateId": "ufiWbIZGZ6W9kTnyXmpYI",
+      "isMultipleTemplate": false
     },
     {
       "version": 1,
@@ -7279,7 +7288,8 @@
         }
       ],
       "id": "8otAza6qvUlGrSBA9tp2A",
-      "templateId": "8otAza6qvUlGrSBA9tp2A"
+      "templateId": "8otAza6qvUlGrSBA9tp2A",
+      "isMultipleTemplate": false
     },
     {
       "version": 1,
@@ -7353,7 +7363,8 @@
         }
       ],
       "id": "em8huU3X0sWm9a9f08yAk",
-      "templateId": "em8huU3X0sWm9a9f08yAk"
+      "templateId": "em8huU3X0sWm9a9f08yAk",
+      "isMultipleTemplate": false
     },
     {
       "version": 1,
@@ -7424,7 +7435,8 @@
             "preview": "https://cdn.hootout.com/vidyback-thumbnail/story/mobile-electronics/mobile-electronics2.mp4"
           }
         }
-      ]
+      ],
+      "isMultipleTemplate": false
     },
     {
       "version": 1,
@@ -7495,7 +7507,8 @@
             "preview": "https://cdn.hootout.com/vidyback-thumbnail/story/footwear/05-footwear-story.mp4"
           }
         }
-      ]
+      ],
+      "isMultipleTemplate": false
     },
     {
       "gifUrl": "",
@@ -7566,7 +7579,8 @@
             "preview": "https://cdn.hootout.com/vidyback-thumbnail/1080x1350/health-fitness/health-fitness2.mp4"
           }
         }
-      ]
+      ],
+      "isMultipleTemplate": false
     },
     {
       "version": 1,
@@ -7637,7 +7651,8 @@
             "preview": "https://cdn.hootout.com/vidyback-thumbnail/1080x1350/clothing/clothing-3.mp4"
           }
         }
-      ]
+      ],
+      "isMultipleTemplate": false
     },
     {
       "gifUrl": "",
@@ -7701,7 +7716,8 @@
       "classes": [
         "Wearables"
       ],
-      "brandDisabled": true
+      "brandDisabled": true,
+      "isMultipleTemplate": false
     },
     {
       "gifUrl": "",
@@ -7773,7 +7789,9 @@
           }
         }
       ],
-      "brandDisabled": true
+      "brandDisabled": true,
+      "version": 1,
+      "isMultipleTemplate": false
     },
     {
       "gifUrl": "",
@@ -7839,7 +7857,9 @@
           }
         }
       ],
-      "brandDisabled": true
+      "brandDisabled": true,
+      "version": 1,
+      "isMultipleTemplate": false
     },
     {
       "gifUrl": "",
@@ -7906,7 +7926,9 @@
           }
         }
       ],
-      "brandDisabled": true
+      "brandDisabled": true,
+      "version": 1,
+      "isMultipleTemplate": false
     },
     {
       "gifUrl": "",
@@ -7973,7 +7995,9 @@
           }
         }
       ],
-      "brandDisabled": true
+      "brandDisabled": true,
+      "version": 1,
+      "isMultipleTemplate": false
     },
     {
       "gifUrl": "",
@@ -8032,7 +8056,9 @@
       "classes": [
         "Jewellery"
       ],
-      "brandDisabled": true
+      "brandDisabled": true,
+      "version": 1,
+      "isMultipleTemplate": false
     },
     {
       "gifUrl": "",
@@ -8099,7 +8125,9 @@
           }
         }
       ],
-      "brandDisabled": true
+      "brandDisabled": true,
+      "version": 1,
+      "isMultipleTemplate": false
     },
     {
       "gifUrl": "",
@@ -8166,7 +8194,9 @@
           }
         }
       ],
-      "brandDisabled": true
+      "brandDisabled": true,
+      "version": 1,
+      "isMultipleTemplate": false
     },
     {
       "gifUrl": "",
@@ -8225,7 +8255,9 @@
       "classes": [
         "Wearables"
       ],
-      "brandDisabled": true
+      "brandDisabled": true,
+      "version": 1,
+      "isMultipleTemplate": false
     },
     {
       "id": "DpPY0ml64_1bDBfdXa12ax",
@@ -9841,7 +9873,8 @@
         }
       ],
       "id": "TZIZFrdb5nrpv6qYw2g_a",
-      "templateId": "TZIZFrdb5nrpv6qYw2g_a"
+      "templateId": "TZIZFrdb5nrpv6qYw2g_a",
+      "isMultipleTemplate": false
     },
     {
       "version": 2,
@@ -9933,7 +9966,8 @@
         }
       ],
       "id": "oe4FrXeGuuI6oAvajZT3u",
-      "templateId": "oe4FrXeGuuI6oAvajZT3u"
+      "templateId": "oe4FrXeGuuI6oAvajZT3u",
+      "isMultipleTemplate": false
     },
     {
       "version": 2,
@@ -10025,7 +10059,8 @@
             "promoHeading": "Special Discount"
           }
         }
-      ]
+      ],
+      "isMultipleTemplate": false
     },
     {
       "version": 2,
@@ -10129,7 +10164,8 @@
             "promoHeading": "Course Rating"
           }
         }
-      ]
+      ],
+      "isMultipleTemplate": false
     },
     {
       "version": 2,
@@ -10248,7 +10284,8 @@
         }
       ],
       "id": "po87CE6kYhixhgLZZgm4E",
-      "templateId": "po87CE6kYhixhgLZZgm4E"
+      "templateId": "po87CE6kYhixhgLZZgm4E",
+      "isMultipleTemplate": false
     },
     {
       "version": 2,
@@ -10381,7 +10418,8 @@
         }
       ],
       "id": "IhJIuUAtzWaZu7R4osdSA",
-      "templateId": "IhJIuUAtzWaZu7R4osdSA"
+      "templateId": "IhJIuUAtzWaZu7R4osdSA",
+      "isMultipleTemplate": false
     },
     {
       "version": 2,
@@ -10500,7 +10538,8 @@
         }
       ],
       "id": "ybdDLEDL_H1mUtuJFapcL",
-      "templateId": "ybdDLEDL_H1mUtuJFapcL"
+      "templateId": "ybdDLEDL_H1mUtuJFapcL",
+      "isMultipleTemplate": false
     },
     {
       "version": 2,
@@ -10619,7 +10658,8 @@
         }
       ],
       "id": "oftst8_79PYHh6KM4JPN8",
-      "templateId": "oftst8_79PYHh6KM4JPN8"
+      "templateId": "oftst8_79PYHh6KM4JPN8",
+      "isMultipleTemplate": false
     },
     {
       "version": 2,
@@ -10710,7 +10750,8 @@
         }
       ],
       "id": "7b5n15xXDX2zCP3xjdTLP",
-      "templateId": "7b5n15xXDX2zCP3xjdTLP"
+      "templateId": "7b5n15xXDX2zCP3xjdTLP",
+      "isMultipleTemplate": false
     }
   ],
   "p_dpercentage": [
