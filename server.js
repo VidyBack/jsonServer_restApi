@@ -6,6 +6,10 @@ const cors = require('cors');
 const isProductionEnv = process.env.NODE_ENV === 'production';
 const server = jsonServer.create()
 server.use(cors());
+server.use((req, res, next) => {
+    res.set("Cross-Origin-Resource-Policy", "cross-origin");
+    next();
+  });
 const middlewares = jsonServer.defaults()
 server.use(middlewares)
  
