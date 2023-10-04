@@ -14,7 +14,7 @@
         "src": "/(.*)",
         "dest": "server.js",
         "headers": {
-          "cache-control": "s-maxage=1, stale-while-revalidate=59",
+          "cache-control": "max-age=3600",
           "x-vidyback": "ABC:123"
         }
       }
