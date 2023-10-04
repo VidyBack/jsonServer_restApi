@@ -45386,74 +45386,7 @@
       "brandDisabled": true,
       "isMultipleTemplate": false
     },
-    {
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_4_bT7_1663652241152_mixkit-slow-ramp-57.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2022-10-18T12:20:44.150Z",
-      "extraComps": [],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Fudt1_1666095640145_03-newarrival-new-update18-10-2022.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "03 New arrival 18_10_2022",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_na"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8puCP_1666095640149_03-newarrival-updated_small_updated.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_V6ppr_1666095640147_03-newarrival-updated.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "id": "oPrPL3wO31PyXE07liT25",
-      "templateId": "oPrPL3wO31PyXE07liT25",
-      "classes": [
-        "Jewellery"
-      ],
-      "previews": [
-        {
-          "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/vidyback-thumbnail/post/perfume/01-perfume-post.jpg",
-            "preview": "https://cdn.hootout.com/vidyback-thumbnail/post/perfume/01-perfume-post.mp4"
-          }
-        }
-      ],
-      "brandDisabled": true,
-      "version": 1,
-      "isMultipleTemplate": false
-    },
+   
     {
       "gifUrl": "",
       "bgVideoUrl": [
@@ -45985,67 +45918,7 @@
       "version": 1,
       "isMultipleTemplate": false
     },
-    {
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bAX--_1663652120460_mixkit-savana-186.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2022-09-22T05:40:08.183Z",
-      "extraComps": [],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Pk-e7_1663825204806_06-new-arrival-21-09-22.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "06- New Arrival Post",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_na"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Tz-2v_1663825204809_06-new-arrival_small_updated.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VvTwb_1663825204808_06-new-arrival.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "id": "cRIYl6zzQgT7s1mdOBXOe",
-      "templateId": "cRIYl6zzQgT7s1mdOBXOe",
-      "musicName": "Mixkit Savana",
-      "classes": [
-        "HealthBeauty"
-      ],
-      "brandDisabled": true,
-      "version": 1,
-      "isMultipleTemplate": false
-    },
+   
     {
       "gifUrl": "",
       "bgVideoUrl": [
@@ -46121,67 +45994,7 @@
       "version": 1,
       "isMultipleTemplate": false
     },
-    {
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TaRUb_1663652193500_mixkit-showcase-me-61.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2022-09-21T06:23:36.100Z",
-      "extraComps": [],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_iQQN6_1663741410101_05 New arrival_21_09_2022.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "05 New arrival_21_09_2022",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_na"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Fl_Mv_1663741410171_05 New arrival_13_09_2022_updated.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-kRMT_1663741410169_05 New arrival_21_09_2022.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "id": "k6mdQ1oY4wTHRPou25-Mu",
-      "templateId": "k6mdQ1oY4wTHRPou25-Mu",
-      "musicName": "Mixkit Showcase Me",
-      "classes": [
-        "HealthBeauty"
-      ],
-      "brandDisabled": true,
-      "version": 1,
-      "isMultipleTemplate": false
-    },
+   
     {
       "gifUrl": "",
       "bgVideoUrl": [
