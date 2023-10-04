@@ -12,7 +12,11 @@
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "server.js"
+        "dest": "server.js",
+        "headers": {
+          "cache-control": "s-maxage=1, stale-while-revalidate=59",
+          "x-vidyback": "ABC:123"
+        }
       }
     ]
   }
