@@ -2,15 +2,17 @@ const jsonServer = require('json-server')
 const clone = require('clone')
 const data = require('./db.json')
 const cors = require('cors');
+const middlewares = jsonServer.defaults()
 
 const isProductionEnv = process.env.NODE_ENV === 'production';
 const server = jsonServer.create()
-server.use(cors());
+server.use(cors({
+    origin: '*',
+  }));
 server.use((req, res, next) => {
     res.set("Cross-Origin-Resource-Policy", "cross-origin");
     next();
   });
-const middlewares = jsonServer.defaults()
 server.use(middlewares)
  
 // For mocking the POST request, POST request won't make any changes to the DB in production environment

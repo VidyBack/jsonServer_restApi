@@ -14,6 +14,7 @@
         "src": "/(.*)",
         "dest": "server.js",
         "headers": {
+          "Cross-Origin-Resource-Policy": "*",
           "Vercel-CDN-Cache-Control": "max-age=3600",
           "CDN-Cache-Control": "max-age=60",
           "Cache-Control": "max-age=10",
