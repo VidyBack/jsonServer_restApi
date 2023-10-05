@@ -15825,75 +15825,7 @@
       "version": 1,
       "isMultipleTemplate": false
     },
-    {
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TaRUb_1663652193500_mixkit-showcase-me-61.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2022-09-23T13:42:22.510Z",
-      "extraComps": [],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_4HeAN_1663940537967_02 - Discount in pricee_23_09_22.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "02 Discount in price 23_09_2022",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_dPr"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZHxti_1663940537978_02 - Discount in pricee_small.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_i0Op3_1663940537972_02 - Discount in pricee.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "id": "qrgFnYzo0E17EIyZgEVU5",
-      "templateId": "qrgFnYzo0E17EIyZgEVU5",
-      "musicName": "Mixkit Showcase Me",
-      "classes": [
-        "Watch"
-      ],
-      "previews": [
-        {
-          "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/vidyback-thumbnail/story/bags-purses/02-bags-purses-story.jpg",
-            "preview": "https://cdn.hootout.com/vidyback-thumbnail/story/bags-purses/02-bags-purses-story.mp4"
-          }
-        }
-      ],
-      "brandDisabled": true,
-      "version": 1,
-      "isMultipleTemplate": false
-    },
+    
     {
       "id": "DpPY0ml64_1bDBfdXa12ax",
       "templateId": "DpPY0ml64_1bDBfdXa12ax",
@@ -45377,71 +45309,7 @@
       "brandDisabled": true,
       "isMultipleTemplate": false
     },
-    {
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_C8pkI_1663651826811_mixkit-molly-260.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2022-10-20T10:01:59.548Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1666243411737_14-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_gbdbG_1666260115501_08-new-arrival-updated-20-10-2022.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "08-new-arrival-updated-20-10-2022",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_na"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XWBOq_1666260115504_08-new-Arrival-updated_small_updated.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ca8ls_1666260115503_08-new-Arrival-updated.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "id": "9jl1pRXnl6LrXzBoxHQZp",
-      "templateId": "9jl1pRXnl6LrXzBoxHQZp",
-      "classes": [
-        "Wearables"
-      ],
-      "brandDisabled": true,
-      "version": 1,
-      "isMultipleTemplate": false
-    },
+
    
     {
       "version": 1,
