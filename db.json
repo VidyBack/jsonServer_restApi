@@ -33592,71 +33592,7 @@
           }
       ]
   },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-          ""
-      ],
-      "fontUrl": [
-          ""
-      ],
-      "bgImageUrl": [
-          ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bZX6e_1696574207413_mixkit-our-nights-627.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-10-06T06:52:49.981Z",
-      "extraComps": [
-          {
-              "index": 4,
-              "compId": "1666868563760_15-BrandOutro-Story"
-          }
-      ],
-      "widgetsDefinition": [
-          {
-              "mappingKeyMandatory": false,
-              "Height": "100%",
-              "Width": "100%",
-              "StartTime": 0,
-              "EndTime": -1,
-              "URLS": [],
-              "mappingKeyValue": "",
-              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_sGdkw_1696575165477_10-display-ads-story.json",
-              "X": "0.0%",
-              "Y": "0.0%",
-              "type": "SVG_SINGLE",
-              "duration": 10
-          }
-      ],
-      "type": "Instagram Stories",
-      "name": "10-display-ads-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-          "p_ps"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_otj4A_1696575165485_10-display-ads-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wmZKA_1696575165482_10-display-ads-story.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.5,
-      "id": "_erv1231_cE23S",
-      "templateId": "_erv1231_cE23S",
-      "isMultipleTemplate": false,
-      "previews": []
-  },
+  
     {
       "version": 1,
       "gifUrl": "",
