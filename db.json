@@ -23775,7 +23775,7 @@
       "volume": 0.3,
       "id": "1312432421",
       "templateId": "1312432421",
-      "isMultipleTemplate": false,
+      "isMultipleTemplate": true,
       "previews": [
           {
               "Toys": {
