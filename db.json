@@ -27411,6 +27411,135 @@
       "bgImageUrl": [
           ""
       ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pWUkQ_1696923381895_mixkit-its-because-of-you-1180.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-10-10T10:23:38.706Z",
+      "extraComps": [
+          {
+              "index": 4,
+              "compId": "1666868607828_17-BrandOutro-Story"
+          }
+      ],
+      "widgetsDefinition": [
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_D6N-8_1696933199501_09-Most-popular-full-screen-story.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
+      ],
+      "type": "Instagram Stories",
+      "name": "09-Most-popular-full-screen-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+          "p_mp"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SwsYJ_1696933199504_09-Most-popular-full-screen-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-XuSl_1696933199502_09-Most-popular-full-screen-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "id": "lW_XfXrF_D",
+      "templateId": "lW_XfXrF_D",
+      "previews": [
+          {
+              "Toys": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_qIsHU_1696933404520_09-Most-popular-full-screen-story-Toys.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_nR1Rh_1696933408248_09-Most-popular-full-screen-story-Toys.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Perfumes": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jJPJd_1696933404522_09-Most-popular-full-screen-story-Perfumes.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_RCQe-_1696933408249_09-Most-popular-full-screen-story-Perfumes.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "BagPurse": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0vZck_1696933404541_09-Most-popular-full-screen-story-BagPurse.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ehXOm_1696933408252_09-Most-popular-full-screen-story-BagPurse.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HealthBeauty": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_91Thd_1696933404543_09-Most-popular-full-screen-story-HealthBeauty.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kwYw4_1696933408254_09-Most-popular-full-screen-story-HealthBeauty.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "MobileElec": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hPHnH_1696933404544_09-Most-popular-full-screen-story-MobileElec.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4_0lT_1696933408256_09-Most-popular-full-screen-story-MobileElec.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Clothings": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GOPNS_1696933404545_09-Most-popular-full-screen-story-Clothings.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_herat_1696933408258_09-Most-popular-full-screen-story-Clothings.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Footwear": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_CfCYl_1696933404546_09-Most-popular-full-screen-story-Footwear.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_AGW45_1696933408259_09-Most-popular-full-screen-story-Footwear.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Jewellery": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GkXP0_1696933404547_09-Most-popular-full-screen-story-Jewellery.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cZD6a_1696933408261_09-Most-popular-full-screen-story-Jewellery.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Wearables": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_dHX9G_1696933404548_09-Most-popular-full-screen-story-Wearables.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_q5fpZ_1696933408263_09-Most-popular-full-screen-story-Wearables.mp4",
+                  "promoHeading": ""
+              }
+          }
+      ]
+  },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+          ""
+      ],
+      "fontUrl": [
+          ""
+      ],
+      "bgImageUrl": [
+          ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_i0Zdy_1696856512061_mixkit-hooligans-998.mp3",
       "fillEnabled": true,
       "forWebsites": [],
