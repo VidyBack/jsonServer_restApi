@@ -27672,6 +27672,115 @@
       ]
     },
     {
+      "id": "llx_1fqPasv6_0SX3w-7BWdDxN_1",
+      "templateId": "llx_1fqPasv6_0SX3w-7BWdDxN_1",
+      "isDevOnly": true,
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+          ""
+      ],
+      "fontUrl": [
+          ""
+      ],
+      "bgImageUrl": [
+          ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wp_7__1696921955310_how-can-i-love-you-249-60secs.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-10-10T07:50:03.990Z",
+      "extraComps": [
+          {
+              "index": 4,
+              "compId": "1666868563760_15-BrandOutro-Story"
+          }
+      ],
+      "widgetsDefinition": [
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_mFAR7_1696924017620_04-beats-story-static.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
+      ],
+      "type": "Instagram Stories",
+      "name": "04-beats-story-static",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+          "p_mp"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_oju38_1696924017623_04-beats-story-static.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_mvP-Y_1696924017621_04-beats-story-static.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.5,
+      "isMultipleTemplate": false,
+      "previews": [
+          {
+              "Perfumes": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__NjxD_1696924197447_04-beats-story-static-Perfumes.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tDf4L_1696924200210_04-beats-story-static-Perfumes.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Clothings": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JwML9_1696924197449_04-beats-story-static-Clothings.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LGRKt_1696924200213_04-beats-story-static-Clothings.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Footwear": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jsPEn_1696924197451_04-beats-story-static-Footwear.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_k294__1696924200216_04-beats-story-static-Footwear.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Jewellery": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_J51Gk_1696924197452_04-beats-story-static-Jewellery.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_19mq__1696924200218_04-beats-story-static-Jewellery.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Wearables": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_cXY4H_1696924197453_04-beats-story-static-Wearables.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_sTUbN_1696924200221_04-beats-story-static-Wearables.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HomeDecor": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jekIq_1696924197454_04-beats-story-static-HomeDecor.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_v_9wG_1696924200223_04-beats-story-static-HomeDecor.mp4",
+                  "promoHeading": ""
+              }
+          }
+      ]
+  },
+    {
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
