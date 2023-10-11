@@ -38899,87 +38899,6 @@
       "templateId": "lvdvo6Q3dnXf6PMiPUrgp"
     },
     {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0H24H_1669792004100_tides-turning.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2022-12-23T06:21:48.302Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1668514600827_18-BrandOutro-4-5-version-1"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_fCZgH_1671776496201_03_Multiproduct_1080x1350_23_12_22.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "03_Multiproduct_1080x1350_23_12_22",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_ps"
-      ],
-      "isMultipleTemplate": true,
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_cPDf3_1671776496203_03_Multiproduct_original.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_syjQY_1671776496202_03_Multiproduct_original.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [
-        {
-          "Clothings": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jlfe7_1671776501013_03_Multiproduct_Clothes.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vwvpC_1671776503355_03_Multiproduct_Clothes.mp4"
-          }
-        },
-        {
-          "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JUN6n_1671776501014_03_Multiproduct_1080x1350.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_W9S5H_1671776503357_03_Multiproduct_1080x1350_small.mp4"
-          }
-        },
-        {
-          "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__amFk_1671776501015_03_Multiproduct_perfume.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_onOEj_1671776503358_03_Multiproduct_perfume.mp4"
-          }
-        }
-      ],
-      "id": "_Lpr_DBe_D9jynb5GJZPv",
-      "templateId": "_Lpr_DBe_D9jynb5GJZPv"
-    },
-    {
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -44094,6 +44013,87 @@
     }
   ],
   "p_na": [
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0H24H_1669792004100_tides-turning.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2022-12-23T06:21:48.302Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1668514600827_18-BrandOutro-4-5-version-1"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_fCZgH_1671776496201_03_Multiproduct_1080x1350_23_12_22.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "03_Multiproduct_1080x1350_23_12_22",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_na"
+      ],
+      "isMultipleTemplate": true,
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_cPDf3_1671776496203_03_Multiproduct_original.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_syjQY_1671776496202_03_Multiproduct_original.jpg",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "previews": [
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jlfe7_1671776501013_03_Multiproduct_Clothes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vwvpC_1671776503355_03_Multiproduct_Clothes.mp4"
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JUN6n_1671776501014_03_Multiproduct_1080x1350.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_W9S5H_1671776503357_03_Multiproduct_1080x1350_small.mp4"
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__amFk_1671776501015_03_Multiproduct_perfume.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_onOEj_1671776503358_03_Multiproduct_perfume.mp4"
+          }
+        }
+      ],
+      "id": "_Lpr_DBe_D9jynb5GJZPv",
+      "templateId": "_Lpr_DBe_D9jynb5GJZPv"
+    },
     {
       "version": 1,
       "gifUrl": "",
