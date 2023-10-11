@@ -27411,6 +27411,149 @@
       "bgImageUrl": [
           ""
       ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wp_7__1696921955310_how-can-i-love-you-249-60secs.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": true,
+      "createdOn": "2023-10-11T11:23:29.738Z",
+      "extraComps": [
+          {
+              "index": 4,
+              "compId": "1669383380037_18-BrandOutro-Square-version-1-update"
+          }
+      ],
+      "widgetsDefinition": [
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_NNXKD_1697023097151_14-Multiple-Products-most-popular-square.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
+      ],
+      "type": "Instagram Posts",
+      "name": "14-Multiple-Products-most-popular-square",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+          "p_mp"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1HfGo_1697023097229_14-Multiple-Products-most-popular-square.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fNDog_1697023097197_14-Multiple-Products-most-popular-square.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "isMultipleTemplate": true,
+      "id": "lW_XfXrF_D12",
+      "templateId": "lW_XfXrF_D12",
+      "previews": [
+          {
+              "Accessories": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wwjZ1_1697023398667_14-Multiple-Products-most-popular-square-Accessories.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_s4aOu_1697023402518_14-Multiple-Products-most-popular-square-Accessories.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Toys": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Rgoe9_1697023398668_14-Multiple-Products-most-popular-square-Toys.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_bR_SB_1697023402520_14-Multiple-Products-most-popular-square-Toys.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HealthFitness": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IAtVY_1697023398670_14-Multiple-Products-most-popular-square-HealthFitness.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_scKgk_1697023402522_14-Multiple-Products-most-popular-square-HealthFitness.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Perfumes": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hVd3t_1697023398671_14-Multiple-Products-most-popular-square-Perfumes.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ddB0S_1697023402523_14-Multiple-Products-most-popular-square-Perfumes.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "BagPurse": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_iLpiR_1697023398712_14-Multiple-Products-most-popular-square-BagPurse.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cCeWw_1697023402524_14-Multiple-Products-most-popular-square-BagPurse.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HealthBeauty": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7AkyZ_1697023398800_14-Multiple-Products-most-popular-square-HealthBeauty.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ci7tP_1697023402526_14-Multiple-Products-most-popular-square-HealthBeauty.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "MobileElec": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1OfyM_1697023398802_14-Multiple-Products-most-popular-square-MobileElec.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5wM-g_1697023402528_14-Multiple-Products-most-popular-square-MobileElec.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Footwear": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zmg6c_1697023398803_14-Multiple-Products-most-popular-square-Footwear.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_7pinb_1697023402530_14-Multiple-Products-most-popular-square-Footwear.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Jewellery": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_4P5TV_1697023398839_14-Multiple-Products-most-popular-square-Jewellery.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_VdSpI_1697023402531_14-Multiple-Products-most-popular-square-Jewellery.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Wearables": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_KrDTv_1697023398840_14-Multiple-Products-most-popular-square-Wearables.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_DdBjJ_1697023402532_14-Multiple-Products-most-popular-square-Wearables.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HomeDecor": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rgFpV_1697023398841_14-Multiple-Products-most-popular-square-HomeDecor.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hHUAR_1697023402533_14-Multiple-Products-most-popular-square-HomeDecor.mp4",
+                  "promoHeading": ""
+              }
+          }
+      ]
+  },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+          ""
+      ],
+      "fontUrl": [
+          ""
+      ],
+      "bgImageUrl": [
+          ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pWUkQ_1696923381895_mixkit-its-because-of-you-1180.mp3",
       "fillEnabled": true,
       "forWebsites": [],
