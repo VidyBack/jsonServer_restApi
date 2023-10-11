@@ -36550,68 +36550,6 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XCsOe_1666164921547_mixkit-easy-times-20.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-02-23T08:03:35.605Z",
-      "extraComps": [
-        {
-          "index": 7,
-          "compId": "1666247107987_15-BrandOutro-post-4-5"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_LULT2_1677139410764_08-multiproduct-23-02-23.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "08-multiproduct-23-02-23",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_ps"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ymT3v_1677139410814_08-multiproduct-23-02-23.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YiIt1_1677139410813_08-multiproduct-23-02-23.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [],
-      "id": "iHWhdatqMO6ikAvox5g_G",
-      "templateId": "iHWhdatqMO6ikAvox5g_G"
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "isMultipleTemplate": true,
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2NGJK_1666165233823_mixkit-one-night-gamble-1152.mp3",
       "fillEnabled": true,
       "forWebsites": [],
