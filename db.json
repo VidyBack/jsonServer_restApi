@@ -44287,6 +44287,8 @@
     {
       "version": 1,
       "gifUrl": "",
+      "id": "ghghgh12",
+      "templateId": "ghghgh12",
       "bgVideoUrl": [
           ""
       ],
@@ -44346,9 +44348,8 @@
       "volume": 0.5,
       "isMultipleTemplate": false,
       "previews": [],
-      "isDevOnly":true,
-      "id": "wW3z3Pk7AL_mlpoin__",
-      "templateId": "wW3z3Pk7AL_mlpoin__"
+      "isDevOnly":true
+     
   },
     {
       "version": 1,
