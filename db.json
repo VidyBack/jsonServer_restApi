@@ -44346,6 +44346,7 @@
       "volume": 0.5,
       "isMultipleTemplate": false,
       "previews": [],
+      "isDevOnly":true,
       "id": "wW3z3Pk7AL_mlpoin__",
       "templateId": "wW3z3Pk7AL_mlpoin__"
   },
