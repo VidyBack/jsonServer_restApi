@@ -2970,7 +2970,8 @@
           "lastPrice": "446.37000",
           "calculateValue": "-0.50 %",
           "isDescending": "true",
-          "companyName": "ICICI Prudential Mutual Fund"
+          "companyName": "ICICI Prudential Mutual Fund",
+          "headerName": "MUTUAL FUNDS"
         },
         {
           "id": "2",
@@ -2982,7 +2983,8 @@
           "lastPrice": "15.63010",
           "calculateValue": "-0.06%",
           "isDescending": "true",
-          "companyName": "Tata Mutual Fund"
+          "companyName": "Tata Mutual Fund",
+          "headerName": "MUTUAL FUNDS"
         }
     ],
   "MUTUALFUND======": [
