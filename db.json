@@ -2985,6 +2985,84 @@
           "companyName": "Tata Mutual Fund",
           "schemeName": "TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option",
           "headerName": "MUTUAL FUNDS"
+        },
+        {
+          "id": "3",
+          "date": "12-09-2023",
+          "time": "10AM IST",
+          "title": "L&T Mid Cap Fund-Regular Plan-IDCW",
+          "schemeName": "L&T Mid Cap Fund-Regular Plan-IDCW",
+          "fundHouse": "Open Ended Schemes",
+          "lastPrice": "50.92160",
+          "calculateValue": "0.29%",
+          "isDescending": "false",
+          "companyName": "L&T Mutual Fund",
+          "headerName": "MUTUAL FUNDS"
+        },
+        {
+          "id": "4",
+          "date": "12-09-2023",
+          "time": "12PM IST",
+          "title": "HDFC Flexi Cap Fund - Growth Plan",
+          "schemeName": "HDFC Flexi Cap Fund - Growth Plan",
+          "fundHouse": "360 ONE Mutual Fund",
+          "lastPrice": "1354.75200",
+          "calculateValue": "0.54%",
+          "isDescending": "false",
+          "companyName": "HDFC Mutual Fund",
+          "headerName": "MUTUAL FUNDS"
+        },
+        {
+          "id": "5",
+          "date": "12-09-2023",
+          "time": "2PM IST",
+          "title": "Aditya Birla Sun Life Frontline Equity Fund-Plan B",
+          "schemeName": "Aditya Birla Sun Life Frontline Equity Fund-Plan B",
+          "fundHouse": "Open Ended Schemes",
+          "lastPrice": "12.50000",
+          "calculateValue": "1.54%",
+          "isDescending": "false",
+          "companyName": "Aditya Birla Sun Life Mutual Fund",
+          "headerName": "MUTUAL FUNDS"
+        },
+        {
+          "id": "6",
+          "date": "13-09-2023",
+          "time": "2PM IST",
+          "title": "LIC MF Flexi Cap Fund-Direct Plan-IDCW",
+          "schemeName": "LIC MF Flexi Cap Fund-Direct Plan-IDCW",
+          "fundHouse": "360 ONE Mutual Fund",
+          "lastPrice": "28.55140",
+          "calculateValue": "-0.31%",
+          "isDescending": "true",
+          "companyName": "LIC Mutual Fund",
+          "headerName": "MUTUAL FUNDS"
+        },
+        {
+          "id": "7",
+          "date": "13-09-2023",
+          "time": "2PM IST",
+          "title": "LIC MF Multi Cap Fund-Direct Growth",
+          "schemeName": "LIC MF Multi Cap Fund-Direct Growth",
+          "fundHouse": "Open Ended Schemes",
+          "lastPrice": "11.89440",
+          "calculateValue": "-0.16%",
+          "isDescending": "true",
+          "companyName": "LIC Mutual Fund",
+          "headerName": "MUTUAL FUNDS"
+        },
+        {
+          "id": "8",
+          "date": "13-09-2023",
+          "time": "2PM IST",
+          "title": "LIC MF Large Cap Fund-Direct Plan-IDCW",
+          "schemeName": "LIC MF Large Cap Fund-Direct Plan-IDCW",
+          "fundHouse": "Open Ended Schemes",
+          "lastPrice": "30.77770",
+          "calculateValue": "0.35%",
+          "isDescending": "false",
+          "companyName": "LIC Mutual Fund",
+          "headerName": "MUTUAL FUNDS"
         }
     ],
   "MUTUALFUND======": [
@@ -3086,6 +3164,116 @@
     }
   ],
   "TOPGAINERS": [
+    {
+      "id": "1",
+      "promoHeading": "TOP GAINERS",
+      "headerName": "TOP GAINERS",
+      "title": "Bajaj Auto Ltd.",
+      "companyName": "NIFTY 50",
+      "schemeName": "Bajaj Auto Ltd.",
+      "lastPrice": "5,130.50",
+      "isDescending": "false",
+      "calculateValue": "5.90%",
+      "date": "15-09-2023"
+    },
+    {
+      "id": "2",
+      "promoHeading": "TOP GAINERS",
+      "headerName": "TOP GAINERS",
+      "title": "HDFC",
+      "companyName": "NIFTY 50",
+      "schemeName": "HDFC",
+      "lastPrice": "1171.05",
+      "calculateValue": "3.88%",
+      "isDescending": "false",
+      "date": "15-09-2023"
+    },
+    {
+      "id": "3",
+      "promoHeading": "TOP GAINERS",
+      "headerName": "TOP GAINERS",
+      "title": "LT",
+      "companyName": "NIFTY 50",
+      "schemeName": "LT",
+      "lastPrice": "1537.0",
+      "isDescending": "false",
+      "calculateValue": "2.36%",
+      "date": "15-09-2023"
+    },
+    {
+      "id": "4",
+      "promoHeading": "TOP GAINERS",
+      "headerName": "TOP GAINERS",
+      "title": "Bajaj Finance",
+      "companyName": "NIFTY 50",
+      "schemeName": "Bajaj Finance",
+      "lastPrice": "7,786.40",
+      "isDescending": "false",
+      "calculateValue": "4.22%",
+      "date": "25-09-2023"
+    },
+    {
+      "id": "5",
+      "promoHeading": "TOP GAINERS",
+      "headerName": "TOP GAINERS",
+      "title": "TATA Cons. Prod",
+      "companyName": "NIFTY 50",
+      "schemeName": "TATA Cons. Prod",
+      "lastPrice": "889.40",
+      "isDescending": "false",
+      "calculateValue": "1.33%",
+      "date": "25-09-2023"
+    },
+    {
+      "id": "6",
+      "promoHeading": "TOP GAINERS",
+      "headerName": "TOP GAINERS",
+      "title": "Asian Paints",
+      "companyName": "NIFTY 50",
+      "schemeName": "Asian Paints",
+      "lastPrice": "3,308.00",
+      "isDescending": "false",
+      "calculateValue": "1.01%",
+      "date": "15-09-2023"
+    },
+    {
+      "id": "7",
+      "promoHeading": "TOP GAINERS",
+      "headerName": "TOP GAINERS",
+      "title": "EICHERMOT",
+      "companyName": "NIFTY 50",
+      "schemeName": "EICHERMOTS",
+      "lastPrice": "3486.9",
+      "isDescending": "false",
+      "calculateValue": "2.40%",
+      "date": "26-09-2023"
+    },
+    {
+      "id": "8",
+      "promoHeading": "TOP GAINERS",
+      "headerName": "TOP GAINERS",
+      "title": "TATASTEEL",
+      "companyName": "NIFTY 50",
+      "schemeName": "TATASTEEL",
+      "lastPrice": "129.8",
+      "isDescending": "false",
+      "calculateValue": "0.62%",
+      "date": "26-09-2023"
+    },
+    {
+      "id": "9",
+      "promoHeading": "TOP GAINERS",
+      "headerName": "TOP GAINERS",
+      "title": "NTPC",
+      "companyName": "NIFTY 50",
+      "schemeName": "NTPC",
+      "lastPrice": "129.8",
+      "isDescending": "false",
+      "calculateValue": "1.35%",
+      "date": "26-09-2023"
+    }
+  ],
+  "TOPGAINERS======": [
     {
       "id": "1",
       "promoHeading": "TOP GAINERS",
