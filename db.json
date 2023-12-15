@@ -2961,6 +2961,30 @@
   ],
   "MUTUALFUND": [
     {
+          "id": "1",
+          "date": "12-09-2023",
+          "time": "1PM IST",
+          "symbol": "ICICI Prudential FMCG Fund - Growth",
+          "fundHouse": "360 ONE Mutual Fund",
+          "lastPrice": "446.37000",
+          "calculateValue": "-0.50 %",
+          "isDescending": "true",
+          "companyName": "ICICI Prudential Mutual Fund"
+        },
+        {
+          "id": "2",
+          "date": "12-09-2023",
+          "time": "11AM IST",
+          "symbol": "TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option",
+          "fundHouse": "Open Ended Schemes",
+          "lastPrice": "15.63010",
+          "calculateValue": "-0.06%",
+          "isDescending": "true",
+          "companyName": "Tata Mutual Fund"
+        }
+    ],
+  "MUTUALFUND======": [
+    {
       "id": "1",
       "title": "ICICI Prudential FMCG Fund - Growth",
       "schemeName": "ICICI Prudential FMCG Fund - Growth",
