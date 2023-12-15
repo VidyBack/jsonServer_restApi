@@ -2970,7 +2970,7 @@
           "calculateValue": "-0.50 %",
           "isDescending": "true",
           "companyName": "ICICI Prudential Mutual Fund",
-          "symbol": "ICICI Prudential FMCG Fund - Growth",
+          "schemeName": "ICICI Prudential FMCG Fund - Growth",
           "headerName": "MUTUAL FUNDS"
         },
         {
@@ -2983,7 +2983,7 @@
           "calculateValue": "-0.06%",
           "isDescending": "true",
           "companyName": "Tata Mutual Fund",
-          "symbol": "TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option",
+          "schemeName": "TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option",
           "headerName": "MUTUAL FUNDS"
         }
     ],
