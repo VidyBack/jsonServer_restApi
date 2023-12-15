@@ -2880,6 +2880,63 @@
   "CRYPTOCURRENCYDUMMY": [
     {
       "id": "1",
+      "headerName": "CRYPTOCURRENCY",
+      "companyName": "NFT",
+      "date": "Aug 02",
+      "time": "7pm IST",
+      "title": "NFT",
+      "fundHouse": "cryptoTrends",
+      "lastPrice": "$32.1M",
+      "calculateValue": "+53.6%"
+    },
+    {
+      "id": "2",
+      "headerName": "CRYPTOCURRENCY",
+      "title": "Bored Age Yacht Club",
+      "companyName": "Bored Age Yacht Club",
+      "date": "Aug 04",
+      "time": "6PM IST",
+      "lastPrice": "$24.2M",
+      "calculateValue": "+53.6%",
+      "fundHouse": "cryptoTrends"
+    },
+    {
+      "id": "3",
+      "headerName": "CRYPTOCURRENCY",
+      "title": "Crypto Critter Cruise Club",
+      "companyName": "Crypto Critter Cruise Club",
+      "date": "Aug 14",
+      "time": "6PM IST",
+      "lastPrice": "$24.2M",
+      "calculateValue": "+54.6%",
+      "fundHouse": "cryptoTrends"
+    },
+    {
+      "id": "4",
+      "headerName": "CRYPTOCURRENCY",
+      "title": "NFT Navigators: Narwhal Edition",
+      "companyName": "NFT Navigators: Narwhal Edition",
+      "date": "Aug 10",
+      "time": "5PM IST",
+      "lastPrice": "$24.2M",
+      "calculateValue": "+53.6%",
+      "fundHouse": "cryptoTrends"
+    },
+    {
+      "id": "5",
+      "headerName": "CRYPTOCURRENCY",
+      "title": "Crypto Cartel: Chameleon Chapter",
+      "companyName": "Crypto Cartel: Chameleon Chapter",
+      "date": "Aug 10",
+      "time": "5PM IST",
+      "lastPrice": "$24.2M",
+      "calculateValue": "+53.6%",
+      "fundHouse": "cryptoTrends"
+    }
+  ],
+  "CRYPTOCURRENCYDUMMY=====": [
+    {
+      "id": "1",
       "title": "NFT",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/nftLogo.jpg"
@@ -3487,6 +3544,116 @@
       "title": "BAJAJFINSV ",
       "companyName": "NIFTY 50",
       "schemeName": "BAJAJFINSV",
+      "lastPrice": "1558.7",
+      "calculateValue": "-1.53%",
+      "date": "26-09-2023",
+      "isDescending": "true"
+    }
+  ],
+  "TOPLOSERS=====": [
+    {
+      "id": "1",
+      "promoHeading": "TOP LOSERS",
+      "headerName": "TOP LOSERS",
+      "title": "Kesar Terminals & Infrastructure Ltd.",
+      "companyName": "NIFTY 50",
+      "symbol": "Kesar Terminals & Infrastructure Ltd.",
+      "lastPrice": "56.80",
+      "calculateValue": "-4.78%",
+      "date": "15-09-2023",
+      "isDescending": "true"
+    },
+    {
+      "id": "2",
+      "promoHeading": "TOP LOSERS",
+      "headerName": "TOP LOSERS",
+      "title": "BPCL",
+      "companyName": "NIFTY 50",
+      "symbol": "BPCL",
+      "lastPrice": "646.75",
+      "calculateValue": "-0.63%",
+      "date": "15-09-2023",
+      "isDescending": "true"
+    },
+    {
+      "id": "3",
+      "promoHeading": "TOP LOSERS",
+      "headerName": "TOP LOSERS",
+      "title": "HINDUNILVR",
+      "companyName": "NIFTY 50",
+      "symbol": "HINDUNILVR",
+      "lastPrice": "757.05",
+      "calculateValue": "-0.006%",
+      "date": "15-09-2023",
+      "isDescending": "true"
+    },
+    {
+      "id": "4",
+      "promoHeading": "TOP LOSERS",
+      "headerName": "TOP LOSERS",
+      "title": "SBI Life Insura ",
+      "companyName": "NIFTY 50",
+      "symbol": "SBI Life Insura ",
+      "lastPrice": "1,294.55",
+      "calculateValue": "-1.84",
+      "date": "25-09-2023",
+      "isDescending": "true"
+    },
+    {
+      "id": "5",
+      "promoHeading": "TOP LOSERS",
+      "headerName": "TOP LOSERS",
+      "title": "Adani Enterpris ",
+      "companyName": "NIFTY 50",
+      "symbol": "Adani Enterpris ",
+      "lastPrice": "2,428.80",
+      "calculateValue": "-1.46",
+      "date": "25-09-2023",
+      "isDescending": "true"
+    },
+    {
+      "id": "6",
+      "promoHeading": "TOP LOSERS",
+      "headerName": "TOP LOSERS",
+      "title": "Infosys ",
+      "companyName": "NIFTY 50",
+      "symbol": "Infosys ",
+      "lastPrice": "1,474.35",
+      "calculateValue": "-1.46",
+      "date": "25-09-2023",
+      "isDescending": "true"
+    },
+    {
+      "id": "7",
+      "promoHeading": "TOP LOSERS",
+      "headerName": "TOP LOSERS",
+      "title": "KOTAKBANK ",
+      "companyName": "NIFTY 50",
+      "symbol": "KOTAKBANK",
+      "lastPrice": "1762.8",
+      "calculateValue": "-0.74",
+      "date": "26-09-2023",
+      "isDescending": "true"
+    },
+    {
+      "id": "8",
+      "promoHeading": "TOP LOSERS",
+      "headerName": "TOP LOSERS",
+      "title": "ASIANPAINT ",
+      "companyName": "NIFTY 50",
+      "symbol": "ASIANPAINT",
+      "lastPrice": "3283",
+      "calculateValue": "-1.02%",
+      "date": "26-09-2023",
+      "isDescending": "true"
+    },
+    {
+      "id": "9",
+      "promoHeading": "TOP LOSERS",
+      "headerName": "TOP LOSERS",
+      "title": "BAJAJFINSV ",
+      "companyName": "NIFTY 50",
+      "symbol": "BAJAJFINSV",
       "lastPrice": "1558.7",
       "calculateValue": "-1.53%",
       "date": "26-09-2023",
