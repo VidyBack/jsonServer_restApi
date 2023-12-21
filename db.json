@@ -2880,7 +2880,7 @@
   "CRYPTOCURRENCYDUMMY": [
     {
       "id": "1",
-      "headerName": "CRYPTOCURRENCY",
+      "headerName": "Your Heading",
       "companyName": "NFT",
       "date": "Aug 02",
       "time": "7pm IST",
@@ -2891,7 +2891,7 @@
     },
     {
       "id": "2",
-      "headerName": "CRYPTOCURRENCY",
+      "headerName": "Your Heading",
       "title": "Bored Age Yacht Club",
       "companyName": "Bored Age Yacht Club",
       "date": "Aug 04",
@@ -2902,7 +2902,7 @@
     },
     {
       "id": "3",
-      "headerName": "CRYPTOCURRENCY",
+      "headerName": "Your Heading",
       "title": "Crypto Critter Cruise Club",
       "companyName": "Crypto Critter Cruise Club",
       "date": "Aug 14",
@@ -2913,7 +2913,7 @@
     },
     {
       "id": "4",
-      "headerName": "CRYPTOCURRENCY",
+      "headerName": "Your Heading",
       "title": "NFT Navigators: Narwhal Edition",
       "companyName": "NFT Navigators: Narwhal Edition",
       "date": "Aug 10",
@@ -2924,7 +2924,7 @@
     },
     {
       "id": "5",
-      "headerName": "CRYPTOCURRENCY",
+      "headerName": "Your Heading",
       "title": "Crypto Cartel: Chameleon Chapter",
       "companyName": "Crypto Cartel: Chameleon Chapter",
       "date": "Aug 10",
@@ -3028,7 +3028,7 @@
           "isDescending": "true",
           "companyName": "ICICI Prudential Mutual Fund",
           "schemeName": "ICICI Prudential FMCG Fund - Growth",
-          "headerName": "MUTUAL FUNDS"
+          "headerName": "Your Heading"
         },
         {
           "id": "2",
@@ -3041,7 +3041,7 @@
           "isDescending": "true",
           "companyName": "Tata Mutual Fund",
           "schemeName": "TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option",
-          "headerName": "MUTUAL FUNDS"
+          "headerName": "Your Heading"
         },
         {
           "id": "3",
@@ -3054,7 +3054,7 @@
           "calculateValue": "0.29%",
           "isDescending": "false",
           "companyName": "L&T Mutual Fund",
-          "headerName": "MUTUAL FUNDS"
+          "headerName": "Your Heading"
         },
         {
           "id": "4",
@@ -3067,7 +3067,7 @@
           "calculateValue": "0.54%",
           "isDescending": "false",
           "companyName": "HDFC Mutual Fund",
-          "headerName": "MUTUAL FUNDS"
+          "headerName": "Your Heading"
         },
         {
           "id": "5",
@@ -3080,7 +3080,7 @@
           "calculateValue": "1.54%",
           "isDescending": "false",
           "companyName": "Aditya Birla Sun Life Mutual Fund",
-          "headerName": "MUTUAL FUNDS"
+          "headerName": "Your Heading"
         },
         {
           "id": "6",
@@ -3093,7 +3093,7 @@
           "calculateValue": "-0.31%",
           "isDescending": "true",
           "companyName": "LIC Mutual Fund",
-          "headerName": "MUTUAL FUNDS"
+          "headerName": "Your Heading"
         },
         {
           "id": "7",
@@ -3106,7 +3106,7 @@
           "calculateValue": "-0.16%",
           "isDescending": "true",
           "companyName": "LIC Mutual Fund",
-          "headerName": "MUTUAL FUNDS"
+          "headerName": "Your Heading"
         },
         {
           "id": "8",
@@ -3119,7 +3119,7 @@
           "calculateValue": "0.35%",
           "isDescending": "false",
           "companyName": "LIC Mutual Fund",
-          "headerName": "MUTUAL FUNDS"
+          "headerName": "Your Heading"
         }
     ],
   "MUTUALFUND======": [
