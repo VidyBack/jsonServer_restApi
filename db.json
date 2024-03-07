@@ -2927,6 +2927,100 @@
       "title": "After attending an appointment,class,or course, provide feedback and reviews on the platform or to the service provider."
     }
   ],
+  "PAYMENTSQUOTES": [
+    {
+      "id": "1",
+      "title": "Swipe, click, conquer. Online payments redefine convenience in a digital world.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "2",
+      "title": "Empower your business with seamless online payments – the key to unlocking global success.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "3",
+      "title": "From checkout to click-through, online payments streamline the path to purchase.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "4",
+      "title": "In the digital bazaar, online payments are the currency of choice. Trade effortlessly, thrive globally.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "5",
+      "title": "Online payments: where speed meets security, and transactions become opportunities.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "6",
+      "title": "Transform transactions into triumphs with the simplicity of online payments.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "7",
+      "title": "Click, pay, play. Online payments revolutionize the way we do business.",
+      "author": " Anonymous"
+    },
+    {
+      "id": "8",
+      "title": "Seamless transactions, boundless possibilities. Embrace the power of online payments.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "9",
+      "title": "In the realm of commerce, online payments are the gateway to growth and innovation.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "10",
+      "title": "From storefront to checkout page, online payments pave the way for prosperity in the digital age.",
+      "author": "Anonymous"
+    }
+  ],
+  "PAYMENTSTIPS": [
+    {
+      "id": "1",
+      "title": "Use secure payment gateways for online transactions."
+    },
+    {
+      "id": "2",
+      "title": "Keep passwords complex and change them regularly."
+    },
+    {
+      "id": "3",
+      "title": "Verify payment details before confirming."
+    },
+    {
+      "id": "4",
+      "title": "Avoid sharing payment information over public Wi-Fi."
+    },
+    {
+      "id": "5",
+      "title": "Monitor account activity for any suspicious transactions."
+    },
+    {
+      "id": "6",
+      "title": "Enable two-factor authentication for added security."
+    },
+    {
+      "id": "7",
+      "title": "Use reputable vendors for purchases."
+    },
+    {
+      "id": "8",
+      "title": "Keep payment apps updated to patch security vulnerabilities."
+    },
+    {
+      "id": "9",
+      "title": "Beware of phishing scams requesting payment details."
+    },
+    {
+      "id": "10",
+      "title": "Utilize virtual cards for online purchases to minimize exposure."
+    }
+  ],
   "CRYPTOCURRENCYDUMMY": [
     {
       "id": "1",
