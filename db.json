@@ -1210,7 +1210,7 @@
         "https://cdn.hootout.com/VidyBack-videos/pol3.jpg",
         "https://cdn.hootout.com/VidyBack-videos/pol4.jpg"
       ],
-      "storeName": "www.Yourstore.com"
+      "storeName": "www.yourstore.com"
     },
     {
       "id": "2",
@@ -1223,7 +1223,7 @@
         "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/polgrp1.jpg"
       ],
-      "storeName": "www.Yourstore.com"
+      "storeName": "www.yourstore.com"
     },
     {
       "id": "3",
@@ -1233,7 +1233,7 @@
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/politics1.jpg"
       ],
-      "storeName": "www.Yourstore.com"
+      "storeName": "www.yourstore.com"
     },
     {
       "id": "4",
@@ -1243,7 +1243,7 @@
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/politics2.jpg"
       ],
-      "storeName": "www.Yourstore.com"
+      "storeName": "www.yourstore.com"
     },
     {
       "id": "5",
@@ -1253,7 +1253,7 @@
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/politics3.jpg"
       ],
-      "storeName": "www.Yourstore.com"
+      "storeName": "www.yourstore.com"
     }
   ],
   "POLITICQUOTES": [
@@ -1680,7 +1680,7 @@
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/entertain1.jpg"
       ],
-      "storeName": "www.Yourstore.com",
+      "storeName": "www.yourstore.com",
       "customerReview": "The plot is engaging, filled with twists & turns that keep you on  your seat.",
       "customerName": "Emanual Dey"
     },
@@ -1692,7 +1692,7 @@
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/entertain2.jpg"
       ],
-      "storeName": "www.Yourstore.com",
+      "storeName": "www.yourstore.com",
       "customerReview": "While it may not leave a lasting impression, it's a decent watch.",
       "customerName": "Jasly"
     },
@@ -1704,7 +1704,7 @@
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/entertain3.jpg"
       ],
-      "storeName": "www.Yourstore.com",
+      "storeName": "www.yourstore.com",
       "customerReview": "A Phenomenal Adventure! The Super Mario Bros. Movie Delivers Pure Nostalgia.",
       "customerName": "Simran Gujral"
     },
@@ -1716,7 +1716,7 @@
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/entertain4.jpg"
       ],
-      "storeName": "www.Yourstore.com",
+      "storeName": "www.yourstore.com",
       "customerReview": "Happy places and saltwater taffy!",
       "customerName": "Joy Dey"
     },
@@ -1728,7 +1728,7 @@
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/entertain5.jpg"
       ],
-      "storeName": "www.Yourstore.com",
+      "storeName": "www.yourstore.com",
       "customerReview": "This movie is one of the most fun, energetic, gleeful,& earnest films I've ever seen!",
       "customerName": "Tom"
     }
@@ -1838,7 +1838,7 @@
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/education1.jpg"
       ],
-      "storeName": "www.Yourstore.com",
+      "storeName": "www.yourstore.com",
       "location": "Zoom",
       "duration": "7:30pm",
       "originalPrice": "$200",
@@ -1857,7 +1857,7 @@
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/education2.jpg"
       ],
-      "storeName": "www.Yourstore.com",
+      "storeName": "www.yourstore.com",
       "location": "Webinar",
       "duration": "8:30pm",
       "originalPrice": "$350",
@@ -1876,7 +1876,7 @@
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/education3.jpg"
       ],
-      "storeName": "www.Yourstore.com",
+      "storeName": "www.yourstore.com",
       "location": "Google Meet",
       "duration": "6:30pm",
       "originalPrice": "$250",
@@ -1894,7 +1894,7 @@
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/education4.jpg"
       ],
-      "storeName": "www.Yourstore.com",
+      "storeName": "www.yourstore.com",
       "location": "Zoom",
       "duration": "5:30pm",
       "originalPrice": "$300",
@@ -1912,7 +1912,7 @@
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/education5.jpg"
       ],
-      "storeName": "www.Yourstore.com",
+      "storeName": "www.yourstore.com",
       "location": "Google Meet",
       "duration": "7:30pm",
       "originalPrice": "$200",
