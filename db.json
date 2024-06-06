@@ -2927,7 +2927,7 @@
       "title": "After attending an appointment,class,or course, provide feedback and reviews on the platform or to the service provider."
     }
   ],
-  "PAYMENTSQUOTES": [
+  "klh": [
     {
       "id": "1",
       "title": "Swipe, click, conquer. Online payments redefine convenience in a digital world.",
@@ -62342,5 +62342,56 @@
       "templateId": "VOgWjcwVFw007z6rLJgES",
       "isMultipleTemplate": false
     }
+  ],
+  "ECOMM":[
+    {
+      "id": "1",
+      "title": "Camera x236",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/cam1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/cam2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/cam3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/cam4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/cam5.jpg"
+       
+      ],
+      "originalPrice": "$256",
+      "discountedPrice": "$180",
+      "discountPercentage": "40%OFF",
+      "storeName": "Dummy Store"
+    },
+    {
+      "id": "2",
+      "title": "Watch",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/watch1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/watch2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/watch3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/watch4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/watch5.jpg"
+        
+      ],
+      "originalPrice": "$500",
+      "discountedPrice": "$450",
+      "discountPercentage": " 10%OFF",
+      "storeName": "Dummy Store"
+    },
+    {
+      "id": "3",
+      "title": "White dress",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/dress1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/dress2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/dress3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/dress4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/dress5.jpg"
+       
+      ],
+      "originalPrice": "$650",
+      "discountedPrice": "$520",
+      "discountPercentage": "20%OFF",
+      "storeName": "Dummy Store"
+    }
   ]
+
 }
