@@ -62391,6 +62391,40 @@
       "discountedPrice": "$520",
       "discountPercentage": "20%OFF",
       "storeName": "Dummy Store"
+    },
+    {
+      "id": "4",
+      "title": "Rope Bags",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/bag1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/bag2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/bag3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/bag4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/bag5.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/bag6.jpg"
+       
+      ],
+      "originalPrice": "$50",
+      "discountedPrice": "$40",
+      "discountPercentage": "20%OFF",
+      "storeName": "Dummy Store"
+    },
+    {
+      "id": "5",
+      "title": "Red Heels",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/heels1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/heels2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/heels3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/heels4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/heels5.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/heels6.jpg"
+       
+      ],
+      "originalPrice": "$700",
+      "discountedPrice": "$450",
+      "discountPercentage": "25%OFF",
+      "storeName": "Dummy Store"
     }
   ]
 
