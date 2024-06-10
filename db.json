@@ -62344,41 +62344,9 @@
     }
   ],
   "DUMMYSTORE":[
-    {
+   {
       "id": "1",
-      "title": "Camera x236",
-      "images": [
-        "https://cdn.hootout.com/VidyBack-videos/cam1.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/cam2.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/cam3.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/cam4.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/cam5.jpg"
-       
-      ],
-      "originalPrice": "$256",
-      "discountedPrice": "$180",
-      "discountPercentage": "40%OFF",
-      "storeName": "Dummy Store"
-    },
-    {
-      "id": "2",
-      "title": "Watch",
-      "images": [
-        "https://cdn.hootout.com/VidyBack-videos/watch1.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/watch2.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/watch3.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/watch4.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/watch5.jpg"
-        
-      ],
-      "originalPrice": "$500",
-      "discountedPrice": "$450",
-      "discountPercentage": " 10%OFF",
-      "storeName": "Dummy Store"
-    },
-    {
-      "id": "3",
-      "title": "White dress",
+      "title": "Product name 1",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/dress1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/dress2.jpg",
@@ -62393,8 +62361,8 @@
       "storeName": "Dummy Store"
     },
     {
-      "id": "4",
-      "title": "Rope Bags",
+      "id": "2",
+      "title": "product name 2",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/bag1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/bag2.jpg",
@@ -62410,8 +62378,40 @@
       "storeName": "Dummy Store"
     },
     {
+      "id": "3",
+      "title": " Product Name 3",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/watch1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/watch2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/watch3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/watch4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/watch5.jpg"
+        
+      ],
+      "originalPrice": "$500",
+      "discountedPrice": "$450",
+      "discountPercentage": " 10%OFF",
+      "storeName": "Dummy Store"
+    },
+    {
+      "id": "4",
+      "title": " Product Name 4",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/cam1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/cam2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/cam3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/cam4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/cam5.jpg"
+       
+      ],
+      "originalPrice": "$256",
+      "discountedPrice": "$180",
+      "discountPercentage": "40%OFF",
+      "storeName": "Dummy Store"
+    },
+    {
       "id": "5",
-      "title": "Red Heels",
+      "title": "Product name 5",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/heels1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/heels2.jpg",
