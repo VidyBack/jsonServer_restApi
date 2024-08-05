@@ -62429,6 +62429,17 @@
       "discountedPrice": "$450",
       "discountPercentage": "25%OFF",
       "storeName": "Dummy Store"
+    },
+    {
+      "id": "6",
+      "title": "Test product",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/hee.jpg"
+        ],
+      "originalPrice": "$700",
+      "discountedPrice": "$450",
+      "discountPercentage": "25%OFF",
+      "storeName": "Dummy Store"
     }
   ]
 
