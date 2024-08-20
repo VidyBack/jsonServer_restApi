@@ -62434,49 +62434,65 @@
   "ECOMMTIPS": [
     {
       "id": "1",
-      "title": "Some Fashion Tip"
+      "title": "Check fabric labels for quality and durability.",
+      "category":"Clothing"
      
     },
     {
       "id": "2",
-      "title": "Some Bag Tip"
-      
+      "title": "Buy versatile pieces that you can mix and match.",
+      "category":"Clothing"
+     
     },
     {
       "id": "3",
-      "title": "Some Jewellery Tip"
+      "title": "Start with a neutral base and add pops of color.",
+       "category":"HomeDecor"
       
     },
     {
       "id": "4",
-      "title": "Some Perfumes Tip"
+      "title": "Invest in quality, timeless furniture pieces.",
+       "category":"HomeDecor"
       
     },
     {
       "id": "5",
-      "title": "Some Footware Tip"
-     
+      "title": "Invest in classic pieces that never go out of style.",
+       "category":"Jewelery"
+      
     },
     {
       "id": "6",
-      "title": "Some Wearables Tip"
+      "title": "Check for hallmark stamps to ensure authenticity.",
+       "category":"Jewelery"
       
     },
     {
       "id": "7",
-      "title": "Some Electronics Tip"
-     
+      "title": "Prioritize comfort over style for all-day wear.",
+       "category":"Footwear"
+      
     },
     {
       "id": "8",
-      "title": "Some Homedecors Tip"
-     
+      "title": "Invest in quality shoes that offer proper support.",
+       "category":"Footwear"
+      
     },
     {
       "id": "9",
-      "title": "Some Others Tip"
+      "title": "Choose a bag that suits both your style and needs.",
+       "category":"Bags"
+      
+    },
+    {
+      "id": "10",
+      "title": "Invest in quality materials for durability and longevity.",
+       "category":"Bags"
       
     }
+   
   ]
 
 }
