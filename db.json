@@ -62435,47 +62435,47 @@
     {
       "id": "1",
       "title": "Some Fashion Tip",
-      "category":"fashion"
+     
     },
     {
       "id": "2",
       "title": "Some Bag Tip",
-      "category":"bag"
+      
     },
     {
       "id": "3",
       "title": "Some Jewellery Tip",
-      "category":"jewellery"
+      
     },
     {
       "id": "4",
       "title": "Some Perfumes Tip",
-      "category":"Perfumes"
+      
     },
     {
       "id": "5",
       "title": "Some Footware Tip",
-      "category":"footware"
+     
     },
     {
       "id": "6",
       "title": "Some Wearables Tip",
-      "category":"wearables"
+      
     },
     {
       "id": "7",
       "title": "Some Electronics Tip",
-      "category":"electronics"
+     
     },
     {
       "id": "8",
       "title": "Some Homedecors Tip",
-      "category":"homedecors"
+     
     },
     {
       "id": "9",
       "title": "Some Others Tip",
-      "category":"others"
+      
     }
   ]
 
