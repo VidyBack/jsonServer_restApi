@@ -62430,6 +62430,53 @@
       "discountPercentage": "25%OFF",
       "storeName": "Dummy Store"
     }
+  ],
+  "TIPS": [
+    {
+      "id": "1",
+      "title": "Fashion Tip",
+      "category":"fashion"
+    },
+    {
+      "id": "2",
+      "title": "Bag Tip",
+      "category":"bag"
+    },
+    {
+      "id": "3",
+      "title": "Jewellery Tip",
+      "category":"jewellery"
+    },
+    {
+      "id": "4",
+      "title": "Perfumes Tip",
+      "category":"Perfumes"
+    },
+    {
+      "id": "5",
+      "title": "Footware Tip",
+      "category":"footware"
+    },
+    {
+      "id": "6",
+      "title": "Wearables Tip",
+      "category":"wearables"
+    },
+    {
+      "id": "7",
+      "title": "Electronics Tip",
+      "category":"electronics"
+    },
+    {
+      "id": "8",
+      "title": "Homedecors Tip",
+      "category":"homedecors"
+    },
+    {
+      "id": "9",
+      "title": "Others Tip",
+      "category":"others"
+    }
   ]
 
 }
