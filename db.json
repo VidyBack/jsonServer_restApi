@@ -62446,50 +62446,351 @@
     },
     {
       "id": "3",
+      "title": "Invest in timeless classics over fast fashion.",
+      "category":"Clothings"
+     
+    },
+    {
+      "id": "4",
+      "title": "Support brands that prioritize sustainability.",
+      "category":"Clothings"
+     
+    },
+    {
+      "id": "5",
+      "title": "Always try before you buy for the perfect fit.",
+      "category":"Clothings"
+     
+    },
+    {
+      "id": "6",
+      "title": "Look for well-made seams and stitching.",
+      "category":"Clothings"
+     
+    },
+    {
+      "id": "7",
+      "title": "Choose colors that complement your skin tone.",
+      "category":"Clothings"
+     
+    },
+    {
+      "id": "8",
+      "title": "Understand your measurements, not just size labels.",
+      "category":"Clothings"
+     
+    },
+    {
+      "id": "9",
+      "title": "Shop seasonal sales for quality at lower prices.",
+      "category":"Clothings"
+     
+    },
+    {
+      "id": "10",
+      "title": "Care for your clothes properly to extend their life.",
+      "category":"Clothings"
+     
+    },
+    {
+      "id": "11",
       "title": "Start with a neutral base and add pops of color.",
        "category":"HomeDecor"
       
     },
     {
-      "id": "4",
+      "id": "12",
       "title": "Invest in quality, timeless furniture pieces.",
        "category":"HomeDecor"
       
     },
     {
-      "id": "5",
+      "id": "13",
+      "title": "Use mirrors to make small spaces feel larger.",
+       "category":"HomeDecor"
+      
+    },
+    {
+      "id": "14",
+      "title": "Layer textures for a cozy, inviting space.",
+       "category":"HomeDecor"
+      
+    },
+    {
+      "id": "15",
+      "title": "Mix old and new for a unique, personal touch.",
+       "category":"HomeDecor"
+      
+    },
+    {
+      "id": "16",
+      "title": "Consider lighting as a key design element.",
+       "category":"HomeDecor"
+      
+    },
+    {
+      "id": "17",
+      "title":"Balance functionality with aesthetics in every room.",
+       "category":"HomeDecor"
+      
+    },
+    {
+      "id": "18",
+      "title":"Measure your space before buying furniture.",
+       "category":"HomeDecor"
+      
+    },
+    {
+      "id": "19",
+      "title":"Use rugs to define and warm up spaces.",
+       "category":"HomeDecor"
+      
+    },
+    {
+      "id": "20",
+      "title":"Choose decor that reflects your personality.",
+       "category":"HomeDecor"
+      
+    },
+    {
+      "id": "21",
       "title": "Invest in classic pieces that never go out of style.",
        "category":"Jewellery"
       
     },
     {
-      "id": "6",
+      "id": "22",
       "title": "Check for hallmark stamps to ensure authenticity.",
        "category":"Jewellery"
       
     },
+
     {
-      "id": "7",
+      "id": "23",
+      "title": "Consider your lifestyle when choosing jewelry.",
+       "category":"Jewellery"
+      
+    },
+    {
+      "id": "24",
+      "title": "Store jewelry properly to prevent tarnishing.",
+       "category":"Jewellery"
+      
+    },
+    {
+      "id": "25",
+      "title": "Know the 4Cs when buying diamonds: Cut, Clarity, Carat, Color.",
+       "category":"Jewellery"
+      
+    },
+    {
+      "id": "26",
+      "title": "Mix metals for a modern, versatile look.",
+       "category":"Jewellery"
+      
+    },
+    {
+      "id": "27",
+      "title": "Always buy from reputable jewelers.",
+       "category":"Jewellery"
+      
+    },
+    {
+      "id": "28",
+      "title": "Layer necklaces of different lengths for depth.",
+       "category":"Jewellery"
+      
+    },
+    {
+      "id": "29",
+      "title": "Keep your jewelry clean to maintain its shine.",
+       "category":"Jewellery"
+      
+    },
+    {
+      "id": "30",
+      "title": "Choose jewelry that complements your skin tone.",
+       "category":"Jewellery"
+      
+    },
+    {
+      "id": "31",
       "title": "Prioritize comfort over style for all-day wear.",
        "category":"Footwear"
       
     },
     {
-      "id": "8",
+      "id": "32",
       "title": "Invest in quality shoes that offer proper support.",
        "category":"Footwear"
       
     },
     {
-      "id": "9",
+      "id": "33",
+      "title": "Always try on shoes in the afternoon when feet are slightly swollen.",
+       "category":"Footwear"
+      
+    },
+    {
+      "id": "34",
+      "title":"Rotate your footwear to extend their lifespan.",
+       "category":"Footwear"
+      
+    },
+    {
+      "id": "35",
+      "title":"Choose shoes that match the occasion and activity.",
+       "category":"Footwear"
+      
+    },
+    {
+      "id": "36",
+      "title":"Opt for breathable materials to avoid odor.",
+       "category":"Footwear"
+      
+    },
+    {
+      "id": "37",
+      "title":"Break in new shoes gradually to prevent blisters.",
+       "category":"Footwear"
+      
+    },
+    {
+      "id": "38",
+      "title":"Check the sole for grip to ensure good traction.",
+       "category":"Footwear"
+      
+    },
+    {
+      "id": "39",
+      "title":"Go for timeless designs that won’t go out of style.",
+       "category":"Footwear"
+      
+    },
+    {
+      "id": "40",
+      "title":"Ensure there's a thumb's width of space at the toe for the perfect fit.",
+       "category":"Footwear"
+      
+    },
+    {
+      "id": "41",
       "title": "Choose a bag that suits both your style and needs.",
        "category":"BagPurse"
       
     },
     {
-      "id": "10",
+      "id": "42",
       "title": "Invest in quality materials for durability and longevity.",
        "category":"BagPurse"
+      
+    },
+    {
+      "id": "43",
+      "title":"Opt for versatile colors that match various outfits.",
+       "category":"BagPurse"
+      
+    },
+    {
+      "id": "44",
+      "title":"Check the bag’s compartments for organization and ease.",
+       "category":"BagPurse"
+      
+    },
+    {
+      "id": "45",
+      "title":"Consider the weight of the bag when fully packed.",
+       "category":"BagPurse"
+      
+    },
+    {
+      "id": "46",
+      "title":"Select a size that fits your daily essentials comfortably.",
+       "category":"BagPurse"
+      
+    },
+    {
+      "id": "47",
+      "title":"Look for sturdy handles and straps for durability.",
+       "category":"BagPurse"
+      
+    },
+    {
+      "id": "48",
+      "title":"Test zippers and closures for smooth operation.",
+       "category":"BagPurse"
+      
+    },
+    {
+      "id": "49",
+      "title":"Choose timeless designs for long-lasting appeal.",
+       "category":"BagPurse"
+      
+    },
+    {
+      "id": "50",
+      "title":"Ensure the bag complements your lifestyle and activities.",
+       "category":"BagPurse"
+      
+    },
+    {
+      "id": "51",
+      "title":"Use videos to showcase products creatively; engage customers and boost conversions.",
+       "category":"VidyBack"
+      
+    },
+    {
+      "id": "52",
+      "title":"Schedule video posts during peak engagement times using VidyBack for better visibility.",
+       "category":"VidyBack"
+      
+    },
+    {
+      "id": "53",
+      "title":"Highlight product features through short, attention-grabbing videos.",
+       "category":"VidyBack"
+      
+    },
+    {
+      "id": "54",
+      "title":"Leverage VidyBack to create how-to videos that build trust with potential buyers.",
+       "category":"VidyBack"
+      
+    },
+    {
+      "id": "55",
+      "title":"Consistency is key; plan and post regular video content using VidyBack’s scheduling feature.",
+       "category":"VidyBack"
+      
+    },
+    {
+      "id": "56",
+      "title":"Promote sales and special offers through dynamic, eye-catching video ads.",
+       "category":"VidyBack"
+      
+    },
+    {
+      "id": "57",
+      "title":"Use videos to showcase products creatively; engage customers and boost conversions.",
+       "category":"VidyBack"
+      
+    },
+    {
+      "id": "58",
+      "title":"Analyze video performance within VidyBack to optimize future content.",
+       "category":"VidyBack"
+      
+    },
+    {
+      "id": "59",
+      "title":"Use behind-the-scenes videos to humanize your brand and connect with your audience.",
+       "category":"VidyBack"
+      
+    },
+    {
+      "id": "60",
+      "title":"Showcase customer testimonials via video for authentic social proof.",
+       "category":"VidyBack"
       
     }
    
