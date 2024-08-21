@@ -62855,8 +62855,58 @@
         "id": "10",
         "title":"Good clothes are the foundation of a great first impression.",
         "category":"Clothings"
-       
+      },
+      {
+        "id": "11",
+        "title":"Your home should tell the story of who you are.",
+        "category":"HomeDecor"
+      },
+      {
+        "id": "12",
+        "title":"Decorate with items that spark joy in your life.",
+        "category":"HomeDecor"
+      },
+      {
+        "id": "13",
+        "title":"Good design is about balance, not perfection.",
+        "category":"HomeDecor"
+      },
+      {
+        "id": "14",
+        "title":"A room should feel collected, not decorated.",
+        "category":"HomeDecor"
+      },
+      {
+        "id": "15",
+        "title":"Simplicity is the ultimate form of sophistication.",
+        "category":"HomeDecor"
+      },
+      {
+        "id": "16",
+        "title":"Home is where your style meets comfort.",
+        "category":"HomeDecor"
+      },
+      {
+        "id": "17",
+        "title":"Design your space to reflect your soul.",
+        "category":"HomeDecor"
+      },
+      {
+        "id": "18",
+        "title":"The best rooms have something to say.",
+        "category":"HomeDecor"
+      },
+      {
+        "id": "19",
+        "title":"Style is a reflection of your attitude and your space.",
+        "category":"HomeDecor"
+      },
+      {
+        "id": "20",
+        "title":"Functionality and beauty go hand in hand.",
+        "category":"HomeDecor"
       }
+
     
   ]
 
