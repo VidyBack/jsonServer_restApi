@@ -109,7 +109,7 @@
     },
     {
       "id": "5",
-      "title": "2019 Mercedes-Benz CLA",
+      "title": "Black Audi A4",
       "images": [
         "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/blackAudi1.jpg",
         "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/blackAudi2.jpg",
@@ -139,55 +139,62 @@
     },
     {
       "id": "6",
-      "title": "2021 Jeep Compass",
+      "title": "Kia EV6",
       "images": [
-        "https://cdn.hootout.com/VidyBack-videos/Jeep1.jpeg",
-        "https://cdn.hootout.com/VidyBack-videos/Jeep2.jpeg",
-        "https://cdn.hootout.com/VidyBack-videos/Jeep3.jpeg",
-        "https://cdn.hootout.com/VidyBack-videos/Jeep4.jpeg",
-        "https://cdn.hootout.com/VidyBack-videos/Jeep5.jpeg"
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/kia1.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/kia2.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/kia3.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/kia4.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/kia5.jpg"
       ],
-      "customerReview": "Jeep Compass offer comfortable & convenient way to travel & enjoy the great outdoors!",
-      "customerName": "Anish Jhaveri",
-      "location": "Santacruz",
-      "price": "$25000",
-      "contactName": "Spinny.com",
-      "contactNumber": "971-089-7108",
-      "originalPrice": "$25000",
-      "discountedPrice": "$24000",
-      "discountPercentage": "4% OFF",
-      "productSummary": "Jeep Compass is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
-      "feature1": "Anti-glare mirrors",
-      "feature2": "Wireless Phone Charging",
-      "feature3": "Airbags",
-      "storeName": "www.yoursite.com"
+      "customerReview": "An exceptional driving experience with smooth acceleration and eco-friendly performance. The safety features make every trip stress-free!",
+      "customerName": "Anjali Desai",
+"location": "Andheri",
+"price": "$35,000",
+"contactName": "Spinny.com",
+"contactNumber": "971-089-7108",
+"originalPrice": "$35,000",
+"discountedPrice": "$33,600",
+"discountPercentage": "4% OFF",
+"productSummary": "The Kia EV6 offers a cutting-edge electric driving experience with a sleek design and spacious interiors. It features a long-range battery, fast charging capability, and state-of-the-art technology, including a large digital dashboard, advanced driver assistance systems, and full smartphone integration.",
+"feature1": "Regenerative braking system",
+"feature2": "Panoramic sunroof",
+"feature3": "Advanced safety features, including multiple airbags",
+"storeName": "https://www.yoursite.com"
+
+
+
     },
     {
       "id": "7",
-      "title": "2017 Mercedes-Benz C-Class",
+      "title": "Mahindra Thar",
       "images": [
-        "https://cdn.hootout.com/VidyBack-videos/benzW1.jpeg",
-        "https://cdn.hootout.com/VidyBack-videos/benzW2.jpeg",
-        "https://cdn.hootout.com/VidyBack-videos/benzW3.jpeg",
-        "https://cdn.hootout.com/VidyBack-videos/benzW4.jpeg",
-        "https://cdn.hootout.com/VidyBack-videos/benzW5.jpeg",
-        "https://cdn.hootout.com/VidyBack-videos/benzW6.jpeg",
-        "https://cdn.hootout.com/VidyBack-videos/benzW7.jpeg"
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/thar1.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/thar2.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/thar3.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/thar4.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/thar5.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/thar6.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/thar7.jpg"
       ],
-      "customerReview": "We got a great car, approved by all generations of our family.",
-      "customerName": "Tom",
-      "location": "Las Vegas",
-      "price": "$25000",
-      "contactName": "Spinny.com",
-      "contactNumber": "971-089-7108",
-      "originalPrice": "$25000",
-      "discountedPrice": "$24000",
-      "discountPercentage": "4% OFF",
-      "productSummary": "Mercedes-Benz C-Classs is designed for maximum comfort and luxury, with plush leather seats, ambient lighting, and a state-of-the-art sound system. It also features advanced infotainment and connectivity features, such as a large touchscreen display, voice recognition, and smartphone integration.",
-      "feature1": "Seat lumbar support",
-      "feature2": "Integrated (in-dash) music system",
-      "feature3": "GPS navigation system",
-      "storeName": "www.yoursite.com"
+      "customerReview": "The Mahindra Thar offers a thrilling off-road experience with robust performance and rugged design. It’s perfect for adventure lovers, and the safety features add extra peace of mind.",
+"customerName": "Vikram Singh",
+"location": "Pune",
+"price": "$20,000",
+"contactName": "Spinny.com",
+"contactNumber": "971-089-7108",
+"originalPrice": "$20,000",
+"discountedPrice": "$19,200",
+"discountPercentage": "4% OFF",
+"productSummary": "The Mahindra Thar is a powerful SUV designed for off-road adventures. With its sturdy build, 4x4 capabilities, and comfortable interiors, it’s a perfect blend of ruggedness and modern comfort. Features include touchscreen infotainment, advanced safety options, and all-terrain tires.",
+"feature1": "4x4 off-road capability",
+"feature2": "Convertible rooftop",
+"feature3": "Dual airbags and ABS with EBD",
+"storeName": "https://www.yoursite.com"
+
+
+      
+
     }
   ],
   "AUTOQUOTES": [
