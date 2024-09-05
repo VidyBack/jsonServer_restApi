@@ -735,12 +735,8 @@
     }
   ],
   "ESTATEQUOTES": [
-    {
-      "id": "1",
-      "title": "Home is where love resides, memories are created, and laughter never ends.",
-      "author": "Unknown"
-    },
-    {
+    
+  {
       "id": "2",
       "title": "The light is what guides you home, the warmth is what keeps you there.",
       "author": "Ellie Rodriguez"
@@ -64257,7 +64253,7 @@
         "id": "132",
         "title":"Perfume is the most intense form of memory.",
         "category":"ex-stock",
-  "author":" Jean Paul Guerlain"
+        "author":" Jean Paul Guerlain"
       },
       {
         "id": "133",
