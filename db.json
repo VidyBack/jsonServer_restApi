@@ -62630,19 +62630,7 @@
       "discountPercentage": " 10%OFF",
       "storeName": "Dummy Store"
     },
-    {
-      "id": "12",
-      "title": "Assorted Dolce & Gabbana Fragrance",
-      "images": [
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per6.jpg",
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per5.jpg",
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per4.jpg"
-        ],
-      "originalPrice": "$400",
-      "discountedPrice": "$350",
-      "discountPercentage": " 10%OFF",
-      "storeName": "Dummy Store"
-    },
+    
     {
       "id": "12",
       "title": "Dolce and Gabbana Perfume",
