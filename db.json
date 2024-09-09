@@ -62551,6 +62551,110 @@
       "discountedPrice": "$450",
       "discountPercentage": "25%OFF",
       "storeName": "Dummy Store"
+    },
+    {
+      "id": "6",
+      "title": "Black and White Long-sleeved Dress",
+      "images": [
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/cloth1.jpg"
+       
+       
+      ],
+      "originalPrice": "$750",
+      "discountedPrice": "$620",
+      "discountPercentage": "20%OFF",
+      "storeName": "Dummy Store"
+    },
+    {
+      "id": "7",
+      "title": "Shirts with Style",
+      "images": [
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/cloth2.jpg"
+       
+       
+      ],
+      "originalPrice": "$750",
+      "discountedPrice": "$620",
+      "discountPercentage": "20%OFF",
+      "storeName": "Dummy Store"
+    },
+    {
+      "id": "8",
+      "title": "Black Bag",
+      "images": [
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/blackBag.jpg"
+       
+      ],
+      "originalPrice": "$100",
+      "discountedPrice": "$80",
+      "discountPercentage": "20%OFF",
+      "storeName": "Dummy Store"
+    },
+    {
+      "id": "9",
+      "title": "Woman Hand Holding Bags",
+      "images": [
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/whiteBag.jpg"
+       
+      ],
+      "originalPrice": "$100",
+      "discountedPrice": "$80",
+      "discountPercentage": "20%OFF",
+      "storeName": "Dummy Store"
+    },
+    {
+      "id": "10",
+      "title": " Men's Watch",
+      "images": [
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/watch1.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/watch2.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/watch3.jpg"
+       
+        
+      ],
+      "originalPrice": "$400",
+      "discountedPrice": "$350",
+      "discountPercentage": " 10%OFF",
+      "storeName": "Dummy Store"
+    },
+    {
+      "id": "11",
+      "title": "Assorted Dolce & Gabbana Fragrance",
+      "images": [
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per6.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per5.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per4.jpg"
+        ],
+      "originalPrice": "$400",
+      "discountedPrice": "$350",
+      "discountPercentage": " 10%OFF",
+      "storeName": "Dummy Store"
+    },
+    {
+      "id": "12",
+      "title": "Assorted Dolce & Gabbana Fragrance",
+      "images": [
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per6.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per5.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per4.jpg"
+        ],
+      "originalPrice": "$400",
+      "discountedPrice": "$350",
+      "discountPercentage": " 10%OFF",
+      "storeName": "Dummy Store"
+    },
+    {
+      "id": "12",
+      "title": "Dolce and Gabbana Perfume",
+      "images": [
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per3.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per2.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per1.jpg"
+        ],
+      "originalPrice": "$400",
+      "discountedPrice": "$350",
+      "discountPercentage": " 10%OFF",
+      "storeName": "Dummy Store"
     }
   ],
   "ECOMMTIPS": [
