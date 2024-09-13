@@ -242,35 +242,39 @@
   "AUTOTIPS": [
     {
       "id": "1",
-      "title": "Regular maintenance is crucial for your car's longevity and optimal performance."
+      "title": "Regularly check and change your vehicle’s oil to keep the engine running smoothly and efficiently."
     },
     {
       "id": "2",
-      "title": "Used cars can be a great way to save money on a vehicle purchase.Look for used cars with low mileage that are still in good condition."
+      "title": "Keep your tires properly inflated and check their tread regularly to ensure safety and improve fuel efficiency."
     },
     {
       "id": "3",
-      "title": "If you work for a company that has a partnership with a car manufacturer, you may be eligible for an employee discount on a new car purchase."
+      "title": "Keep your car’s interior clean and organized to maintain its value and create a pleasant driving experience."
     },
     {
       "id": "4",
-      "title": "Financing a car purchase can be a good option if you have good credit. Look for low-interest rates and make sure you understand the terms and conditions of the agreement."
+      "title": "Follow your vehicle’s maintenance schedule for timely inspections and repairs to prevent major issues."
     },
     {
       "id": "5",
-      "title": "Properly inflated tires can improve fuel efficiency and extend the life of your tires."
+      "title": "Ensure your vehicle’s brakes are functioning properly; have them checked if you notice any unusual noises or reduced responsiveness."
     },
     {
       "id": "6",
-      "title": "Regularly washing and waxing your vehicle can help protect the paint and prevent rust from forming. It can also improve your vehicle's resale value."
+      "title": "Inspect your vehicle’s lights regularly and replace any burnt-out bulbs to ensure safety on the road."
     },
     {
       "id": "7",
-      "title": "Your driving habits can have a big impact on the longevity of your vehicle. Avoid aggressive driving, excessive idling, and overloading your vehicle."
+      "title": "Learn basic car repair skills, such as changing a flat tire, to handle minor issues on the road and save on repairs."
     },
     {
       "id": "8",
-      "title": " If you notice any problems with your vehicle, such as strange noises or warning lights, address them promptly to prevent them from turning into larger issues."
+      "title": "Keep an emergency kit in your car, including a first-aid kit, flashlight, and basic tools, for unexpected situations."
+    },
+    {
+      "id": "9",
+      "title": "Park in shaded areas or use a sunshade to protect your vehicle’s interior from excessive heat and UV damage."
     }
   ],
   "autoEvent": [
@@ -775,44 +779,61 @@
   "ESTATETIPS": [
     {
       "id": "1",
-      "title": "When buying real estate, don't just focus on the property itself. Consider the location, the neighborhood, the schools."
+      "title": "Research the neighborhood thoroughly before buying. Check for amenities, schools, and future development plans."
     },
     {
       "id": "2",
-      "title": "Getting pre-approved for a mortgage will help you determine how much you can afford to spend on a property and make you a more attractive buyer to sellers."
+      "title": "Get pre-approved for a mortgage to streamline the buying process and show sellers you're a serious buyer."
     },
     {
       "id": "3",
-      "title": "Research the local real estate market to get an idea of the prices and types of properties available in the area."
+      "title": "Consider the long-term value of a property. Look for areas with growth potential and stable markets."
     },
     {
       "id": "4",
-      "title": "Before making an offer, check the property's history to see if there have been any major repairs or issues. "
+      "title": "When renting, make sure to read the lease agreement carefully to understand your rights and obligations."
     },
     {
       "id": "5",
-      "title": "Take your time when making a decision and don't rush into buying a property."
+      "title": "Stage your home before listing it to make a great first impression and potentially increase its value."
     },
     {
       "id": "6",
-      "title": "A home inspection can help identify any problems with the property and give you leverage to negotiate the price or request repairs."
+      "title": "Invest in home improvements that offer the best return on investment, like kitchen and bathroom upgrades."
     },
     {
       "id": "7",
-      "title": "Regular maintenance can help prevent major problems from occurring and extend the life of your home."
+      "title": "Work with a real estate agent who knows the local market and can guide you through the buying or selling process."
     },
     {
       "id": "8",
-      "title": "Change air filters regularly and have your HVAC system serviced annually to keep it running efficiently and prevent breakdowns."
+      "title": "Keep an eye on market trends and interest rates to make informed decisions about buying or selling property."
     },
     {
       "id": "9",
-      "title": "Clean gutters and downspouts regularly to prevent water damage to your roof and foundation."
+      "title": "Always get a professional home inspection before buying to uncover any potential issues or hidden costs."
     },
     {
       "id": "10",
-      "title": "Regularly maintain your landscaping, including mowing the lawn, trimming bushes, and removing weeds, to keep your property looking its best."
+      "title": "Understand your mortgage options and choose the one that best fits your financial situation and long-term goals."
+    },
+    {
+      "id": "11",
+      "title": "Check the local property tax rates before buying to understand the long-term costs of ownership."
+    },
+    {
+      "id": "12",
+      "title": "When selling your home, ensure all necessary repairs and maintenance are completed to enhance its market value."
+    },
+    {
+      "id": "13",
+      "title": "Look beyond the aesthetics of a property and evaluate its structural integrity and potential for future issues."
+    },
+    {
+      "id": "14",
+      "title": "Be aware of local zoning laws and regulations that could impact property use and future development."
     }
+
   ],
   "estateFact": [
     {
@@ -2715,27 +2736,43 @@
   "FINANCETIPS": [
     {
       "id": "1",
-      "title": "It's important to have a long-term investment strategy in place that aligns with your financial goals, risk tolerance, and time horizon."
+      "title": "Diversify your investments to manage risk and protect your portfolio from market volatility."
     },
     {
       "id": "2",
-      "title": "Investing in low-cost index funds,tracks the performance of the overall market,can provide broad exposure to the market and help you achieve market-like returns."
+      "title": "Invest for the long term and avoid reacting to short-term market fluctuations."
     },
     {
       "id": "3",
-      "title": "Rather than getting caught up in short-term market fluctuations, focus on long-term trends and economic fundamentals."
+      "title": "Research and understand what you’re investing in; knowledge is your best asset."
     },
     {
       "id": "4",
-      "title": "A financial advisor can help you develop a personalized investment strategy and provide guidance on how to navigate the market."
+      "title": "Set clear investment goals and create a plan to achieve them."
     },
     {
       "id": "5",
-      "title": "Before investing in a particular stock,bond,or fund,do your research and make sure you understand the company or fund's financial health,management,& industry trends."
+      "title": "Regularly review and adjust your portfolio to ensure it aligns with your financial goals."
     },
     {
       "id": "6",
-      "title": "Stick to your investment plan and avoid making impulsive decisions based on market fluctuations or emotions."
+      "title": "Avoid putting all your eggs in one basket; spread your investments across different asset classes."
+    },
+    {
+      "id": "7",
+      "title": "Understand your risk tolerance before making investment decisions to avoid unnecessary stress."
+    },
+    {
+      "id": "8",
+      "title": "Stay informed about market trends and economic indicators that can impact your investments."
+    },
+    {
+      "id": "9",
+      "title": "Consider dollar-cost averaging to invest consistently and reduce the impact of market volatility."
+    },
+    {
+      "id": "10",
+      "title": "Avoid making investment decisions based on emotions; stick to your plan and strategy."
     }
   ],
   "NGO": [
