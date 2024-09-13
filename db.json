@@ -62556,7 +62556,9 @@
       "id": "6",
       "title": "Black and White Long-sleeved Dress",
       "images": [
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/cloth1.jpg"
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/cloth1.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/bw1.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/bw2.jpg"
        
        
       ],
@@ -62582,7 +62584,9 @@
       "id": "8",
       "title": "Black Bag",
       "images": [
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/blackBag.jpg"
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/blackBag.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/bb1.jpg",
+        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/bb2.jpg"
        
       ],
       "originalPrice": "$100",
