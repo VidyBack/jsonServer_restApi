@@ -734,46 +734,55 @@
     }
   ],
   "ESTATEQUOTES": [
-    
-  {
+    {
       "id": "2",
-      "title": "The light is what guides you home, the warmth is what keeps you there.",
-      "author": "Ellie Rodriguez"
+      "title": "The best investment on Earth is Earth.",
+      "author": "Louis Glickman"
     },
     {
       "id": "3",
-      "title": "Don't wait to buy real estate, buy real estate and wait.",
-      "author": "T. Harv Eker"
+      "title": "Landlords grow rich in their sleep without working, risking or economizing.",
+      "author": "John Stuart Mill"
     },
     {
       "id": "4",
-      "title": "The house you looked at today and wanted to think about until tomorrow may be the same house someone looked at yesterday and will buy today.",
-      "author": "Koki Adasi"
+      "title": "The major fortunes in America have been made in real estate.",
+      "author": "John D. Rockefeller"
     },
     {
       "id": "5",
-      "title": "Owning a home is a keystone of wealth... both financial affluence and emotional security",
-      "author": "Suze Orman"
+      "title": "Real estate is an imperishable asset, ever increasing in value.",
+      "author": "Russell Sage"
     },
     {
       "id": "6",
+      "title": "Don’t wait to buy real estate. Buy real estate and wait.",
+      "author": "T. Harv Eker"
+    },
+    {
+      "id": "7",
       "title": "The best time to buy a home is always five years ago.",
       "author": "Ray Brown"
     },
     {
-      "id": "7",
-      "title": "The light is what guides you home, the warmth is what keeps you there.",
-      "author": "Ellie Rodriguez"
-    },
-    {
       "id": "8",
-      "title": "A man's home may seem to be his castle on the outside; inside, it is more often his nursery.",
-      "author": " Clare Boothe Luce"
+      "title": "A good real estate agent doesn’t just sell homes; they help people find their future",
+      "author": "Anonymous"
     },
     {
       "id": "9",
-      "title": "The major fortunes in America have been made in land.",
-      "author": "John D. Rockefeller"
+      "title": "Every person needs a home, but not everyone needs the same home.",
+      "author": "Robert Kiyosaki"
+    },
+    {
+      "id": "10",
+      "title": "The value of a property is determined not just by its physical attributes but by the potential it offers.",
+      "author": "Michael Bloomberg"
+    },
+    {
+      "id": "11",
+      "title": "Owning real estate is not only a safe investment but also a way to build long-term wealth",
+      "author": " Donald Trump "
     }
   ],
   "ESTATETIPS": [
@@ -2687,50 +2696,60 @@
     }
   ],
   "FINANCEQUOTES": [
-   {
+    {
+      "id": "2",
+      "title": "The stock market is designed to transfer money from the Active to the Patient.",
+      "author": "Warren Buffett"
+    },
+    {
+      "id": "3",
+      "title": "Risk comes from not knowing what you're doing.",
+      "author": "Warren Buffett"
+    },
+    {
+      "id": "4",
+      "title": "In investing, what is comfortable is rarely profitable.",
+      "author": "Robert Arnott"
+    },
+    {
+      "id": "5",
+      "title": "The four most dangerous words in investing are: ‘This time it’s different.",
+      "author": "Sir John Templeton"
+    },
+    {
+      "id": "6",
+      "title": "The best investment you can make is in yourself",
+      "author": "Warren Buffett"
+    },
+    {
+      "id": "7",
+      "title": "The stock market is filled with individuals who know the price of everything, but the value of nothing.",
+      "author": "Philip Fishe"
+    },
+    {
+      "id": "8",
+      "title": "Time in the market is more important than timing the market.",
+      "author": "Ken Fisher"
+    },
+    {
+      "id": "9",
+      "title": "Financial freedom is available to those who learn about it and work for it.",
+      "author": "Warren Buffett"
+    },
+    {
+      "id": "10",
+      "title": "Successful investing is about managing risk, not avoiding it.",
+      "author": "Benjamin Graham"
+    },
+    {
       "id": "11",
-      "title": "Every financial decision should be driven by what you value.",
-      "author": "David Bach"
+      "title": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "author": "Chinese Proverb "
     },
     {
       "id": "12",
       "title": "Wealth consists not in having great possessions, but in having few wants.",
       "author": "Epictetus"
-    },
-    {
-      "id": "13",
-      "title": "The stock market is a device for transferring money from the impatient to the patient.",
-      "author": "Epictetus"
-    },
-    {
-      "id": "14",
-      "title": "Wealth consists not in having great possessions, but in having few wants.",
-      "author": "Warren Buffett"
-    },
-    {
-      "id": "15",
-      "title": "The four most dangerous words in investing are: 'this time it's different'.",
-      "author": "Sir John Templeton"
-    },
-    {
-      "id": "16",
-      "title": "The stock market is a no-called-strike game. You don't have to swing at everything - you can wait for your pitch.",
-      "author": "Warren Buffett"
-    },
-    {
-      "id": "17",
-      "title": "The individual investor should act consistently as an investor and not as a speculator.",
-      "author": "Sir John Templeton"
-    },
-    {
-      "id": "18",
-      "title": "Time is the friend of the wonderful business, the enemy of the mediocre.",
-      "author": "Warren Buffett"
-    },
-    {
-      "id": "19",
-      "title": "In investing, what is comfortable is rarely profitable.",
-      "author": "Robert Arnott"
     }
   ],
   "FINANCETIPS": [
