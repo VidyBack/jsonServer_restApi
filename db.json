@@ -62764,8 +62764,8 @@
       "id": "3",
       "title": "Invest in timeless classics over fast fashion.",
       "category":"Clothings",
-  "author":" Anonymous",
-   "hashtag":
+      "author":" Anonymous",
+      "hashtag":
         "#TimelessStyle #SustainableFashionTips #ClassicWardrobe #InvestInQuality #SlowFashionMovement"
      
     },
@@ -62773,8 +62773,8 @@
       "id": "4",
       "title": "Support brands that prioritize sustainability.",
       "category":"Clothings",
-  "author":" Anonymous",
-   "hashtag":
+      "author":" Anonymous",
+      "hashtag":
         "#SustainableBrands #EcoFriendlyLiving #ConsciousConsumer #GreenShopping #EthicalBusiness"
      
     },
@@ -63660,35 +63660,45 @@
         "id": "1",
         "title": "Fashion is the armor to survive the reality of everyday life.",
         "category":"Clothings",
-        "author":"Ano Bill Cunninghamnymous"
+        "author":"Ano Bill Cunninghamnymous",
+        "hashtag":
+        "#FashionInspiration #StyleEssentials #EverydayFashion #FashionArmor #SurviveInStyle"
        
       },
       {
         "id": "2",
         "title": "Clothes mean nothing until someone lives in them",
         "category":"Clothings",
-       "author":"Marc Jacobs"
+       "author":"Marc Jacobs",
+       "hashtag":
+        "#StyleInspo #FashionStatements #OutfitGoals #WearYourConfidence #ClothesWithMeaning"
        
       },
       {
         "id": "3",
         "title":"Style is a way to say who you are without having to speak",
         "category":"Clothings",
-  "author":"Rachel Zoe"
+        "author":"Rachel Zoe",
+        "hashtag":
+        "#FashionStatements  #StyleIsPersonal  #ChicStyle  #FashionWithoutWords  #ExpressYourStyle "
        
       },
       {
         "id": "4",
         "title":"I like my money right where I can see it… hanging in my closet.",
         "category":"Clothings",
-  "author":"Carrie Bradshaw"
+        "author":"Carrie Bradshaw",
+        "hashtag":
+        "#MoneyQuotes  #FashionFinance  #ClosetGoals  #FinancialHumor  #StyleAndSavings "
        
       },
       {
         "id": "5",
         "title": "Clothes are like a good meal, a good movie, great pieces of music",
         "category":"Clothings",
-  "author":" Michael Kors"
+        "author":" Michael Kors",
+        "hashtag":
+        "#StyleAndCulture  #FashionMoments  #WearableArt  #ChicLifestyle  #FashionInspirationDaily "
        
       },
       {
