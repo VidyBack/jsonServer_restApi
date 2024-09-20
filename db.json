@@ -62791,42 +62791,52 @@
       "id": "6",
       "title": "Look for well-made seams and stitching.",
       "category":"Clothings",
-  "author":" Anonymous"
+      "author":" Anonymous",
+      "hashtag":
+        "#QualityCraftsmanship #SustainableFashion #TailoredFit #MadeWithCare #FashionDetails"
      
     },
     {
       "id": "7",
       "title": "Choose colors that complement your skin tone.",
       "category":"Clothings",
-  "author":" Anonymous"
+      "author":" Anonymous",
+      "hashtag":
+        "#ColorMatching #StyleTips #FashionInspo #SkinToneColors #WardrobeEssentials"
      
     },
     {
       "id": "8",
       "title": "Understand your measurements, not just size labels.",
       "category":"Clothings",
-  "author":" Anonymous"
+      "author":" Anonymous",
+      "hashtag":
+        "#BodyConfidence #FitOverSize #SizeInclusive #BodyPositiveMindset #MeasureToFit"
      
     },
     {
       "id": "9",
       "title": "Shop seasonal sales for quality at lower prices.",
       "category":"Clothings",
-  "author":" Anonymous"
+      "author":" Anonymous",
+      "hashtag":
+        "#SeasonalSavings #ShopSmart #QualityDeals #DiscountShopping #AffordableLuxury"
      
     },
     {
       "id": "10",
       "title": "Care for your clothes properly to extend their life.",
       "category":"Clothings",
-  "author":" Anonymous"
+      "author":" Anonymous",
+      "hashtag":
+        "#ClothingCare #SustainableFashionTips #WardrobeCare #EcoFriendlyFashion #ClothesMaintenance"
      
     },
     {
       "id": "11",
       "title": "Start with a neutral base and add pops of color.",
-       "category":"HomeDecor",
-  "author":" Anonymous"
+      "category":"HomeDecor",
+       "author":" Anonymous"
       
     },
     {
@@ -63705,35 +63715,45 @@
         "id": "6",
         "title": "You can have anything you want in life if you dress for it",
         "category":"Clothings",
-  "author":" Edith Head"
+        "author":" Edith Head",
+        "hashtag":
+        "#DressForSuccess  #PowerDressing  #StyleGoals  #ConfidenceInStyle  #FashionInspiration "
        
       },
       {
         "id": "7",
         "title": "Fashion is about dreaming and making other people dream."        ,
         "category":"Clothings",
-  "author":"  Donatella Versace"
+        "author":"  Donatella Versace",
+        "hashtag":
+        "#FashionDreams  #DreamInStyle  #FashionInspiration  #StyleGoals  #FashionDreamer "
        
       },
       {
         "id": "8",
         "title": "The joy of dressing is an art."        ,
         "category":"Clothings",
-  "author":"John Galliano"
+        "author":"John Galliano",
+        "hashtag":
+        "#FashionArt  #StyleInspiration  #DressToExpress  #ArtOfStyle  #FashionJoy "
        
       },
       {
         "id": "9",
         "title":"Fashion is the part of the daily air and it changes all the time."        ,
         "category":"Clothings",
-  "author":" Diana Vreeland"
+        "author":" Diana Vreeland",
+        "hashtag":
+        "#FashionInspiration  #DailyFashionTips  #StyleVibes  #FashionForwardThinking  #TimelessStyle "
        
       },
       {
         "id": "10",
         "title":"Style is something each of us already has; all we need to do is find it.",
         "category":"Clothings",
-  "author":" Diane von"
+        "author":" Diane von",
+        "hashtag":
+        "#PersonalStyle   #StyleInspiration   #FindYourStyle   #StyleJourney   #UniqueStyle  "
       },
       {
         "id": "11",
