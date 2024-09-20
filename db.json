@@ -63928,481 +63928,645 @@
         "id": "11",
         "title":"Your home should tell the story of who you are.",
         "category":"HomeDecor",
-  "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#HomeStories    #PersonalSpace    #HomeIsWhereTheHeartIs    #LivingWithPurpose    #HomeVibes   "
       },
       {
         "id": "12",
         "title":"Decorate with items that spark joy in your life.",
         "category":"HomeDecor",
-  "author":" Anonymous"
+        "author":" Anonymous",
+         "hashtag":
+        "#JoyfulDecor    #SparkJoy    #HomeWithHeart    #MindfulDecor    #DecorWithPurpose   "
       },
       {
         "id": "13",
         "title":"Good design is about balance, not perfection.",
         "category":"HomeDecor",
-  "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#DesignBalance    #CreativeHarmony     #DesignWisdom     #AestheticThoughts     #InspiringDesign    "
+      
       },
       {
         "id": "14",
         "title":"A room should feel collected, not decorated.",
         "category":"HomeDecor",
-  "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#InteriorInspo     #CuratedSpaces     #HomeStyling     #DesignWithPurpose     #LiveInArt    "
+     
+        
       },
       {
         "id": "15",
         "title":"Simplicity is the ultimate form of sophistication.",
         "category":"HomeDecor",
-  "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#SimplicityMatters    #ElegantDesign    #LessIsMore    #SophisticatedStyle    #MinimalistLiving   "
       },
       {
         "id": "16",
         "title":"Home is where your style meets comfort.",
         "category":"HomeDecor",
-  "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#HomeStyle     #ComfortLiving    #CozyHomeVibes     #StylishInteriors     #HomeSweetStyle    "
       },
       {
         "id": "17",
         "title":"Design your space to reflect your soul.",
         "category":"HomeDecor",
-  "author":" Anonymous"
+       "author":" Anonymous",
+       "hashtag":
+        "#SoulfulDesign    #InteriorInspo    #HomeVibes    #DesignWithPurpose    #PersonalizedSpaces   "
       },
-      {
-        "id": "18",
+      
+        {"id": "18",
         "title":"The best rooms have something to say.",
         "category":"HomeDecor",
-  "author":" Anonymous"
-      },
+        "author":" Anonymous",
+        "hashtag":
+        "#InteriorInspo    #HomeDecorIdeas    #    #RoomWithAView    #DesignInspiration   "},
+      
       {
         "id": "19",
         "title":"Style is a reflection of your attitude and your space.",
         "category":"HomeDecor",
-        "author":"Anonymous"
+        "author":"Anonymous",
+        "hashtag":
+        "#StyleInspo    #AttitudeIsEverything    #HomeStyle    #PersonalStyleGuide    #SpaceDecor   "
       },
       {
         "id": "20",
         "title":"Functionality and beauty go hand in hand.",
         "category":"HomeDecor",
-  "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#DesignHarmony    #FunctionalBeauty    #AestheticFunction    #ElegantSolutions    #ArtfulDesigns   "
+
       },
       {
         "id": "21",
         "title":"Jewelry is a way to express your individuality.",
          "category":"Jewellery",
-  "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#AccessorizeYourself #JewelryAsArt #UniqueJewelry    #PersonalStyleJewelry    #JewelryWithMeaning   "
       },
       {
         "id": "22",
         "title":"Quality jewelry tells a timeless story.",
         "category":"Jewellery",
-        "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#TimelessJewelry    #JewelryStory     #CraftedWithLove     #JewelryDesignInspo     #QualityOverQuantity     "
       },
       {
         "id": "23",
         "title":"A piece of jewelry is a piece of art.",
          "category":"Jewellery",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+        "#TimelessJewelry    #JewelryWithMeaning    #QualityJewelry    #StoryThroughJewels    #ElegantAdornments   "
       },
       {
         "id": "24",
         "title":"Jewelry is the finishing touch to any outfit.",
          "category":"Jewellery",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+        "#JewelryLover    #JewelryAddict    #AccessorizeYourself    #OutfitInspiration    #JewelryGoals   "
       },
       {
         "id": "25",
         "title":"Invest in jewelry that speaks to your heart.",
          "category":"Jewellery",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+        "#JewelryWithMeaning  #StatementJewelry    #JewelryLove    #PersonalStyleGuide    #SpaceDecor   "
       },
       {
         "id": "26",
         "title":"The best jewelry is always personal.",
          "category":"Jewellery",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+        "#StyleInspo #AttitudeIsEverything    #HomeStyle    #PersonalStyleGuide    #SpaceDecor   "
       },
       {
         "id": "27",
         "title":"Jewelry is the perfect expression of love.",
-         "category":"Jewellery",
-  "author":" Anonymous"
+        "category":"Jewellery",
+        "author":" Anonymous",
+         "hashtag":
+        "#JewelryLove    #LoveAndJewelry    #GiftOfJewelry    #JewelryForHer    #JewelryAddict   "
       },
       {
         "id": "28",
         "title":"A true gem is timeless and never fades.",
         "category":"Jewellery",
-        "author":" Anonymous"
+        "author":" Anonymous",
+         "hashtag":
+        "#TimelessBeauty #EnduringGrace #ShineBrightAlways #InnerGem #LastingElegance"
       },
       {
         "id": "29",
         "title":"Good jewelry adds confidence to your style.",
-         "category":"Jewellery",
-  "author":" Anonymous"
+        "category":"Jewellery",
+        "author":" Anonymous",
+        "hashtag":
+        "#JewelryStyle #ConfidenceInStyle #JewelryLoversClub #JewelryFashion #StyleWithConfidence"
       },
       {
         "id": "30",
         "title":"Sparkle from the inside out with the right jewelry.",
         "category":"Jewellery",
-        "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#JewelryLover #SparkleAndShine #JewelryInspo #ShineBrightLikeADiamond #JewelryAddict"
       },
       {
         "id": "31",
         "title":"Good shoes take you to great places.",
         "category":"Footwear",
-        "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#ShoeGoals #StepInStyle #FootwearFashion #TravelInComfort #AdventureAwaits"
       },
       {
         "id": "32",
         "title":"Comfortable shoes are the foundation of a good day.",
         "category":"Footwear",
-        "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#ComfortableShoes #GoodDayVibes #EverydayEssentials #ShoeGoals #HappyFeet"
       },
       {
         "id": "33",
         "title":"Invest in shoes that support your journey.",
         "category":"Footwear",
-        "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#ShoeInvestmentShoeInvestment #FootwearGoals #JourneyInStyle #ComfortInEveryStep #InvestInYourFeet"
       },
       {
         "id": "34",
         "title":"Life is short; buy the shoes.",
         "category":"Footwear",
-  "author":" Anonymous"
+         "author":" Anonymous",
+         "hashtag":
+        "#ShoeLove #LifeIsShort #TreatYourself #ShoeAddict #FashionJoy"
       },
       {
         "id": "35",
         "title":"Style begins from the ground up.",
         "category":"Footwear",
-  "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#GroundedStyle #StyleEssentials #ShoeInspo #FashionFoundation #StepInStyle"
       },
       {
         "id": "36",
         "title":"The right shoes can change your entire mood.",
         "category":"Footwear",
-  "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#ShoeMood #ShoeInspo #ShoeLove #HappyFeet #StepInStyle"
       },
       {
         "id": "37",
         "title":"A great pair of shoes is worth every step.",
         "category":"Footwear",
-  "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#ShoeLove  #FootwearFashion  #StepInStyle  #ShoeGoals  #WalkInComfort "
       },
       {
         "id": "38",
         "title":"Your shoes are the first step to a confident stride.",
         "category":"Footwear",
-  "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#StepConfidently #ShoeStyleInspo #WalkWithConfidence #FashionFootsteps #StrideInStyle"
       },
       {
         "id": "39",
         "title":"Shoes aren't just accessories; they're essentials.",
         "category":"Footwear",
-  "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#ShoeStyle  #FashionEssentials  #ShoeLove  #StyleInspiration  #EverydayFashion "
       },
       {
         "id": "40",
         "title":"Walk tall in shoes that fit your style and soul.",
         "category":"Footwear",
-  "author":" Anonymous"
+        "author":" Anonymous",
+        "hashtag":
+        "#StyleWithSoul #WalkYourWay #FitYourStyle #ConfidenceInComfort #ChicAndUnique"
       },
       {
         "id": "41",
         "title":"A great bag is both style and function.",
          "category":"BagPurse",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#StyleMeetsFunction #ChicAndPractical #BagGoals #FashionWithPurpose #EverydayElegance"
       },
       {
         "id": "42",
         "title":"Your bag should be as versatile as you are.",
          "category":"BagPurse",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#VersatileStyle #BagGoals #FashionFlexibility #EverydayEssentials #ChicAndFunctional"
       },
       {
         "id": "43",
         "title":"Invest in timeless bags that elevate every outfit.",
          "category":"BagPurse",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#TimelessStyle #ElevateYourWardrobe #ChicAccessories #FashionInvestment #StyleEssentials"
       },
       {
         "id": "44",
         "title":"The right bag is a statement of your style.",
          "category":"BagPurse",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#BagStyle #FashionStatements #ChicAccessories #StyleEssentials #FashionInspo"
       },
       {
         "id": "45",
         "title":"Quality bags are an investment in everyday elegance.",
          "category":"BagPurse",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#EverydayElegance  #QualityOverQuantity  #TimelessStyle  #InvestmentPieces  #LuxuryAccessories "
       },
       {
         "id": "46",
         "title":"A bag is not just an accessory; it’s a necessity.",
          "category":"BagPurse",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#BagEssentials #FashionMustHaves #StyleNecessity #EverydayAccessories #ChicAndPractical"
       },
       {
         "id": "47",
         "title":"Choose a bag that complements your lifestyle.",
          "category":"BagPurse",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#LifestyleBags #BagInspo #FashionWithPurpose #EverydayEssentials #ChicCarry"
       },
       {
         "id": "48",
         "title":"The best bags blend fashion with function.",
          "category":"BagPurse",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#ChicAndFunctional  #StylishEssentials  #EverydayLuxury  #FashionWithPurpose  #BagsOfStyle "
       },
       {
         "id": "49",
         "title":"Carry confidence with a well-chosen bag.",
          "category":"BagPurse",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#BagStyle #ConfidenceIsKey #ChicBags #FashionWithPurpose #StylishEssentials"
       },
       {
         "id": "50",
         "title":"A perfect bag makes every day feel special.",
          "category":"BagPurse",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#EverydayStyle #BagObsessed #ChicEssentials #FashionFinds #BagLoversClub"
       },
       {
         "id": "51",
         "title":"Smart buyers check specs, not just price tags.",
         "category":"MobileElec",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#SmartShopping #BuySmart #InformedBuying #KnowWhatYouBuy #BuyerTips"
       },
       {
         "id": "52",
         "title":"Quality electronics are an investment, not just a purchase.",
         "category":"MobileElec",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#InvestInQuality  #SmartShoppingTips  #QualityMattersMost  #TechInvestment  #BuyItForLife "
       },
       {
         "id": "53",
         "title":"The best technology makes life simpler, not more complicated.",
         "category":"MobileElec",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#TechForGood #SimplifyLife #TechInnovation #LifeMadeSimple #TechTrends2024"
       },
       {
         "id": "54",
         "title":"Innovation is great, but reliability is essential.",
         "category":"MobileElec",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#InnovationAndReliability #TechReliability #EssentialReliability #InnovateWithPurpose #ReliabilityMatters"
       },
       {
         "id": "55",
         "title":"In the digital age, the right device can change everything.",
         "category":"MobileElec",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#DigitalTransformation #TechSavvy #FutureOfTech #SmartDevices #TechInspiration"
       },
       {
         "id": "56",
         "title":"Good electronics are the tools that empower modern life.",
         "category":"MobileElec",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#TechForLife #SmartLiving #ModernGadgets #ElectronicsInnovation #EverydayTech"
       },
       {
         "id": "57",
         "title":"Choose gadgets that work as hard as you do.",
         "category":"MobileElec",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#TechLifestyle #SmartGadgets #WorkSmart #GadgetGoals #EfficientLiving"
       },
       {
         "id": "58",
         "title":"Tech that lasts is always worth the cost.",
         "category":"MobileElec",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#TechInvestments #SustainableTech #QualityOverQuantity #SmartTechChoices #TechWisdom"
       },
       {
         "id": "59",
         "title":"Stay connected with devices that match your lifestyle.",
         "category":"MobileElec",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#TechLifestyle #SmartLiving #ConnectedDevices #LifestyleTech #GadgetGoals"
       },
       {
         "id": "60",
         "title":"Upgrade wisely—newer isn't always better.",
         "category":"MobileElec",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#SmartUpgrades  #WiseChoices  #UpgradeYourLife  #QualityOverQuantity  #BetterDecisions "
       },
       {
         "id": "61",
         "title":"Wearables that fit your life enhance your well-being.",
          "category":"Wearables",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#WearableWellness  #SmartWearables  #HealthyTech  #LifestyleWearables  #FitTech "
       },
       {
         "id": "62",
         "title":"Smart wearables are more than tech—they’re lifestyle tools.",
          "category":"Wearables",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#WearableTech #LifestyleInnovation #SmartWearables #TechForLife #ConnectedLiving"
       },
       {
         "id": "63",
         "title":"Choose wearables that support your health goals.",
          "category":"Wearables",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#WearableTech  #HealthGoals  #FitnessWearables  #SmartHealth  #WellnessJourney "
       },
       {
         "id": "64",
         "title":"Wearable tech should blend seamlessly with your style.",
          "category":"Wearables",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#WearableFashion #TechStyle #SmartWear #StyleTech #FashionInnovation"
       },
       {
         "id": "65",
         "title":"Track your progress with wearables that inspire action.",
          "category":"Wearables",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#WearableTech #FitnessJourney #HealthGoals #InspireAction #ProgressTracking"
       },
       {
         "id": "66",
         "title":"Wearables connect you to a smarter, healthier life.",
          "category":"Wearables",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#SmartWearables #HealthTech #WearableTech #ConnectedLife #FitnessWearables"
       },
       {
         "id": "67",
         "title":"Invest in wearables that make everyday tasks effortless.",
          "category":"Wearables",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#WearableTech #SmartWearables #TechForLife #EverydayInnovation #EffortlessLiving"
       },
       {
         "id": "68",
         "title":"Your wearable should work as hard as you do.",
          "category":"Wearables",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#WearableTech  #TechForFitness  #SmartWearables  #FitnessGadgets  #ActiveLifestyle "
       },
       {
         "id": "69",
         "title":"The best wearables offer both function and fashion.",
          "category":"Wearables",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#WearableTech  #FashionTech  #SmartAccessories  #TechStyle  #StyleMeetsFunction "
       },
       {
         "id": "70",
         "title":"Elevate your day with tech you wear, not just carry.",
          "category":"Wearables",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#WearableTech  #TechStyle  #SmartFashion  #TechAccessories  #FutureOfWearables "
       },
       {
         "id": "71",
         "title":"A great perfume is an invisible accessory that completes your look.",
          "category":"Perfumes",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#FragranceAddict  #PerfumeOfTheDay  #ScentStyle  #PerfumeLovers  #InvisibleAccessory "
       },
       {
         "id": "72",
         "title":"Fragrance is the poetry of the senses; choose your words wisely.",
          "category":"Perfumes",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#ScentedThoughts #FragranceInspiration #WisdomInWords #PoetryOfLife #AromaticExpressions"
       },
       {
         "id": "73",
         "title":"Perfume should be the first thing you put on and the last thing you take off.",
          "category":"Perfumes",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#FragranceOfTheDay  #ScentOfTheMoment  #PerfumeLover  #DailyScent #FragranceNotes "
       },
       {
         "id": "74",
         "title":"The right scent can be your signature, leaving a memorable impression.",
          "category":"Perfumes",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#ScentOfTheDay  #FragranceJourney  #SignatureScent  #MemorableMoments  #PerfumeLovers "
       },
       {
         "id": "75",
         "title":"Fragrance is an expression of personality, so wear what makes you feel alive.",
          "category":"Perfumes",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#FragranceLove  #ScentOfTheDay  #PersonalStyle  #WearYourScent  #FragranceCommunity "
       },
       {
         "id": "76",
         "title":"A beautiful perfume is a reflection of your inner beauty and grace.",
          "category":"Perfumes",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#StyleWithSoul #WalkYourWay #FitYourStyle #ConfidenceInComfort #ChicAndUnique"
       },
       {
         "id": "77",
         "title":"Choose scents that resonate with your soul and enhance your mood.",
          "category":"Perfumes",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#AromatherapyVibes  #ScentedJourney  #MoodEnhancer  #FragranceInspiration  #SoulfulScents "
       },
       {
         "id": "78",
         "title":"Perfume is the silent, powerful statement you make before you even speak.",
          "category":"Perfumes",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#FragranceOfTheDay #PerfumeLovers #ScentOfTheMoment #FragranceCommunity #PerfumeQuotes"
       },
       {
         "id": "79",
         "title":"The best fragrance is one that makes you feel confident and unique.",
          "category":"Perfumes",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#FragranceOfConfidence #UniqueScents #PerfumeLove #ScentedJourney #ConfidenceInABottle"
       },
       {
         "id": "80",
         "title":"Every scent tells a story—find the one that narrates yours perfectly.",
          "category":"Perfumes",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#ScentStories  #FragranceJourney  #PerfumeLovers  #AromaticAdventures  #ScentedMemories "
       },
       {
         "id": "81",
         "title":"The internet is becoming the town square for the global village of tomorrow.",
          "category":"others",
-  "author":" Bill Gates"
+  "author":" Bill Gates",
+  "hashtag":
+  "#DigitalTownSquare #GlobalVillage #FutureOfCommunication #ConnectedWorld #InternetCommunity"
       },
       {
         "id": "82",
         "title":"Whoever said money can't buy happiness simply didn't know where to go shopping",
          "category":"others",
-  "author":" Bo Derek"
+  "author":" Bo Derek",
+  "hashtag":
+  "#ShoppingTherapy #HappinessIsBuying #TreatYourself #MoneyWellSpent #LuxuryLifestyle"
       },
       {
         "id": "83",
         "title":"Happiness is not in money, but in shopping.",
          "category":"others",
-  "author":"Marilyn Monroe"
+  "author":"Marilyn Monroe",
+  "hashtag":
+  "#ShoppingJoy #FindYourHappy #RetailTherapy #JoyfulSpending #ShopSmartLiveHappy"
       },
       {
         "id": "84",
         "title":"Buy less, choose well, make it last.",
          "category":"others",
-  "author":" Vivienne Westwood"
+  "author":" Vivienne Westwood",
+  "hashtag":
+  "#SustainableShopping #MindfulConsumerism #ConsciousLiving #QualityOverQuantity #EcoFriendlyChoices"
       },
       {
         "id": "85",
         "title":"Embrace the future of shopping—easy returns, secure payments, and incredible deals await!",
          "category":"others",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#SmartShopping  #FutureOfRetail  #ShopSmart  #OnlineShoppingDeals  #EasyReturns "
       },
       {
         "id": "86",
         "title":"Your cart is a reflection of your taste. Fill it with things that make you smile!"                        ,
          "category":"others",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#CartGoals #ShopWithJoy #TastefulShopping #HappyShopping #FindYourStyle"
       },
       {
         "id": "87",
         "title":"Behind every successful e-commerce business is a loyal customer. Thank you for supporting ours!",
          "category":"others",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#EcommerceSuccess #CustomerLoyalty #SupportSmallBusiness #GratefulBusiness #ShopSmall"
       },
       {
         "id": "88",
         "title":"Why go out when your favorite products are just a click away?" ,
          "category":"others",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#ShopSmart  #OnlineShoppingFun  #HomeComforts  #DigitalShopping  #RetailTherapyOnline "
       },
       {
         "id": "89",
         "title":"Big dreams, small business. Every order means the world to us!",
          "category":"others",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#DreamBigActSmall  #SmallBusinessLove  #SupportLocalBiz  #EveryOrderCounts  #EntrepreneurMindset "
       },
       {
         "id": "90",
         "title":"Why wait in line when you can shop in style from your couch?" ,
          "category":"others",
-  "author":" Anonymous"
+  "author":" Anonymous",
+  "hashtag":
+  "#ShopInStyle #CouchShopping #StylishShopping #OnlineShoppingVibes #ShopComfortably"
       },
       {
         "id": "91",
