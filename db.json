@@ -62705,7 +62705,7 @@
         ],
       "originalPrice": "$400",
       "discountedPrice": "$350",
-      "discountPercentage": " 10%OFF",
+      "discountPercentage": "00.10%OFF",
       "storeName": "Dummy Store"
     },
     
@@ -62719,7 +62719,7 @@
         ],
       "originalPrice": "$400",
       "discountedPrice": "$350",
-      "discountPercentage": " 10%OFF",
+      "discountPercentage": " ",
       "storeName": "Dummy Store"
     },
     {
@@ -62734,7 +62734,7 @@
         ],
       "originalPrice": "$200",
       "discountedPrice": "$100",
-      "discountPercentage": " 50%OFF",
+      "discountPercentage": " 0%OFF",
       "storeName": "Dummy Store"
     },
     {
@@ -62750,7 +62750,7 @@
         ],
       "originalPrice": "$200",
       "discountedPrice": "$100",
-      "discountPercentage": " 50%OFF",
+      "discountPercentage": "0.0%OFF",
       "storeName": "Dummy Store"
     }
   ],
