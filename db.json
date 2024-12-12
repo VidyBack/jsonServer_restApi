@@ -64898,10 +64898,10 @@
 
     
   ],
-  "CommonDemo": [
+  "WELLNESS": [
     {
       "id": "1",
-      "title": "Mi Casa Duplex Apartment ",
+      "title": "Empowering you to live your healthiest life, every day",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/estate1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/estate2.jpg",
@@ -64925,11 +64925,13 @@
       "bhk": "3 BHK",
       "squareft": "1100 sq.ft.",
       "propertyAge": "2",
-      "storeName": "www.yoursite.com"
+      "storeName": "www.yoursite.com",
+      "caption":"Your wellness journey matters! Take charge of your health and enjoy a life full of energy and vitality. We're here to support you every step of the way!Explore our range of health-boosting products.What’s your favorite way to stay healthy and energized? Share below!"
+    
     },
     {
       "id": "2",
-      "title": "Moringa Villa in Mountains",
+      "title": "Fuel your body, nourish your soul, elevate your life.",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/villa1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/villa2.jpg",
@@ -64953,11 +64955,13 @@
       "bhk": "2 BHK",
       "squareft": "900 sq.ft.",
       "propertyAge": "2",
-      "storeName": "www.yoursite.com"
+      "storeName": "www.yoursite.com",
+      "caption":"Your wellness journey matters! Take charge of your health and enjoy a life full of energy and vitality. We're here to support you every step of the way!Explore our range of health-boosting products.What’s your favorite way to stay healthy and energized? Share below!"
+
     },
     {
       "id": "3",
-      "title": "La Grande Maison Apartment",
+      "title": "Because your health and happiness always come first.",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/estateid3.jpg",
         "https://cdn.hootout.com/VidyBack-videos/estate2.jpg",
@@ -64980,11 +64984,13 @@
       "feature3": "Located at the center of the city",
       "bhk": "3 BHK",
       "squareft": "1100 sq.ft.",
-      "propertyAge": "2"
+      "propertyAge": "2",
+      "caption":"Your wellness journey matters! Take charge of your health and enjoy a life full of energy and vitality. We're here to support you every step of the way!Explore our range of health-boosting products.What’s your favorite way to stay healthy and energized? Share below!"
+
     },
     {
       "id": "4",
-      "title": "Holiday home in Goa",
+      "title": "Wellness that fits your lifestyle, wherever you are.",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/goa1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/goa2.jpg",
@@ -65006,11 +65012,13 @@
       "bhk": "4 BHK",
       "squareft": "1200 sq.ft.",
       "propertyAge": "3",
-      "storeName": "www.yoursite.com"
+      "storeName": "www.yoursite.com",
+      "caption":"Your wellness journey matters! Take charge of your health and enjoy a life full of energy and vitality. We're here to support you every step of the way!Explore our range of health-boosting products.What’s your favorite way to stay healthy and energized? Share below!"
+
     },
     {
       "id": "5",
-      "title": "Beach house in Bali",
+      "title": "Stronger, healthier, happier—you, every day.",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/beach1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/beach2.jpg",
@@ -65032,11 +65040,13 @@
       "bhk": "2 BHK",
       "squareft": "1000 sq.ft.",
       "propertyAge": "2",
-      "storeName": "www.yoursite.com"
+      "storeName": "www.yoursite.com",
+      "caption":"Your wellness journey matters! Take charge of your health and enjoy a life full of energy and vitality. We're here to support you every step of the way!Explore our range of health-boosting products.What’s your favorite way to stay healthy and energized? Share below!"
+
     },
     {
       "id": "6",
-      "title": "2 BHK Duplex Apartment ",
+      "title": "Helping you achieve balance in body, mind, and spirit.",
       "images": [
         "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/id6.jpg",
         "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/id6_1.jpg",
@@ -65058,11 +65068,13 @@
      "bhk": "2 BHK",
       "squareft": "1,200 sq.ft.",
       "propertyAge": "5",
-      "storeName": "https://www.yoursite.com"
+      "storeName": "https://www.yoursite.com",
+      "caption":"Your wellness journey matters! Take charge of your health and enjoy a life full of energy and vitality. We're here to support you every step of the way!Explore our range of health-boosting products.What’s your favorite way to stay healthy and energized? Share below!"
+
     },
     {
       "id": "7",
-      "title": " 3 BHK Villa in Mountains",
+      "title": " Your guide to a healthier, happier tomorrow.",
       "images": [
         "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/id7.jpg",
         "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/id7_4.jpg",
@@ -65085,7 +65097,9 @@
 "bhk": "3 BHK",     
  "squareft": "1,500 sq.ft.",
      "propertyAge": "3",
-      "storeName": "https://www.yoursite.com"
+      "storeName": "https://www.yoursite.com",
+      "caption":"Your wellness journey matters! Take charge of your health and enjoy a life full of energy and vitality. We're here to support you every step of the way!Explore our range of health-boosting products.What’s your favorite way to stay healthy and energized? Share below!"
+
 
 
 
@@ -65096,7 +65110,7 @@
     },
     {
       "id": "8",
-      "title": " 2 BHK La Grande Apartment",
+      "title": "Wellness made simple, for every body.",
       "images": [
         "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/id8.jpg",
         "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/id8_1.jpg",
@@ -65123,9 +65137,195 @@
 
 
 
-"storeName": "https://www.yoursite.com"
+"storeName": "https://www.yoursite.com",
+"caption":"Your wellness journey matters! Take charge of your health and enjoy a life full of energy and vitality. We're here to support you every step of the way!Explore our range of health-boosting products.What’s your favorite way to stay healthy and energized? Share below!"
+
 
     }
+  ],
+  "WELLNESSTIPS":[
+    {
+      "id": "1",
+      "title": "Start your day with a glass of water to boost hydration and kickstart your metabolism.",
+      "category":"wellness",
+      "author":"Anonymous",
+      "hashtag":
+      "#HydrationTips #HealthyHabits #MorningRituals #WellnessJourney #StayHydrated"
+     
+    },
+    {
+      "id": "2",
+      "title": "A 10-minute walk daily can improve your mood, energy, and overall health.",
+      "category":"wellness",
+     "author":"Anonymous",
+     "hashtag":
+      "#StyleInspo #FashionStatements #OutfitGoals #WearYourConfidence #ClothesWithMeaning"
+     
+    },
+    {
+      "id": "3",
+      "title":"Incorporate more whole foods like fruits, vegetables, and grains into your meals for lasting energy.",
+      "category":"wellness",
+      "author":"Anonymous",
+      "hashtag":
+      "#WholeFoods #EatCleanLiveClean #HealthyEats #FuelYourBody #NutritionMatters "
+     
+    },
+    {
+      "id": "4",
+      "title":"Practice mindfulness for 5 minutes daily to reduce stress and increase focus.",
+      "category":"wellness",
+      "author":"Anonymous",
+      "hashtag":
+      "#MindfulnessMatters #StressRelief #MentalClarity #SelfCareTips #WellnessTips "
+     
+    },
+    {
+      "id": "5",
+      "title": "Sleep for 7-9 hours each night to improve immunity, mood, and focus during the day.",
+      "category":"wellness",
+     "author":"Anonymous",
+      "hashtag":
+      "#BetterSleep #WellnessGoals #HealthyLiving #RestWell #SleepMatters"
+     
+    },
+    {
+      "id": "6",
+      "title": "Limit screen time before bed to promote better sleep and relaxation.",
+      "category":"wellness",
+      "author":"Anonymous",
+      "hashtag":
+      "#DigitalDetox #SleepBetter #HealthyHabits #MindfulLiving #WellnessJourney"
+     
+    },
+    {
+      "id": "7",
+      "title": "Drink herbal teas like chamomile or green tea to relax and boost your health."        ,
+      "category":"wellness",
+      "author":"Anonymous",
+      "hashtag":
+      "#HerbalTea #NaturalWellness #RelaxAndRecharge #HealthTips #StayHealthy "
+     
+    },
+    {
+      "id": "8",
+      "title": "Stretch daily to improve flexibility, posture, and relieve tension."        ,
+      "category":"wellness",
+      "author":"Anonymous",
+      "hashtag":
+      "#StretchDaily #FitnessGoals #HealthyRoutine #SelfCareMatters #WellnessLifestyle"
+     
+    },
+    {
+      "id": "9",
+      "title":"Set realistic wellness goals and celebrate small achievements along the way."        ,
+      "category":"wellness",
+      "author":"Anonymous",
+      "hashtag":
+      "#WellnessGoals #ProgressNotPerfection #SelfImprovement #StayMotivated #HealthyMindset"
+     
+    },
+    {
+      "id": "10",
+      "title":"Balance work and relaxation to maintain your physical and mental health.",
+      "category":"wellness",
+      "author":"Anonymous",
+      "hashtag":
+      "#WorkLifeBalance #StressReliefTips #HealthyMindset #SelfCareFirst #WellnessJourney"
+    }
+
+  ],
+  "WELLNESQUOTES":[
+    {
+      "id": "1",
+      "title": "Health is the greatest possession.",
+      "category":"wellness",
+      "author":"Lao Tzu",
+      "hashtag":
+      "#WellnessWisdom #HealthIsWealth #AncientWisdom #HolisticHealth #MindBodyBalance"
+     
+    },
+    {
+      "id": "2",
+      "title": "Take care of your body. It’s the only place you have to live.",
+      "category":"wellness",
+     "author":"Jim Rohn",
+     "hashtag":
+      "#SelfCareMatters #HealthFirst #BodyAndMind #WellnessJourney #StayHealthy"
+     
+    },
+    {
+      "id": "3",
+      "title":"The greatest wealth is health.",
+      "category":"wellness",
+      "author":"Virgil",
+      "hashtag":
+      "#HealthIsWealth #WellnessGoals #HolisticLiving #MindfulLiving #HealthyChoices"
+     
+    },
+    {
+      "id": "4",
+      "title":"Calm mind brings inner strength and self-confidence.",
+      "category":"wellness",
+      "author":"Dalai Lama",
+      "hashtag":
+      "#MindfulnessMatters #InnerStrength #MentalClarity #SelfCareTips #PositiveMindset"
+     
+    },
+    {
+      "id": "5",
+      "title": "A healthy outside starts from the inside.",
+      "category":"wellness",
+     "author":"Robert Urich",
+      "hashtag":
+      "#InnerWellness #HealthyHabits #NourishYourBody #WellnessLifestyle #FeelYourBest"
+     
+    },
+    {
+      "id": "6",
+      "title": "Wellness is a connection of paths: knowledge and action.",
+      "category":"wellness",
+      "author":"Joshua Holtz",
+      "hashtag":
+      "#WellnessWisdom #HealthyLiving #KnowledgeIsPower #ActOnHealth #WellnessJourney"
+     
+    },
+    {
+      "id": "7",
+      "title": "Happiness is the highest form of health." ,
+      "category":"wellness",
+      "author":"Napoleon Hill",
+      "hashtag":
+      "#MindOverMatter #WellnessMindset #PositiveEnergy #HealthAndFitness #StayMotivated"
+     
+    },
+    {
+      "id": "8",
+      "title": "Health is a state of body. Wellness is a state of being."        ,
+      "category":"wellness",
+      "author":"J. Stanford",
+      "hashtag":
+      "#HolisticWellness #StateOfBeing #HealthJourney #MindBodySpirit #WellnessMatters"
+     
+    },
+    {
+      "id": "9",
+      "title":"Your health is an investment, not an expense."        ,
+      "category":"wellness",
+      "author":"Unknown",
+      "hashtag":
+      "#WellnessJourney #OwnYourPath #HealthyHabits #SelfCareMatters #StayInspired"
+     
+    },
+    {
+      "id": "10",
+      "title":"A healthy outside starts from the inside.",
+      "category":"wellness",
+      "author":"Unknown",
+      "hashtag":
+      "#InnerHealth #WellnessLifestyle #HealthyChoices #FeelYourBest #GlowFromWithin"
+    }
+
   ]
 
 }
