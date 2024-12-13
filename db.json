@@ -64687,6 +64687,9 @@
     {
       "id": "6",
       "title": "Helping you achieve balance in body, mind, and spirit.",
+      "images": [
+        
+      ],
      
       "customerReview": "Purchased a stunning apartment in New York, and couldn't be happier. The process was seamless with top-notch service from the agent. The apartment is in a prime location, spacious layout, and equipped with high-end modern amenities. Highly recommend.",
       "customerName": "Jane Smith",
@@ -64709,6 +64712,9 @@
     {
       "id": "7",
       "title": " Your guide to a healthier, happier tomorrow.",
+      "images": [
+        
+      ],
       
       "customerReview": "Recently purchased a beautiful apartment in South Bombay, and I'm extremely satisfied. The buying process was smooth, and the agent provided exceptional service. The apartment is in a premium location, with a spacious layout and modern amenities. Highly recommend.",
       "customerName": "Rohit Sharma",
@@ -64731,6 +64737,9 @@
     {
       "id": "8",
       "title": "Wellness made simple, for every body.",
+      "images": [
+        
+      ],
      
       "customerReview": "I recently bought a charming apartment in Italy, and I'm absolutely thrilled. The entire process was hassle-free, with outstanding service from the agent. The apartment is in a prime location, spacious and filled with modern amenities. Highly recommend this property.",
       "customerName": "Luca Rossi",
@@ -64974,9 +64983,78 @@
 
   ],
   "SUDLIFE":[
+    {
+      "id":" 1",
+      "title":"Securing Your Future",
+      "description":"Discover SUD Life! Comprehensive insurance solutions to protect what matters most to you.",
+      "caption":"Your peace of mind starts here. \n\n 🌟 Explore life insurance plans designed for your family’s safety and future.\n\n 👉 Visit SUD Life today and secure tomorrow!\n\n",
+      "hashtag":"#SUDLife #LifeInsurance #SecureFuture #FamilyProtection #FinancialPlanning"
+    },
+    {
+      "id":" 2",
+      "title":"Plan Today, Prosper Tomorrow",
+      "description":"UD Life offers customized insurance plans for a safe, secure, and prosperous future.",
+      "caption":"Protect your loved ones with policies tailored to your needs. \n\n 🌱 It’s time to secure what truly matters.\n\n 👉 Learn more at SUD Life now!\n\n",
+      "hashtag":"#PlanWithSUD #SecureFuture #InsuranceMatters #PeaceOfMind #SmartInvestments"
+    },
+    {
+      "id":" 3",
+      "title":"Life, Secured",
+      "description":"With SUD Life, safeguard your family’s dreams with affordable and reliable insurance plans.",
+      "caption":"Caption: Your family’s future is priceless. \n\n 💡 Protect it with solutions that prioritize your needs.\n\n 👉 Get started today with SUD Life!\n\n",
+      "hashtag":"#LifeSecured #SUDLifePlans #FamilyFirst #FinancialSafety #InsuranceSolutions"
+    },
+    {
+      "id":"4",
+      "title":"Your Trusted Insurance Partner",
+      "description":"Trust SUD Life for life insurance that protects your loved ones and builds financial security.",
+      "caption":"Let us help you create a future where your dreams are protected. \n\n 🌟 Your safety is our priority!\n\n 👉 Explore SUD Life’s offerings today!\n\n",
+      "hashtag":"#TrustedPartner #SUDLifeInsurance #SecureDreams #PlanAhead #FinancialWellness"
+    },
+    {
+      "id":"5",
+      "title":"Protection Made Simple",
+      "description":"SUD Life simplifies insurance with easy-to-understand plans for every stage of life.",
+      "caption":"Make smart choices for a better tomorrow. \n\n 🌱 Explore plans that fit your lifestyle and goals.\n\n 👉 Visit SUD Life and find your plan now!\n\n",
+      "hashtag":"#ProtectionSimplified #SUDLife #PlanYourFuture #FamilySecurity #SmartInsurance"
+    },
+    {
+      "id":"6",
+      "title":"Strengthen Your Tomorrow",
+      "description":"Build a stronger future with SUD Life! Comprehensive insurance solutions for peace of mind.",
+      "caption":"Your journey to financial freedom starts with the right protection. \n\n🌟 Secure your life today.\n\n👉 Choose SUD Life for a better tomorrow!",
+      "hashtag":"#StrengthenTomorrow #SUDLifeCare #FinancialPlanning #SecureYourFamily #InsuranceMatters"
+    },
+    {
+      "id":"7",
+      "title":"Insure What Matters",
+      "description":"SUD Life offers life insurance plans designed to secure your family’s financial future.",
+      "caption":"Focus on what matters most while we take care of the rest. \n\n 🌿 Start protecting your future today.\n\n 👉 Visit SUD Life to learn more!\n\n",
+      "hashtag":"#InsureWhatMatters #SUDLifePlans #FinancialFreedom #SecureFuture #SmartChoices"
+    },
+    {
+      "id":"8",
+      "title":"Your Safety Net",
+      "description":"SUD Life ensures your family’s safety with reliable insurance plans for every need.",
+      "caption":"Build a secure foundation for your loved ones. \n\n 💡 Discover life insurance you can trust.\n\n 👉 Explore SUD Life’s offerings today!\n\n",
+      "hashtag":"#YourSafetyNet #SUDLifeCare #FutureReady #InsuranceMatters #ProtectYourFamily"
+    },
+    {
+      "id":"9",
+      "title":"Invest in Peace of Mind",
+      "description":"Choose SUD Life for financial security and peace of mind. Your family deserves the best.",
+      "caption":"Insurance that understands your priorities. \n\n 🌟 Let’s create a future worth looking forward to.\n\n 👉 Visit SUD Life now to start planning!\n\n",
+      "hashtag":"#InvestInSecurity #SUDLifeInsurance #PlanAhead #FamilyProtection #FinancialSafety"
+    },
+    {
+      "id":"10",
+      "title":"Secure Your Loved Ones",
+      "description":"With SUD Life, your family’s future is protected. Reliable life insurance plans for every stage of life.",
+      "caption":"Your family’s happiness deserves a strong foundation. \n\n 🌿 Let us help you secure it.\n\n 👉 Get started at SUD Life today!\n\n",
+      "hashtag":"#SecureYourFuture #SUDLifePlans #InsuranceSimplified #FamilySafety #PeaceOfMind"
+    }
 
-  ],
-  "APPLINK":[
 
   ]
+  
 }
