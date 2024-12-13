@@ -64569,12 +64569,7 @@
       "id": "1",
       "title": "Empowering you to live your healthiest life, every day",
       "images": [
-        "https://cdn.hootout.com/VidyBack-videos/estate1.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/estate2.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/estate3.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/estate4.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/estate5.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/estate6.jpg"
+       
       ],
       "customerReview": "Bought a real estate property and am very happy. Smooth process with excellent service from the agent. Beautiful property with great location, spacious interior, and modern appliances. Highly recommend..",
       "customerName": "John Doe",
@@ -64598,12 +64593,7 @@
       "id": "2",
       "title": "Fuel your body, nourish your soul, elevate your life.",
       "images": [
-        "https://cdn.hootout.com/VidyBack-videos/villa1.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/villa2.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/villa3.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/villa4.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/villa5.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/villa6.jpg"
+       
       ],
       "customerReview": "Bought a real estate property and I am very happy. Smooth process with excellent service from the agent. Beautiful property with great location, spacious interior, and modern appliances. Highly recommend.",
       "customerName": "Samuel",
@@ -64933,5 +64923,32 @@
       "author": "Unknown",
       "hashtag": "#InnerHealth #WellnessLifestyle #HealthyChoices #FeelYourBest #GlowFromWithin"
     }
+  ],
+  "YOUMATTER":[
+    {
+      "id":" 1",
+      "heading":"Stay Healthy, Stay You",
+      "description":"Discover the You Matter app! Your ultimate guide to wellness, self-care, and health at your fingertips.",
+      "caption":"Elevate your health with personalized wellness tips, fitness routines, and self-care essentials. 🌟\n Track your progress, achieve your goals, and embrace a healthier you!\n\n💡 What’s your favorite way to stay fit? Share below!\n\n👉 Download now and start your journey to a healthier, happier life!"
+    },
+    {
+    "id":" 2",
+    "heading":"Your Health, Your Way",
+    "description":"Transform your lifestyle with You Matter! Health tips, self-care guides, and fitness plans—all in one app.",
+    "caption":"Take charge of your wellness journey! 🌱 \n Explore self-care, track progress, and meet your health goals.\n 💬 How do you prioritize self-care? Let us know!\n 👉 Download the app today!"
+    },
+    {
+      "id":" 3",
+      "heading":"Stay Healthy, Stay You",
+      "description":"Discover the You Matter app! Your ultimate guide to wellness, self-care, and health at your fingertips.",
+      "caption":"Elevate your health with personalized wellness tips, fitness routines, and self-care essentials. 🌟\n Track your progress, achieve your goals, and embrace a healthier you!\n\n💡 What’s your favorite way to stay fit? Share below!\n\n👉 Download now and start your journey to a healthier, happier life!"
+    }
+
+  ],
+  "SUDLIFE":[
+
+  ],
+  "APPLINK":[
+
   ]
 }
