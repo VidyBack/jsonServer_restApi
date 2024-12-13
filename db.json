@@ -65098,18 +65098,18 @@
   "WEBSITE":[
     {
       "id":"1",
-          "brandName":"YouMatter",
-      "title":"Prioritize Your Wellness",
-      "description":"Explore You Matter Health! Premium supplements and self-care products to elevate your health journey.",
+      "brandName":"YouMatter",
+      "promoHeading":"Prioritize Your Wellness",
+      "title":"Explore You Matter Health! Premium supplements and self-care products to elevate your health journey.",
       "caption":"Energize your life with products that truly matter. \n\n 🌟 Discover the secret to better health and self-care today!\n\n 👉 Shop now at You Matter Health!\n\n",
       "hashtag":"#YouMatterHealth #SelfCareEssentials #WellnessJourney #HealthyLiving #ShopWellness"
     },
     {
       "id":"2",
-          "brandName":"YouMatter",
+      "brandName":"YouMatter",
 
-      "title":"Health Starts Here",
-      "description":"Empower your well-being with You Matter Health! Supplements, fitness tools, and self-care essentials for all.",
+      "promoHeading":"Health Starts Here",
+      "title":"Empower your well-being with You Matter Health! Supplements, fitness tools, and self-care essentials for all.",
       "caption":"Feel your best every day with high-quality products that support your health and lifestyle. 🌱\n\n 👉 Visit You Matter Health now!\n\n",
       "hashtag":"#HealthStartsHere #YouMatterEssentials #WellnessFirst #BetterHealth #HealthyHabits"
     },
@@ -65117,8 +65117,8 @@
       "id":"3",
           "brandName":"YouMatter ",
 
-      "title":"Your Self-Care Partner",
-      "description":"Discover You Matter Health! Curated self-care and wellness products to transform your daily routine.",
+      "promoHeading":"Your Self-Care Partner",
+      "title":"Discover You Matter Health! Curated self-care and wellness products to transform your daily routine.",
       "caption":"Make time for YOU with products that nurture your body and soul. \n\n 🌟 Self-care is self-love!\n\n 👉 Explore our collection today!\n\n",
       "hashtag":"#SelfCarePartner #WellnessMatters #YouMatterEssentials #HealthGoals #ShopSelfCare"
     },
@@ -65126,8 +65126,8 @@
       "id":"4",
           "brandName":"YouMatter ",
 
-      "title":"Wellness Redefined",
-      "description":"Promo Text: Shop You Matter Health for premium wellness products designed to support your health and fitness goals.",
+      "promoHeading":"Wellness Redefined",
+      "title":"Promo Text: Shop You Matter Health for premium wellness products designed to support your health and fitness goals.",
       "caption":"Health meets convenience! \n\n 🌿 Explore supplements, fitness gear, and self-care essentials tailored to you.\n\n 👉 Shop now and redefine your wellness!\n\n",
       "hashtag":"#NurtureYourBody #YouMatterWellness #HealthyLiving #SelfCareDaily #WellnessMadeSimple"
     },
@@ -65135,53 +65135,53 @@
       "id":"5",
           "brandName":"YouMatter ",
 
-      "title":"Nurture Your Body",
-      "description":"Achieve your health goals with You Matter Health! High-quality supplements and self-care products await.",
+      "promoHeading":"Nurture Your Body",
+      "title":"Achieve your health goals with You Matter Health! High-quality supplements and self-care products await.",
       "caption":"",
       "hashtag":""
     },
     {
       "id":"6",
-          "brandName":"YouMatter App",
+          "brandName":"YouMatter",
 
+      "promoHeading":"",
       "title":"",
-      "description":"",
       "caption":"",
       "hashtag":""
     },
     {
       "id":"7",
-          "brandName":"YouMatter App",
+          "brandName":"YouMatter ",
 
+      "promoHeading":"",
       "title":"",
-      "description":"",
       "caption":"",
       "hashtag":""
     },
     {
       "id":"8",
-          "brandName":"YouMatter App",
+          "brandName":"YouMatter",
 
+      "promoHeading":"",
       "title":"",
-      "description":"",
       "caption":"",
       "hashtag":""
     },
     {
       "id":"9",
-          "brandName":"YouMatter App",
+          "brandName":"YouMatter",
 
+      "promoHeading":"",
       "title":"",
-      "description":"",
       "caption":"",
       "hashtag":""
     },
     {
       "id":"10",
-          "brandName":"YouMatter App",
+          "brandName":"YouMatter ",
 
+      "promoHeading":"",
       "title":"",
-      "description":"",
       "caption":"",
       "hashtag":""
     }
