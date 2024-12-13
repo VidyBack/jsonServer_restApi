@@ -64568,42 +64568,186 @@
     {
       "id": "1",
       "title": "Empowering you to live your healthiest life, every day",
-      
+      "images": [
+       
+      ],
+      "customerReview": "Bought a real estate property and am very happy. Smooth process with excellent service from the agent. Beautiful property with great location, spacious interior, and modern appliances. Highly recommend..",
+      "customerName": "John Doe",
+      "location": "Miami",
+      "price": "$35000",
+      "contactName": "Agent",
+      "contactNumber": "987654xxxx",
+      "originalPrice": "$35000",
+      "discountedPrice": "$34000",
+      "discountPercentage": "3% OFF",
+      "feature1": "Full Furnished Apartment with a balcony",
+      "feature2": "Terrace garden attached to the apartment",
+      "feature3": "Located at the center of the city",
+      "bhk": "3 BHK",
+      "squareft": "1100 sq.ft.",
+      "propertyAge": "2",
+      "storeName": "https://www.yoursite.com",
       "caption": "Your wellness journey matters! 🌱 \nTake charge of your health and enjoy a life full of energy and vitality. \n💪 We're here to support you every step of the way! \nExplore our range of health-boosting products.\nWhat’s your favorite way to stay healthy and energized? Share below! 👇"
     },
     {
       "id": "2",
       "title": "Fuel your body, nourish your soul, elevate your life.",
-     "caption": "Good health starts from within! 🌟 \nDiscover the tools to nurture your body and elevate your life to its fullest potential. 💚\n💪 Visit our site to begin your journey toward total wellness. \n What’s one wellness goal you’re focusing on this month? Let us know!"
+      "images": [
+       
+      ],
+      "customerReview": "Bought a real estate property and I am very happy. Smooth process with excellent service from the agent. Beautiful property with great location, spacious interior, and modern appliances. Highly recommend.",
+      "customerName": "Samuel",
+      "location": "Siolim,Goa",
+      "price": "$35000",
+      "contactName": "Agent",
+      "contactNumber": "9876543210",
+      "originalPrice": "$35000",
+      "discountedPrice": "$34000",
+      "discountPercentage": "3% OFF",
+      "feature1": "Brand new modern and stylish furniture with king size bed",
+      "feature2": "Terrace garden attached to the apartment",
+      "feature3": "Located at the center of the city",
+      "bhk": "2 BHK",
+      "squareft": "900 sq.ft.",
+      "propertyAge": "2",
+      "storeName": "https://www.yoursite.com",
+      "caption": "Good health starts from within! 🌟 \nDiscover the tools to nurture your body and elevate your life to its fullest potential. 💚\n💪 Visit our site to begin your journey toward total wellness. \n What’s one wellness goal you’re focusing on this month? Let us know!"
     },
     {
       "id": "3",
       "title": "Because your health and happiness always come first.",
+      "images": [
+        
+      ],
+      "customerReview": "Bought a real estate property and am very happy. Smooth process with excellent service from the agent. Beautiful property with great location, spacious interior, and modern appliances. Highly recommend..",
+      "customerName": "Johny Dey",
+      "location": "Paris",
+      "price": "$35000",
+      "contactName": "Agent",
+      "contactNumber": "998634xxxx",
+      "originalPrice": "$35000",
+      "discountedPrice": "$34000",
+      "discountPercentage": "3% OFF",
+      "feature1": "Brand new modern and stylish furniture with king size bed",
+      "feature2": "Terrace garden attached to the apartment",
+      "feature3": "Located at the center of the city",
+      "bhk": "3 BHK",
+      "squareft": "1100 sq.ft.",
+      "propertyAge": "2",
       "caption": "Your well-being is our priority! 🌿\n Take small steps today to feel better, live better, and thrive. 🌟\n Discover products designed for your wellness at our site.\n How do you prioritize your happiness each day? Share your tips! 🗣️"
     },
     {
       "id": "4",
       "title": "Wellness that fits your lifestyle, wherever you are.",
+      "images": [
+       
+      ],
+      "customerReview": "Bought a real estate property and am very happy. Smooth process with excellent service from the agent. Beautiful property with great location, spacious interior, and modern appliances. Highly recommend..",
+      "customerName": "Emanual Dey",
+      "location": "Goa",
+      "price": "$35000",
+      "contactName": "Agent",
+      "contactNumber": "954624xxxx",
+      "originalPrice": "$35000",
+      "discountedPrice": "$34000",
+      "discountPercentage": "3% OFF",
+      "feature1": "Brand new modern and stylish furniture with king size bed",
+      "feature2": "Terrace garden attached to the apartment",
+      "feature3": "Located at the center of the city",
+      "bhk": "4 BHK",
+      "squareft": "1200 sq.ft.",
+      "propertyAge": "3",
+      "storeName": "https://www.yoursite.com",
       "caption": "Wellness should be easy and accessible! 🌏 \n Find solutions that work for your unique lifestyle!\n Start living your best life with our products.\n What’s your go-to wellness hack? Drop it in the comments! 💡"
     },
     {
       "id": "5",
       "title": "Stronger, healthier, happier—you, every day.",
+      "images": [
+       
+      ],
+      "customerReview": "Bought a real estate property and am very happy. Smooth process with excellent service from the agent. Beautiful property with great location, spacious interior, and modern appliances. Highly recommend..",
+      "customerName": "Joy Dey",
+      "location": "Bali",
+      "price": "$35000",
+      "contactName": "Agent",
+      "contactNumber": "954624xxxx",
+      "originalPrice": "$35000",
+      "discountedPrice": "$34000",
+      "discountPercentage": "3% OFF",
+      "feature1": "Brand new modern and stylish furniture with king size bed",
+      "feature2": "Terrace garden attached to the apartment",
+      "feature3": "Located at the center of the city",
+      "bhk": "2 BHK",
+      "squareft": "1000 sq.ft.",
+      "propertyAge": "2",
+      "storeName": "https://www.yoursite.com",
       "caption": "Start every day as the best version of yourself! 💥 \n Our products are here to help you grow stronger and feel better. 🌟\n Explore our range of health-boosting products.\n What’s one thing you do daily to boost your health? Tell us! 🏋️"
     },
     {
       "id": "6",
       "title": "Helping you achieve balance in body, mind, and spirit.",
+     
+      "customerReview": "Purchased a stunning apartment in New York, and couldn't be happier. The process was seamless with top-notch service from the agent. The apartment is in a prime location, spacious layout, and equipped with high-end modern amenities. Highly recommend.",
+      "customerName": "Jane Smith",
+      "location": "New York",
+      "price": "$750,000",
+      "contactName": "Agent",
+      "contactNumber": "123456xxxx",
+      "originalPrice": "$750,000",
+      "discountedPrice": "$730,000",
+      "discountPercentage": "3% OFF",
+      "feature1": "Luxury Apartment with floor-to-ceiling windows",
+      "feature2": "Private rooftop terrace with skyline views",
+      "feature3": "Located in the heart of Manhattan",
+      "bhk": "2 BHK",
+      "squareft": "1,200 sq.ft.",
+      "propertyAge": "5",
+      "storeName": "https://www.yoursite.com",
       "caption": "True wellness is about harmony! ✨ \n Let’s help you find balance and unlock your potential. 🌺 \n Discover how we can help you live a balanced life. \n What’s your secret to staying balanced? Share your story! 🧘"
     },
     {
       "id": "7",
       "title": " Your guide to a healthier, happier tomorrow.",
+      
+      "customerReview": "Recently purchased a beautiful apartment in South Bombay, and I'm extremely satisfied. The buying process was smooth, and the agent provided exceptional service. The apartment is in a premium location, with a spacious layout and modern amenities. Highly recommend.",
+      "customerName": "Rohit Sharma",
+      "location": "South Bombay",
+      "price": "₹5,00,00,000",
+      "contactName": "Agent",
+      "contactNumber": "987654xxxx",
+      "originalPrice": "₹5,00,00,000",
+      "discountedPrice": "₹4,85,00,000",
+      "discountPercentage": "3% OFF",
+      "feature1": "Fully Furnished Apartment with sea views",
+      "feature2": "Private terrace with panoramic cityscape",
+      "feature3": "Located in a prestigious South Bombay locality",
+      "bhk": "3 BHK",
+      "squareft": "1,500 sq.ft.",
+      "propertyAge": "3",
+      "storeName": "https://www.yoursite.com",
       "caption": "Take the first step toward your healthiest self today! 🌅 \n We’re here to guide you to a better tomorrow. 💡\n Find all your wellness needs at our website.\n What wellness goal are you striving for this year? Let us cheer you on! 🙌 "
     },
     {
       "id": "8",
       "title": "Wellness made simple, for every body.",
+     
+      "customerReview": "I recently bought a charming apartment in Italy, and I'm absolutely thrilled. The entire process was hassle-free, with outstanding service from the agent. The apartment is in a prime location, spacious and filled with modern amenities. Highly recommend this property.",
+      "customerName": "Luca Rossi",
+      "location": "Italy",
+      "price": "€450,000",
+      "contactName": "Agent",
+      "contactNumber": "+39 123456xxxx",
+      "originalPrice": "€450,000",
+      "discountedPrice": "€435,000",
+      "discountPercentage": "3% OFF",
+      "feature1": "Beautifully designed apartment with classic Italian architecture",
+      "feature2": "Private balcony overlooking scenic views",
+      "feature3": "Located in the heart of the city with easy access to landmarks",
+      "bhk": "2 BHK",
+      "squareft": "1,300 sq.ft.",
+      "propertyAge": "4",
+      "storeName": "https://www.yoursite.com",
       "caption": "Simplify your path to health! 🌿 \n Our carefully curated products make feeling great easier than ever. 💫 \n Shop the essentials for your wellness. \n What’s one simple habit that makes a big difference in your health? Share below!"
     }
   ],
@@ -64800,7 +64944,29 @@
       "description":"Stay fit, stay fabulous with You Matter! Personalized health and self-care insights to inspire your journey.",
       "caption":"Achieve your goals with expert tips and easy progress tracking. \n\n 💪 It’s your time to shine!\n\n 💬 What’s your daily fitness hack? Tell us!\n\n 👉 Start now by downloading!\n\n",
       "hashtag":"#LiveWellDaily #BetterYou #FitnessMotivation #SelfCareRoutine #WellnessApp"
+    },
+    {
+      "id":"8",
+      "title":"Health, Simplified",
+      "description":"Meet You Matter—your all-in-one app for better health, smarter fitness, and mindful self-care.",
+      "caption":"Start your health journey today. \n\n 🌟 Expert tools and tailored plans at your fingertips!\n\n 💡 How do you stay motivated to work out?\n\n👉 Download the app today!\n\n",
+      "hashtag":"#HealthSimplified #FitnessFocus #SelfCareMadeEasy #WellnessSupport #YouMatterApp"
+    },
+    {
+      "id":"9",
+      "title":"Wellness Redefined",
+      "description":"Say goodbye to guesswork! You Matter delivers custom wellness tips and fitness plans made for you.",
+      "caption":"Wellness tailored to your needs. \n\n 🌱 From health hacks to self-care rituals, we’ve got you covered!\n\n 💬 What’s your go-to fitness routine?\n\n 👉 Download now and explore!\n\n",
+      "hashtag":"#WellnessRedefined #SelfCareGoals #HealthJourney #FitForLife #YouMatterApp"
+    },
+    {
+      "id":"10",
+      "title":"Self-Care Simplified",
+      "description":"Make wellness a lifestyle with You Matter! Stay motivated with tools for health and self-care success.",
+      "caption":"Your health is your priority. \n\n 💪 Personalized insights and easy tracking make all the difference!\n\n 💡 What’s your biggest wellness goal?\n\n👉 Download the app now!\n\n",
+      "hashtag":"#SelfCareSimplified #WellnessGoals #HealthyChoices #FitnessFocus #YouMatter"
     }
+
 
 
 
