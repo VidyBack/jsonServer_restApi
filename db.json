@@ -390,6 +390,132 @@
       "discountPercentage": "20% OFF",
       "customerReview": "Awesome Taste",
       "customerName": "Aly"
+    },
+    {
+      "id": "7",
+      "promoHeading": "Healthy Breakfast",
+      "title": "Porridge bowl",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/soupy1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy5.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy6.jpg"
+      ],
+      "originalPrice": "$100",
+      "discountedPrice": "$80",
+      "discountPercentage": "20% OFF",
+      "customerReview": "Delicious and wholesome! The perfect balance of creamy texture and nutritious toppings.",
+      "customerName": "Yasmine"
+    },
+    {
+      "id": "8",
+      "promoHeading": "Healthy Breakfast",
+      "title": "Smoothie Bowl",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/soupy1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy5.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy6.jpg"
+      ],
+      "originalPrice": "$100",
+      "discountedPrice": "$80",
+      "discountPercentage": "20% OFF",
+      "customerReview": "Refreshing and vibrant! Packed with fruity goodness and a boost of healthy energy.",
+      "customerName": "Yasmine"
+    },
+    {
+      "id": "9",
+      "promoHeading": "Healthy Breakfast",
+      "title": "Veggie Omelette",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/soupy1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy5.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy6.jpg"
+      ],
+      "originalPrice": "$100",
+      "discountedPrice": "$80",
+      "discountPercentage": "20% OFF",
+      "customerReview": "Light and delicious! Loaded with fresh veggies and protein for a balanced breakfast. ",
+      "customerName": "Yasmine"
+    },
+    {
+      "id": "10",
+      "promoHeading": "Healthy Breakfast",
+      "title": "Whole Grain Pancakes",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/soupy1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy5.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy6.jpg"
+      ],
+      "originalPrice": "$100",
+      "discountedPrice": "$80",
+      "discountPercentage": "20% OFF",
+      "customerReview": "Fluffy, hearty, and guilt-free! The ideal treat to keep mornings sweet and wholesome.",
+      "customerName": "Yasmine"
+    },
+    {
+      "id": "11",
+      "promoHeading": "Healthy Breakfast",
+      "title": "Chia Pudding",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/soupy1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy5.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy6.jpg"
+      ],
+      "originalPrice": "$100",
+      "discountedPrice": "$80",
+      "discountPercentage": "20% OFF",
+      "customerReview": "Silky, nutritious, and packed with superfood power. A light and lovely breakfast choice!",
+      "customerName": "Yasmine"
+    },
+    {
+      "id": "12",
+      "promoHeading": "Healthy Breakfast",
+      "title": "Quinoa Breakfast Bowl",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/soupy1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy5.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy6.jpg"
+      ],
+      "originalPrice": "$100",
+      "discountedPrice": "$80",
+      "discountPercentage": "20% OFF",
+      "customerReview": "Nutty, nourishing, and versatile! A power-packed bowl to energize your morning.",
+      "customerName": "Yasmine"
+    },
+    {
+      "id": "12",
+      "promoHeading": "Healthy Breakfast",
+      "title": "Greek Yogurt Parfait",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/soupy1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy5.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy6.jpg"
+      ],
+      "originalPrice": "$100",
+      "discountedPrice": "$80",
+      "discountPercentage": "20% OFF",
+      "customerReview": "Creamy and indulgent with a sweet crunch of granola and berries. Perfect for mornings! ",
+      "customerName": "Yasmine"
     }
   ],
   "WELLNESSFOOD": [
