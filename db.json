@@ -314,85 +314,6 @@
   "FOOD": [
     {
       "id": "1",
-      "promoHeading": "New Dish",
-      "title": "Soupy ramen",
-      "images": [
-        "https://cdn.hootout.com/VidyBack-videos/soupy1.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/soupy2.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/soupy3.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/soupy4.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/soupy5.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/soupy6.jpg"
-      ],
-      "originalPrice": "$100",
-      "discountedPrice": "$80",
-      "discountPercentage": "20% OFF",
-      "customerReview": "Presentation was impressive. Highly recommend for noodle soup lovers.",
-      "customerName": "Yasmine"
-    },
-    {
-      "id": "2",
-      "promoHeading": "New In Menu",
-      "title": "Feta cheese salad",
-      "images": [
-        "https://cdn.hootout.com/VidyBack-videos/new1.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/new2.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/new3.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/new4.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/new5.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/new6.jpg"
-      ],
-      "originalPrice": "$100",
-      "discountedPrice": "$80",
-      "discountPercentage": "20% OFF",
-      "customerReview": "It was lightly dressed! Highly recommend for a refreshing and healthy meal.",
-      "customerName": "Yasmine"
-    },
-    {
-      "id": "4",
-      "promoHeading": "Most Favourite",
-      "title": "Chicken",
-      "images": [
-        "https://cdn.hootout.com/VidyBack-videos/chicken1.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/chicken2.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/chicken3.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/chicken4.jpg"
-      ],
-      "originalPrice": "$100",
-      "discountedPrice": "$80",
-      "discountPercentage": "20% OFF",
-      "customerReview": "love the food !",
-      "customerName": "Jasly"
-    },
-    {
-      "id": "5",
-      "promoHeading": "Most Popular",
-      "title": "Japnese sushi rolls",
-      "images": [
-        "https://cdn.hootout.com/VidyBack-videos/rolls1.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/sushiroll1.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/sushiroll2.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/sushiroll3.jpg"
-      ],
-      "originalPrice": "$100",
-      "discountedPrice": "$80",
-      "discountPercentage": "20% OFF",
-      "customerReview": "Had authentic Sushi at a local Japanese spot.",
-      "customerName": "Yasmine"
-    },
-    {
-      "id": "6",
-      "promoHeading": "Platter",
-      "title": "Thukpa",
-      "images": ["https://cdn.hootout.com/VidyBack-videos/dish2.jpg"],
-      "originalPrice": "$100",
-      "discountedPrice": "$80",
-      "discountPercentage": "20% OFF",
-      "customerReview": "Awesome Taste",
-      "customerName": "Aly"
-    },
-    {
-      "id": "7",
       "promoHeading": "Healthy Breakfast",
       "title": "Porridge bowl",
       "images": [
@@ -410,7 +331,7 @@
       "customerName": "Yasmine"
     },
     {
-      "id": "8",
+      "id": "2",
       "promoHeading": "Healthy Breakfast",
       "title": "Smoothie Bowl",
       "images": [
@@ -428,7 +349,7 @@
       "customerName": "Yasmine"
     },
     {
-      "id": "9",
+      "id": "3",
       "promoHeading": "Healthy Breakfast",
       "title": "Veggie Omelette",
       "images": [
@@ -446,7 +367,7 @@
       "customerName": "Yasmine"
     },
     {
-      "id": "10",
+      "id": "4",
       "promoHeading": "Healthy Breakfast",
       "title": "Whole Grain Pancakes",
       "images": [
@@ -464,7 +385,7 @@
       "customerName": "Yasmine"
     },
     {
-      "id": "11",
+      "id": "5",
       "promoHeading": "Healthy Breakfast",
       "title": "Chia Pudding",
       "images": [
@@ -482,7 +403,7 @@
       "customerName": "Yasmine"
     },
     {
-      "id": "12",
+      "id": "6",
       "promoHeading": "Healthy Breakfast",
       "title": "Quinoa Breakfast Bowl",
       "images": [
@@ -500,7 +421,7 @@
       "customerName": "Yasmine"
     },
     {
-      "id": "12",
+      "id": "7",
       "promoHeading": "Healthy Breakfast",
       "title": "Greek Yogurt Parfait",
       "images": [
@@ -516,6 +437,85 @@
       "discountPercentage": "20% OFF",
       "customerReview": "Creamy and indulgent with a sweet crunch of granola and berries. Perfect for mornings! ",
       "customerName": "Yasmine"
+    },
+    {
+      "id": "8",
+      "promoHeading": "New Dish",
+      "title": "Soupy ramen",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/soupy1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy5.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/soupy6.jpg"
+      ],
+      "originalPrice": "$100",
+      "discountedPrice": "$80",
+      "discountPercentage": "20% OFF",
+      "customerReview": "Presentation was impressive. Highly recommend for noodle soup lovers.",
+      "customerName": "Yasmine"
+    },
+    {
+      "id": "9",
+      "promoHeading": "New In Menu",
+      "title": "Feta cheese salad",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/new1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/new2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/new3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/new4.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/new5.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/new6.jpg"
+      ],
+      "originalPrice": "$100",
+      "discountedPrice": "$80",
+      "discountPercentage": "20% OFF",
+      "customerReview": "It was lightly dressed! Highly recommend for a refreshing and healthy meal.",
+      "customerName": "Yasmine"
+    },
+    {
+      "id": "10",
+      "promoHeading": "Most Favourite",
+      "title": "Chicken",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/chicken1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/chicken2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/chicken3.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/chicken4.jpg"
+      ],
+      "originalPrice": "$100",
+      "discountedPrice": "$80",
+      "discountPercentage": "20% OFF",
+      "customerReview": "love the food !",
+      "customerName": "Jasly"
+    },
+    {
+      "id": "11",
+      "promoHeading": "Most Popular",
+      "title": "Japnese sushi rolls",
+      "images": [
+        "https://cdn.hootout.com/VidyBack-videos/rolls1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/sushiroll1.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/sushiroll2.jpg",
+        "https://cdn.hootout.com/VidyBack-videos/sushiroll3.jpg"
+      ],
+      "originalPrice": "$100",
+      "discountedPrice": "$80",
+      "discountPercentage": "20% OFF",
+      "customerReview": "Had authentic Sushi at a local Japanese spot.",
+      "customerName": "Yasmine"
+    },
+    {
+      "id": "12",
+      "promoHeading": "Platter",
+      "title": "Thukpa",
+      "images": ["https://cdn.hootout.com/VidyBack-videos/dish2.jpg"],
+      "originalPrice": "$100",
+      "discountedPrice": "$80",
+      "discountPercentage": "20% OFF",
+      "customerReview": "Awesome Taste",
+      "customerName": "Aly"
     }
   ],
   "WELLNESSFOOD": [
