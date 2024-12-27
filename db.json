@@ -59910,5 +59910,57 @@
       "caption": "Your journey to health starts with the right products. \n\n🌿 Shop now for the care you deserve!\n\n👉 Visit You Matter Health today!\n\n",
       "hashtag": "#HealthThatMatters #YouMatterWellness #BetterHealth #SelfCareEssentials #WellnessJourney"
     }
-  ]
+  ],
+  "aiestate":[
+    {
+    "id":"1",
+    "title":"Find Your Dream Home, Where Memories Are Made",
+    "caption":"🏡 Your perfect home is just a step away! \nWhether you're searching for luxury, comfort, or the ideal location, we've got you covered. \n✨ Discover properties designed to match your lifestyle and dreams. \nWhat does your dream home look like? Let us know below! 👇"
+    }
+  ],
+  "aifinance":[{
+    "id":"1",
+    "title":"Secure Your Future with Smart Financial Solutions",
+    "caption":"💰 Take charge of your financial goals today! \nFrom building wealth to planning for retirement, we’re here to guide you every step of the way. \n📈 Let’s create a future full of security and success together. \nWhat’s your top financial goal for this year? Share your thoughts below! 👇"
+  }],
+  "aiIT":[{
+    "id":"1",
+    "title":"Transform Your Business with Cutting-Edge Technology",
+    "caption":"💻 Unlock the power of innovation! \nWe provide advanced IT solutions to help your business thrive in a digital world. \n🚀 From software development to system integration, we’ve got your back. \nWhat’s your biggest tech challenge? Tell us below, and we’ll help! 👇"
+  }],
+  "aifood":[{
+    "id":"1",
+    "title":"Savor the Flavors That Make Life Delicious",
+    "caption":"🍴 Treat your taste buds to a world of culinary delights! \nFrom hearty meals to irresistible snacks, we’ve got something for every craving. \n🌟 What’s your go-to comfort food? Share it with us below! 👇"
+  }],
+  "aiauto":[{
+    "id":"1",
+    "title":"Drive Into the Future with Style and Performance",
+    "caption":"🚗 Your dream ride is just around the corner! \nExplore vehicles that combine cutting-edge technology, style, and unbeatable performance. \n⚡ What’s your ultimate road trip car? Tell us in the comments! 👇"
+  }],
+  "aitravel":[{
+    "id":"1",
+    "title":"Discover the World, One Adventure at a Time",
+    "caption":"✈️ Pack your bags and create unforgettable memories! \nFrom breathtaking landscapes to vibrant cityscapes, your next adventure awaits. \n🌍 What’s your dream travel destination? Let us know below! 👇"
+  }],
+  "aijobs":[{
+    "id":"1",
+    "title":"Your Career, Your Journey to Success",
+    "caption":"💼 Find opportunities that align with your passion and skills! \nWhether you’re starting out or looking for a career shift, we’re here to help. \n🌟 What’s your dream job? Share your aspirations in the comments! 👇"
+  }],
+  "aihealthcare":[{
+    "id":"1",
+    "title":"Your Health, Our Priority Every Step of the Way",
+    "caption":"❤️ Prioritize your health and live your best life! \nFrom trusted care to wellness solutions, we’re dedicated to your well-being. \n💪 What’s your favorite way to stay healthy? Share your tips below! 👇"
+  }],
+  "aientertainment":[{
+    "id":"1",
+    "title":"Experience Entertainment That Moves You",
+    "caption":"🎬 Sit back, relax, and enjoy the show! \nFrom blockbusters to binge-worthy series, your entertainment journey begins here. \n🎤 What’s your favorite way to unwind? Share your must-watch list below! 👇"
+  }],
+  "aieducation":[{
+    "id":"1",
+    "title":"Empowering Minds, Shaping Futures",
+    "caption":"📚 Unlock your potential with world-class learning opportunities! \nFrom courses to career-advancing programs, your education journey starts now. \n🎓 What’s the next skill you want to master? Share your learning goals with us! 👇"
+  }]
 }
