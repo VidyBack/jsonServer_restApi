@@ -59928,39 +59928,403 @@
     "title":"Transform Your Business with Cutting-Edge Technology",
     "caption":"💻 Unlock the power of innovation! \nWe provide advanced IT solutions to help your business thrive in a digital world. \n🚀 From software development to system integration, we’ve got your back. \nWhat’s your biggest tech challenge? Tell us below, and we’ll help! 👇"
   }],
-  "aifood":[{
-    "id":"1",
-    "title":"Savor the Flavors That Make Life Delicious",
-    "caption":"🍴 Treat your taste buds to a world of culinary delights! \nFrom hearty meals to irresistible snacks, we’ve got something for every craving. \n🌟 What’s your go-to comfort food? Share it with us below! 👇"
-  }],
-  "aiauto":[{
-    "id":"1",
-    "title":"Drive Into the Future with Style and Performance",
-    "caption":"🚗 Your dream ride is just around the corner! \nExplore vehicles that combine cutting-edge technology, style, and unbeatable performance. \n⚡ What’s your ultimate road trip car? Tell us in the comments! 👇"
-  }],
-  "aitravel":[{
-    "id":"1",
-    "title":"Discover the World, One Adventure at a Time",
-    "caption":"✈️ Pack your bags and create unforgettable memories! \nFrom breathtaking landscapes to vibrant cityscapes, your next adventure awaits. \n🌍 What’s your dream travel destination? Let us know below! 👇"
-  }],
-  "aijobs":[{
-    "id":"1",
-    "title":"Your Career, Your Journey to Success",
-    "caption":"💼 Find opportunities that align with your passion and skills! \nWhether you’re starting out or looking for a career shift, we’re here to help. \n🌟 What’s your dream job? Share your aspirations in the comments! 👇"
-  }],
-  "aihealthcare":[{
-    "id":"1",
-    "title":"Your Health, Our Priority Every Step of the Way",
-    "caption":"❤️ Prioritize your health and live your best life! \nFrom trusted care to wellness solutions, we’re dedicated to your well-being. \n💪 What’s your favorite way to stay healthy? Share your tips below! 👇"
-  }],
-  "aientertainment":[{
+  "aifood":[
+    {
+      "id": "1",
+      "title": "Savor the Flavors That Make Life Delicious",
+      "caption": "🍴 Treat your taste buds to a world of culinary delights! \nFrom hearty meals to irresistible snacks, we’ve got something for every craving. \n🌟 What’s your go-to comfort food? Share it with us below! 👇"
+    },
+    {
+      "id": "2",
+      "title": "Experience Food, Made with Love",
+      "caption": "🍳 From the kitchen to your plate, every bite tells a story. What’s your favorite homemade recipe? Share with us below! 👇"
+    },
+    {
+      "id": "3",
+      "title": "Taste the Joy of Fresh Flavors",
+      "caption": "🥗 Fresh ingredients, amazing dishes! Discover meals that nourish your soul. What’s your favorite dish? 🍴👇"
+    },
+    {
+      "id": "4",
+      "title": "Where Every Meal Becomes a Memory",
+      "caption": "🍝 Celebrate moments with meals you’ll love. What's the dish that brings back memories? Comment below! 👇"
+    },
+    {
+      "id": "5",
+      "title": "Satisfy Your Cravings, One Bite at a Time",
+      "caption": "🍔 Cravings calling? We've got you covered. What’s your ultimate guilty pleasure food? Tell us below! 👇"
+    },
+    {
+      "id": "6",
+      "title": "Elevate Your Culinary Experience",
+      "caption": "🍷 Perfect pairings and bold flavors await. What's your go-to meal for a special occasion? Share below! 👇"
+    },
+    {
+      "id": "7",
+      "title": "A World of Tastes Awaits You",
+      "caption": "🌏 From street food to fine dining, explore global flavors with us. What's your favorite international dish? 🍜👇"
+    },
+    {
+      "id": "8",
+      "title": "Delight in Every Delicious Bite",
+      "caption": "🍩 Sweet or savory, we’ve got something for everyone. What's your all-time favorite snack? Share below! 👇"
+    },
+    {
+      "id": "9",
+      "title": "Celebrate Food, Celebrate Life",
+      "caption": "🍽️ Mealtime is family time. What's your favorite family recipe? Drop it in the comments! 👇"
+    },
+    {
+      "id": "10",
+      "title": "Rediscover the Joy of Cooking",
+      "caption": "🔥 Spice up your kitchen skills! What’s the last dish you cooked? Tell us below! 👇"
+    },
+    {
+      "id": "11",
+      "title": "The Taste of Happiness, Just for You",
+      "caption": "🍨 Treat yourself to something special today. What's your go-to comfort dessert? Share below! 👇"
+    }
+],
+  "aiauto":[
+    {
+      "id": "1",
+      "title": "Drive Into the Future with Style and Performance",
+      "caption": "🚗 Your dream ride is just around the corner! \nExplore vehicles that combine cutting-edge technology, style, and unbeatable performance. \n⚡ What’s your ultimate road trip car? Tell us in the comments! 👇"
+    },
+    {
+      "id": "2",
+      "title": "Your Next Adventure Starts Here",
+      "caption": "🚙 Ready for the open road? Find the perfect car for your next journey. What's your dream destination? 🌄👇"
+    },
+    {
+      "id": "3",
+      "title": "Unleash the Power of Performance",
+      "caption": "🏎️ Feel the thrill of driving with vehicles built for speed and style. What's your favorite sports car? Comment below! 👇"
+    },
+    {
+      "id": "4",
+      "title": "Experience Innovation on Wheels",
+      "caption": "🚗 Cutting-edge designs for the modern driver. What feature do you value most in a car? Tell us! 👇"
+    },
+    {
+      "id": "5",
+      "title": "Drive the Future, Today",
+      "caption": "⚡ Electric, hybrid, or classic – we’ve got it all. What’s your take on electric cars? Share below! 👇"
+    },
+    {
+      "id": "6",
+      "title": "Where Luxury Meets the Road",
+      "caption": "🚘 Experience the finest in comfort and elegance. What's your dream luxury car? Share below! 👇"
+    },
+    {
+      "id": "7",
+      "title": "Redefine Your Commute",
+      "caption": "🏙️ Make your everyday drive a pleasure. What’s your ideal car for city life? 🚦👇"
+    },
+    {
+      "id": "8",
+      "title": "Built for the Journey Ahead",
+      "caption": "🛻 Adventure awaits with vehicles ready for the road less traveled. What's your ultimate road trip plan? 🌄👇"
+    },
+    {
+      "id": "9",
+      "title": "Designed to Inspire Confidence",
+      "caption": "🚙 Safe, reliable, and ready for anything. What’s the most important safety feature in a car for you? 🚗👇"
+    },
+    {
+      "id": "10",
+      "title": "Transform How You Travel",
+      "caption": "🚘 Cars that redefine driving. What’s your favorite car tech feature? Tell us below! 👇"
+    },
+    {
+      "id": "11",
+      "title": "Your Key to Freedom",
+      "caption": "🔑 Unlock possibilities with a car that suits your lifestyle. What’s your top priority when choosing a car? Share below! 👇"
+    }
+],
+  "aitravel":[
+    {
+      "id": "1",
+      "title": "Discover the World, One Adventure at a Time",
+      "caption": "✈️ Pack your bags and create unforgettable memories! \nFrom breathtaking landscapes to vibrant cityscapes, your next adventure awaits. \n🌍 What’s your dream travel destination? Let us know below! 👇"
+    },
+    {
+      "id": "2",
+      "title": "Journey to Your Next Great Adventure",
+      "caption": "✈️ Explore, dream, and discover. What’s your top bucket list destination? 🌍👇"
+    },
+    {
+      "id": "3",
+      "title": "Create Memories That Last Forever",
+      "caption": "🏖️ Relaxation or adventure – we’ve got the perfect getaway for you. Where’s your happy place? 🌅👇"
+    },
+    {
+      "id": "4",
+      "title": "Your Ticket to the World Awaits",
+      "caption": "🌎 Pack your bags and embrace new experiences. What’s your favorite travel memory? Share below! 👇"
+    },
+    {
+      "id": "5",
+      "title": "Travel Beyond Limits",
+      "caption": "🏔️ Adventure is calling! What’s the most breathtaking place you’ve visited? 🌄👇"
+    },
+    {
+      "id": "6",
+      "title": "Discover Hidden Gems Around the Globe",
+      "caption": "📍 Explore off-the-beaten-path destinations. What’s a lesser-known spot you love? 🌿👇"
+    },
+    {
+      "id": "7",
+      "title": "Find Your Paradise, Anywhere",
+      "caption": "🌴 From beaches to mountains, we’ve got you covered. Are you a beach or a mountain person? Tell us! 👇"
+    },
+    {
+      "id": "8",
+      "title": "Embark on a Journey of a Lifetime",
+      "caption": "🚢 Cruise into unforgettable moments. What’s your dream vacation type – cruise, safari, or city escape? 🚗👇"
+    },
+    {
+      "id": "9",
+      "title": "Unlock New Experiences Every Day",
+      "caption": "🗺️ From solo trips to family adventures, we’ve got ideas for everyone. Who’s your favorite travel buddy? 👥👇"
+    },
+    {
+      "id": "10",
+      "title": "Travel to Relax, Explore, and Connect",
+      "caption": "🌟 Wanderlust begins here. What’s your travel must-have item? 🎒👇"
+    },
+    {
+      "id": "11",
+      "title": "See the World Differently",
+      "caption": "🌅 Let’s turn your travel dreams into reality. What’s your travel resolution for the year? ✈️👇"
+    }
+],
+  "aijobs":[
+    {
+      "id": "1",
+      "title": "Your Career, Your Journey to Success",
+      "caption": "💼 Find opportunities that align with your passion and skills! \nWhether you’re starting out or looking for a career shift, we’re here to help. \n🌟 What’s your dream job? Share your aspirations in the comments! 👇"
+    },
+    {
+      "id": "2",
+      "title": "Your Career, Reimagined",
+      "caption": "💼 Find your dream job and achieve your goals. What's the one skill you'd love to use at work? Share below! 👇"
+    },
+    {
+      "id": "3",
+      "title": "Opportunities That Match Your Potential",
+      "caption": "🌟 Ready to take the next step? Let’s build a career that excites you. What's your dream industry? Tell us below! 👇"
+    },
+    {
+      "id": "4",
+      "title": "Shape Your Future, One Role at a Time",
+      "caption": "📈 Your journey to success starts with the right opportunity. What’s the biggest career milestone you’re aiming for? Comment below! 👇"
+    },
+    {
+      "id": "5",
+      "title": "Where Talent Meets Opportunity",
+      "caption": "👔 Discover roles that align with your skills and aspirations. What’s your ideal workplace environment? Share below! 👇"
+    },
+    {
+      "id": "6",
+      "title": "Helping You Find Your Perfect Fit",
+      "caption": "🛠️ Unlock opportunities tailored to your talents. What’s the most important thing you look for in a job? Tell us! 👇"
+    },
+    {
+      "id": "7",
+      "title": "Land Your Dream Role Today",
+      "caption": "💡 Whether it’s growth or stability you seek, we’ve got you covered. What's your biggest job-related goal? 👇"
+    },
+    {
+      "id": "8",
+      "title": "Your Next Career Move Awaits",
+      "caption": "🚀 Step into a role that transforms your professional journey. What inspires you the most about your career? 🌟👇"
+    },
+    {
+      "id": "9",
+      "title": "Opportunities for Every Ambition",
+      "caption": "✨ Explore diverse roles designed to match your passion. What's your dream company to work for? Share below! 👇"
+    },
+    {
+      "id": "10",
+      "title": "Find Work That Fuels Your Passion",
+      "caption": "🔥 Turn your skills into success. What’s one job perk you can’t live without? Tell us! 👇"
+    },
+    {
+      "id": "11",
+      "title": "Step Into Your Career’s Bright Future",
+      "caption": "🌈 The right role is out there waiting for you. What’s the biggest lesson you’ve learned in your career so far? 👇"
+    }
+],
+  "aihealthcare":[
+    {
+      "id": "1",
+      "title": "Your Health, Our Priority Every Step of the Way",
+      "caption": "❤️ Prioritize your health and live your best life! \nFrom trusted care to wellness solutions, we’re dedicated to your well-being. \n💪 What’s your favorite way to stay healthy? Share your tips below! 👇"
+    },
+    {
+      "id": "2",
+      "title": "Your Health, Our Commitment",
+      "caption": "🩺 Your well-being is our priority. What’s the one health tip you swear by? Share below! 👇"
+    },
+    {
+      "id": "3",
+      "title": "Wellness Made Simple, Just for You",
+      "caption": "🌱 Take charge of your health with ease. What’s your favorite daily self-care habit? Tell us! 👇"
+    },
+    {
+      "id": "4",
+      "title": "Better Health Starts Here",
+      "caption": "❤️ Small steps lead to big changes. What’s one healthy habit you’ve adopted recently? Comment below! 👇"
+    },
+    {
+      "id": "5",
+      "title": "Empowering You to Thrive",
+      "caption": "💪 We’re here to support your wellness journey. What’s your favorite way to stay active? Share below! 👇"
+    },
+    {
+      "id": "6",
+      "title": "Your Partner in Better Living",
+      "caption": "🌟 From nutrition to fitness, we’ve got the tools you need. What’s your go-to healthy meal? 🍎👇"
+    },
+    {
+      "id": "7",
+      "title": "Live Healthy, Stay Happy",
+      "caption": "✨ A healthy life is a happy life. What’s your favorite way to relax and recharge? Share below! 👇"
+    },
+    {
+      "id": "8",
+      "title": "Caring for You, Every Step of the Way",
+      "caption": "🩹 We’re here when you need us. What’s one way you like to show kindness to yourself? 🌷👇"
+    },
+    {
+      "id": "9",
+      "title": "Health Solutions Designed for You",
+      "caption": "💡 Personalized care for every need. What’s the best advice you’ve ever received about staying healthy? 👇"
+    },
+    {
+      "id": "10",
+      "title": "Wellness That Fits Your Life",
+      "caption": "📅 Make health a priority without the hassle. What’s your favorite quick workout routine? 🏃‍♀️👇"
+    },
+    {
+      "id": "11",
+      "title": "Healthy Habits, Happier You",
+      "caption": "🌻 Let’s create a lifestyle you love. What’s one change you’ve made to feel better? 🌞👇"
+    }
+],
+  "aientertainment":[
+    {
     "id":"1",
     "title":"Experience Entertainment That Moves You",
     "caption":"🎬 Sit back, relax, and enjoy the show! \nFrom blockbusters to binge-worthy series, your entertainment journey begins here. \n🎤 What’s your favorite way to unwind? Share your must-watch list below! 👇"
-  }],
-  "aieducation":[{
+  },
+  {
+    "id": "2",
+    "title": "Entertainment That Brings Joy to Life",
+    "caption": "🎶 Music, movies, or games – what’s your favorite way to unwind? Share below! 👇"
+  },
+  {
+    "id": "3",
+    "title": "Where Fun Meets Creativity",
+    "caption": "🎨 Dive into a world of excitement and inspiration. What’s your all-time favorite movie or show? 🍿👇"
+  },
+  {
+    "id": "4",
+    "title": "Lights, Camera, Entertainment!",
+    "caption": "🎥 From classics to the latest hits, we’ve got it all. What’s the best show you’ve binge-watched recently? 👇"
+  },
+  {
+    "id": "5",
+    "title": "Your Ultimate Escape into Fun",
+    "caption": "🎮 Games that thrill, shows that amaze. What’s your favorite way to relax after a long day? 🎧👇"
+  },
+  {
+    "id": "6",
+    "title": "Discover Stories That Captivate",
+    "caption": "📚 Whether it’s books or films, let the stories transport you. What’s your favorite genre? 🎬👇"
+  },
+  {
+    "id": "7",
+    "title": "Entertainment for Every Mood",
+    "caption": "🌟 Laugh, cry, or cheer – we’ve got the perfect pick. What’s the last show or movie that moved you? 👇"
+  },
+  {
+    "id": "8",
+    "title": "Unleash the Magic of Entertainment",
+    "caption": "✨ From concerts to comedies, there’s something for everyone. What’s your favorite way to experience live entertainment? 🎭👇"
+  },
+  {
+    "id": "9",
+    "title": "Feel the Thrill of New Adventures",
+    "caption": "🔥 Action-packed games and edge-of-your-seat dramas await. What’s your ultimate go-to for excitement? 👇"
+  },
+  {
+    "id": "10",
+    "title": "Fun Made Just for You",
+    "caption": "🌈 Entertainment tailored to your vibe. What’s one show or game you can’t stop talking about? 🎤👇"
+  },
+  {
+    "id": "11",
+    "title": "Experience the Art of Entertainment",
+    "caption": "🎵 Let creativity and passion brighten your day. What’s the soundtrack of your life right now? 🎸👇"
+  }
+],
+  "aieducation":[
+    {
     "id":"1",
     "title":"Empowering Minds, Shaping Futures",
     "caption":"📚 Unlock your potential with world-class learning opportunities! \nFrom courses to career-advancing programs, your education journey starts now. \n🎓 What’s the next skill you want to master? Share your learning goals with us! 👇"
-  }]
+  },
+  {
+    "id": "2",
+    "title": "Empowering Minds for a Brighter Future",
+    "caption": "📚 Learning never stops. What’s the last thing you learned that excited you? Share below! 👇"
+  },
+  {
+    "id": "3",
+    "title": "Unlock Your Full Potential",
+    "caption": "✨ Gain the skills to achieve your dreams. What’s your top learning goal for the year? Comment below! 👇"
+  },
+  {
+    "id": "4",
+    "title": "Where Knowledge Meets Opportunity",
+    "caption": "🌟 Transform your life through education. What’s your favorite subject or area of study? 📖👇"
+  },
+  {
+    "id": "5",
+    "title": "Inspiring Learning, Everywhere",
+    "caption": "💡 Learn anytime, anywhere. What’s your go-to resource for learning something new? Share below! 👇"
+  },
+  {
+    "id": "6",
+    "title": "Building Skills for a Changing World",
+    "caption": "🛠️ Equip yourself for the future. What’s one skill you wish you’d learned earlier? Comment below! 👇"
+  },
+  {
+    "id": "7",
+    "title": "Your Path to Lifelong Learning",
+    "caption": "🌍 Education opens doors. What’s the next step in your learning journey? 🚀👇"
+  },
+  {
+    "id": "8",
+    "title": "Explore, Learn, Grow",
+    "caption": "🎓 The world is your classroom. What’s a topic you’re excited to dive into? Share below! 🌟👇"
+  },
+  {
+    "id": "9",
+    "title": "The Power of Knowledge at Your Fingertips",
+    "caption": "📖 With learning comes opportunity. What’s the best online course you’ve taken recently? 👩‍💻👇"
+  },
+  {
+    "id": "10",
+    "title": "Creating Opportunities Through Education",
+    "caption": "🌟 Education is the key to success. Who inspires you to keep learning? Share below! 👇"
+  },
+  {
+    "id": "11",
+    "title": "Learn Today, Lead Tomorrow",
+    "caption": "📘 Start your journey toward excellence. What’s one book or course that’s changed your life? Tell us! 👇"
+  }
+]
 }
