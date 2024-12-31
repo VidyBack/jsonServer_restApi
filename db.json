@@ -59913,21 +59913,232 @@
   ],
   "aiestate":[
     {
-    "id":"1",
-    "title":"Find Your Dream Home, Where Memories Are Made",
-    "caption":"🏡 Your perfect home is just a step away! \nWhether you're searching for luxury, comfort, or the ideal location, we've got you covered. \n✨ Discover properties designed to match your lifestyle and dreams. \nWhat does your dream home look like? Let us know below! 👇"
-    }
+      "id": "1",
+      "title": "Find Your Dream Home, Where Memories Are Made",
+      "caption": "🏡 Your perfect home is just a step away! \nWhether you're searching for luxury, comfort, or the ideal location, we've got you covered. \n✨ Discover properties designed to match your lifestyle and dreams. \nWhat does your dream home look like? Let us know below! 👇"
+  },
+  {
+      "id": "2",
+      "title": "Your Dream Home is Just a Step Away",
+      "caption": "🏡 Whether it’s your first home or a luxury retreat, we’ll help you find it. What’s your dream location to live? 🏙️👇"
+  },
+  {
+      "id": "3",
+      "title": "Find a Place to Call Home",
+      "caption": "🏠 A space that reflects your lifestyle. What’s the one feature your dream home must have? 🌟👇"
+  },
+  {
+      "id": "4",
+      "title": "Explore Properties That Match Your Vision",
+      "caption": "🔑 From cozy apartments to sprawling estates, we’ve got it all. Where would you love to settle down? 🌍👇"
+  },
+  {
+      "id": "5",
+      "title": "Invest in a Home That Inspires You",
+      "caption": "📈 Make a smart move with properties designed for value and comfort. What’s your top priority when buying a home? 👇"
+  },
+  {
+      "id": "6",
+      "title": "Your Guide to Perfect Real Estate Deals",
+      "caption": "📋 Let us simplify your property journey. What’s your dream feature – a garden, pool, or smart tech? 🌳👇"
+  },
+  {
+      "id": "7",
+      "title": "Create Memories in Your Dream Space",
+      "caption": "🏘️ Start your journey toward a brighter future. What’s your favorite home design style – modern or classic? 🖼️👇"
+  },
+  {
+      "id": "8",
+      "title": "Discover Properties That Fit Your Needs",
+      "caption": "🛋️ From family-friendly homes to high-rise condos, there’s something for everyone. What’s your ideal home size? 👇"
+  },
+  {
+      "id": "9",
+      "title": "Helping You Find the Perfect Property",
+      "caption": "🌟 It’s more than a house; it’s your future. What’s one thing you’d never compromise on in a home? 🏡👇"
+  },
+  {
+      "id": "10",
+      "title": "Building Dreams, One Home at a Time",
+      "caption": "✨ Find a place where memories are made. What’s your favorite room in a house – kitchen, living room, or balcony? 👇"
+  },
+  {
+      "id": "11",
+      "title": "Turning Your Real Estate Dreams Into Reality",
+      "caption": "🏠 From renting to owning, we’ll guide you every step of the way. What’s your vision for your perfect home? 🌟👇"
+  }
   ],
-  "aifinance":[{
-    "id":"1",
-    "title":"Secure Your Future with Smart Financial Solutions",
-    "caption":"💰 Take charge of your financial goals today! \nFrom building wealth to planning for retirement, we’re here to guide you every step of the way. \n📈 Let’s create a future full of security and success together. \nWhat’s your top financial goal for this year? Share your thoughts below! 👇"
-  }],
-  "aiIT":[{
-    "id":"1",
-    "title":"Transform Your Business with Cutting-Edge Technology",
-    "caption":"💻 Unlock the power of innovation! \nWe provide advanced IT solutions to help your business thrive in a digital world. \n🚀 From software development to system integration, we’ve got your back. \nWhat’s your biggest tech challenge? Tell us below, and we’ll help! 👇"
-  }],
+  "aifinance":[
+    {
+      "id": "1",
+      "title": "Secure Your Future with Smart Financial Solutions",
+      "caption": "💰 Take charge of your financial goals today! \nFrom building wealth to planning for retirement, we’re here to guide you every step of the way. \n📈 Let’s create a future full of security and success together. \nWhat’s your top financial goal for this year? Share your thoughts below! 👇"
+    },
+    {
+      "id": "2",
+      "title": "Achieve Financial Freedom with Us",
+      "caption": "💵 Manage, save, and grow your wealth. What’s your number one financial goal for this year? 📈👇"
+    },
+    {
+      "id": "3",
+      "title": "Smart Investments, Better Future",
+      "caption": "📊 Explore options that secure your tomorrow. What’s your preferred way to invest – stocks, real estate, or mutual funds? 💰👇"
+    },
+    {
+      "id": "4",
+      "title": "Your Path to Financial Success Starts Here",
+      "caption": "🌟 Let’s simplify money matters for you. What’s one habit that helps you save effectively? 🏦👇"
+    },
+    {
+      "id": "5",
+      "title": "Plan Today, Prosper Tomorrow",
+      "caption": "📋 From budgeting to investing, we’ve got you covered. What’s the most valuable financial advice you’ve ever received? 💡👇"
+    },
+    {
+      "id": "6",
+      "title": "Grow Your Wealth with Confidence",
+      "caption": "📈 Unlock the potential of smart financial planning. What’s your ultimate dream purchase? 🏠✈️👇"
+    },
+    {
+      "id": "7",
+      "title": "Your Trusted Partner in Financial Growth",
+      "caption": "💼 Let us help you make informed decisions. What’s your go-to strategy for managing expenses? Share below! 👇"
+    },
+    {
+      "id": "8",
+      "title": "Simplifying Finances for a Better Life",
+      "caption": "🛠️ Tools and tips for financial freedom. What’s your biggest financial challenge right now? Tell us! 👇"
+    },
+    {
+      "id": "9",
+      "title": "Secure Your Future with Smart Choices",
+      "caption": "🔐 Your goals are within reach. What’s your approach to planning for retirement? 🌅👇"
+    },
+    {
+      "id": "10",
+      "title": "Innovative Solutions for Your Financial Needs",
+      "caption": "🌟 From banking to investments, we’ve got it all. What’s one thing you’d like to learn about personal finance? 👩‍💻👇"
+    },
+    {
+      "id": "11",
+      "title": "Building Financial Stability for You",
+      "caption": "💰 Every small step counts. What’s your proudest financial achievement? Share below! 🌟👇"
+    }
+],
+  "aiIT":[
+    {
+      "id": "1",
+      "title": "Transform Your Business with Cutting-Edge Technology",
+      "caption": "💻 Unlock the power of innovation! \nWe provide advanced IT solutions to help your business thrive in a digital world. \n🚀 From software development to system integration, we’ve got your back. \nWhat’s your biggest tech challenge? Tell us below, and we’ll help! 👇"
+    },
+    {
+      "id": "2",
+      "title": "Innovate Your World with Technology",
+      "caption": "💻 From software to systems, let’s redefine the future. What’s your favorite tech innovation? 🚀👇"
+    },
+    {
+      "id": "3",
+      "title": "Empowering Growth Through IT Solutions",
+      "caption": "🛠️ Transform your business with cutting-edge solutions. What’s one tech trend you’re excited about? 🌟👇"
+    },
+    {
+      "id": "4",
+      "title": "Where Creativity Meets Technology",
+      "caption": "✨ Discover solutions that drive innovation. What’s the most impactful app or tool you’ve used? 📱👇"
+    },
+    {
+      "id": "5",
+      "title": "Technology That Works for You",
+      "caption": "⚙️ Simplify processes, maximize results. What’s your favorite piece of tech hardware? 💾👇"
+    },
+    {
+      "id": "6",
+      "title": "The Future of IT, Delivered Today",
+      "caption": "🌐 From AI to cloud computing, explore it all. What’s your perspective on AI in everyday life? 🤖👇"
+    },
+    {
+      "id": "7",
+      "title": "Transforming Ideas Into Reality",
+      "caption": "💡 Big ideas need the right tools. What’s a tech skill you’d love to learn? 💻👇"
+    },
+    {
+      "id": "8",
+      "title": "Secure, Reliable, and Scalable Solutions",
+      "caption": "🔐 Protect and enhance your digital footprint. What’s your top priority in choosing tech solutions? 🌍👇"
+    },
+    {
+      "id": "9",
+      "title": "Driving Digital Transformation Worldwide",
+      "caption": "📈 Stay ahead with innovative IT strategies. What’s your take on blockchain technology? 💡👇"
+    },
+    {
+      "id": "10",
+      "title": "Technology for a Smarter Tomorrow",
+      "caption": "🌟 Smarter tools for smarter decisions. What’s your favorite gadget you can’t live without? 📱👇"
+    },
+    {
+      "id": "11",
+      "title": "Bringing Technology Closer to You",
+      "caption": "✨ IT that makes life easier. What’s the one tech product you’re looking forward to in the future? 🌌👇"
+    }
+],
+  "aitechnology":[
+    {
+      "id": "1",
+      "title": "Transform Your Business with Cutting-Edge Technology",
+      "caption": "💻 Unlock the power of innovation! \nWe provide advanced IT solutions to help your business thrive in a digital world. \n🚀 From software development to system integration, we’ve got your back. \nWhat’s your biggest tech challenge? Tell us below, and we’ll help! 👇"
+    },
+    {
+      "id": "2",
+      "title": "Innovate Your World with Technology",
+      "caption": "💻 From software to systems, let’s redefine the future. What’s your favorite tech innovation? 🚀👇"
+    },
+    {
+      "id": "3",
+      "title": "Empowering Growth Through IT Solutions",
+      "caption": "🛠️ Transform your business with cutting-edge solutions. What’s one tech trend you’re excited about? 🌟👇"
+    },
+    {
+      "id": "4",
+      "title": "Where Creativity Meets Technology",
+      "caption": "✨ Discover solutions that drive innovation. What’s the most impactful app or tool you’ve used? 📱👇"
+    },
+    {
+      "id": "5",
+      "title": "Technology That Works for You",
+      "caption": "⚙️ Simplify processes, maximize results. What’s your favorite piece of tech hardware? 💾👇"
+    },
+    {
+      "id": "6",
+      "title": "The Future of IT, Delivered Today",
+      "caption": "🌐 From AI to cloud computing, explore it all. What’s your perspective on AI in everyday life? 🤖👇"
+    },
+    {
+      "id": "7",
+      "title": "Transforming Ideas Into Reality",
+      "caption": "💡 Big ideas need the right tools. What’s a tech skill you’d love to learn? 💻👇"
+    },
+    {
+      "id": "8",
+      "title": "Secure, Reliable, and Scalable Solutions",
+      "caption": "🔐 Protect and enhance your digital footprint. What’s your top priority in choosing tech solutions? 🌍👇"
+    },
+    {
+      "id": "9",
+      "title": "Driving Digital Transformation Worldwide",
+      "caption": "📈 Stay ahead with innovative IT strategies. What’s your take on blockchain technology? 💡👇"
+    },
+    {
+      "id": "10",
+      "title": "Technology for a Smarter Tomorrow",
+      "caption": "🌟 Smarter tools for smarter decisions. What’s your favorite gadget you can’t live without? 📱👇"
+    },
+    {
+      "id": "11",
+      "title": "Bringing Technology Closer to You",
+      "caption": "✨ IT that makes life easier. What’s the one tech product you’re looking forward to in the future? 🌌👇"
+    }
+],
   "aifood":[
     {
       "id": "1",
