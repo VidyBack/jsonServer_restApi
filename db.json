@@ -60849,6 +60849,71 @@
     "caption": "📘 Start your journey toward excellence. What’s one book or course that’s changed your life? Tell us! 👇"
   }
 ],
+
+  "aieducationtips": [
+    {
+      "id": 1,
+      "title": "Create a study schedule and stick to it for consistent progress.",
+      "Caption": "📚 Plan your study, ace your goals! Do you use a study planner? 👇",
+      "Hashtags": "#StudyTips #LearningJourney #EducationMatters #StudentLife #FocusAndLearn"
+    },
+    {
+      "id": 2,
+      "title": "Take short breaks during study sessions to stay fresh.",
+      "Caption": "🌟 Breaks boost focus! How do you recharge while studying? 👇",
+      "Hashtags": "#StudyBreaks #StayProductive #FocusTime #EducationTips #LearnSmart"
+    },
+    {
+      "id": 3,
+      "title": "Review notes within 24 hours to reinforce learning.",
+      "Caption": "📝 Retain more by reviewing notes! Do you revise often? 👇",
+      "Hashtags": "#NoteTaking #StudySmart #EducationGoals #KnowledgeIsPower #LearningHabits"
+    },
+    {
+      "id": 4,
+      "title": "Join online courses to explore new subjects and skills.",
+      "Caption": "🌐 Learning online, anywhere! What’s your favorite course platform? 👇",
+      "Hashtags": "#OnlineLearning #SkillUp #EducationOnline #LearningNeverStops #EdTech"
+    },
+    {
+      "id": 5,
+      "title": "Use flashcards for quick memorization of key concepts.",
+      "Caption": "📖 Flashcard magic! What’s your hack for fast memorization? 👇",
+      "Hashtags": "#StudyHacks #MemoryBoost #LearningTools #EducationTips #StudyBetter"
+    },
+    {
+      "id": 6,
+      "title": "Group study sessions can make learning more effective and fun.",
+      "Caption": "👩‍🏫 Team up to learn! Do you enjoy group study? 👇",
+      "Hashtags": "#GroupStudy #CollaborativeLearning #EducationTips #StudyTogether #LearningGoals"
+    },
+    {
+      "id": 7,
+      "title": "Teach what you learn – it helps solidify understanding.",
+      "Caption": "🗣️ Teach to learn better! Have you tried explaining concepts to others? 👇",
+      "Hashtags": "#TeachAndLearn #EducationJourney #KnowledgeSharing #StudentSuccess #StudyTips"
+    },
+    {
+      "id": 8,
+      "title": "Practice past papers to prepare for exams effectively.",
+      "Caption": "📑 Practice makes perfect! What’s your best exam prep tip? 👇",
+      "Hashtags": "#ExamTips #PracticeMakesPerfect #EducationMatters #StudyHard #LearningStrategy"
+    },
+    {
+      "id": 9,
+      "title": "Set clear learning goals to stay motivated.",
+      "Caption": "🎯 Goal setting = success! What’s your current learning goal? 👇",
+      "Hashtags": "#LearningGoals #StayMotivated #EducationFocus #StudentSuccess #GoalSetting"
+    },
+    {
+      "id": 10,
+      "title": "Use mnemonic devices to remember complex information easily.",
+      "Caption": "💡 Mnemonics for the win! What’s your favorite memory trick? 👇",
+      "Hashtags": "#MemoryHacks #StudySmart #EducationTips #LearningMadeEasy #StudentLife"
+    }
+  ],
+
+
 "aiwellnesstips": [
   {
     "id": "1",
