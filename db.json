@@ -60025,6 +60025,48 @@
       "caption": "💰 Every small step counts. What’s your proudest financial achievement? Share below! 🌟👇"
     }
 ],
+"aifinancetips": [
+    {
+      "title": "Set a monthly budget to track and control your expenses.",
+      "caption": "📊 Budget wisely! What’s your top budgeting tip? 👇"
+    },
+    {
+      "title": "Save at least 20% of your income for future goals.",
+      "caption": "💰 Save today, secure tomorrow! How do you ensure regular savings? 👇"
+    },
+    {
+      "title": "Invest in index funds for long-term stability and growth.",
+      "caption": "📈 Smart investments matter! What’s your go-to investment option? 👇"
+    },
+    {
+      "title": "Pay off high-interest debts first to reduce financial stress.",
+      "caption": "💳 Tackle debts smartly! What’s your debt management strategy? 👇"
+    },
+    {
+      "title": "Build an emergency fund with 3-6 months of living expenses.",
+      "caption": "🔐 Safety net ready? How do you grow your emergency fund? 👇"
+    },
+    {
+      "title": "Automate savings to stay consistent and disciplined.",
+      "caption": "🤖 Automate to accumulate! Do you use automated saving tools? 👇"
+    },
+    {
+      "title": "Review your financial goals every 6 months.",
+      "caption": "📋 Stay on track! How often do you reassess your goals? 👇"
+    },
+    {
+      "title": "Diversify your investments to minimize risk.",
+      "caption": "🌍 Spread the risk! What’s your favorite diversification strategy? 👇"
+    },
+    {
+      "title": "Track credit score regularly to maintain financial health.",
+      "caption": "📊 Credit matters! How often do you check your credit score? 👇"
+    },
+    {
+      "title": "Avoid impulse purchases by sticking to your shopping list.",
+      "caption": "🛒 List saves money! What’s your way to avoid overspending? 👇"
+    }
+  ],
   "aiIT":[
     {
       "id": "1",
@@ -60081,6 +60123,58 @@
       "title": "Bringing Technology Closer to You",
       "caption": "✨ IT that makes life easier. What’s the one tech product you’re looking forward to in the future? 🌌👇"
     }
+],
+"aiITips": [
+  {
+    "id": "1",
+    "title": "Keep your software updated for better security and performance.",
+    "caption": "🔐 Stay updated, stay secure! How often do you update your apps? 👇"
+  },
+  {
+    "id": "2",
+    "title": "Use strong, unique passwords for every account.",
+    "caption": "🔑 Safety first! What’s your favorite password management tool? 👇"
+  },
+  {
+    "id": "3",
+    "title": "Back up important data regularly to avoid loss.",
+    "caption": "💾 Backup saves the day! What’s your preferred backup method? 👇"
+  },
+  {
+    "id": "4",
+    "title": "Try dark mode on devices to reduce eye strain.",
+    "caption": "🌙 Dark mode, anyone? Do you use it on your devices? 👇"
+  },
+  {
+    "id": "5",
+    "title": "Explore open-source tools for cost-effective solutions.",
+    "caption": "🛠️ Open-source for the win! What’s your favorite open-source software? 👇"
+  },
+  {
+    "id": "6",
+    "title": "Uninstall unused apps to free up storage space.",
+    "caption": "📱 Declutter your tech! How do you manage your device storage? 👇"
+  },
+  {
+    "id": "7",
+    "title": "Enable two-factor authentication for extra security.",
+    "caption": "🛡️ Extra layer, extra safety! Have you set up 2FA yet? 👇"
+  },
+  {
+    "id": "8",
+    "title": "Learn keyboard shortcuts to improve productivity.",
+    "caption": "⌨️ Work smarter! What’s your go-to shortcut? 👇"
+  },
+  {
+    "id": "9",
+    "title": "Optimize device settings for better battery life.",
+    "caption": "🔋 Battery saver tips! What’s your top battery-saving trick? 👇"
+  },
+  {
+    "id": "10",
+    "title": "Keep learning to stay updated with the latest tech trends.",
+    "caption": "🚀 Tech evolves fast! What’s the latest trend you’ve explored? 👇"
+  }
 ],
   "aitechnology":[
     {
@@ -60139,6 +60233,59 @@
       "caption": "✨ IT that makes life easier. What’s the one tech product you’re looking forward to in the future? 🌌👇"
     }
 ],
+"aitechnologytips": [
+  {
+    "id": "1",
+    "title": "Keep your software updated for better security and performance.",
+    "caption": "🔐 Stay updated, stay secure! How often do you update your apps? 👇"
+  },
+  {
+    "id": "2",
+    "title": "Use strong, unique passwords for every account.",
+    "caption": "🔑 Safety first! What’s your favorite password management tool? 👇"
+  },
+  {
+    "id": "3",
+    "title": "Back up important data regularly to avoid loss.",
+    "caption": "💾 Backup saves the day! What’s your preferred backup method? 👇"
+  },
+  {
+    "id": "4",
+    "title": "Try dark mode on devices to reduce eye strain.",
+    "caption": "🌙 Dark mode, anyone? Do you use it on your devices? 👇"
+  },
+  {
+    "id": "5",
+    "title": "Explore open-source tools for cost-effective solutions.",
+    "caption": "🛠️ Open-source for the win! What’s your favorite open-source software? 👇"
+  },
+  {
+    "id": "6",
+    "title": "Uninstall unused apps to free up storage space.",
+    "caption": "📱 Declutter your tech! How do you manage your device storage? 👇"
+  },
+  {
+    "id": "7",
+    "title": "Enable two-factor authentication for extra security.",
+    "caption": "🛡️ Extra layer, extra safety! Have you set up 2FA yet? 👇"
+  },
+  {
+    "id": "8",
+    "title": "Learn keyboard shortcuts to improve productivity.",
+    "caption": "⌨️ Work smarter! What’s your go-to shortcut? 👇"
+  },
+  {
+    "id": "9",
+    "title": "Optimize device settings for better battery life.",
+    "caption": "🔋 Battery saver tips! What’s your top battery-saving trick? 👇"
+  },
+  {
+    "id": "10",
+    "title": "Keep learning to stay updated with the latest tech trends.",
+    "caption": "🚀 Tech evolves fast! What’s the latest trend you’ve explored? 👇"
+  }
+],
+
   "aifood":[
     {
       "id": "1",
@@ -60196,7 +60343,60 @@
       "caption": "🍨 Treat yourself to something special today. What's your go-to comfort dessert? Share below! 👇"
     }
 ],
-  "aiauto":[
+"aifoodtips": [
+  {
+    "id": "1",
+    "title": "Experiment with herbs to enhance flavors without adding calories.",
+    "caption": "🌿 What’s your favorite herb to cook with? Share below! 👇"
+  },
+  {
+    "id": "2",
+    "title": "Eat seasonal fruits and vegetables for better taste and nutrition.",
+    "caption": "🍓 Seasonal eating is smart eating! What’s your go-to seasonal fruit? 👇"
+  },
+  {
+    "id": "3",
+    "title": "Use smaller plates to help control portion sizes easily.",
+    "caption": "🍽️ Smart portioning for healthy eating! What’s your portion control hack? 👇"
+  },
+  {
+    "id": "4",
+    "title": "Stay hydrated – drinking water before meals can reduce overeating.",
+    "caption": "💧 Hydration is key! How do you remind yourself to drink water daily? 👇"
+  },
+  {
+    "id": "5",
+    "title": "Batch-cook meals to save time and stay on track with healthy eating.",
+    "caption": "🍲 Meal prep made easy! What’s your favorite dish to batch-cook? 👇"
+  },
+  {
+    "id": "6",
+    "title": "Add a splash of lemon to your meals for a natural flavor boost.",
+    "caption": "🍋 Zesty and fresh! How do you like to use lemon in your cooking? 👇"
+  },
+  {
+    "id": "7",
+    "title": "Choose whole grains over refined for better fiber and energy.",
+    "caption": "🌾 Go whole grain! What’s your favorite grain-based dish? 👇"
+  },
+  {
+    "id": "8",
+    "title": "Try plant-based meals a few times a week for variety and health.",
+    "caption": "🌱 Plant power! What’s your favorite vegetarian recipe? 👇"
+  },
+  {
+    "id": "9",
+    "title": "Avoid shopping for groceries when hungry to prevent impulse buys.",
+    "caption": "🛒 Smart shopping saves calories! Do you have a grocery list hack? 👇"
+  },
+  {
+    "id": "10",
+    "title": "Snack on nuts and seeds for a quick energy boost.",
+    "caption": "🥜 Energy in a handful! What’s your go-to healthy snack? 👇"
+  }
+],
+
+"aiauto":[
     {
       "id": "1",
       "title": "Drive Into the Future with Style and Performance",
@@ -60310,6 +60510,64 @@
       "caption": "🌅 Let’s turn your travel dreams into reality. What’s your travel resolution for the year? ✈️👇"
     }
 ],
+"aitraveltips": [
+  {
+    "id": "1",
+    "title": "Pack light – essentials only, to avoid overburdening yourself.",
+    "caption": "🎒 Light is right! What’s your ultimate packing tip? 👇"
+  },
+  {
+    "id": "2",
+    "title": "Research local customs to better connect with your destination.",
+    "caption": "🌍 Travel smart! What’s the most interesting custom you’ve learned about? 👇"
+  },
+  {
+    "id": "3",
+    "title": "Travel off-season to enjoy fewer crowds and lower costs.",
+    "caption": "🌟 Quiet escapes are the best! Where’s your dream off-season destination? 👇"
+  },
+  {
+    "id": "4",
+    "title": "Use travel apps for itinerary planning and real-time updates.",
+    "caption": "📱 Travel made easy! What’s your go-to travel app? 👇"
+  },
+  {
+    "id": "5",
+    "title": "Carry a reusable water bottle to stay hydrated and eco-friendly.",
+    "caption": "💧 Hydrate responsibly! What’s your top eco-travel tip? 👇"
+  },
+  {
+    "id": "6",
+    "title": "Learn a few local phrases to enhance your travel experience.",
+    "caption": "🗣️ Speak local! What’s the first phrase you learn in a new language? 👇"
+  },
+  {
+    "id": "7",
+    "title": "Book accommodations with good reviews for a hassle-free stay.",
+    "caption": "🏨 Reviews matter! What’s your favorite hotel booking tip? 👇"
+  },
+  {
+    "id": "8",
+    "title": "Try local street food for an authentic experience.",
+    "caption": "🍢 Taste the culture! What’s the best street food you’ve ever tried? 👇"
+  },
+  {
+    "id": "9",
+    "title": "Always have a backup plan for unexpected delays.",
+    "caption": "🚀 Stay flexible! How do you handle travel hiccups? 👇"
+  },
+  {
+    "id": "10",
+    "title": "Keep copies of important documents like passports and tickets.",
+    "caption": "📋 Stay prepared! What’s your top travel safety tip? 👇"
+  },
+  {
+    "id": "11",
+    "title": "Snack on nuts and seeds for a quick energy boost.",
+    "caption": "🥜 Energy in a handful! What’s your go-to healthy snack? 👇"
+  }
+],
+
   "aijobs":[
     {
       "id": "1",
@@ -60367,6 +60625,59 @@
       "caption": "🌈 The right role is out there waiting for you. What’s the biggest lesson you’ve learned in your career so far? 👇"
     }
 ],
+"aijobtips": [
+  {
+    "id": "1",
+    "title": "Customize your resume for each job application.",
+    "caption": "💼 Tailored resumes win jobs! What’s your best resume tip? 👇"
+  },
+  {
+    "id": "2",
+    "title": "Network actively to uncover hidden job opportunities.",
+    "caption": "🌐 Networking opens doors! What’s your favorite way to connect? 👇"
+  },
+  {
+    "id": "3",
+    "title": "Practice for interviews with mock questions to boost confidence.",
+    "caption": "🎤 Preparation is key! What’s the toughest question you’ve faced? 👇"
+  },
+  {
+    "id": "4",
+    "title": "Follow up after interviews to show enthusiasm for the role.",
+    "caption": "📩 A simple follow-up can make a big impact! Do you send thank-you emails? 👇"
+  },
+  {
+    "id": "5",
+    "title": "Use LinkedIn to build a strong professional presence.",
+    "caption": "💻 LinkedIn leads to opportunities! What’s your profile’s standout feature? 👇"
+  },
+  {
+    "id": "6",
+    "title": "Highlight measurable achievements in your resume.",
+    "caption": "📊 Numbers make an impression! What’s your proudest career stat? 👇"
+  },
+  {
+    "id": "7",
+    "title": "Stay positive and persistent during your job search.",
+    "caption": "💪 Keep going! How do you stay motivated during tough times? 👇"
+  },
+  {
+    "id": "8",
+    "title": "Dress appropriately for the role you’re applying for.",
+    "caption": "👔 First impressions matter! What’s your go-to interview outfit? 👇"
+  },
+  {
+    "id": "9",
+    "title": "Always research the company before applying or interviewing.",
+    "caption": "🔍 Be informed! How do you research potential employers? 👇"
+  },
+  {
+    "id": "10",
+    "title": "Keep learning to stay relevant in your industry.",
+    "caption": "📚 Growth is key! What’s the last skill you learned? 👇"
+  }
+],
+
   "aihealthcare":[
     {
       "id": "1",
@@ -60537,5 +60848,58 @@
     "title": "Learn Today, Lead Tomorrow",
     "caption": "📘 Start your journey toward excellence. What’s one book or course that’s changed your life? Tell us! 👇"
   }
+],
+"aiwellnesstips": [
+  {
+    "id": "1",
+    "title": "Start your day with a 5-minute meditation to clear your mind.",
+    "Caption": "🧘‍♀️ Morning calm! Do you meditate? Share your experience! 👇"
+  },
+  {
+    "id": "2",
+    "title": "Drink at least 8 glasses of water daily to stay hydrated.",
+    "Caption": "💧 Hydration is key! What’s your favorite way to track water intake? 👇"
+  },
+  {
+    "id": "3",
+    "title": "Take a 10-minute walk after meals for better digestion.",
+    "Caption": "🚶‍♂️ Walk it out! What’s your go-to activity post-meals? 👇"
+  },
+  {
+    "id": "4",
+    "title": "Include more whole foods in your diet for natural energy.",
+    "Caption": "🌱 Go natural! What’s your favorite whole food snack? 👇"
+  },
+  {
+    "id": "5",
+    "title": "Stretch daily to improve flexibility and reduce tension.",
+    "Caption": "🤸 Stretch and relax! How often do you stretch? 👇"
+  },
+  {
+    "id": "6",
+    "title": "Unplug from screens 1 hour before bed for better sleep.",
+    "Caption": "🌙 Screen-free nights! What’s your bedtime routine? 👇"
+  },
+  {
+    "id": "7",
+    "title": "Practice gratitude daily for a positive mindset.",
+    "Caption": "🙏 Stay grateful! What’s one thing you’re thankful for today? 👇"
+  },
+  {
+    "id": "8",
+    "title": "Schedule regular health check-ups for peace of mind.",
+    "Caption": "🏥 Health first! When was your last health check-up? 👇"
+  },
+  {
+    "id": "9",
+    "title": "Spend 15 minutes in nature daily to recharge mentally.",
+    "Caption": "🌳 Nature therapy! What’s your favorite outdoor activity? 👇"
+  },
+  {
+    "id": "10",
+    "title": "Set realistic fitness goals to stay motivated long-term.",
+    "Caption": "💪 Goals that work! What’s your current fitness goal? 👇"
+  }
 ]
+
 }
