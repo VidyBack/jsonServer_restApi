@@ -59497,70 +59497,89 @@
       "title": "Start your day with a glass of water to boost hydration and kickstart your metabolism.",
       "category": "wellness",
       "author": "Anonymous",
-      "hashtag": "#HydrationTips #HealthyHabits #MorningRituals #WellnessJourney #StayHydrated"
+      "hashtag": "#HydrationTips #HealthyHabits #MorningRituals #WellnessJourney #StayHydrated",
+      "promoheading":"Pro Tip for Today"
     },
     {
       "id": "2",
       "title": "A 10-minute walk daily can improve your mood, energy, and overall health.",
       "category": "wellness",
       "author": "Anonymous",
-      "hashtag": "#StyleInspo #FashionStatements #OutfitGoals #WearYourConfidence #ClothesWithMeaning"
+      "hashtag": "#StyleInspo #FashionStatements #OutfitGoals #WearYourConfidence #ClothesWithMeaning",
+      "promoheading":"Smart Tip of the Day"
+
     },
     {
       "id": "3",
       "title": "Incorporate more whole foods like fruits, vegetables, and grains into your meals for lasting energy.",
       "category": "wellness",
       "author": "Anonymous",
-      "hashtag": "#WholeFoods #EatCleanLiveClean #HealthyEats #FuelYourBody #NutritionMatters "
+      "hashtag": "#WholeFoods #EatCleanLiveClean #HealthyEats #FuelYourBody #NutritionMatters ",
+      "promoheading":"Today's Life Hack"
+
     },
     {
       "id": "4",
       "title": "Practice mindfulness for 5 minutes daily to reduce stress and increase focus.",
       "category": "wellness",
       "author": "Anonymous",
-      "hashtag": "#MindfulnessMatters #StressRelief #MentalClarity #SelfCareTips #WellnessTips "
+      "hashtag": "#MindfulnessMatters #StressRelief #MentalClarity #SelfCareTips #WellnessTips ",
+      "promoheading":"Daily Success Tip"
+
     },
     {
       "id": "5",
       "title": "Sleep for 7-9 hours each night to improve immunity, mood, and focus during the day.",
       "category": "wellness",
       "author": "Anonymous",
-      "hashtag": "#BetterSleep #WellnessGoals #HealthyLiving #RestWell #SleepMatters"
+      "hashtag": "#BetterSleep #WellnessGoals #HealthyLiving #RestWell #SleepMatters",
+      "promoheading":"Quick Tip for You"
+
     },
     {
       "id": "6",
       "title": "Limit screen time before bed to promote better sleep and relaxation.",
       "category": "wellness",
       "author": "Anonymous",
-      "hashtag": "#DigitalDetox #SleepBetter #HealthyHabits #MindfulLiving #WellnessJourney"
+      "hashtag": "#DigitalDetox #SleepBetter #HealthyHabits #MindfulLiving #WellnessJourney",
+      "promoheading":"Win the Day Tip"
+
     },
     {
       "id": "7",
       "title": "Drink herbal teas like chamomile or green tea to relax and boost your health.",
       "category": "wellness",
       "author": "Anonymous",
-      "hashtag": "#HerbalTea #NaturalWellness #RelaxAndRecharge #HealthTips #StayHealthy "
+      "hashtag": "#HerbalTea #NaturalWellness #RelaxAndRecharge #HealthTips #StayHealthy ",
+      "promoheading":"Practical Tip Today"
+
     },
     {
       "id": "8",
       "title": "Stretch daily to improve flexibility, posture, and relieve tension.",
       "category": "wellness",
       "author": "Anonymous",
-      "hashtag": "#StretchDaily #FitnessGoals #HealthyRoutine #SelfCareMatters #WellnessLifestyle"
+      "hashtag": "#StretchDaily #FitnessGoals #HealthyRoutine #SelfCareMatters #WellnessLifestyle",
+      "promoheading":"Boost with Today's Tip"
+
     },
     {
       "id": "9",
       "title": "Set realistic wellness goals and celebrate small achievements along the way.",
       "category": "wellness",
       "author": "Anonymous",
-      "hashtag": "#WellnessGoals #ProgressNotPerfection #SelfImprovement #StayMotivated #HealthyMindset"
+      "hashtag": "#WellnessGoals #ProgressNotPerfection #SelfImprovement #StayMotivated #HealthyMindset",
+      "promoheading":"Small Tip, Big Impact"
+
     },
     {
       "id": "10",
       "title": "Balance work and relaxation to maintain your physical and mental health.",
       "category": "wellness",
       "author": "Anonymous",
-      "hashtag": "#WorkLifeBalance #StressReliefTips #HealthyMindset #SelfCareFirst #WellnessJourney"
+      "hashtag": "#WorkLifeBalance #StressReliefTips #HealthyMindset #SelfCareFirst #WellnessJourney",
+      "promoheading":"Your Daily Know-How"
+
     }
   ],
   "WELLNESQUOTES": [
@@ -60678,7 +60697,7 @@
   }
 ],
 
-  "aihealthcare":[
+"aihealthcare":[
     {
       "id": "1",
       "title": "Your Health, Our Priority Every Step of the Way",
