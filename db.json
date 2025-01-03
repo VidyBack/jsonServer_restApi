@@ -233,39 +233,57 @@
   "AUTOTIPS": [
     {
       "id": "1",
-      "title": "Regularly check and change your vehicle’s oil to keep the engine running smoothly and efficiently."
+      "title": "Regularly check and change your vehicle’s oil to keep the engine running smoothly and efficiently.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
-      "title": "Keep your tires properly inflated and check their tread regularly to ensure safety and improve fuel efficiency."
+      "title": "Keep your tires properly inflated and check their tread regularly to ensure safety and improve fuel efficiency.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
-      "title": "Keep your car’s interior clean and organized to maintain its value and create a pleasant driving experience."
+      "title": "Keep your car’s interior clean and organized to maintain its value and create a pleasant driving experience.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
-      "title": "Follow your vehicle’s maintenance schedule for timely inspections and repairs to prevent major issues."
+      "title": "Follow your vehicle’s maintenance schedule for timely inspections and repairs to prevent major issues.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "5",
-      "title": "Ensure your vehicle’s brakes are functioning properly; have them checked if you notice any unusual noises or reduced responsiveness."
+      "title": "Ensure your vehicle’s brakes are functioning properly; have them checked if you notice any unusual noises or reduced responsiveness.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "6",
-      "title": "Inspect your vehicle’s lights regularly and replace any burnt-out bulbs to ensure safety on the road."
+      "title": "Inspect your vehicle’s lights regularly and replace any burnt-out bulbs to ensure safety on the road.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "7",
-      "title": "Learn basic car repair skills, such as changing a flat tire, to handle minor issues on the road and save on repairs."
+      "title": "Learn basic car repair skills, such as changing a flat tire, to handle minor issues on the road and save on repairs.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "8",
-      "title": "Keep an emergency kit in your car, including a first-aid kit, flashlight, and basic tools, for unexpected situations."
+      "title": "Keep an emergency kit in your car, including a first-aid kit, flashlight, and basic tools, for unexpected situations.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "9",
-      "title": "Park in shaded areas or use a sunshade to protect your vehicle’s interior from excessive heat and UV damage."
+      "title": "Park in shaded areas or use a sunshade to protect your vehicle’s interior from excessive heat and UV damage.",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "autoEvent": [
@@ -639,31 +657,45 @@
   "FOODTIPS": [
     {
       "id": "1",
-      "title": "Check the restaurant's social media pages or website for any promotions or deals that may be available."
+      "title": "Check the restaurant's social media pages or website for any promotions or deals that may be available.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
-      "title": "Sign up for loyalty programs: Joining loyalty programs can help you save money on your favorite restaurant meals."
+      "title": "Sign up for loyalty programs: Joining loyalty programs can help you save money on your favorite restaurant meals.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
-      "title": "Take advantage of happy hour: Many restaurants offer discounted drinks and food items during happy hour."
+      "title": "Take advantage of happy hour: Many restaurants offer discounted drinks and food items during happy hour.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
-      "title": "Look for daily specials: Many restaurants offer daily specials on specific days of the week."
+      "title": "Look for daily specials: Many restaurants offer daily specials on specific days of the week.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "5",
-      "title": "Use coupons: Keep an eye out for coupons or promotional offers from restaurants. You may find these in local newspapers, coupon books, or online."
+      "title": "Use coupons: Keep an eye out for coupons or promotional offers from restaurants. You may find these in local newspapers, coupon books, or online.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "6",
-      "title": "Check for student discounts: If you're a student, be sure to check with the restaurant to see if they offer any deals."
+      "title": "Check for student discounts: If you're a student, be sure to check with the restaurant to see if they offer any deals.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "7",
-      "title": "Share meals: Consider sharing a meal with a friend or family member to save money and reduce waste."
+      "title": "Share meals: Consider sharing a meal with a friend or family member to save money and reduce waste.",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "foodFact": [
@@ -961,59 +993,87 @@
   "ESTATETIPS": [
     {
       "id": "1",
-      "title": "Research the neighborhood thoroughly before buying. Check for amenities, schools, and future development plans."
+      "title": "Research the neighborhood thoroughly before buying. Check for amenities, schools, and future development plans.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
-      "title": "Get pre-approved for a mortgage to streamline the buying process and show sellers you're a serious buyer."
+      "title": "Get pre-approved for a mortgage to streamline the buying process and show sellers you're a serious buyer.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
-      "title": "Consider the long-term value of a property. Look for areas with growth potential and stable markets."
+      "title": "Consider the long-term value of a property. Look for areas with growth potential and stable markets.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
-      "title": "When renting, make sure to read the lease agreement carefully to understand your rights and obligations."
+      "title": "When renting, make sure to read the lease agreement carefully to understand your rights and obligations.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "5",
-      "title": "Stage your home before listing it to make a great first impression and potentially increase its value."
+      "title": "Stage your home before listing it to make a great first impression and potentially increase its value.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "6",
-      "title": "Invest in home improvements that offer the best return on investment, like kitchen and bathroom upgrades."
+      "title": "Invest in home improvements that offer the best return on investment, like kitchen and bathroom upgrades.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "7",
-      "title": "Work with a real estate agent who knows the local market and can guide you through the buying or selling process."
+      "title": "Work with a real estate agent who knows the local market and can guide you through the buying or selling process.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "8",
-      "title": "Keep an eye on market trends and interest rates to make informed decisions about buying or selling property."
+      "title": "Keep an eye on market trends and interest rates to make informed decisions about buying or selling property.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "9",
-      "title": "Always get a professional home inspection before buying to uncover any potential issues or hidden costs."
+      "title": "Always get a professional home inspection before buying to uncover any potential issues or hidden costs.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "10",
-      "title": "Understand your mortgage options and choose the one that best fits your financial situation and long-term goals."
+      "title": "Understand your mortgage options and choose the one that best fits your financial situation and long-term goals.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "11",
-      "title": "Check the local property tax rates before buying to understand the long-term costs of ownership."
+      "title": "Check the local property tax rates before buying to understand the long-term costs of ownership.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "12",
-      "title": "When selling your home, ensure all necessary repairs and maintenance are completed to enhance its market value."
+      "title": "When selling your home, ensure all necessary repairs and maintenance are completed to enhance its market value.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "13",
-      "title": "Look beyond the aesthetics of a property and evaluate its structural integrity and potential for future issues."
+      "title": "Look beyond the aesthetics of a property and evaluate its structural integrity and potential for future issues.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "14",
-      "title": "Be aware of local zoning laws and regulations that could impact property use and future development."
+      "title": "Be aware of local zoning laws and regulations that could impact property use and future development.",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "estateFact": [
@@ -1169,43 +1229,63 @@
   "TRAVELTIPS": [
     {
       "id": "1",
-      "title": "Obey the laws and cultural differences of the country you’re visiting."
+      "title": "Obey the laws and cultural differences of the country you’re visiting.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
-      "title": "Check if you’re regarded as a national of the destination you plan to visit."
+      "title": "Check if you’re regarded as a national of the destination you plan to visit.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
-      "title": "Being flexible with your travel dates can help you find better deals, especially if you're willing to travel during off-peak times."
+      "title": "Being flexible with your travel dates can help you find better deals, especially if you're willing to travel during off-peak times.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
-      "title": "Booking your travel in advance can often save you money, as prices tend to go up as the departure date gets closer."
+      "title": "Booking your travel in advance can often save you money, as prices tend to go up as the departure date gets closer.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "5",
-      "title": "Package deals that include flights, hotels, and activities can often be more affordable than booking each component separately."
+      "title": "Package deals that include flights, hotels, and activities can often be more affordable than booking each component separately.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "6",
-      "title": "Travel rewards programs, such as frequent flyer programs and credit card rewards, can help you save money on travel expenses."
+      "title": "Travel rewards programs, such as frequent flyer programs and credit card rewards, can help you save money on travel expenses.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "7",
-      "title": "Airlines and travel companies often post exclusive deals on their social media accounts, so following them can help you stay up-to-date on the latest deals."
+      "title": "Airlines and travel companies often post exclusive deals on their social media accounts, so following them can help you stay up-to-date on the latest deals.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "8",
-      "title": "Avoiding peak travel times, such as holidays and weekends, can help you save money on airfare and hotels."
+      "title": "Avoiding peak travel times, such as holidays and weekends, can help you save money on airfare and hotels.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "9",
-      "title": "Use comparison sites to compare prices across multiple airlines and travel companies to find the best deal."
+      "title": "Use comparison sites to compare prices across multiple airlines and travel companies to find the best deal.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "10",
-      "title": "Consider alternative accommodations, such as vacation rentals or hostels, which can often be more affordable than traditional hotels."
+      "title": "Consider alternative accommodations, such as vacation rentals or hostels, which can often be more affordable than traditional hotels.",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "travelFact": [
@@ -1285,35 +1365,51 @@
   "SPORTSTIPS": [
     {
       "id": "1",
-      "title": " Do the sports activity or exercise with proper equipment."
+      "title": " Do the sports activity or exercise with proper equipment.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
-      "title": "Take proper muscle strengthening training."
+      "title": "Take proper muscle strengthening training.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
-      "title": " Always go for adequate warm-up, and stretching before the activity or exercise followed by warm-down and stretching after the activity or exercise."
+      "title": " Always go for adequate warm-up, and stretching before the activity or exercise followed by warm-down and stretching after the activity or exercise.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
-      "title": "It's important to set clear, specific, and measurable goals for your athletic career. This will help you stay focused and motivated as you work towards achieving them."
+      "title": "It's important to set clear, specific, and measurable goals for your athletic career. This will help you stay focused and motivated as you work towards achieving them.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "5",
-      "title": "Physical fitness is key to success in the sports industry. Make sure to maintain a healthy diet, get enough rest &sleep and exercise regularly keeping body in top shape."
+      "title": "Physical fitness is key to success in the sports industry. Make sure to maintain a healthy diet, get enough rest &sleep and exercise regularly keeping body in top shape.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "6",
-      "title": "Surround yourself with people who support and encourage you, including coaches, teammates, and family members."
+      "title": "Surround yourself with people who support and encourage you, including coaches, teammates, and family members.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "7",
-      "title": "As an athlete, it's important to stay humble and respectful towards others, including your opponents and teammates."
+      "title": "As an athlete, it's important to stay humble and respectful towards others, including your opponents and teammates.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "8",
-      "title": "Everyone makes mistakes, but it's important to learn from them and use them as opportunities for growth and improvement."
+      "title": "Everyone makes mistakes, but it's important to learn from them and use them as opportunities for growth and improvement.",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "SPORTQUOTES": [
@@ -1473,27 +1569,39 @@
   "JOBTIPS": [
     {
       "id": "1",
-      "title": "Before you start your job search, it's important to have a clear idea of the type of job you're looking for and what you want to achieve in your career."
+      "title": "Before you start your job search, it's important to have a clear idea of the type of job you're looking for and what you want to achieve in your career.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
-      "title": " Networking is a great way to connect with people in your industry and learn about job opportunities."
+      "title": " Networking is a great way to connect with people in your industry and learn about job opportunities.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
-      "title": "Build, cultivate, and utilize your network of contacts"
+      "title": "Build, cultivate, and utilize your network of contacts",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
-      "title": "Send a thank-you email or note after a job interview to show your appreciation for the opportunity and reiterate your interest in the job."
+      "title": "Send a thank-you email or note after a job interview to show your appreciation for the opportunity and reiterate your interest in the job.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "5",
-      "title": " The job search process can be challenging, but it's important to stay positive and persistent."
+      "title": " The job search process can be challenging, but it's important to stay positive and persistent.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "6",
-      "title": "Resume & cover letter is the first impression with potential employers, so make sure they're professional, error-free, and highlight your relevant skills and experience."
+      "title": "Resume & cover letter is the first impression with potential employers, so make sure they're professional, error-free, and highlight your relevant skills and experience.",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "JOBQUOTES": [
@@ -1735,43 +1843,63 @@
   "PHARMATIPS": [
     {
       "id": "1",
-      "title": "Keep an updated list of your medications, including names, dosages, and prescribing doctors."
+      "title": "Keep an updated list of your medications, including names, dosages, and prescribing doctors.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
-      "title": "Inform healthcare providers about any allergies or sensitivities to medications or ingredients."
+      "title": "Inform healthcare providers about any allergies or sensitivities to medications or ingredients.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
-      "title": "Stay informed about potential recalls or safety warnings regarding medications you are taking."
+      "title": "Stay informed about potential recalls or safety warnings regarding medications you are taking.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
-      "title": "Seek medical advice before taking over-the-counter medications, especially if you're on prescription drugs."
+      "title": "Seek medical advice before taking over-the-counter medications, especially if you're on prescription drugs.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "5",
-      "title": "Follow prescribed dosage and frequency. Don't alter or stop medication without consulting a healthcare professional"
+      "title": "Follow prescribed dosage and frequency. Don't alter or stop medication without consulting a healthcare professional",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "6",
-      "title": "Be aware of expiration dates, dispose of unused medications responsibly, and never self-diagnose or self-medicate."
+      "title": "Be aware of expiration dates, dispose of unused medications responsibly, and never self-diagnose or self-medicate.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "7",
-      "title": "Consult a healthcare professional for medication advice, side effects, and possible drug interactions"
+      "title": "Consult a healthcare professional for medication advice, side effects, and possible drug interactions",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "8",
-      "title": "Keep medications out of reach of children and store them properly according to label instructions."
+      "title": "Keep medications out of reach of children and store them properly according to label instructions.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "9",
-      "title": "Report any unexpected side effects to your healthcare provider promptly."
+      "title": "Report any unexpected side effects to your healthcare provider promptly.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "10",
-      "title": "Report any adverse reactions or concerns about medications to healthcare professionals or relevant authorities."
+      "title": "Report any adverse reactions or concerns about medications to healthcare professionals or relevant authorities.",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "PHARMAQUOTES": [
@@ -1928,39 +2056,57 @@
   "FMCGTIPS": [
     {
       "id": "1",
-      "title": "Conduct thorough market research to understand consumer preferences,patterns, and trends.This will help identify the demands and expectations of your target audience."
+      "title": "Conduct thorough market research to understand consumer preferences,patterns, and trends.This will help identify the demands and expectations of your target audience.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
-      "title": "Utilize data analytics to gain insights into consumer behavior,trends,& market dynamics.Leverage these insights to make informed business decisions, refine your strategies."
+      "title": "Utilize data analytics to gain insights into consumer behavior,trends,& market dynamics.Leverage these insights to make informed business decisions, refine your strategies.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
-      "title": "Consumers are increasingly concerned about sustainability.Communicate your commitment to social and environmental causes to resonate with conscious consumers."
+      "title": "Consumers are increasingly concerned about sustainability.Communicate your commitment to social and environmental causes to resonate with conscious consumers.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
-      "title": "Stay updated with market trends and technological advancements. Continuously innovate your products to meet changing consumer demands and preferences."
+      "title": "Stay updated with market trends and technological advancements. Continuously innovate your products to meet changing consumer demands and preferences.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "5",
-      "title": "Provide excellent customer service, respond promptly to inquiries and feedback, and offer loyalty programs or incentives to encourage repeat purchases."
+      "title": "Provide excellent customer service, respond promptly to inquiries and feedback, and offer loyalty programs or incentives to encourage repeat purchases.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "6",
-      "title": "Develop comprehensive marketing and promotion plans to create awareness and drive sales. Leverage various channels, including digital marketing,traditional advertising,etc."
+      "title": "Develop comprehensive marketing and promotion plans to create awareness and drive sales. Leverage various channels, including digital marketing,traditional advertising,etc.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "7",
-      "title": "Efficient distribution and supply chain management are vital in the FMCG industry. Establish strong relationships with consern people to ensure timely delivery of products."
+      "title": "Efficient distribution and supply chain management are vital in the FMCG industry. Establish strong relationships with consern people to ensure timely delivery of products.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "8",
-      "title": "Optimize your supply chain processes to minimize costs and improve overall efficiency."
+      "title": "Optimize your supply chain processes to minimize costs and improve overall efficiency.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "9",
-      "title": "Develop a pricing strategy that aligns with your target market. Consider factors such as production costs, competitor pricing, and consumer affordability."
+      "title": "Develop a pricing strategy that aligns with your target market. Consider factors such as production costs, competitor pricing, and consumer affordability.",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "FMCGQUOTES": [
@@ -2070,43 +2216,63 @@
   "ENTERTAINMENTTIPS": [
     {
       "id": "1",
-      "title": "Don’t Hide Your Entertainment Away."
+      "title": "Don’t Hide Your Entertainment Away.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
-      "title": "Pick Entertainment to set the Tone."
+      "title": "Pick Entertainment to set the Tone.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
-      "title": "Always keep yourself aware of the modern trends as well as tweak any campaigns depending on that."
+      "title": "Always keep yourself aware of the modern trends as well as tweak any campaigns depending on that.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
-      "title": "Conduct live sessions and engage well with your target audience.The greater they focus on your communication."
+      "title": "Conduct live sessions and engage well with your target audience.The greater they focus on your communication.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "5",
-      "title": "Respond to queries, questions, and comments asked by the target customers."
+      "title": "Respond to queries, questions, and comments asked by the target customers.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "6",
-      "title": "Whatever may be your social media marketing strategy, ensure to cross-post."
+      "title": "Whatever may be your social media marketing strategy, ensure to cross-post.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "7",
-      "title": "You need to have certain content interesting and unique to a particular website."
+      "title": "You need to have certain content interesting and unique to a particular website.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "8",
-      "title": "It is always essential to have a particular hashtag to efficiently follow up and communicate with the crowd."
+      "title": "It is always essential to have a particular hashtag to efficiently follow up and communicate with the crowd.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "9",
-      "title": "Develop curiosity as well as keep your content engaging, up to date, and fresh."
+      "title": "Develop curiosity as well as keep your content engaging, up to date, and fresh.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "10",
-      "title": "Create better content and always give the end-users what they have been looking for about their interesting things."
+      "title": "Create better content and always give the end-users what they have been looking for about their interesting things.",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "ENTERTAINMENTQUOTES": [
@@ -2248,39 +2414,57 @@
   "EDUCATIONTIPS": [
     {
       "id": "1",
-      "title": "Use technology effectively:Leverage educational technology tools,such as online learning platforms,interactive apps,and digital resources."
+      "title": "Use technology effectively:Leverage educational technology tools,such as online learning platforms,interactive apps,and digital resources.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
-      "title": "Foster a growth mindset:Embrace a mindset that focuses on learning and growth.Be open to new ideas,feedback,and constructive criticism."
+      "title": "Foster a growth mindset:Embrace a mindset that focuses on learning and growth.Be open to new ideas,feedback,and constructive criticism.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
-      "title": "Continuously expand your knowledge:Stay updated on the latest trends,developments,and best practices in your industry."
+      "title": "Continuously expand your knowledge:Stay updated on the latest trends,developments,and best practices in your industry.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
-      "title": "Set aside dedicated time for your online course and create a study schedule."
+      "title": "Set aside dedicated time for your online course and create a study schedule.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "5",
-      "title": "Treat online courses as you would a traditional in-person course to ensure you allocate sufficient time for learning and assignments."
+      "title": "Treat online courses as you would a traditional in-person course to ensure you allocate sufficient time for learning and assignments.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "6",
-      "title": "Look for courses that offer instructor support or a community platform where you can interact with other learners."
+      "title": "Look for courses that offer instructor support or a community platform where you can interact with other learners.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "7",
-      "title": "If you're seeking professional development,ensure that the course or the platform offering the course is accredited in your field."
+      "title": "If you're seeking professional development,ensure that the course or the platform offering the course is accredited in your field.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "8",
-      "title": "Apply the knowledge and skills you acquire from the course in real-world scenarios."
+      "title": "Apply the knowledge and skills you acquire from the course in real-world scenarios.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "9",
-      "title": "Testimonials & student reviews can provide insights into the course quality,instructor expertise,and overall learning experience."
+      "title": "Testimonials & student reviews can provide insights into the course quality,instructor expertise,and overall learning experience.",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "EDUCATIONQUOTES": [
@@ -2449,31 +2633,45 @@
   "TECHNOLOGYTIPS": [
     {
       "id": "1",
-      "title": "Report junk texts and stick it to the scammers."
+      "title": "Report junk texts and stick it to the scammers.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
-      "title": " Search using Site: to find content like a ninja."
+      "title": " Search using Site: to find content like a ninja.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
-      "title": " Before making a tech purchase, research the product thoroughly to ensure it meets your needs and has good reviews from other consumers."
+      "title": " Before making a tech purchase, research the product thoroughly to ensure it meets your needs and has good reviews from other consumers.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
-      "title": "Compare prices of similar products from different brands to find the best value for your money."
+      "title": "Compare prices of similar products from different brands to find the best value for your money.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "5",
-      "title": " Ensure the tech product is compatible with your existing devices or software to avoid compatibility issues."
+      "title": " Ensure the tech product is compatible with your existing devices or software to avoid compatibility issues.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "6",
-      "title": "Look for tech products that offer good customer support, including troubleshooting, maintenance, and repair services."
+      "title": "Look for tech products that offer good customer support, including troubleshooting, maintenance, and repair services.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "7",
-      "title": "Keep up-to-date on the latest tech trends and news to make informed purchasing decisions."
+      "title": "Keep up-to-date on the latest tech trends and news to make informed purchasing decisions.",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "TECHNOLOGYQUOTES": [
@@ -2620,27 +2818,39 @@
   "HEALTHCARETIPS": [
     {
       "id": "1",
-      "title": "Drink Water and Stay Hydrated, and Limit Sugared Beverages."
+      "title": "Drink Water and Stay Hydrated, and Limit Sugared Beverages.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
-      "title": "Exercise Regularly and Be Physically Active."
+      "title": "Exercise Regularly and Be Physically Active.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
-      "title": "When selecting an insurance plan, consider your healthcare needs, budget, and any pre-existing conditions."
+      "title": "When selecting an insurance plan, consider your healthcare needs, budget, and any pre-existing conditions.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
-      "title": "Not all healthcare providers charge the same rates for the same services. Shop around for services, such as medical procedures or prescription drugs, find the best price."
+      "title": "Not all healthcare providers charge the same rates for the same services. Shop around for services, such as medical procedures or prescription drugs, find the best price.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "5",
-      "title": "Don't be afraid to ask questions about your healthcare services, including the costs, benefits, and risks."
+      "title": "Don't be afraid to ask questions about your healthcare services, including the costs, benefits, and risks.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "6",
-      "title": "Keep up-to-date on the latest healthcare news and trends, including changes to healthcare laws and regulations. "
+      "title": "Keep up-to-date on the latest healthcare news and trends, including changes to healthcare laws and regulations. ",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "HEALTHCAREQUOTES": [
@@ -2748,19 +2958,27 @@
   "LEGALLAWTIPS": [
     {
       "id": "1",
-      "title": "Look for a lawyer who is licensed to practice law in your state and has no history of disciplinary action."
+      "title": "Look for a lawyer who is licensed to practice law in your state and has no history of disciplinary action.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
-      "title": " Be clear and specific about your legal needs and expectations when speaking with your lawyer."
+      "title": " Be clear and specific about your legal needs and expectations when speaking with your lawyer.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
-      "title": "Keep up-to-date on legal issues that affect you by reading news articles, attending seminars or webinars, or consulting with legal professionals."
+      "title": "Keep up-to-date on legal issues that affect you by reading news articles, attending seminars or webinars, or consulting with legal professionals.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
-      "title": "Understanding your rights and responsibilities under the law is essential."
+      "title": "Understanding your rights and responsibilities under the law is essential.",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "LEGALLAWQUOTES": [
@@ -2855,43 +3073,63 @@
   "FINANCETIPS": [
     {
       "id": "1",
-      "title": "Diversify your investments to manage risk and protect your portfolio from market volatility."
+      "title": "Diversify your investments to manage risk and protect your portfolio from market volatility.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
-      "title": "Invest for the long term and avoid reacting to short-term market fluctuations."
+      "title": "Invest for the long term and avoid reacting to short-term market fluctuations.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
-      "title": "Research and understand what you’re investing in; knowledge is your best asset."
+      "title": "Research and understand what you’re investing in; knowledge is your best asset.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
-      "title": "Set clear investment goals and create a plan to achieve them."
+      "title": "Set clear investment goals and create a plan to achieve them.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "5",
-      "title": "Regularly review and adjust your portfolio to ensure it aligns with your financial goals."
+      "title": "Regularly review and adjust your portfolio to ensure it aligns with your financial goals.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "6",
-      "title": "Avoid putting all your eggs in one basket; spread your investments across different asset classes."
+      "title": "Avoid putting all your eggs in one basket; spread your investments across different asset classes.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "7",
-      "title": "Understand your risk tolerance before making investment decisions to avoid unnecessary stress."
+      "title": "Understand your risk tolerance before making investment decisions to avoid unnecessary stress.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "8",
-      "title": "Stay informed about market trends and economic indicators that can impact your investments."
+      "title": "Stay informed about market trends and economic indicators that can impact your investments.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "9",
-      "title": "Consider dollar-cost averaging to invest consistently and reduce the impact of market volatility."
+      "title": "Consider dollar-cost averaging to invest consistently and reduce the impact of market volatility.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "10",
-      "title": "Avoid making investment decisions based on emotions; stick to your plan and strategy."
+      "title": "Avoid making investment decisions based on emotions; stick to your plan and strategy.",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "NGO": [
@@ -2968,43 +3206,63 @@
   "NGOTIPS": [
     {
       "id": "1",
-      "title": "Clearly define your mission, engage volunteers, foster transparency, and build strong partnerships for effective NGO impact"
+      "title": "Clearly define your mission, engage volunteers, foster transparency, and build strong partnerships for effective NGO impact",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
-      "title": "Communicate effectively, diversify funding sources, measure impact, and advocate for change to drive NGO success."
+      "title": "Communicate effectively, diversify funding sources, measure impact, and advocate for change to drive NGO success.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
-      "title": "Prioritize transparency, engage stakeholders, network with peers, and innovate for sustainable NGO growth."
+      "title": "Prioritize transparency, engage stakeholders, network with peers, and innovate for sustainable NGO growth.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
-      "title": "Define your goals, empower volunteers, collaborate, and leverage diverse funding for impactful NGO initiatives."
+      "title": "Define your goals, empower volunteers, collaborate, and leverage diverse funding for impactful NGO initiatives.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "5",
-      "title": "Engage the community, measure impact, communicate effectively, and stay adaptable for NGO effectiveness. "
+      "title": "Engage the community, measure impact, communicate effectively, and stay adaptable for NGO effectiveness. ",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "6",
-      "title": "Define mission and goals clearly"
+      "title": "Define mission and goals clearly",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "7",
-      "title": "Measure and showcase impact."
+      "title": "Measure and showcase impact.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "8",
-      "title": "Engage and empower volunteers."
+      "title": "Engage and empower volunteers.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "9",
-      "title": " Foster relationships with stakeholders, partners, volunteers, and the community. Collaboration and partnerships can amplify your impact."
+      "title": " Foster relationships with stakeholders, partners, volunteers, and the community. Collaboration and partnerships can amplify your impact.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "10",
-      "title": "Use your platform to advocate for policy changes, social justice, and systemic solutions related to your cause."
+      "title": "Use your platform to advocate for policy changes, social justice, and systemic solutions related to your cause.",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "NGOQUOTES": [
@@ -3156,43 +3414,63 @@
   "BOOKINGTIPS": [
     {
       "id": "1",
-      "title": " Familiarize yourself with the booking process on the booking platform you're using."
+      "title": " Familiarize yourself with the booking process on the booking platform you're using.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
-      "title": "Save money by booking in advance,comparing prices,and taking advantage of deals and packages."
+      "title": "Save money by booking in advance,comparing prices,and taking advantage of deals and packages.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
-      "title": "Pay attention to the descriptions and details provided for the service"
+      "title": "Pay attention to the descriptions and details provided for the service",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
-      "title": "Look for flexible scheduling options that suit your preferences,such as different time slots,multiple days, or recurring classes."
+      "title": "Look for flexible scheduling options that suit your preferences,such as different time slots,multiple days, or recurring classes.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "5",
-      "title": "Read reviews,check booking service's security measures,and ensure they have a good reputation for reliable and secure transactions."
+      "title": "Read reviews,check booking service's security measures,and ensure they have a good reputation for reliable and secure transactions.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "6",
-      "title": "Deliver exceptional service,exceed expectations,and prioritize customer satisfaction."
+      "title": "Deliver exceptional service,exceed expectations,and prioritize customer satisfaction.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "7",
-      "title": " If you're booking a class or course, verify the credentials and qualifications of the instructors or facilitators."
+      "title": " If you're booking a class or course, verify the credentials and qualifications of the instructors or facilitators.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "8",
-      "title": "Before finalizing your booking, double-check the details you have entered, such as the date, time, location, and any specific instructions."
+      "title": "Before finalizing your booking, double-check the details you have entered, such as the date, time, location, and any specific instructions.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "9",
-      "title": "Understand the terms and conditions regarding cancellations, rescheduling, or refunds in case your plans change."
+      "title": "Understand the terms and conditions regarding cancellations, rescheduling, or refunds in case your plans change.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "10",
-      "title": "After attending an appointment,class,or course, provide feedback and reviews on the platform or to the service provider."
+      "title": "After attending an appointment,class,or course, provide feedback and reviews on the platform or to the service provider.",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "klh": [
@@ -3250,43 +3528,63 @@
   "PAYMENTSTIPS": [
     {
       "id": "1",
-      "title": "Use secure payment gateways for online transactions."
+      "title": "Use secure payment gateways for online transactions.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
-      "title": "Keep passwords complex and change them regularly."
+      "title": "Keep passwords complex and change them regularly.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
-      "title": "Verify payment details before confirming."
+      "title": "Verify payment details before confirming.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
-      "title": "Avoid sharing payment information over public Wi-Fi."
+      "title": "Avoid sharing payment information over public Wi-Fi.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "5",
-      "title": "Monitor account activity for any suspicious transactions."
+      "title": "Monitor account activity for any suspicious transactions.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "6",
-      "title": "Enable two-factor authentication for added security."
+      "title": "Enable two-factor authentication for added security.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "7",
-      "title": "Use reputable vendors for purchases."
+      "title": "Use reputable vendors for purchases.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "8",
-      "title": "Keep payment apps updated to patch security vulnerabilities."
+      "title": "Keep payment apps updated to patch security vulnerabilities.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "9",
-      "title": "Beware of phishing scams requesting payment details."
+      "title": "Beware of phishing scams requesting payment details.",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "10",
-      "title": "Utilize virtual cards for online purchases to minimize exposure."
+      "title": "Utilize virtual cards for online purchases to minimize exposure.",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "CRYPTOCURRENCYDUMMY": [
@@ -57452,106 +57750,136 @@
       "id": "1",
       "title": "Check fabric labels for quality and durability.",
       "category": "Clothings",
-      "author": " Anonymous",
-      "hashtag": "#FabricCare #QualityFabrics #SustainableFashionTips #ClothingDurability #FashionConscious"
+      "author": " ",
+      "hashtag": "#FabricCare #QualityFabrics #SustainableFashionTips #ClothingDurability #FashionConscious",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "2",
       "title": "Buy versatile pieces that you can mix and match.",
       "category": "Clothings",
-      "author": " Anonymous",
-      "hashtag": "#VersatileFashion #MixAndMatchOutfits #WardrobeEssentials #CapsuleWardrobe #StyleTipsDaily"
+      "author": " ",
+      "hashtag": "#VersatileFashion #MixAndMatchOutfits #WardrobeEssentials #CapsuleWardrobe #StyleTipsDaily",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "3",
       "title": "Invest in timeless classics over fast fashion.",
       "category": "Clothings",
-      "author": " Anonymous",
-      "hashtag": "#TimelessStyle #SustainableFashionTips #ClassicWardrobe #InvestInQuality #SlowFashionMovement"
+      "author": "",
+      "hashtag": "#TimelessStyle #SustainableFashionTips #ClassicWardrobe #InvestInQuality #SlowFashionMovement",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "4",
       "title": "Support brands that prioritize sustainability.",
       "category": "Clothings",
-      "author": " Anonymous",
-      "hashtag": "#SustainableBrands #EcoFriendlyLiving #ConsciousConsumer #GreenShopping #EthicalBusiness"
+      "author": " ",
+      "hashtag": "#SustainableBrands #EcoFriendlyLiving #ConsciousConsumer #GreenShopping #EthicalBusiness",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "5",
       "title": "Always try before you buy for the perfect fit.",
       "category": "Clothings",
-      "author": " Anonymous",
-      "hashtag": "#TryBeforeYouBuy #PerfectFitTips #SmartShoppingTips #ShopSmartly #ShoppingAdvice"
+      "author": "",
+      "hashtag": "#TryBeforeYouBuy #PerfectFitTips #SmartShoppingTips #ShopSmartly #ShoppingAdvice",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "6",
       "title": "Look for well-made seams and stitching.",
       "category": "Clothings",
-      "author": " Anonymous",
-      "hashtag": "#QualityCraftsmanship #SustainableFashion #TailoredFit #MadeWithCare #FashionDetails"
+      "author": " ",
+      "hashtag": "#QualityCraftsmanship #SustainableFashion #TailoredFit #MadeWithCare #FashionDetails",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "7",
       "title": "Choose colors that complement your skin tone.",
       "category": "Clothings",
-      "author": " Anonymous",
-      "hashtag": "#ColorMatching #StyleTips #FashionInspo #SkinToneColors #WardrobeEssentials"
+      "author": " ",
+      "hashtag": "#ColorMatching #StyleTips #FashionInspo #SkinToneColors #WardrobeEssentials",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "8",
       "title": "Understand your measurements, not just size labels.",
       "category": "Clothings",
-      "author": " Anonymous",
-      "hashtag": "#BodyConfidence #FitOverSize #SizeInclusive #BodyPositiveMindset #MeasureToFit"
+      "author": "",
+      "hashtag": "#BodyConfidence #FitOverSize #SizeInclusive #BodyPositiveMindset #MeasureToFit",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "9",
       "title": "Shop seasonal sales for quality at lower prices.",
       "category": "Clothings",
-      "author": " Anonymous",
-      "hashtag": "#SeasonalSavings #ShopSmart #QualityDeals #DiscountShopping #AffordableLuxury"
+      "author": " ",
+      "hashtag": "#SeasonalSavings #ShopSmart #QualityDeals #DiscountShopping #AffordableLuxury",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "10",
       "title": "Care for your clothes properly to extend their life.",
       "category": "Clothings",
-      "author": " Anonymous",
-      "hashtag": "#ClothingCare #SustainableFashionTips #WardrobeCare #EcoFriendlyFashion #ClothesMaintenance"
+      "author": " ",
+      "hashtag": "#ClothingCare #SustainableFashionTips #WardrobeCare #EcoFriendlyFashion #ClothesMaintenance",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "11",
       "title": "Start with a neutral base and add pops of color.",
       "category": "HomeDecor",
-      "author": " Anonymous",
-      "hashtag": "#NeutralVibes #ColorPops #HomeDecorInspo #DesignTips #InteriorStyling"
+      "author": " ",
+      "hashtag": "#NeutralVibes #ColorPops #HomeDecorInspo #DesignTips #InteriorStyling",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "12",
       "title": "Invest in quality, timeless furniture pieces.",
       "category": "HomeDecor",
-      "author": " Anonymous",
-      "hashtag": "#TimelessDesign #QualityFurniture #SustainableLiving #HomeDecorInspo #FurnitureInvestment"
+      "author": " ",
+      "hashtag": "#TimelessDesign #QualityFurniture #SustainableLiving #HomeDecorInspo #FurnitureInvestment",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "13",
       "title": "Use mirrors to make small spaces feel larger.",
       "category": "HomeDecor",
-      "author": " Anonymous",
-      "hashtag": "#HomeDecorIdeas  #SmallSpaceLiving  #MirrorMagic  #InteriorInspo  #SpaceEnhancement "
+      "author": "",
+      "hashtag": "#HomeDecorIdeas  #SmallSpaceLiving  #MirrorMagic  #InteriorInspo  #SpaceEnhancement ",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "14",
       "title": "Layer textures for a cozy, inviting space.",
       "category": "HomeDecor",
-      "author": " Anonymous",
-      "hashtag": "#CozyInteriors #LayeredTextures #HomeComforts #TexturedDecor #InvitingSpaces"
+      "author": " ",
+      "hashtag": "#CozyInteriors #LayeredTextures #HomeComforts #TexturedDecor #InvitingSpaces",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "15",
       "title": "Mix old and new for a unique, personal touch.",
       "category": "HomeDecor",
-      "author": " Anonymous",
-      "hashtag": "#ModernVintage #EclecticStyle #TimelessDesign #PersonalizedDecor #NostalgicCharm"
+      "author": " ",
+      "hashtag": "#ModernVintage #EclecticStyle #TimelessDesign #PersonalizedDecor #NostalgicCharm",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": "16",
@@ -60047,43 +60375,63 @@
 "aifinancetips": [
     {
       "title": "Set a monthly budget to track and control your expenses.",
-      "caption": "📊 Budget wisely! What’s your top budgeting tip? 👇"
+      "caption": "📊 Budget wisely! What’s your top budgeting tip? 👇",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "title": "Save at least 20% of your income for future goals.",
-      "caption": "💰 Save today, secure tomorrow! How do you ensure regular savings? 👇"
+      "caption": "💰 Save today, secure tomorrow! How do you ensure regular savings? 👇",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "title": "Invest in index funds for long-term stability and growth.",
-      "caption": "📈 Smart investments matter! What’s your go-to investment option? 👇"
+      "caption": "📈 Smart investments matter! What’s your go-to investment option? 👇",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "title": "Pay off high-interest debts first to reduce financial stress.",
-      "caption": "💳 Tackle debts smartly! What’s your debt management strategy? 👇"
+      "caption": "💳 Tackle debts smartly! What’s your debt management strategy? 👇",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "title": "Build an emergency fund with 3-6 months of living expenses.",
-      "caption": "🔐 Safety net ready? How do you grow your emergency fund? 👇"
+      "caption": "🔐 Safety net ready? How do you grow your emergency fund? 👇",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "title": "Automate savings to stay consistent and disciplined.",
-      "caption": "🤖 Automate to accumulate! Do you use automated saving tools? 👇"
+      "caption": "🤖 Automate to accumulate! Do you use automated saving tools? 👇",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "title": "Review your financial goals every 6 months.",
-      "caption": "📋 Stay on track! How often do you reassess your goals? 👇"
+      "caption": "📋 Stay on track! How often do you reassess your goals? 👇",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "title": "Diversify your investments to minimize risk.",
-      "caption": "🌍 Spread the risk! What’s your favorite diversification strategy? 👇"
+      "caption": "🌍 Spread the risk! What’s your favorite diversification strategy? 👇",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "title": "Track credit score regularly to maintain financial health.",
-      "caption": "📊 Credit matters! How often do you check your credit score? 👇"
+      "caption": "📊 Credit matters! How often do you check your credit score? 👇",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "title": "Avoid impulse purchases by sticking to your shopping list.",
-      "caption": "🛒 List saves money! What’s your way to avoid overspending? 👇"
+      "caption": "🛒 List saves money! What’s your way to avoid overspending? 👇",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
   "aiIT":[
@@ -60147,52 +60495,72 @@
   {
     "id": "1",
     "title": "Keep your software updated for better security and performance.",
-    "caption": "🔐 Stay updated, stay secure! How often do you update your apps? 👇"
+    "caption": "🔐 Stay updated, stay secure! How often do you update your apps? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "2",
     "title": "Use strong, unique passwords for every account.",
-    "caption": "🔑 Safety first! What’s your favorite password management tool? 👇"
+    "caption": "🔑 Safety first! What’s your favorite password management tool? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "3",
     "title": "Back up important data regularly to avoid loss.",
-    "caption": "💾 Backup saves the day! What’s your preferred backup method? 👇"
+    "caption": "💾 Backup saves the day! What’s your preferred backup method? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "4",
     "title": "Try dark mode on devices to reduce eye strain.",
-    "caption": "🌙 Dark mode, anyone? Do you use it on your devices? 👇"
+    "caption": "🌙 Dark mode, anyone? Do you use it on your devices? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "5",
     "title": "Explore open-source tools for cost-effective solutions.",
-    "caption": "🛠️ Open-source for the win! What’s your favorite open-source software? 👇"
+    "caption": "🛠️ Open-source for the win! What’s your favorite open-source software? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "6",
     "title": "Uninstall unused apps to free up storage space.",
-    "caption": "📱 Declutter your tech! How do you manage your device storage? 👇"
+    "caption": "📱 Declutter your tech! How do you manage your device storage? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "7",
     "title": "Enable two-factor authentication for extra security.",
-    "caption": "🛡️ Extra layer, extra safety! Have you set up 2FA yet? 👇"
+    "caption": "🛡️ Extra layer, extra safety! Have you set up 2FA yet? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "8",
     "title": "Learn keyboard shortcuts to improve productivity.",
-    "caption": "⌨️ Work smarter! What’s your go-to shortcut? 👇"
+    "caption": "⌨️ Work smarter! What’s your go-to shortcut? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "9",
     "title": "Optimize device settings for better battery life.",
-    "caption": "🔋 Battery saver tips! What’s your top battery-saving trick? 👇"
+    "caption": "🔋 Battery saver tips! What’s your top battery-saving trick? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "10",
     "title": "Keep learning to stay updated with the latest tech trends.",
-    "caption": "🚀 Tech evolves fast! What’s the latest trend you’ve explored? 👇"
+    "caption": "🚀 Tech evolves fast! What’s the latest trend you’ve explored? 👇",
+    "promoheading":"Pro Tip for Today"
+
   }
 ],
   "aitechnology":[
@@ -60256,52 +60624,72 @@
   {
     "id": "1",
     "title": "Keep your software updated for better security and performance.",
-    "caption": "🔐 Stay updated, stay secure! How often do you update your apps? 👇"
+    "caption": "🔐 Stay updated, stay secure! How often do you update your apps? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "2",
     "title": "Use strong, unique passwords for every account.",
-    "caption": "🔑 Safety first! What’s your favorite password management tool? 👇"
+    "caption": "🔑 Safety first! What’s your favorite password management tool? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "3",
     "title": "Back up important data regularly to avoid loss.",
-    "caption": "💾 Backup saves the day! What’s your preferred backup method? 👇"
+    "caption": "💾 Backup saves the day! What’s your preferred backup method? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "4",
     "title": "Try dark mode on devices to reduce eye strain.",
-    "caption": "🌙 Dark mode, anyone? Do you use it on your devices? 👇"
+    "caption": "🌙 Dark mode, anyone? Do you use it on your devices? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "5",
     "title": "Explore open-source tools for cost-effective solutions.",
-    "caption": "🛠️ Open-source for the win! What’s your favorite open-source software? 👇"
+    "caption": "🛠️ Open-source for the win! What’s your favorite open-source software? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "6",
     "title": "Uninstall unused apps to free up storage space.",
-    "caption": "📱 Declutter your tech! How do you manage your device storage? 👇"
+    "caption": "📱 Declutter your tech! How do you manage your device storage? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "7",
     "title": "Enable two-factor authentication for extra security.",
-    "caption": "🛡️ Extra layer, extra safety! Have you set up 2FA yet? 👇"
+    "caption": "🛡️ Extra layer, extra safety! Have you set up 2FA yet? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "8",
     "title": "Learn keyboard shortcuts to improve productivity.",
-    "caption": "⌨️ Work smarter! What’s your go-to shortcut? 👇"
+    "caption": "⌨️ Work smarter! What’s your go-to shortcut? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "9",
     "title": "Optimize device settings for better battery life.",
-    "caption": "🔋 Battery saver tips! What’s your top battery-saving trick? 👇"
+    "caption": "🔋 Battery saver tips! What’s your top battery-saving trick? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "10",
     "title": "Keep learning to stay updated with the latest tech trends.",
-    "caption": "🚀 Tech evolves fast! What’s the latest trend you’ve explored? 👇"
+    "caption": "🚀 Tech evolves fast! What’s the latest trend you’ve explored? 👇",
+    "promoheading":"Pro Tip for Today"
+
   }
 ],
 
@@ -60366,52 +60754,72 @@
   {
     "id": "1",
     "title": "Experiment with herbs to enhance flavors without adding calories.",
-    "caption": "🌿 What’s your favorite herb to cook with? Share below! 👇"
+    "caption": "🌿 What’s your favorite herb to cook with? Share below! 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "2",
     "title": "Eat seasonal fruits and vegetables for better taste and nutrition.",
-    "caption": "🍓 Seasonal eating is smart eating! What’s your go-to seasonal fruit? 👇"
+    "caption": "🍓 Seasonal eating is smart eating! What’s your go-to seasonal fruit? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "3",
     "title": "Use smaller plates to help control portion sizes easily.",
-    "caption": "🍽️ Smart portioning for healthy eating! What’s your portion control hack? 👇"
+    "caption": "🍽️ Smart portioning for healthy eating! What’s your portion control hack? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "4",
     "title": "Stay hydrated – drinking water before meals can reduce overeating.",
-    "caption": "💧 Hydration is key! How do you remind yourself to drink water daily? 👇"
+    "caption": "💧 Hydration is key! How do you remind yourself to drink water daily? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "5",
     "title": "Batch-cook meals to save time and stay on track with healthy eating.",
-    "caption": "🍲 Meal prep made easy! What’s your favorite dish to batch-cook? 👇"
+    "caption": "🍲 Meal prep made easy! What’s your favorite dish to batch-cook? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "6",
     "title": "Add a splash of lemon to your meals for a natural flavor boost.",
-    "caption": "🍋 Zesty and fresh! How do you like to use lemon in your cooking? 👇"
+    "caption": "🍋 Zesty and fresh! How do you like to use lemon in your cooking? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "7",
     "title": "Choose whole grains over refined for better fiber and energy.",
-    "caption": "🌾 Go whole grain! What’s your favorite grain-based dish? 👇"
+    "caption": "🌾 Go whole grain! What’s your favorite grain-based dish? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "8",
     "title": "Try plant-based meals a few times a week for variety and health.",
-    "caption": "🌱 Plant power! What’s your favorite vegetarian recipe? 👇"
+    "caption": "🌱 Plant power! What’s your favorite vegetarian recipe? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "9",
     "title": "Avoid shopping for groceries when hungry to prevent impulse buys.",
-    "caption": "🛒 Smart shopping saves calories! Do you have a grocery list hack? 👇"
+    "caption": "🛒 Smart shopping saves calories! Do you have a grocery list hack? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "10",
     "title": "Snack on nuts and seeds for a quick energy boost.",
-    "caption": "🥜 Energy in a handful! What’s your go-to healthy snack? 👇"
+    "caption": "🥜 Energy in a handful! What’s your go-to healthy snack? 👇",
+    "promoheading":"Pro Tip for Today"
+
   }
 ],
 
@@ -60533,57 +60941,79 @@
   {
     "id": "1",
     "title": "Pack light – essentials only, to avoid overburdening yourself.",
-    "caption": "🎒 Light is right! What’s your ultimate packing tip? 👇"
+    "caption": "🎒 Light is right! What’s your ultimate packing tip? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "2",
     "title": "Research local customs to better connect with your destination.",
-    "caption": "🌍 Travel smart! What’s the most interesting custom you’ve learned about? 👇"
+    "caption": "🌍 Travel smart! What’s the most interesting custom you’ve learned about? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "3",
     "title": "Travel off-season to enjoy fewer crowds and lower costs.",
-    "caption": "🌟 Quiet escapes are the best! Where’s your dream off-season destination? 👇"
+    "caption": "🌟 Quiet escapes are the best! Where’s your dream off-season destination? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "4",
     "title": "Use travel apps for itinerary planning and real-time updates.",
-    "caption": "📱 Travel made easy! What’s your go-to travel app? 👇"
+    "caption": "📱 Travel made easy! What’s your go-to travel app? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "5",
     "title": "Carry a reusable water bottle to stay hydrated and eco-friendly.",
-    "caption": "💧 Hydrate responsibly! What’s your top eco-travel tip? 👇"
+    "caption": "💧 Hydrate responsibly! What’s your top eco-travel tip? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "6",
     "title": "Learn a few local phrases to enhance your travel experience.",
-    "caption": "🗣️ Speak local! What’s the first phrase you learn in a new language? 👇"
+    "caption": "🗣️ Speak local! What’s the first phrase you learn in a new language? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "7",
     "title": "Book accommodations with good reviews for a hassle-free stay.",
-    "caption": "🏨 Reviews matter! What’s your favorite hotel booking tip? 👇"
+    "caption": "🏨 Reviews matter! What’s your favorite hotel booking tip? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "8",
     "title": "Try local street food for an authentic experience.",
-    "caption": "🍢 Taste the culture! What’s the best street food you’ve ever tried? 👇"
+    "caption": "🍢 Taste the culture! What’s the best street food you’ve ever tried? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "9",
     "title": "Always have a backup plan for unexpected delays.",
-    "caption": "🚀 Stay flexible! How do you handle travel hiccups? 👇"
+    "caption": "🚀 Stay flexible! How do you handle travel hiccups? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "10",
     "title": "Keep copies of important documents like passports and tickets.",
-    "caption": "📋 Stay prepared! What’s your top travel safety tip? 👇"
+    "caption": "📋 Stay prepared! What’s your top travel safety tip? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "11",
     "title": "Snack on nuts and seeds for a quick energy boost.",
-    "caption": "🥜 Energy in a handful! What’s your go-to healthy snack? 👇"
+    "caption": "🥜 Energy in a handful! What’s your go-to healthy snack? 👇",
+    "promoheading":"Pro Tip for Today"
+
   }
 ],
 
@@ -60648,52 +61078,72 @@
   {
     "id": "1",
     "title": "Customize your resume for each job application.",
-    "caption": "💼 Tailored resumes win jobs! What’s your best resume tip? 👇"
+    "caption": "💼 Tailored resumes win jobs! What’s your best resume tip? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "2",
     "title": "Network actively to uncover hidden job opportunities.",
-    "caption": "🌐 Networking opens doors! What’s your favorite way to connect? 👇"
+    "caption": "🌐 Networking opens doors! What’s your favorite way to connect? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "3",
     "title": "Practice for interviews with mock questions to boost confidence.",
-    "caption": "🎤 Preparation is key! What’s the toughest question you’ve faced? 👇"
+    "caption": "🎤 Preparation is key! What’s the toughest question you’ve faced? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "4",
     "title": "Follow up after interviews to show enthusiasm for the role.",
-    "caption": "📩 A simple follow-up can make a big impact! Do you send thank-you emails? 👇"
+    "caption": "📩 A simple follow-up can make a big impact! Do you send thank-you emails? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "5",
     "title": "Use LinkedIn to build a strong professional presence.",
-    "caption": "💻 LinkedIn leads to opportunities! What’s your profile’s standout feature? 👇"
+    "caption": "💻 LinkedIn leads to opportunities! What’s your profile’s standout feature? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "6",
     "title": "Highlight measurable achievements in your resume.",
-    "caption": "📊 Numbers make an impression! What’s your proudest career stat? 👇"
+    "caption": "📊 Numbers make an impression! What’s your proudest career stat? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "7",
     "title": "Stay positive and persistent during your job search.",
-    "caption": "💪 Keep going! How do you stay motivated during tough times? 👇"
+    "caption": "💪 Keep going! How do you stay motivated during tough times? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "8",
     "title": "Dress appropriately for the role you’re applying for.",
-    "caption": "👔 First impressions matter! What’s your go-to interview outfit? 👇"
+    "caption": "👔 First impressions matter! What’s your go-to interview outfit? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "9",
     "title": "Always research the company before applying or interviewing.",
-    "caption": "🔍 Be informed! How do you research potential employers? 👇"
+    "caption": "🔍 Be informed! How do you research potential employers? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "10",
     "title": "Keep learning to stay relevant in your industry.",
-    "caption": "📚 Growth is key! What’s the last skill you learned? 👇"
+    "caption": "📚 Growth is key! What’s the last skill you learned? 👇",
+    "promoheading":"Pro Tip for Today"
+
   }
 ],
 
@@ -60874,61 +61324,81 @@
       "id": 1,
       "title": "Create a study schedule and stick to it for consistent progress.",
       "Caption": "📚 Plan your study, ace your goals! Do you use a study planner? 👇",
-      "Hashtags": "#StudyTips #LearningJourney #EducationMatters #StudentLife #FocusAndLearn"
+      "Hashtags": "#StudyTips #LearningJourney #EducationMatters #StudentLife #FocusAndLearn",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": 2,
       "title": "Take short breaks during study sessions to stay fresh.",
       "Caption": "🌟 Breaks boost focus! How do you recharge while studying? 👇",
-      "Hashtags": "#StudyBreaks #StayProductive #FocusTime #EducationTips #LearnSmart"
+      "Hashtags": "#StudyBreaks #StayProductive #FocusTime #EducationTips #LearnSmart",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": 3,
       "title": "Review notes within 24 hours to reinforce learning.",
       "Caption": "📝 Retain more by reviewing notes! Do you revise often? 👇",
-      "Hashtags": "#NoteTaking #StudySmart #EducationGoals #KnowledgeIsPower #LearningHabits"
+      "Hashtags": "#NoteTaking #StudySmart #EducationGoals #KnowledgeIsPower #LearningHabits",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": 4,
       "title": "Join online courses to explore new subjects and skills.",
       "Caption": "🌐 Learning online, anywhere! What’s your favorite course platform? 👇",
-      "Hashtags": "#OnlineLearning #SkillUp #EducationOnline #LearningNeverStops #EdTech"
+      "Hashtags": "#OnlineLearning #SkillUp #EducationOnline #LearningNeverStops #EdTech",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": 5,
       "title": "Use flashcards for quick memorization of key concepts.",
       "Caption": "📖 Flashcard magic! What’s your hack for fast memorization? 👇",
-      "Hashtags": "#StudyHacks #MemoryBoost #LearningTools #EducationTips #StudyBetter"
+      "Hashtags": "#StudyHacks #MemoryBoost #LearningTools #EducationTips #StudyBetter",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": 6,
       "title": "Group study sessions can make learning more effective and fun.",
       "Caption": "👩‍🏫 Team up to learn! Do you enjoy group study? 👇",
-      "Hashtags": "#GroupStudy #CollaborativeLearning #EducationTips #StudyTogether #LearningGoals"
+      "Hashtags": "#GroupStudy #CollaborativeLearning #EducationTips #StudyTogether #LearningGoals",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": 7,
       "title": "Teach what you learn – it helps solidify understanding.",
       "Caption": "🗣️ Teach to learn better! Have you tried explaining concepts to others? 👇",
-      "Hashtags": "#TeachAndLearn #EducationJourney #KnowledgeSharing #StudentSuccess #StudyTips"
+      "Hashtags": "#TeachAndLearn #EducationJourney #KnowledgeSharing #StudentSuccess #StudyTips",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": 8,
       "title": "Practice past papers to prepare for exams effectively.",
       "Caption": "📑 Practice makes perfect! What’s your best exam prep tip? 👇",
-      "Hashtags": "#ExamTips #PracticeMakesPerfect #EducationMatters #StudyHard #LearningStrategy"
+      "Hashtags": "#ExamTips #PracticeMakesPerfect #EducationMatters #StudyHard #LearningStrategy",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": 9,
       "title": "Set clear learning goals to stay motivated.",
       "Caption": "🎯 Goal setting = success! What’s your current learning goal? 👇",
-      "Hashtags": "#LearningGoals #StayMotivated #EducationFocus #StudentSuccess #GoalSetting"
+      "Hashtags": "#LearningGoals #StayMotivated #EducationFocus #StudentSuccess #GoalSetting",
+      "promoheading":"Pro Tip for Today"
+
     },
     {
       "id": 10,
       "title": "Use mnemonic devices to remember complex information easily.",
       "Caption": "💡 Mnemonics for the win! What’s your favorite memory trick? 👇",
-      "Hashtags": "#MemoryHacks #StudySmart #EducationTips #LearningMadeEasy #StudentLife"
+      "Hashtags": "#MemoryHacks #StudySmart #EducationTips #LearningMadeEasy #StudentLife",
+      "promoheading":"Pro Tip for Today"
+
     }
   ],
 
@@ -60937,52 +61407,72 @@
   {
     "id": "1",
     "title": "Start your day with a 5-minute meditation to clear your mind.",
-    "Caption": "🧘‍♀️ Morning calm! Do you meditate? Share your experience! 👇"
+    "Caption": "🧘‍♀️ Morning calm! Do you meditate? Share your experience! 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "2",
     "title": "Drink at least 8 glasses of water daily to stay hydrated.",
-    "Caption": "💧 Hydration is key! What’s your favorite way to track water intake? 👇"
+    "Caption": "💧 Hydration is key! What’s your favorite way to track water intake? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "3",
     "title": "Take a 10-minute walk after meals for better digestion.",
-    "Caption": "🚶‍♂️ Walk it out! What’s your go-to activity post-meals? 👇"
+    "Caption": "🚶‍♂️ Walk it out! What’s your go-to activity post-meals? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "4",
     "title": "Include more whole foods in your diet for natural energy.",
-    "Caption": "🌱 Go natural! What’s your favorite whole food snack? 👇"
+    "Caption": "🌱 Go natural! What’s your favorite whole food snack? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "5",
     "title": "Stretch daily to improve flexibility and reduce tension.",
-    "Caption": "🤸 Stretch and relax! How often do you stretch? 👇"
+    "Caption": "🤸 Stretch and relax! How often do you stretch? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "6",
     "title": "Unplug from screens 1 hour before bed for better sleep.",
-    "Caption": "🌙 Screen-free nights! What’s your bedtime routine? 👇"
+    "Caption": "🌙 Screen-free nights! What’s your bedtime routine? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "7",
     "title": "Practice gratitude daily for a positive mindset.",
-    "Caption": "🙏 Stay grateful! What’s one thing you’re thankful for today? 👇"
+    "Caption": "🙏 Stay grateful! What’s one thing you’re thankful for today? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "8",
     "title": "Schedule regular health check-ups for peace of mind.",
-    "Caption": "🏥 Health first! When was your last health check-up? 👇"
+    "Caption": "🏥 Health first! When was your last health check-up? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "9",
     "title": "Spend 15 minutes in nature daily to recharge mentally.",
-    "Caption": "🌳 Nature therapy! What’s your favorite outdoor activity? 👇"
+    "Caption": "🌳 Nature therapy! What’s your favorite outdoor activity? 👇",
+    "promoheading":"Pro Tip for Today"
+
   },
   {
     "id": "10",
     "title": "Set realistic fitness goals to stay motivated long-term.",
-    "Caption": "💪 Goals that work! What’s your current fitness goal? 👇"
+    "Caption": "💪 Goals that work! What’s your current fitness goal? 👇",
+    "promoheading":"Pro Tip for Today"
+
   }
 ]
 
