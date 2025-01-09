@@ -942,52 +942,71 @@
     {
       "id": "2",
       "title": "The best investment on Earth is Earth.",
-      "author": "Louis Glickman"
+      "author": "Louis Glickman",
+      "promoheading":"Today's Inspiring Quote"
+
     },
     {
       "id": "3",
       "title": "Landlords grow rich in their sleep without working, risking or economizing.",
-      "author": "John Stuart Mill"
+      "author": "John Stuart Mill",
+      "promoheading":"Fuel Your Day with Wisdom"
     },
     {
       "id": "4",
       "title": "The major fortunes in America have been made in real estate.",
-      "author": "John D. Rockefeller"
+      "author": "John D. Rockefeller",
+      "promoheading":"Daily Dose of Motivation"
+
     },
     {
       "id": "5",
       "title": "Real estate is an imperishable asset, ever increasing in value.",
-      "author": "Russell Sage"
+      "author": "Russell Sage",
+      "promoheading":"Words to Live By Today"
+
     },
     {
       "id": "6",
       "title": "Don’t wait to buy real estate. Buy real estate and wait.",
-      "author": "T. Harv Eker"
+      "author": "T. Harv Eker",
+      "promoheading":"Quote for Your Journey"
+
     },
     {
       "id": "7",
       "title": "The best time to buy a home is always five years ago.",
-      "author": "Ray Brown"
+      "author": "Ray Brown",
+      "promoheading":"Powerful Words, Daily"
+
     },
     {
       "id": "8",
       "title": "A good real estate agent doesn’t just sell homes; they help people find their future",
-      "author": "Anonymous"
+      "author": "Anonymous",
+      "promoheading":"Today's Thought Nugget"
+
     },
     {
       "id": "9",
       "title": "Every person needs a home, but not everyone needs the same home.",
-      "author": "Robert Kiyosaki"
+      "author": "Robert Kiyosaki",
+      "promoheading":"One Quote, Big Impact"
+
     },
     {
       "id": "10",
       "title": "The value of a property is determined not just by its physical attributes but by the potential it offers.",
-      "author": "Michael Bloomberg"
+      "author": "Michael Bloomberg",
+      "promoheading":"Daily Quote Sparkle"
+
     },
     {
       "id": "11",
       "title": "Owning real estate is not only a safe investment but also a way to build long-term wealth",
-      "author": " Donald Trump "
+      "author": " Donald Trump ",
+      "promoheading":"Your Moment of Inspiration"
+
     }
   ],
   "ESTATETIPS": [
@@ -59931,70 +59950,82 @@
       "title": "Health is the greatest possession.",
       "category": "wellness",
       "author": "- Lao Tzu",
-      "hashtag": "#WellnessWisdom #HealthIsWealth #AncientWisdom #HolisticHealth #MindBodyBalance"
+      "hashtag": "#WellnessWisdom #HealthIsWealth #AncientWisdom #HolisticHealth #MindBodyBalance",
+      "promoheading":"Today's Inspiring Quote"
+      
     },
     {
       "id": "2",
       "title": "Take care of your body. It’s the only place you have to live.",
       "category": "wellness",
       "author": "- Jim Rohn",
-      "hashtag": "#SelfCareMatters #HealthFirst #BodyAndMind #WellnessJourney #StayHealthy"
+      "hashtag": "#SelfCareMatters #HealthFirst #BodyAndMind #WellnessJourney #StayHealthy",
+      "promoheading":"Fuel Your Day with Wisdom"
+      
     },
     {
       "id": "3",
       "title": "The greatest wealth is health.",
       "category": "wellness",
       "author": "- Virgil",
-      "hashtag": "#HealthIsWealth #WellnessGoals #HolisticLiving #MindfulLiving #HealthyChoices"
+      "hashtag": "#HealthIsWealth #WellnessGoals #HolisticLiving #MindfulLiving #HealthyChoices",
+      "promoheading":"Daily Dose of Motivation"
     },
     {
       "id": "4",
       "title": "Calm mind brings inner strength and self-confidence.",
       "category": "wellness",
       "author": "- Dalai Lama",
-      "hashtag": "#MindfulnessMatters #InnerStrength #MentalClarity #SelfCareTips #PositiveMindset"
+      "hashtag": "#MindfulnessMatters #InnerStrength #MentalClarity #SelfCareTips #PositiveMindset",
+      "promoheading":"Words to Live By Today"
     },
     {
       "id": "5",
       "title": "A healthy outside starts from the inside.",
       "category": "wellness",
       "author": "- Robert Urich",
-      "hashtag": "#InnerWellness #HealthyHabits #NourishYourBody #WellnessLifestyle #FeelYourBest"
+      "hashtag": "#InnerWellness #HealthyHabits #NourishYourBody #WellnessLifestyle #FeelYourBest",
+      "promoheading":"Quote for Your Journey"
     },
     {
       "id": "6",
       "title": "Wellness is a connection of paths: knowledge and action.",
       "category": "wellness",
       "author": "- Joshua Holtz",
-      "hashtag": "#WellnessWisdom #HealthyLiving #KnowledgeIsPower #ActOnHealth #WellnessJourney"
+      "hashtag": "#WellnessWisdom #HealthyLiving #KnowledgeIsPower #ActOnHealth #WellnessJourney",
+      "promoheading":"Powerful Words, Daily"
     },
     {
       "id": "7",
       "title": "Happiness is the highest form of health.",
       "category": "wellness",
       "author": "- Napoleon Hill",
-      "hashtag": "#MindOverMatter #WellnessMindset #PositiveEnergy #HealthAndFitness #StayMotivated"
+      "hashtag": "#MindOverMatter #WellnessMindset #PositiveEnergy #HealthAndFitness #StayMotivated",
+      "promoheading":"Today's Thought Nugget"
     },
     {
       "id": "8",
       "title": "Health is a state of body. Wellness is a state of being.",
       "category": "wellness",
       "author": "- J. Stanford",
-      "hashtag": "#HolisticWellness #StateOfBeing #HealthJourney #MindBodySpirit #WellnessMatters"
+      "hashtag": "#HolisticWellness #StateOfBeing #HealthJourney #MindBodySpirit #WellnessMatters",
+      "promoheading":"One Quote, Big Impact"
     },
     {
       "id": "9",
       "title": "Your health is an investment, not an expense.",
       "category": "wellness",
       "author": "- Andrew",
-      "hashtag": "#WellnessJourney #OwnYourPath #HealthyHabits #SelfCareMatters #StayInspired"
+      "hashtag": "#WellnessJourney #OwnYourPath #HealthyHabits #SelfCareMatters #StayInspired",
+      "promoheading":"Daily Quote Sparkle"
     },
     {
       "id": "10",
       "title": "A healthy outside starts from the inside.",
       "category": "wellness",
       "author": "- Andrew",
-      "hashtag": "#InnerHealth #WellnessLifestyle #HealthyChoices #FeelYourBest #GlowFromWithin"
+      "hashtag": "#InnerHealth #WellnessLifestyle #HealthyChoices #FeelYourBest #GlowFromWithin",
+      "promoheading":"Your Moment of Inspiration"
     }
   ],
   "YOUMATTER": [
@@ -60277,57 +60308,68 @@
     {
       "id": "1",
       "title": "Find Your Dream Home, Where Memories Are Made",
-      "caption": "🏡 Your perfect home is just a step away! \nWhether you're searching for luxury, comfort, or the ideal location, we've got you covered. \n✨ Discover properties designed to match your lifestyle and dreams. \nWhat does your dream home look like? Let us know below! 👇"
+      "caption": "🏡 Your perfect home is just a step away! \nWhether you're searching for luxury, comfort, or the ideal location, we've got you covered. \n✨ Discover properties designed to match your lifestyle and dreams. \nWhat does your dream home look like? Let us know below! 👇",
+      "promoheading":"Your Brand, Your Story"
   },
   {
       "id": "2",
       "title": "Your Dream Home is Just a Step Away",
-      "caption": "🏡 Whether it’s your first home or a luxury retreat, we’ll help you find it. What’s your dream location to live? 🏙️👇"
+      "caption": "🏡 Whether it’s your first home or a luxury retreat, we’ll help you find it. What’s your dream location to live? 🏙️👇",
+      "promoheading":"Inspire. Connect. Thrive."
   },
   {
       "id": "3",
       "title": "Find a Place to Call Home",
-      "caption": "🏠 A space that reflects your lifestyle. What’s the one feature your dream home must have? 🌟👇"
+      "caption": "🏠 A space that reflects your lifestyle. What’s the one feature your dream home must have? 🌟👇",
+      "promoheading":"Excellence Every Day"
   },
   {
       "id": "4",
       "title": "Explore Properties That Match Your Vision",
-      "caption": "🔑 From cozy apartments to sprawling estates, we’ve got it all. Where would you love to settle down? 🌍👇"
+      "caption": "🔑 From cozy apartments to sprawling estates, we’ve got it all. Where would you love to settle down? 🌍👇",
+      "promoheading":"Driven by Innovation"
   },
   {
       "id": "5",
       "title": "Invest in a Home That Inspires You",
-      "caption": "📈 Make a smart move with properties designed for value and comfort. What’s your top priority when buying a home? 👇"
+      "caption": "📈 Make a smart move with properties designed for value and comfort. What’s your top priority when buying a home? 👇",
+      "promoheading":"Your Vision, Our Mission"
   },
   {
       "id": "6",
       "title": "Your Guide to Perfect Real Estate Deals",
-      "caption": "📋 Let us simplify your property journey. What’s your dream feature – a garden, pool, or smart tech? 🌳👇"
+      "caption": "📋 Let us simplify your property journey. What’s your dream feature – a garden, pool, or smart tech? 🌳👇",
+      "promoheading":"Passion Meets Purpose"
   },
   {
       "id": "7",
       "title": "Create Memories in Your Dream Space",
-      "caption": "🏘️ Start your journey toward a brighter future. What’s your favorite home design style – modern or classic? 🖼️👇"
+      "caption": "🏘️ Start your journey toward a brighter future. What’s your favorite home design style – modern or classic? 🖼️👇",
+      "promoheading":"Creating Timeless Value"
   },
   {
       "id": "8",
       "title": "Discover Properties That Fit Your Needs",
-      "caption": "🛋️ From family-friendly homes to high-rise condos, there’s something for everyone. What’s your ideal home size? 👇"
+      "caption": "🛋️ From family-friendly homes to high-rise condos, there’s something for everyone. What’s your ideal home size? 👇",
+      "promoheading":"Built for Your Journey"
   },
   {
       "id": "9",
       "title": "Helping You Find the Perfect Property",
-      "caption": "🌟 It’s more than a house; it’s your future. What’s one thing you’d never compromise on in a home? 🏡👇"
+      "caption": "🌟 It’s more than a house; it’s your future. What’s one thing you’d never compromise on in a home? 🏡👇",
+      "promoHeading":"Empowering Your World"
   },
   {
       "id": "10",
       "title": "Building Dreams, One Home at a Time",
-      "caption": "✨ Find a place where memories are made. What’s your favorite room in a house – kitchen, living room, or balcony? 👇"
+      "caption": "✨ Find a place where memories are made. What’s your favorite room in a house – kitchen, living room, or balcony? 👇",
+      "promoHeading":"Where Ideas Come Alive"
   },
   {
       "id": "11",
       "title": "Turning Your Real Estate Dreams Into Reality",
-      "caption": "🏠 From renting to owning, we’ll guide you every step of the way. What’s your vision for your perfect home? 🌟👇"
+      "caption": "🏠 From renting to owning, we’ll guide you every step of the way. What’s your vision for your perfect home? 🌟👇",
+      "promoHeading":"our Vision, Our Mission"
   }
   ],
   "aifinance":[
