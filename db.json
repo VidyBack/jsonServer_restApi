@@ -60377,12 +60377,14 @@
       "id": "1",
       "title": "Secure Your Future with Smart Financial Solutions",
       "caption": "💰 Take charge of your financial goals today! \nFrom building wealth to planning for retirement, we’re here to guide you every step of the way. \n📈 Let’s create a future full of security and success together. \nWhat’s your top financial goal for this year? Share your thoughts below! 👇",
-      "promoheading":"Your Brand, Your Story"
+      "promoheading":"Your Brand, Your Story",
+      "images": []
     },
     {
       "id": "2",
       "title": "Achieve Financial Freedom with Us",
       "caption": "💵 Manage, save, and grow your wealth. What’s your number one financial goal for this year? 📈👇",
+      "images": [],
       
       "promoheading":"Your Brand, Your Story"
     },
@@ -60390,6 +60392,7 @@
       "id": "3",
       "title": "Smart Investments, Better Future",
       "caption": "📊 Explore options that secure your tomorrow. What’s your preferred way to invest – stocks, real estate, or mutual funds? 💰👇",
+      "images": [],
       
       "promoheading":"Your Brand, Your Story"
     },
@@ -60397,6 +60400,7 @@
       "id": "4",
       "title": "Your Path to Financial Success Starts Here",
       "caption": "🌟 Let’s simplify money matters for you. What’s one habit that helps you save effectively? 🏦👇",
+      "images": [],
       
       "promoheading":"Your Brand, Your Story"
     },
@@ -60404,6 +60408,7 @@
       "id": "5",
       "title": "Plan Today, Prosper Tomorrow",
       "caption": "📋 From budgeting to investing, we’ve got you covered. What’s the most valuable financial advice you’ve ever received? 💡👇",
+      "images": [],
      
       "promoheading":"Your Brand, Your Story"
     },
@@ -60411,6 +60416,7 @@
       "id": "6",
       "title": "Grow Your Wealth with Confidence",
       "caption": "📈 Unlock the potential of smart financial planning. What’s your ultimate dream purchase? 🏠✈️👇",
+      "images": [],
       
       "promoheading":"Your Brand, Your Story"
     },
@@ -60418,6 +60424,7 @@
       "id": "7",
       "title": "Your Trusted Partner in Financial Growth",
       "caption": "💼 Let us help you make informed decisions. What’s your go-to strategy for managing expenses? Share below! 👇",
+      "images": [],
       
       "promoheading":"Your Brand, Your Story"
     },
@@ -60433,6 +60440,7 @@
       "id": "9",
       "title": "Secure Your Future with Smart Choices",
       "caption": "🔐 Your goals are within reach. What’s your approach to planning for retirement? 🌅👇",
+      "images": [],
       
       "promoheading":"Your Brand, Your Story"
     },
@@ -60440,6 +60448,7 @@
       "id": "10",
       "title": "Innovative Solutions for Your Financial Needs",
       "caption": "🌟 From banking to investments, we’ve got it all. What’s one thing you’d like to learn about personal finance? 👩‍💻👇",
+      "images": [],
       
       "promoheading":"Your Brand, Your Story"
     },
@@ -60447,6 +60456,7 @@
       "id": "11",
       "title": "Building Financial Stability for You",
       "caption": "💰 Every small step counts. What’s your proudest financial achievement? Share below! 🌟👇",
+      "images": [],
       
       "promoheading":"Your Brand, Your Story"
     }
@@ -61746,7 +61756,7 @@
       "squareft": "1100 sq.ft.",
       "propertyAge": "2",
       "storeName": "https://www.yoursite.com",
-      "promoheading":"Your Brand, Your Story"
+      "promoheading":"Inspire. Connect. Thrive." 
     },
     {
       "id": "3",
@@ -61769,7 +61779,8 @@
       "squareft": "1100 sq.ft.",
       "propertyAge": "2",
       "storeName": "https://www.yoursite.com",
-      "promoheading":"Your Brand, Your Story"
+      "promoheading":"Excellence Every Day"  
+
     },
     {
       "id": "4",
@@ -61792,7 +61803,8 @@
       "squareft": "1100 sq.ft.",
       "propertyAge": "2",
       "storeName": "https://www.yoursite.com",
-      "promoheading":"Your Brand, Your Story"
+      "promoheading":"Driven by Innovation"  
+
     },
     {
       "id": "5",
@@ -61815,7 +61827,8 @@
       "squareft": "1100 sq.ft.",
       "propertyAge": "2",
       "storeName": "https://www.yoursite.com",
-      "promoheading":"Your Brand, Your Story"
+      "promoheading": "Your Vision, Our Mission"  
+
     },
     {
       "id": "6",
@@ -61838,7 +61851,8 @@
       "squareft": "1100 sq.ft.",
       "propertyAge": "2",
       "storeName": "https://www.yoursite.com",
-      "promoheading":"Your Brand, Your Story"
+      "promoheading":"Passion Meets Purpose"  
+
     },
     {
       "id": "7",
@@ -61861,7 +61875,8 @@
       "squareft": "1100 sq.ft.",
       "propertyAge": "2",
       "storeName": "https://www.yoursite.com",
-      "promoheading":"Your Brand, Your Story"
+      "promoheading":"Creating Timeless Value"  
+
     },
     {
       "id": "8",
@@ -61884,7 +61899,8 @@
       "squareft": "1100 sq.ft.",
       "propertyAge": "2",
       "storeName": "https://www.yoursite.com",
-      "promoheading":"Your Brand, Your Story"
+      "promoheading":"Built for Your Journey"  
+
     },
     {
       "id": "9",
@@ -61907,7 +61923,8 @@
       "squareft": "1100 sq.ft.",
       "propertyAge": "2",
       "storeName": "https://www.yoursite.com",
-      "promoheading":"Your Brand, Your Story"
+      "promoheading":"Empowering Your World"  
+
     },
     {
       "id": "10",
@@ -61930,7 +61947,8 @@
       "squareft": "1100 sq.ft.",
       "propertyAge": "2",
       "storeName": "https://www.yoursite.com",
-      "promoheading":"Your Brand, Your Story"
+      "promoheading":"Where Ideas Come Alive"  
+
     },
     {
       "id": "11",
