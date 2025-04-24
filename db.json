@@ -57567,10 +57567,8 @@
       "originalPrice": "$650",
       "discountedPrice": "$520",
       "discountPercentage": "1% OFF",
-      "storeName": "Dummy Store",
-      "feature1": "Product Feature 1",
-      "feature2": "Product Feature 2",
-      "feature3": "Product Feature 3"
+      "storeName": "Dummy Store"
+     
     },
     {
       "id": "2",
@@ -57587,10 +57585,8 @@
       "originalPrice": "$50",
       "discountedPrice": "$40",
       "discountPercentage": "88.88% OFF",
-      "storeName": "Dummy Store",
-      "feature1": "Product Feature 1",
-      "feature2": "Product Feature 2",
-      "feature3": "Product Feature 3"
+      "storeName": "Dummy Store"
+     
     },
     {
       "id": "3",
@@ -57606,10 +57602,8 @@
       "originalPrice": "$500",
       "discountedPrice": "$450",
       "discountPercentage": "77.77%OFF",
-      "storeName": "Dummy Store",
-      "feature1": "Product Feature 1",
-      "feature2": "Product Feature 2",
-      "feature3": "Product Feature 3"
+      "storeName": "Dummy Store"
+      
     },
     {
       "id": "4",
@@ -57625,10 +57619,8 @@
       "originalPrice": "$256",
       "discountedPrice": "$180",
       "discountPercentage": "66.66%OFF",
-      "storeName": "Dummy Store",
-      "feature1": "Product Feature 1",
-      "feature2": "Product Feature 2",
-      "feature3": "Product Feature 3"
+      "storeName": "Dummy Store"
+      
     },
     {
       "id": "5",
