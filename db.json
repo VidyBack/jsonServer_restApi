@@ -57588,7 +57588,7 @@
     },
     {
       "id": "3",
-      "title": " Watch",
+      "title": "Watch",
       "images": [
         "https://cdn.hootout.com/VidyBack-videos/watchh1.jpg",
         "https://cdn.hootout.com/VidyBack-videos/watchh2.jpg",
@@ -57618,21 +57618,7 @@
       "storeName": "Dummy Store"
       
     },
-    {
-      "id": "5",
-      "title": "Red Shoes",
-      "images": [
-        "https://cdn.hootout.com/VidyBack-videos/heelss1.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/heelss2.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/heelss3.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/heelss4.jpg",
-        "https://cdn.hootout.com/VidyBack-videos/heelss5.jpg"
-      ],
-      "originalPrice": "$700",
-      "discountedPrice": "$450",
-      "discountPercentage": "34.43%OFF",
-      "storeName": "Dummy Store"
-    },
+    
     {
       "id": "6",
       "title": "Black and White Long-sleeved Dress",
@@ -57668,86 +57654,6 @@
       "originalPrice": "$100",
       "discountedPrice": "$80",
       "discountPercentage": "89.78% OFF",
-      "storeName": "Dummy Store"
-    },
-    {
-      "id": "9",
-      "title": "Woman Hand Holding Bags",
-      "images": [
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/whiteBag.jpg"
-      ],
-      "originalPrice": "$100",
-      "discountedPrice": "$80",
-      "discountPercentage": "20% OFF",
-      "storeName": "Dummy Store"
-    },
-    {
-      "id": "10",
-      "title": " Men's Watch",
-      "images": [
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/watch1.jpg",
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/watch2.jpg",
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/watch3.jpg"
-      ],
-      "originalPrice": "$400",
-      "discountedPrice": "$350",
-      "discountPercentage": "10%OFF",
-      "storeName": "Dummy Store"
-    },
-    {
-      "id": "11",
-      "title": "Assorted Dolce & Gabbana Fragrance",
-      "images": [
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per6.jpg",
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per5.jpg",
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per4.jpg"
-      ],
-      "originalPrice": "$400",
-      "discountedPrice": "$350",
-      "discountPercentage": "00.10%OFF",
-      "storeName": "Dummy Store"
-    },
-    {
-      "id": "12",
-      "title": "Dolce and Gabbana Perfume",
-      "images": [
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per3.jpg",
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per2.jpg",
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/per1.jpg"
-      ],
-      "originalPrice": "$400",
-      "discountedPrice": "$350",
-      "discountPercentage": " ",
-      "storeName": "Dummy Store"
-    },
-    {
-      "id": "13",
-      "title": "Pink Flowers in Glass Vase",
-      "images": [
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/flo6.jpg",
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/flo5.jpg",
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/flo4.jpg",
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/flo3.jpg",
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/flo2.jpg"
-      ],
-      "originalPrice": "$200",
-      "discountedPrice": "$100",
-      "discountPercentage": " 0%OFF",
-      "storeName": "Dummy Store"
-    },
-    {
-      "id": "14",
-      "title": " Brown Wooden Table and Chair",
-      "images": [
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/flo1.jpg",
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/tc4.jpg",
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/tc3.jpg",
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/tc2.jpg",
-        "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/tc1.jpg"
-      ],
-      "originalPrice": "$200",
-      "discountedPrice": "$100",
-      "discountPercentage": "0.0%OFF",
       "storeName": "Dummy Store"
     }
   ],
